@@ -1,0 +1,1824 @@
+
+<> SEED = 874683635
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 72
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 2
+attack = 1018
+defense = 184
+hp = 23391/23391
+speed = 40
+critRate = 0.1
+critDamage = 1.5
+accuracy = 701
+dodge = 660
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 43c7d3b9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 419fff31, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 7a3b92e9, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 79cdc0c, type = 403, initiator = [Golr 20019 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: fef4e6b, type = 403, initiator = [Golr 20019 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 2
+attack = 1018
+defense = 184
+hp = 23391/23391
+speed = 40
+critRate = 0.1
+critDamage = 1.5
+accuracy = 701
+dodge = 660
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 4cad498a, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6aa7362c, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: bbaebc8, type = 403, initiator = [Golr 20019 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 72754682, type = 403, initiator = [Golr 20019 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 2
+attack = 1018
+defense = 184
+hp = 23391/23391
+speed = 40
+critRate = 0.1
+critDamage = 1.5
+accuracy = 701
+dodge = 660
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 75640f8c, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 26a1515a, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 7a191aed, type = 403, initiator = [Golr 20019 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 53a3ed6b, type = 403, initiator = [Golr 20019 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [Golr 20019 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [Golr 20019 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Golr 20019 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Golr 20019 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Golr 20019 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Golr 20019 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [Golr 20019 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [Golr 20019 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [Golr 20019 (TEAM 2, FRONT, POS 1)] (hp = 0.938), TAKE 1439 damage, initiatorPower = 1, targetPower = 0.6 (CRIT)
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 43c7d3b9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 43c7d3b9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.938, power = 0.6
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.959), TAKE 959 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 43c7d3b9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.938, power = 0.6
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.959, power = 1
+- EFFECTS:
+id = table: 43c7d3b9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.938, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.897), TAKE 1439 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.959, power = 1
+- EFFECTS:
+id = table: 43c7d3b9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.938, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.897, power = 1
+- EFFECTS:
+id = table: 43c7d3b9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.938, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [Golr 20019 (TEAM 2, FRONT, POS 1)] (hp = 0.903), TAKE 820 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[>>> ACTIVE_SKILL <<<] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [Golr 20019 (TEAM 2, FRONT, POS 2)] (hp = 0.965), TAKE 820 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.897, power = 1
+- EFFECTS:
+id = table: 43c7d3b9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.938, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.897, power = 0
+- EFFECTS:
+id = table: 43c7d3b9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.903, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.965, power = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.862), TAKE 820 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.897, power = 0
+- EFFECTS:
+id = table: 43c7d3b9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.903, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.965, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.862, power = 0.1
+- EFFECTS:
+id = table: 43c7d3b9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.903, power = 0
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.965, power = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.81), TAKE 1231 damage, initiatorPower = 0, targetPower = 0.2 (CRIT)
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.18
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.862, power = 0.1
+- EFFECTS:
+id = table: 43c7d3b9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.903, power = 0
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.965, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.81, power = 0.2
+- EFFECTS:
+id = table: 43c7d3b9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.903, power = 0
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.965, power = 0
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.81), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [Golr 20019 (TEAM 2, FRONT, POS 1)] (hp = 0.862), TAKE 959 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.81, power = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.903, power = 0
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.965, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.81, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.862, power = 0.1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.965, power = 0
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.748), TAKE 1439 damage, initiatorPower = 0.6, targetPower = 0.8 (CRIT)
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.81, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.862, power = 0.1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.965, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.748, power = 0.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.862, power = 0.6
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.965, power = 0
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.687), TAKE 1439 damage, initiatorPower = 0.5, targetPower = 0.9 (CRIT)
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.748, power = 0.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.862, power = 0.6
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.965, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.687, power = 0.9
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.862, power = 0.6
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.965, power = 0.5
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [Golr 20019 (TEAM 2, FRONT, POS 1)] (hp = 0.821), TAKE 959 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.5
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.687, power = 0.9
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.862, power = 0.6
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.965, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.687, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.821, power = 0.7
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.965, power = 0.5
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.646), TAKE 959 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.6
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.687, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.821, power = 0.7
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.965, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.646, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.821, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.965, power = 0.5
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.605), TAKE 959 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.646, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.821, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.965, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.605, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.821, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.965, power = 1
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [Golr 20019 (TEAM 2, FRONT, POS 1)] (hp = 0.786), TAKE 820 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+[>>> ACTIVE_SKILL <<<] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [Golr 20019 (TEAM 2, FRONT, POS 2)] (hp = 0.93), TAKE 820 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.74
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.605, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.821, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.965, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.605, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.786, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.552), TAKE 1231 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.605, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.786, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.552, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.786, power = 0
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.517), TAKE 820 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.552, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.786, power = 0
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.517, power = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.786, power = 0
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 0
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [Golr 20019 (TEAM 2, FRONT, POS 1)] (hp = 0.745), TAKE 959 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.6
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.76
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.517, power = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.786, power = 0
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.517, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.745, power = 0.1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 0
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.476), TAKE 959 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.62
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.517, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.745, power = 0.1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.476, power = 0.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.745, power = 0.6
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 0
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.435), TAKE 959 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.96
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.64
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.476, power = 0.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.745, power = 0.6
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.435, power = 0.9
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.745, power = 0.6
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 0.5
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [Golr 20019 (TEAM 2, FRONT, POS 1)] (hp = 0.704), TAKE 959 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.74
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.435, power = 0.9
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.745, power = 0.6
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.435, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.704, power = 0.7
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 0.5
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.394), TAKE 959 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.76
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.435, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.704, power = 0.7
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.394, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.704, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 0.5
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.295), TAKE 2315 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.295), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.394, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.704, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.295, power = 1
+- EFFECTS:
+id = table: 361d6870, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.704, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 0.5
+
+
+TURN 4 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.254), TAKE 959 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.295, power = 1
+- EFFECTS:
+id = table: 361d6870, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.704, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.254, power = 1
+- EFFECTS:
+id = table: 361d6870, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.704, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 1
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.219), TAKE 820 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.254, power = 1
+- EFFECTS:
+id = table: 361d6870, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.704, power = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.219, power = 1
+- EFFECTS:
+id = table: 361d6870, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.704, power = 0
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 1
+
+
+TURN 2 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.184), TAKE 820 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.84
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.219, power = 1
+- EFFECTS:
+id = table: 361d6870, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.704, power = 0
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.184, power = 1
+- EFFECTS:
+id = table: 361d6870, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.704, power = 0
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 0
+
+
+TURN 3 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [Golr 20019 (TEAM 2, FRONT, POS 1)] (hp = 0.669), TAKE 820 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[>>> ACTIVE_SKILL <<<] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [Golr 20019 (TEAM 2, FRONT, POS 2)] (hp = 0.895), TAKE 820 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.184, power = 1
+- EFFECTS:
+id = table: 361d6870, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.704, power = 0
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.93, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.184, power = 0
+- EFFECTS:
+id = table: 361d6870, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.669, power = 0.1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.895, power = 0.1
+
+
+ROUND 9
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.143), TAKE 959 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.86
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.184, power = 0
+- EFFECTS:
+id = table: 361d6870, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.669, power = 0.1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.895, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.143, power = 0.1
+- EFFECTS:
+id = table: 361d6870, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.669, power = 0.6
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.895, power = 0.1
+
+
+TURN 2 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.081), TAKE 1439 damage, initiatorPower = 0.6, targetPower = 0.2 (CRIT)
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.88
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.143, power = 0.1
+- EFFECTS:
+id = table: 361d6870, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.669, power = 0.6
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.895, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.081, power = 0.2
+- EFFECTS:
+id = table: 361d6870, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.669, power = 0.6
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.895, power = 0.6
+
+
+TURN 3 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [Golr 20019 (TEAM 2, FRONT, POS 1)] (hp = 0.628), TAKE 959 damage, initiatorPower = 0.7, targetPower = 0.7
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.98
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.081, power = 0.2
+- EFFECTS:
+id = table: 361d6870, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.669, power = 0.6
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.895, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.081, power = 0.7
+- EFFECTS:
+id = table: 361d6870, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.628, power = 0.7
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.895, power = 0.6
+
+
+---------- AFTER ROUND 9 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.081), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 10
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [Golr 20019 (TEAM 2, FRONT, POS 1)] (hp = 0.587), TAKE 959 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.081, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.628, power = 0.7
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.895, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.081, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.587, power = 0.8
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.895, power = 0.6
+
+
+TURN 2 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Golr 20019 (TEAM 2, FRONT, POS 1)] (hp = 0.488), TAKE 2315 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.4
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Golr 20019 (TEAM 2, FRONT, POS 2)] (hp = 0.796), TAKE 2315 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Golr 20019 (TEAM 2, FRONT, POS 1)] (hp = 0.488), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Golr 20019 (TEAM 2, FRONT, POS 2)] (hp = 0.796), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.081, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.587, power = 0.8
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.895, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.081, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.488, power = 0.9
+- EFFECTS:
+id = table: 63d00950, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.796, power = 0.7
+- EFFECTS:
+id = table: 4fd7aff1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0.04), TAKE 959 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.52
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.081, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.488, power = 0.9
+- EFFECTS:
+id = table: 63d00950, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.796, power = 0.7
+- EFFECTS:
+id = table: 4fd7aff1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.04, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.488, power = 1
+- EFFECTS:
+id = table: 63d00950, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.796, power = 0.7
+- EFFECTS:
+id = table: 4fd7aff1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Golr 20019 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 1439 damage, initiatorPower = 1, targetPower = 0 (CRIT)
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.62
+
+
+[CHANGE_POWER] [Golr 20019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.04
+
+
+[DEAD_FOR_DISPLAY] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Golr 20019 (TEAM 2, FRONT, POS 2)] => [Golr 20019 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0.04, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.488, power = 1
+- EFFECTS:
+id = table: 63d00950, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.796, power = 0.7
+- EFFECTS:
+id = table: 4fd7aff1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.04
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.62
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.488, power = 1
+- EFFECTS:
+id = table: 63d00950, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.796, power = 1
+- EFFECTS:
+id = table: 4fd7aff1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.04
+
+> [Golr 20019 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.62
+
+> [Golr 20019 (TEAM 2, FRONT, POS 1)] hp = 0.488, power = 1
+- EFFECTS:
+id = table: 63d00950, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Golr 20019 (TEAM 2, FRONT, POS 2)] hp = 0.796, power = 1
+- EFFECTS:
+id = table: 4fd7aff1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+<> STATISTICS:
+[SummonerMage (TEAM 2)] DamageDeal = 2315, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 7dab1a94, count = 1
+	[2 (number)] = 2315 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 20a8b3b9, count = 1
+	[7003 (number)] = 2315 (number)
+
+	Stat changer debuff created history: Dictionary = table: 43d1b475, count = 1
+	[4 (number)] = 60 (number)
+
+[Golr 20019 (TEAM 2, FRONT, POS 2)] DamageDeal = 11504, DamageTaken = 5071.224, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 318b33d9, count = 2
+	[1 (number)] = 8633 (number)
+	[2 (number)] = 2871 (number)
+
+	Damage taken by sources: Dictionary = table: 1451e0c6, count = 1
+	[2 (number)] = 5071.224 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 7181ac8e, count = 10
+	[9002 (number)] = 1439 (number)
+	[6003 (number)] = 959 (number)
+	[3003 (number)] = 1439 (number)
+	[8002 (number)] = 820 (number)
+	[5003 (number)] = 820 (number)
+	[2003 (number)] = 1231 (number)
+	[4003 (number)] = 959 (number)
+	[1003 (number)] = 1439 (number)
+	[7004 (number)] = 959 (number)
+	[10004 (number)] = 1439 (number)
+
+	Damage taken history: Dictionary = table: 3f3ddcd7, count = 4
+	[5001 (number)] = 871.408 (number)
+	[2001 (number)] = 871.408 (number)
+	[10002 (number)] = 2457 (number)
+	[8003 (number)] = 871.408 (number)
+
+[Golr 20019 (TEAM 2, FRONT, POS 1)] DamageDeal = 10064, DamageTaken = 12706.224, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 57c03512, count = 2
+	[1 (number)] = 7193 (number)
+	[2 (number)] = 2871 (number)
+
+	Damage taken by sources: Dictionary = table: 4c0ca8fc, count = 2
+	[1 (number)] = 7635 (number)
+	[2 (number)] = 5071.224 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 3015982f, count = 10
+	[9001 (number)] = 959 (number)
+	[3002 (number)] = 1439 (number)
+	[6002 (number)] = 959 (number)
+	[8001 (number)] = 820 (number)
+	[5002 (number)] = 1231 (number)
+	[2002 (number)] = 820 (number)
+	[4002 (number)] = 959 (number)
+	[7002 (number)] = 959 (number)
+	[1002 (number)] = 959 (number)
+	[10003 (number)] = 959 (number)
+
+	Damage taken history: Dictionary = table: 611f319e, count = 11
+	[3001 (number)] = 1018 (number)
+	[6001 (number)] = 1018 (number)
+	[9003 (number)] = 1018 (number)
+	[2001 (number)] = 871.408 (number)
+	[5001 (number)] = 871.408 (number)
+	[8003 (number)] = 871.408 (number)
+	[4001 (number)] = 1018 (number)
+	[7001 (number)] = 1018 (number)
+	[1001 (number)] = 1527 (number)
+	[10001 (number)] = 1018 (number)
+	[10002 (number)] = 2457 (number)
+
+[Golr 20019 (TEAM 1, FRONT, POS 1)] DamageDeal = 12113, DamageTaken = 25353.855, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 37a1f00a, count = 2
+	[1 (number)] = 7193 (number)
+	[2 (number)] = 4920 (number)
+
+	Damage taken by sources: Dictionary = table: 1ec3e54a, count = 2
+	[1 (number)] = 16797 (number)
+	[2 (number)] = 8556.856 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 20bc25d, count = 10
+	[3001 (number)] = 959 (number)
+	[6001 (number)] = 959 (number)
+	[9003 (number)] = 959 (number)
+	[2001 (number)] = 1640 (number)
+	[5001 (number)] = 1640 (number)
+	[8003 (number)] = 1640 (number)
+	[4001 (number)] = 959 (number)
+	[7001 (number)] = 959 (number)
+	[1001 (number)] = 1439 (number)
+	[10001 (number)] = 959 (number)
+
+	Damage taken history: Dictionary = table: 1a008043, count = 21
+	[4002 (number)] = 1018 (number)
+	[8001 (number)] = 871.408 (number)
+	[4003 (number)] = 1018 (number)
+	[8002 (number)] = 871.408 (number)
+	[1002 (number)] = 1018 (number)
+	[1003 (number)] = 1527 (number)
+	[5002 (number)] = 1307.112 (number)
+	[9001 (number)] = 1018 (number)
+	[5003 (number)] = 871.408 (number)
+	[9002 (number)] = 1527 (number)
+	[2002 (number)] = 871.408 (number)
+	[2003 (number)] = 1307.112 (number)
+	[6002 (number)] = 1018 (number)
+	[6003 (number)] = 1018 (number)
+	[10003 (number)] = 1018 (number)
+	[10004 (number)] = 1527 (number)
+	[3002 (number)] = 1527 (number)
+	[7002 (number)] = 1018 (number)
+	[3003 (number)] = 1527 (number)
+	[7003 (number)] = 2457 (number)
+	[7004 (number)] = 1018 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 4630, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 229902a9, count = 1
+	[2 (number)] = 4630 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 23f14a05, count = 1
+	[10002 (number)] = 4630 (number)
+
+	Effect created history: Dictionary = table: 7f347d0c, count = 1
+	[501 (number)] = 2 (number)
+
+	Stat changer debuff created history: Dictionary = table: 6128f831, count = 1
+	[4 (number)] = 120 (number)
+
+
+<> WINNER: 2

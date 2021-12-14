@@ -1,0 +1,2026 @@
+
+<> SEED = 299334997
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 85
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)]
+star = 2
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 454
+defense = 41
+hp = 6298/6298
+speed = 47
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1072
+dodge = 1072
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0.2
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 5b0140c9, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 2df0a761, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 53db2db4, type = 403, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 1225
+defense = 89
+hp = 9657/9657
+speed = 78
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1462
+dodge = 2046.8
+pureDamage = 0.2
+skillDamage = 0.07
+armorBreak = 0.2
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 18096558, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 49df6998, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 61bc146d, type = 401, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 59d03809, type = 421, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: aa0b5ce, type = 430, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 12354c27, type = 403, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 1531
+defense = 89
+hp = 7726/7726
+speed = 78
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1462
+dodge = 2046.8
+pureDamage = 0.2
+skillDamage = 0.07
+armorBreak = 0.2
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 61579df0, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6e565ad1, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 5a16f566, type = 401, initiator = [Carnifex 60005 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1c9a0ea4, type = 421, initiator = [Carnifex 60005 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: 41ffa8da, type = 430, initiator = [Carnifex 60005 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 399feaba, type = 401, initiator = [Carnifex 60005 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)]
+star = 1
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 312
+defense = 29
+hp = 5458/5458
+speed = 39
+critRate = 0.1
+critDamage = 1.5
+accuracy = 974
+dodge = 974
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0.2
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 70f399f1, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 3cd04665, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 1da3e2e6, type = 403, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 1225
+defense = 89
+hp = 9657/9657
+speed = 78
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1462
+dodge = 2046.8
+pureDamage = 0.2
+skillDamage = 0.07
+armorBreak = 0.2
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 6eb3cbdf, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 50ee4b02, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 7c156e2a, type = 401, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 61d84f35, type = 421, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: 11c59de2, type = 430, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2e3e663, type = 403, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 1225
+defense = 89
+hp = 9657/9657
+speed = 78
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1462
+dodge = 2046.8
+pureDamage = 0.2
+skillDamage = 0.07
+armorBreak = 0.2
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 476064b3, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 7af7cb30, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 428a6b97, type = 401, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 37eaa07d, type = 421, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: 73eb0fcf, type = 430, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 64623eed, type = 403, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 1, FRONT, POS 1)] => [Carnifex 60005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [Carnifex 60005 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [Carnifex 60005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 1)] => [Carnifex 60005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 3)] => [Carnifex 60005 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Carnifex 60005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Carnifex 60005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Carnifex 60005 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Carnifex 60005 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Carnifex 60005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Carnifex 60005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Carnifex 60005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [Carnifex 60005 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [Carnifex 60005 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [Carnifex 60005 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [Carnifex 60005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [Carnifex 60005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [Carnifex 60005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 3)] => [Carnifex 60005 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 3)] => [Carnifex 60005 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 3)] => [Carnifex 60005 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 1)] (hp = 0.74), TAKE 1418 damage, initiatorPower = 0.5, targetPower = 0.5
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 1)] (hp = 0.74), type = 402, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.74, power = 0.6
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [Carnifex 60005 (TEAM 2, FRONT, POS 2)] (hp = 0.817), TAKE 1765 damage, initiatorPower = 0.5, targetPower = 0.5
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[RESIST_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 2)] => [Carnifex 60005 (TEAM 1, BACK, POS 1)] (hp = 1), effectType = 20
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.74, power = 0.6
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.74, power = 0.6
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.817, power = 0.6
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Carnifex 60005 (TEAM 2, FRONT, POS 2)] => [Carnifex 60005 (TEAM 1, FRONT, POS 1)] (hp = 0.682), TAKE 2002 damage, initiatorPower = 0.6, targetPower = 0.5 (CRIT)
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 2)] => [Carnifex 60005 (TEAM 1, FRONT, POS 1)] (hp = 0.682), type = 402, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.74, power = 0.6
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.817, power = 0.6
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.682, power = 0.6
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.74, power = 0.6
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.817, power = 1
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Carnifex 60005 (TEAM 2, FRONT, POS 3)] => [Carnifex 60005 (TEAM 1, FRONT, POS 2)] (hp = 0.793), TAKE 1996 damage, initiatorPower = 0.5, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 3)] => [Carnifex 60005 (TEAM 1, FRONT, POS 2)] (hp = 0.793), type = 402, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.682, power = 0.6
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.74, power = 0.6
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.817, power = 1
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.682, power = 0.6
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.793, power = 1
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.74, power = 0.6
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.817, power = 1
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 5 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Carnifex 60005 (TEAM 1, FRONT, POS 1)] => [Carnifex 60005 (TEAM 2, FRONT, POS 1)] (hp = 0.661), TAKE 434 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.682, power = 0.6
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.793, power = 1
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.74, power = 0.6
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.817, power = 1
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.682, power = 1
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.793, power = 1
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.661, power = 0.7
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.817, power = 1
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 6 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Carnifex 60005 (TEAM 2, FRONT, POS 1)] => [Carnifex 60005 (TEAM 1, FRONT, POS 1)] (hp = 0.635), TAKE 298 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.682, power = 1
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.793, power = 1
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.661, power = 0.7
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.817, power = 1
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.635, power = 1
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.793, power = 1
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.661, power = 1
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.817, power = 1
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 3)] (hp = 0.587), TAKE 3992 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+[RESIST_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 3)] => [Carnifex 60005 (TEAM 1, FRONT, POS 2)] (hp = 0.793), effectType = 109
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.635, power = 1
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.793, power = 1
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.661, power = 1
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.817, power = 1
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.635, power = 1
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.661, power = 1
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.817, power = 1
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.587, power = 1
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Carnifex 60005 (TEAM 2, FRONT, POS 2)] => [Carnifex 60005 (TEAM 1, BACK, POS 1)] (hp = 0.483), TAKE 3992 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 2)] => [Carnifex 60005 (TEAM 1, BACK, POS 1)] (hp = 0.483), type = 109, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.635, power = 1
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.661, power = 1
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.817, power = 1
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.587, power = 1
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.635, power = 1
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.483, power = 1
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6ff3b8a1, type = 109, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 0, persistentType = 1, TAUNT MARK [Carnifex 60005 (TEAM 1, BACK, POS 1)]
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.661, power = 1
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.817, power = 0
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.587, power = 1
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [Carnifex 60005 (TEAM 2, FRONT, POS 2)] (hp = 0.301), TAKE 4990 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.4
+
+
+[RESIST_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 2)] => [Carnifex 60005 (TEAM 1, BACK, POS 1)] (hp = 0.483), effectType = 109
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.635, power = 1
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.483, power = 1
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6ff3b8a1, type = 109, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 0, persistentType = 1, TAUNT MARK [Carnifex 60005 (TEAM 1, BACK, POS 1)]
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.661, power = 1
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.817, power = 0
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.587, power = 1
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.635, power = 1
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.483, power = 0
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6ff3b8a1, type = 109, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 0, persistentType = 1, TAUNT MARK [Carnifex 60005 (TEAM 1, BACK, POS 1)]
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.661, power = 1
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.301, power = 0.1
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.587, power = 1
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Carnifex 60005 (TEAM 2, FRONT, POS 3)] => [Carnifex 60005 (TEAM 1, FRONT, POS 2)] (hp = 0.38), TAKE 3995 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 3)] => [Carnifex 60005 (TEAM 1, FRONT, POS 2)] (hp = 0.38), type = 109, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.635, power = 1
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.483, power = 0
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6ff3b8a1, type = 109, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 0, persistentType = 1, TAUNT MARK [Carnifex 60005 (TEAM 1, BACK, POS 1)]
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.661, power = 1
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.301, power = 0.1
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.587, power = 1
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.635, power = 1
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 0.1
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 57ecbe2a, type = 109, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 0, persistentType = 1, TAUNT MARK [Carnifex 60005 (TEAM 1, FRONT, POS 2)]
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.483, power = 0
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6ff3b8a1, type = 109, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 0, persistentType = 1, TAUNT MARK [Carnifex 60005 (TEAM 1, BACK, POS 1)]
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.661, power = 1
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.301, power = 0.1
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.587, power = 0
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 5 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Carnifex 60005 (TEAM 1, FRONT, POS 1)] => [Carnifex 60005 (TEAM 2, FRONT, POS 1)] (hp = 0.49), TAKE 930 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 1, FRONT, POS 1)] => [Carnifex 60005 (TEAM 2, FRONT, POS 1)] (hp = 0.49), type = 109, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.635, power = 1
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 0.1
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 57ecbe2a, type = 109, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 0, persistentType = 1, TAUNT MARK [Carnifex 60005 (TEAM 1, FRONT, POS 2)]
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.483, power = 0
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6ff3b8a1, type = 109, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 0, persistentType = 1, TAUNT MARK [Carnifex 60005 (TEAM 1, BACK, POS 1)]
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.661, power = 1
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.301, power = 0.1
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.587, power = 0
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.635, power = 0
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 0.1
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 57ecbe2a, type = 109, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 0, persistentType = 1, TAUNT MARK [Carnifex 60005 (TEAM 1, FRONT, POS 2)]
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.483, power = 0
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6ff3b8a1, type = 109, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 0, persistentType = 1, TAUNT MARK [Carnifex 60005 (TEAM 1, BACK, POS 1)]
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.49, power = 1
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4680c635, type = 109, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 0, persistentType = 1, TAUNT MARK [Carnifex 60005 (TEAM 2, FRONT, POS 1)]
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.301, power = 0.1
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.587, power = 0
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 6 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Carnifex 60005 (TEAM 2, FRONT, POS 1)] => [Carnifex 60005 (TEAM 1, FRONT, POS 1)] (hp = 0.534), TAKE 638 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 1)] => [Carnifex 60005 (TEAM 1, FRONT, POS 1)] (hp = 0.534), type = 109, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.635, power = 0
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 0.1
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 57ecbe2a, type = 109, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 0, persistentType = 1, TAUNT MARK [Carnifex 60005 (TEAM 1, FRONT, POS 2)]
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.483, power = 0
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6ff3b8a1, type = 109, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 0, persistentType = 1, TAUNT MARK [Carnifex 60005 (TEAM 1, BACK, POS 1)]
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.49, power = 1
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4680c635, type = 109, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 0, persistentType = 1, TAUNT MARK [Carnifex 60005 (TEAM 2, FRONT, POS 1)]
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.301, power = 0.1
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.587, power = 0
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.534, power = 0.1
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 68f7d537, type = 109, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 0, persistentType = 1, TAUNT MARK [Carnifex 60005 (TEAM 1, FRONT, POS 1)]
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 0.1
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 57ecbe2a, type = 109, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 0, persistentType = 1, TAUNT MARK [Carnifex 60005 (TEAM 1, FRONT, POS 2)]
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.483, power = 0
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6ff3b8a1, type = 109, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 0, persistentType = 1, TAUNT MARK [Carnifex 60005 (TEAM 1, BACK, POS 1)]
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.49, power = 0
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4680c635, type = 109, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 0, persistentType = 1, TAUNT MARK [Carnifex 60005 (TEAM 2, FRONT, POS 1)]
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.301, power = 0.1
+- EFFECTS:
+id = table: 55805d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.587, power = 0
+- EFFECTS:
+id = table: 33d16283, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 1)] => [Carnifex 60005 (TEAM 1, FRONT, POS 1)] (hp = 0.534), type = 109, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 3)] => [Carnifex 60005 (TEAM 1, FRONT, POS 2)] (hp = 0.38), type = 109, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Carnifex 60005 (TEAM 2, FRONT, POS 2)] => [Carnifex 60005 (TEAM 1, BACK, POS 1)] (hp = 0.483), type = 109, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Carnifex 60005 (TEAM 1, FRONT, POS 1)] => [Carnifex 60005 (TEAM 2, FRONT, POS 1)] (hp = 0.49), type = 109, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 2)] (hp = 0.301), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 3)] (hp = 0.587), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 3)] (hp = 0.44), TAKE 1412 damage, initiatorPower = 0.1, targetPower = 0
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+[ADD_EFFECT] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 3)] (hp = 0.44), type = 402, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.534, power = 0.1
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 0.1
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.483, power = 0
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.49, power = 0
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.301, power = 0.1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.587, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.534, power = 0.1
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 0.6
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.483, power = 0
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.49, power = 0
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.301, power = 0.1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.44, power = 0.1
+- EFFECTS:
+id = table: 1ab34e38, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [Carnifex 60005 (TEAM 2, FRONT, POS 1)] (hp = 0.166), TAKE 1772 damage, initiatorPower = 0, targetPower = 0
+
+
+[>>> BONUS_ATTACK <<<] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [Carnifex 60005 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 1772 damage, initiatorPower = 0, targetPower = 0
+
+
+[DEAD_FOR_DISPLAY] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [Carnifex 60005 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.62
+
+
+[DEAD] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [Carnifex 60005 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.534, power = 0.1
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 0.6
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.483, power = 0
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0.49, power = 0
+- EFFECTS:
+id = table: 3701f4c9, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.301, power = 0.1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.44, power = 0.1
+- EFFECTS:
+id = table: 1ab34e38, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.534, power = 0.1
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 0.6
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.483, power = 0.5
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.301, power = 0.1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.44, power = 0.1
+- EFFECTS:
+id = table: 1ab34e38, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Carnifex 60005 (TEAM 2, FRONT, POS 2)] => [Carnifex 60005 (TEAM 1, FRONT, POS 1)] (hp = 0.309), TAKE 1417 damage, initiatorPower = 0.1, targetPower = 0.1
+
+
+[>>> BONUS_ATTACK <<<] [Carnifex 60005 (TEAM 2, FRONT, POS 2)] => [Carnifex 60005 (TEAM 1, FRONT, POS 1)] (hp = 0.084), TAKE 1417 damage, initiatorPower = 0.1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.54
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.64
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.534, power = 0.1
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 0.6
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.483, power = 0.5
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.301, power = 0.1
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.44, power = 0.1
+- EFFECTS:
+id = table: 1ab34e38, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.084, power = 0.2
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 0.6
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.483, power = 0.5
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.301, power = 0.6
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.44, power = 0.1
+- EFFECTS:
+id = table: 1ab34e38, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Carnifex 60005 (TEAM 2, FRONT, POS 3)] => [Carnifex 60005 (TEAM 1, BACK, POS 1)] (hp = 0.483) (MISS), TAKE 0 damage, initiatorPower = 0.1, targetPower = 0.5
+
+
+[>>> BONUS_ATTACK <<<] [Carnifex 60005 (TEAM 2, FRONT, POS 3)] => [Carnifex 60005 (TEAM 1, BACK, POS 1)] (hp = 0.301), TAKE 1412 damage, initiatorPower = 0.1, targetPower = 0.5
+
+
+[>>> BONUS_ATTACK <<<] [Carnifex 60005 (TEAM 2, FRONT, POS 3)] => [Carnifex 60005 (TEAM 1, BACK, POS 1)] (hp = 0.148), TAKE 1178 damage, initiatorPower = 0.1, targetPower = 0.5
+[Carnifex 60005 (TEAM 1, BACK, POS 1)] BLOCK BONUS_ATTACK
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.64
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.084, power = 0.2
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 0.6
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.483, power = 0.5
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.301, power = 0.6
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.44, power = 0.1
+- EFFECTS:
+id = table: 1ab34e38, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.084, power = 0.2
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 0.6
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.148, power = 0.6
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.64
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.301, power = 0.6
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.44, power = 0.6
+- EFFECTS:
+id = table: 1ab34e38, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Carnifex 60005 (TEAM 1, FRONT, POS 1)] => [Carnifex 60005 (TEAM 2, FRONT, POS 2)] (hp = 0.256), TAKE 432 damage, initiatorPower = 0.7, targetPower = 0.7
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.76
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.084, power = 0.2
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 0.6
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.148, power = 0.6
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.64
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.301, power = 0.6
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.44, power = 0.6
+- EFFECTS:
+id = table: 1ab34e38, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.084, power = 0.7
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 0.6
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 13, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.148, power = 0.6
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.256, power = 0.7
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.44, power = 0.6
+- EFFECTS:
+id = table: 1ab34e38, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 15, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 3)] (hp = 0.294), TAKE 1413 damage, initiatorPower = 0.6, targetPower = 0.6
+
+
+[>>> BONUS_ATTACK <<<] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 3)] (hp = 0.148), TAKE 1413 damage, initiatorPower = 0.6, targetPower = 0.6
+
+
+[>>> BONUS_ATTACK <<<] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 3)] (hp = 0), TAKE 1997 damage, initiatorPower = 0.6, targetPower = 0 (CRIT)
+
+
+[DEAD_FOR_DISPLAY] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 3)] (hp = 0), reason = 1
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.86
+
+
+[DEAD] [Carnifex 60005 (TEAM 1, FRONT, POS 2)] => [Carnifex 60005 (TEAM 2, FRONT, POS 3)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.084, power = 0.7
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 0.6
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 12, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.148, power = 0.6
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.256, power = 0.7
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0.44, power = 0.6
+- EFFECTS:
+id = table: 1ab34e38, type = 402, initiator = [Carnifex 60005 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 14, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.084, power = 0.7
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 1
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 12, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.148, power = 0.6
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.256, power = 0.7
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Carnifex 60005 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [Carnifex 60005 (TEAM 2, FRONT, POS 2)] (hp = 0.073), TAKE 1765 damage, initiatorPower = 0.6, targetPower = 0.7
+
+
+[>>> BONUS_ATTACK <<<] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [Carnifex 60005 (TEAM 2, FRONT, POS 2)] (hp = 0) (GLANCING), TAKE 882 damage, initiatorPower = 0.6, targetPower = 0
+
+
+[DEAD_FOR_DISPLAY] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [Carnifex 60005 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 1
+
+
+[CHANGE_POWER] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.96
+
+
+[DEAD] [Carnifex 60005 (TEAM 1, BACK, POS 1)] => [Carnifex 60005 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.084, power = 0.7
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 1
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 12, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.148, power = 0.6
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0.256, power = 0.7
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.084, power = 0.7
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 1
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 12, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.148, power = 1
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 1)] hp = 0.084, power = 0.7
+- EFFECTS:
+id = table: 26c6e76d, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 11, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 1
+- EFFECTS:
+id = table: 44cd5280, type = 402, initiator = [Carnifex 60005 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 11, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Carnifex 60005 (TEAM 1, BACK, POS 1)] hp = 0.148, power = 1
+- EFFECTS:
+id = table: 38018eab, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Carnifex 60005 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+<> STATISTICS:
+[Carnifex 60005 (TEAM 2, FRONT, POS 2)] DamageDeal = 8828, DamageTaken = 9961.51, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 289caeaa, count = 2
+	[1 (number)] = 4836 (number)
+	[2 (number)] = 3992 (number)
+
+	Damage taken by sources: Dictionary = table: 68ed64e2, count = 2
+	[1 (number)] = 5047 (number)
+	[2 (number)] = 4914.51 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 3ee55aa5, count = 3
+	[3003 (number)] = 2834 (number)
+	[2002 (number)] = 3992 (number)
+	[1003 (number)] = 2002 (number)
+
+	Damage taken history: Dictionary = table: 3e2711cf, count = 4
+	[1002 (number)] = 1531 (number)
+	[4002 (number)] = 3062 (number)
+	[2003 (number)] = 4914.51 (number)
+	[3005 (number)] = 454 (number)
+
+	Effect created history: Dictionary = table: 7383015f, count = 1
+	[109 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: 704ab1b9, count = 1
+	[2 (number)] = 75 (number)
+
+[Carnifex 60005 (TEAM 2, FRONT, POS 3)] DamageDeal = 8581, DamageTaken = 9444.75, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 646efd67, count = 2
+	[1 (number)] = 4586 (number)
+	[2 (number)] = 3995 (number)
+
+	Damage taken by sources: Dictionary = table: 62c1314c, count = 2
+	[1 (number)] = 5512.5 (number)
+	[2 (number)] = 3932.25 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 9234db2, count = 3
+	[2004 (number)] = 3995 (number)
+	[3004 (number)] = 2590 (number)
+	[1004 (number)] = 1996 (number)
+
+	Damage taken history: Dictionary = table: 2cc1f256, count = 3
+	[2001 (number)] = 3932.25 (number)
+	[3001 (number)] = 1225 (number)
+	[4001 (number)] = 4287.5 (number)
+
+	Effect created history: Dictionary = table: 3f57b76c, count = 1
+	[109 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: 5477aa9b, count = 1
+	[2 (number)] = 135 (number)
+
+[Carnifex 60005 (TEAM 2, FRONT, POS 1)] DamageDeal = 936, DamageTaken = 5712.56, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 472a337a, count = 2
+	[1 (number)] = 298 (number)
+	[2 (number)] = 638 (number)
+
+	Damage taken by sources: Dictionary = table: 645a2a8b, count = 2
+	[1 (number)] = 4741 (number)
+	[2 (number)] = 971.56 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 66341dbb, count = 2
+	[1006 (number)] = 298 (number)
+	[2006 (number)] = 638 (number)
+
+	Damage taken history: Dictionary = table: ffe5094, count = 4
+	[1005 (number)] = 454 (number)
+	[2005 (number)] = 971.56 (number)
+	[1001 (number)] = 1225 (number)
+	[3002 (number)] = 3062 (number)
+
+	Effect created history: Dictionary = table: 195903f2, count = 1
+	[109 (number)] = 0 (number)
+
+[Carnifex 60005 (TEAM 1, BACK, POS 1)] DamageDeal = 12946, DamageTaken = 7607.25, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2ce27c20, count = 2
+	[1 (number)] = 7956 (number)
+	[2 (number)] = 4990 (number)
+
+	Damage taken by sources: Dictionary = table: 6a7d75c2, count = 2
+	[1 (number)] = 3675 (number)
+	[2 (number)] = 3932.25 (number)
+
+	NumberKill = 2, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 17fae2e9, count = 4
+	[1002 (number)] = 1765 (number)
+	[4002 (number)] = 2647 (number)
+	[2003 (number)] = 4990 (number)
+	[3002 (number)] = 3544 (number)
+
+	Damage taken history: Dictionary = table: 466d3577, count = 2
+	[2002 (number)] = 3932.25 (number)
+	[3004 (number)] = 3675 (number)
+
+[Carnifex 60005 (TEAM 1, FRONT, POS 1)] DamageDeal = 1796, DamageTaken = 5267.18, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 79d152e6, count = 2
+	[1 (number)] = 866 (number)
+	[2 (number)] = 930 (number)
+
+	Damage taken by sources: Dictionary = table: 7803eb7b, count = 2
+	[1 (number)] = 4599.5 (number)
+	[2 (number)] = 667.68 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 382ea338, count = 3
+	[1005 (number)] = 434 (number)
+	[2005 (number)] = 930 (number)
+	[3005 (number)] = 432 (number)
+
+	Damage taken history: Dictionary = table: 1747ffc7, count = 4
+	[3003 (number)] = 2450 (number)
+	[1006 (number)] = 312 (number)
+	[1003 (number)] = 1837.5 (number)
+	[2006 (number)] = 667.68 (number)
+
+	Effect created history: Dictionary = table: 64f2d9ab, count = 1
+	[109 (number)] = 0 (number)
+
+[Carnifex 60005 (TEAM 1, FRONT, POS 2)] DamageDeal = 11645, DamageTaken = 5769.75, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 3cdae7d, count = 2
+	[1 (number)] = 7653 (number)
+	[2 (number)] = 3992 (number)
+
+	Damage taken by sources: Dictionary = table: 4e37ea5f, count = 2
+	[1 (number)] = 1837.5 (number)
+	[2 (number)] = 3932.25 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 66a69d99, count = 4
+	[2001 (number)] = 3992 (number)
+	[3001 (number)] = 1412 (number)
+	[1001 (number)] = 1418 (number)
+	[4001 (number)] = 4823 (number)
+
+	Damage taken history: Dictionary = table: 14eb2f67, count = 2
+	[1004 (number)] = 1837.5 (number)
+	[2004 (number)] = 3932.25 (number)
+
+	Stat changer debuff created history: Dictionary = table: 7abbd5c1, count = 1
+	[2 (number)] = 180 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: b2fbddb, count = 1
+	[112 (number)] = 0 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: 5937a372, count = 1
+	[501 (number)] = 4 (number)
+
+
+<> WINNER: 1

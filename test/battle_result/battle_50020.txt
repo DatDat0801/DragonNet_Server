@@ -1,0 +1,1990 @@
+
+<> SEED = 994786584
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 77
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 5
+attack = 1018
+defense = 211
+hp = 25062/25062
+speed = 40
+critRate = 0.1
+critDamage = 1.5
+accuracy = 701
+dodge = 660
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 286b9ffc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 648600, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 49da8b47, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 3d3a79ff, type = 402, initiator = [Soldier 50020 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: fb8cc64, type = 403, initiator = [Soldier 50020 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 1d25e2ae, type = 403, initiator = [Soldier 50020 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 5
+attack = 1018
+defense = 211
+hp = 25062/25062
+speed = 40
+critRate = 0.1
+critDamage = 1.5
+accuracy = 701
+dodge = 660
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 36552998, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 58ce5b2c, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 11dc67bd, type = 402, initiator = [Soldier 50020 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7a87f224, type = 403, initiator = [Soldier 50020 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2bc81f15, type = 403, initiator = [Soldier 50020 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 5
+attack = 1018
+defense = 211
+hp = 25062/25062
+speed = 40
+critRate = 0.1
+critDamage = 1.5
+accuracy = 701
+dodge = 660
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 4f3c3db2, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 3daf5a67, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 787c9924, type = 402, initiator = [Soldier 50020 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 15f85a1b, type = 403, initiator = [Soldier 50020 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 65011d05, type = 403, initiator = [Soldier 50020 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [Soldier 50020 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Soldier 50020 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Soldier 50020 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Soldier 50020 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Soldier 50020 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [Soldier 50020 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [Soldier 50020 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 1)] (hp = 0.962), TAKE 956 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 286b9ffc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 286b9ffc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.962, power = 0.6
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.943), TAKE 1435 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 286b9ffc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.962, power = 0.6
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.943, power = 1
+- EFFECTS:
+id = table: 286b9ffc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.962, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.905), TAKE 956 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.943, power = 1
+- EFFECTS:
+id = table: 286b9ffc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.962, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.905, power = 1
+- EFFECTS:
+id = table: 286b9ffc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.962, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 1)] (hp = 0.919), TAKE 1064 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[>>> ACTIVE_SKILL <<<] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 2)] (hp = 0.958), TAKE 1064 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.905, power = 1
+- EFFECTS:
+id = table: 286b9ffc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.962, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.905, power = 0
+- EFFECTS:
+id = table: 286b9ffc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.919, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.958, power = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.841), TAKE 1597 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.905, power = 0
+- EFFECTS:
+id = table: 286b9ffc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.919, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.958, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.841, power = 0.1
+- EFFECTS:
+id = table: 286b9ffc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.919, power = 0
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.958, power = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.798), TAKE 1064 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.18
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.841, power = 0.1
+- EFFECTS:
+id = table: 286b9ffc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.919, power = 0
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.958, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.798, power = 0.2
+- EFFECTS:
+id = table: 286b9ffc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.919, power = 0
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.958, power = 0
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.798), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 1)] (hp = 0.881), TAKE 956 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.798, power = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.919, power = 0
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.958, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.798, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.881, power = 0.1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.958, power = 0
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.76), TAKE 956 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.798, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.881, power = 0.1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.958, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.76, power = 0.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.881, power = 0.6
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.958, power = 0
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.722), TAKE 956 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.76, power = 0.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.881, power = 0.6
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.958, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.722, power = 0.9
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.881, power = 0.6
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.958, power = 0.5
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 1)] (hp = 0.843), TAKE 956 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.5
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.722, power = 0.9
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.881, power = 0.6
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.958, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.722, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.843, power = 0.7
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.958, power = 0.5
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.684), TAKE 956 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.6
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.722, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.843, power = 0.7
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.958, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.684, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.843, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.958, power = 0.5
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.646), TAKE 956 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.684, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.843, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.958, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.646, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.843, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.958, power = 1
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 1)] (hp = 0.801), TAKE 1064 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+[>>> ACTIVE_SKILL <<<] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 2)] (hp = 0.915), TAKE 1064 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.74
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.646, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.843, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.958, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.646, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.801, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.603), TAKE 1064 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.646, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.801, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.603, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.801, power = 0
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.561), TAKE 1064 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.603, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.801, power = 0
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.801, power = 0
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 0
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 1)] (hp = 0.763), TAKE 956 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.6
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.76
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.801, power = 0
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.763, power = 0.1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 0
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.523), TAKE 956 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.62
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.763, power = 0.1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.523, power = 0.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.763, power = 0.6
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 0
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.485), TAKE 956 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.96
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.64
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.523, power = 0.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.763, power = 0.6
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.485, power = 0.9
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.763, power = 0.6
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 0.5
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 1)] (hp = 0.724), TAKE 956 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.74
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.485, power = 0.9
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.763, power = 0.6
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.485, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.724, power = 0.7
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 0.5
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.446), TAKE 956 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.76
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.485, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.724, power = 0.7
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.446, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.724, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 0.5
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.354), TAKE 2309 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.354), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.446, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.724, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.354, power = 1
+- EFFECTS:
+id = table: 3b8734bb, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.724, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 0.5
+
+
+TURN 4 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.316), TAKE 956 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.354, power = 1
+- EFFECTS:
+id = table: 3b8734bb, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.724, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.316, power = 1
+- EFFECTS:
+id = table: 3b8734bb, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.724, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 1
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.274), TAKE 1064 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.316, power = 1
+- EFFECTS:
+id = table: 3b8734bb, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.724, power = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.274, power = 1
+- EFFECTS:
+id = table: 3b8734bb, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.724, power = 0
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 1
+
+
+TURN 2 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.231), TAKE 1064 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.84
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.274, power = 1
+- EFFECTS:
+id = table: 3b8734bb, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.724, power = 0
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.231, power = 1
+- EFFECTS:
+id = table: 3b8734bb, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.724, power = 0
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 0
+
+
+TURN 3 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 1)] (hp = 0.682), TAKE 1064 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[>>> ACTIVE_SKILL <<<] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 2)] (hp = 0.873), TAKE 1064 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.231, power = 1
+- EFFECTS:
+id = table: 3b8734bb, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.724, power = 0
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.231, power = 0
+- EFFECTS:
+id = table: 3b8734bb, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.682, power = 0.1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.873, power = 0.1
+
+
+ROUND 9
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.174), TAKE 1435 damage, initiatorPower = 0.6, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.86
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.231, power = 0
+- EFFECTS:
+id = table: 3b8734bb, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.682, power = 0.1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.873, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.174, power = 0.1
+- EFFECTS:
+id = table: 3b8734bb, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.682, power = 0.6
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.873, power = 0.1
+
+
+TURN 2 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.136), TAKE 956 damage, initiatorPower = 0.6, targetPower = 0.2
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.88
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.174, power = 0.1
+- EFFECTS:
+id = table: 3b8734bb, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.682, power = 0.6
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.873, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.136, power = 0.2
+- EFFECTS:
+id = table: 3b8734bb, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.682, power = 0.6
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.873, power = 0.6
+
+
+TURN 3 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 1)] (hp = 0.644), TAKE 956 damage, initiatorPower = 0.7, targetPower = 0.7
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.98
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.136, power = 0.2
+- EFFECTS:
+id = table: 3b8734bb, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.682, power = 0.6
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.873, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.136, power = 0.7
+- EFFECTS:
+id = table: 3b8734bb, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.644, power = 0.7
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.873, power = 0.6
+
+
+---------- AFTER ROUND 9 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.136), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 10
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 1)] (hp = 0.606), TAKE 956 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.136, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.644, power = 0.7
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.873, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.136, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.606, power = 0.8
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.873, power = 0.6
+
+
+TURN 2 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 1)] (hp = 0.513), TAKE 2309 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.4
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 2)] (hp = 0.781), TAKE 2309 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 1)] (hp = 0.513), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 2)] (hp = 0.781), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.136, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.606, power = 0.8
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.873, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.136, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.513, power = 0.9
+- EFFECTS:
+id = table: 376a885f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.781, power = 0.7
+- EFFECTS:
+id = table: 354a40e5, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.098), TAKE 956 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.52
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.136, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.513, power = 0.9
+- EFFECTS:
+id = table: 376a885f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.781, power = 0.7
+- EFFECTS:
+id = table: 354a40e5, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.098, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.513, power = 1
+- EFFECTS:
+id = table: 376a885f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.781, power = 0.7
+- EFFECTS:
+id = table: 354a40e5, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.06), TAKE 956 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.62
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.04
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.098, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.513, power = 1
+- EFFECTS:
+id = table: 376a885f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.781, power = 0.7
+- EFFECTS:
+id = table: 354a40e5, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.04
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.06, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.62
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.513, power = 1
+- EFFECTS:
+id = table: 376a885f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.781, power = 1
+- EFFECTS:
+id = table: 354a40e5, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 11
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 1)] (hp = 0.471), TAKE 1064 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.64
+
+
+[>>> ACTIVE_SKILL <<<] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [Soldier 50020 (TEAM 2, FRONT, POS 2)] (hp = 0.738), TAKE 1064 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.04
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.06, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.62
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.513, power = 1
+- EFFECTS:
+id = table: 376a885f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.781, power = 1
+- EFFECTS:
+id = table: 354a40e5, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.04
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.06, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.471, power = 1
+- EFFECTS:
+id = table: 376a885f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.738, power = 1
+- EFFECTS:
+id = table: 354a40e5, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Soldier 50020 (TEAM 2, FRONT, POS 1)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0.017), TAKE 1064 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.06
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.04
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.06, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.471, power = 1
+- EFFECTS:
+id = table: 376a885f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.738, power = 1
+- EFFECTS:
+id = table: 354a40e5, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.06
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.017, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.471, power = 0
+- EFFECTS:
+id = table: 376a885f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.738, power = 1
+- EFFECTS:
+id = table: 354a40e5, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Soldier 50020 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 1064 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Soldier 50020 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.08
+
+
+[DEAD_FOR_DISPLAY] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[DEAD] [Soldier 50020 (TEAM 2, FRONT, POS 2)] => [Soldier 50020 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.06
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0.017, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.471, power = 0
+- EFFECTS:
+id = table: 376a885f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.738, power = 1
+- EFFECTS:
+id = table: 354a40e5, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.08
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.471, power = 0
+- EFFECTS:
+id = table: 376a885f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.738, power = 0
+- EFFECTS:
+id = table: 354a40e5, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.08
+
+> [Soldier 50020 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 1)] hp = 0.471, power = 0
+- EFFECTS:
+id = table: 376a885f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Soldier 50020 (TEAM 2, FRONT, POS 2)] hp = 0.738, power = 0
+- EFFECTS:
+id = table: 354a40e5, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+<> STATISTICS:
+[SummonerMage (TEAM 2)] DamageDeal = 2309, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2805c9df, count = 1
+	[2 (number)] = 2309 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 61afb115, count = 1
+	[7003 (number)] = 2309 (number)
+
+	Stat changer debuff created history: Dictionary = table: 2e4e50f, count = 1
+	[4 (number)] = 60 (number)
+
+[Soldier 50020 (TEAM 1, FRONT, POS 1)] DamageDeal = 15204, DamageTaken = 27357.79, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 65cec0de, count = 2
+	[1 (number)] = 6692 (number)
+	[2 (number)] = 8512 (number)
+
+	Damage taken by sources: Dictionary = table: 6303b689, count = 2
+	[1 (number)] = 15270 (number)
+	[2 (number)] = 12087.789 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 7f3894e5, count = 11
+	[3001 (number)] = 956 (number)
+	[6001 (number)] = 956 (number)
+	[9003 (number)] = 956 (number)
+	[2001 (number)] = 2128 (number)
+	[5001 (number)] = 2128 (number)
+	[11001 (number)] = 2128 (number)
+	[8003 (number)] = 2128 (number)
+	[4001 (number)] = 956 (number)
+	[7001 (number)] = 956 (number)
+	[1001 (number)] = 956 (number)
+	[10001 (number)] = 956 (number)
+
+	Damage taken history: Dictionary = table: 5ad1da90, count = 23
+	[4002 (number)] = 1018 (number)
+	[8001 (number)] = 1133.034 (number)
+	[4003 (number)] = 1018 (number)
+	[8002 (number)] = 1133.034 (number)
+	[1002 (number)] = 1527 (number)
+	[1003 (number)] = 1018 (number)
+	[5002 (number)] = 1133.034 (number)
+	[9001 (number)] = 1527 (number)
+	[5003 (number)] = 1133.034 (number)
+	[9002 (number)] = 1018 (number)
+	[2002 (number)] = 1699.551 (number)
+	[2003 (number)] = 1133.034 (number)
+	[6002 (number)] = 1018 (number)
+	[6003 (number)] = 1018 (number)
+	[10003 (number)] = 1018 (number)
+	[10004 (number)] = 1018 (number)
+	[3002 (number)] = 1018 (number)
+	[7002 (number)] = 1018 (number)
+	[3003 (number)] = 1018 (number)
+	[7003 (number)] = 2457 (number)
+	[11002 (number)] = 1133.034 (number)
+	[7004 (number)] = 1018 (number)
+	[11003 (number)] = 1133.034 (number)
+
+[Soldier 50020 (TEAM 2, FRONT, POS 2)] DamageDeal = 10948, DamageTaken = 6989.136, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 490a3924, count = 2
+	[1 (number)] = 6692 (number)
+	[2 (number)] = 4256 (number)
+
+	Damage taken by sources: Dictionary = table: 37436972, count = 1
+	[2 (number)] = 6989.136 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: ce74cc3, count = 11
+	[9002 (number)] = 956 (number)
+	[6003 (number)] = 956 (number)
+	[3003 (number)] = 956 (number)
+	[8002 (number)] = 1064 (number)
+	[5003 (number)] = 1064 (number)
+	[2003 (number)] = 1064 (number)
+	[11003 (number)] = 1064 (number)
+	[4003 (number)] = 956 (number)
+	[1003 (number)] = 956 (number)
+	[7004 (number)] = 956 (number)
+	[10004 (number)] = 956 (number)
+
+	Damage taken history: Dictionary = table: 58b61295, count = 5
+	[8003 (number)] = 1133.034 (number)
+	[5001 (number)] = 1133.034 (number)
+	[11001 (number)] = 1133.034 (number)
+	[10002 (number)] = 2457 (number)
+	[2001 (number)] = 1133.034 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 4618, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 40edc3be, count = 1
+	[2 (number)] = 4618 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6cc92a28, count = 1
+	[10002 (number)] = 4618 (number)
+
+	Effect created history: Dictionary = table: 5a7ee226, count = 1
+	[501 (number)] = 2 (number)
+
+	Stat changer debuff created history: Dictionary = table: 32b46146, count = 1
+	[4 (number)] = 120 (number)
+
+[Soldier 50020 (TEAM 2, FRONT, POS 1)] DamageDeal = 12439, DamageTaken = 14115.136, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 1ceaa49d, count = 2
+	[1 (number)] = 7650 (number)
+	[2 (number)] = 4789 (number)
+
+	Damage taken by sources: Dictionary = table: 39d74542, count = 2
+	[1 (number)] = 7126 (number)
+	[2 (number)] = 6989.136 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 1495ff8c, count = 11
+	[9001 (number)] = 1435 (number)
+	[3002 (number)] = 956 (number)
+	[6002 (number)] = 956 (number)
+	[8001 (number)] = 1064 (number)
+	[5002 (number)] = 1064 (number)
+	[2002 (number)] = 1597 (number)
+	[11002 (number)] = 1064 (number)
+	[4002 (number)] = 956 (number)
+	[7002 (number)] = 956 (number)
+	[1002 (number)] = 1435 (number)
+	[10003 (number)] = 956 (number)
+
+	Damage taken history: Dictionary = table: 5ba1209, count = 12
+	[3001 (number)] = 1018 (number)
+	[6001 (number)] = 1018 (number)
+	[9003 (number)] = 1018 (number)
+	[2001 (number)] = 1133.034 (number)
+	[5001 (number)] = 1133.034 (number)
+	[11001 (number)] = 1133.034 (number)
+	[8003 (number)] = 1133.034 (number)
+	[4001 (number)] = 1018 (number)
+	[7001 (number)] = 1018 (number)
+	[1001 (number)] = 1018 (number)
+	[10001 (number)] = 1018 (number)
+	[10002 (number)] = 2457 (number)
+
+
+<> WINNER: 2

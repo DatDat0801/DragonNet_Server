@@ -1,0 +1,919 @@
+
+<> SEED = 564246132
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 33
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 4
+attack = 679
+defense = 82
+hp = 8702/8702
+speed = 51
+critRate = 0.1
+critDamage = 1.5
+accuracy = 825
+dodge = 825
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 786b78fb, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 520a7546, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2b08970c, type = 403, initiator = [Tess 40014 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 4
+attack = 679
+defense = 82
+hp = 8702/8702
+speed = 51
+critRate = 0.1
+critDamage = 1.5
+accuracy = 825
+dodge = 825
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 2bd3568c, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 85c4fad, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 440c09f6, type = 403, initiator = [Tess 40014 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 4
+attack = 679
+defense = 82
+hp = 8702/8702
+speed = 51
+critRate = 0.1
+critDamage = 1.5
+accuracy = 825
+dodge = 825
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 2d9a40c5, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 1ccc04cc, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 97dbba5, type = 403, initiator = [Tess 40014 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [Tess 40014 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Tess 40014 (TEAM 2, FRONT, POS 1)] => [Tess 40014 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Tess 40014 (TEAM 2, FRONT, POS 2)] => [Tess 40014 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Tess 40014 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Tess 40014 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Tess 40014 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Tess 40014 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Tess 40014 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Tess 40014 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Tess 40014 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [Tess 40014 (TEAM 2, FRONT, POS 1)] (hp = 0.926), TAKE 646 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.926, power = 0.6
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Tess 40014 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Tess 40014 (TEAM 2, FRONT, POS 1)] => [Tess 40014 (TEAM 1, FRONT, POS 1)] (hp = 0.926), TAKE 646 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.926, power = 0.6
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.926, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.926, power = 1
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Tess 40014 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Tess 40014 (TEAM 2, FRONT, POS 2)] => [Tess 40014 (TEAM 1, FRONT, POS 1)] (hp = 0.852), TAKE 646 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.926, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.926, power = 1
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.852, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.926, power = 1
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Tess 40014 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [Tess 40014 (TEAM 2, FRONT, POS 2)] (hp = 0.865), TAKE 1176 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.852, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.926, power = 1
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.852, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.926, power = 1
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Tess 40014 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Tess 40014 (TEAM 2, FRONT, POS 1)] => [Tess 40014 (TEAM 1, FRONT, POS 1)] (hp = 0.716), TAKE 1176 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.852, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.926, power = 1
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.716, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.926, power = 0
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Tess 40014 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Tess 40014 (TEAM 2, FRONT, POS 2)] => [Tess 40014 (TEAM 1, FRONT, POS 1)] (hp = 0.581), TAKE 1176 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.18
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.716, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.926, power = 0
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.581, power = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.926, power = 0
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 0
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Tess 40014 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [Tess 40014 (TEAM 2, FRONT, POS 1)] (hp = 0.852), TAKE 646 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.581, power = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.926, power = 0
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.581, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.852, power = 0.1
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 0
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Tess 40014 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Tess 40014 (TEAM 2, FRONT, POS 1)] => [Tess 40014 (TEAM 1, FRONT, POS 1)] (hp = 0.507), TAKE 646 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.581, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.852, power = 0.1
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.507, power = 0.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.852, power = 0.6
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 0
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Tess 40014 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Tess 40014 (TEAM 2, FRONT, POS 2)] => [Tess 40014 (TEAM 1, FRONT, POS 1)] (hp = 0.433), TAKE 646 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.507, power = 0.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.852, power = 0.6
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.433, power = 0.9
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.852, power = 0.6
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 0.5
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Tess 40014 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [Tess 40014 (TEAM 2, FRONT, POS 1)] (hp = 0.777), TAKE 646 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.433, power = 0.9
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.852, power = 0.6
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.433, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.777, power = 0.7
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 0.5
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Tess 40014 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Tess 40014 (TEAM 2, FRONT, POS 1)] => [Tess 40014 (TEAM 1, FRONT, POS 1)] (hp = 0.359), TAKE 646 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.433, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.777, power = 0.7
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.359, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.777, power = 1
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 0.5
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Tess 40014 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Tess 40014 (TEAM 2, FRONT, POS 2)] => [Tess 40014 (TEAM 1, FRONT, POS 1)] (hp = 0.284), TAKE 646 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.359, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.777, power = 1
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.284, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.777, power = 1
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 1
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Tess 40014 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [Tess 40014 (TEAM 2, FRONT, POS 1)] (hp = 0.642), TAKE 1176 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.284, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.777, power = 1
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.284, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.642, power = 1
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Tess 40014 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Tess 40014 (TEAM 2, FRONT, POS 1)] => [Tess 40014 (TEAM 1, FRONT, POS 1)] (hp = 0.082), TAKE 1763 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.284, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.642, power = 1
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.082, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.642, power = 0
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Tess 40014 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Tess 40014 (TEAM 2, FRONT, POS 2)] => [Tess 40014 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 1176 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Tess 40014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+[DEAD_FOR_DISPLAY] [Tess 40014 (TEAM 2, FRONT, POS 2)] => [Tess 40014 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[DEAD] [Tess 40014 (TEAM 2, FRONT, POS 2)] => [Tess 40014 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0.082, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.642, power = 0
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.642, power = 0
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 0
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Tess 40014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Tess 40014 (TEAM 2, FRONT, POS 1)] hp = 0.642, power = 0
+
+> [Tess 40014 (TEAM 2, FRONT, POS 2)] hp = 0.865, power = 0
+
+<> STATISTICS:
+[Tess 40014 (TEAM 1, FRONT, POS 1)] DamageDeal = 4290, DamageTaken = 9631.955, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 768711df, count = 2
+	[1 (number)] = 1938 (number)
+	[2 (number)] = 2352 (number)
+
+	Damage taken by sources: Dictionary = table: 12c33c39, count = 2
+	[1 (number)] = 4074 (number)
+	[2 (number)] = 5557.955 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6d20cacc, count = 5
+	[1001 (number)] = 646 (number)
+	[5001 (number)] = 1176 (number)
+	[4001 (number)] = 646 (number)
+	[3001 (number)] = 646 (number)
+	[2001 (number)] = 1176 (number)
+
+	Damage taken history: Dictionary = table: 113649c0, count = 10
+	[3002 (number)] = 679 (number)
+	[3003 (number)] = 679 (number)
+	[2002 (number)] = 1235.101 (number)
+	[5002 (number)] = 1852.652 (number)
+	[2003 (number)] = 1235.101 (number)
+	[5003 (number)] = 1235.101 (number)
+	[4002 (number)] = 679 (number)
+	[1002 (number)] = 679 (number)
+	[4003 (number)] = 679 (number)
+	[1003 (number)] = 679 (number)
+
+[Tess 40014 (TEAM 2, FRONT, POS 2)] DamageDeal = 4290, DamageTaken = 1235.101, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5ff1bbd0, count = 2
+	[1 (number)] = 1938 (number)
+	[2 (number)] = 2352 (number)
+
+	Damage taken by sources: Dictionary = table: 54d866e3, count = 1
+	[2 (number)] = 1235.101 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 3fc5b01e, count = 5
+	[3003 (number)] = 646 (number)
+	[2003 (number)] = 1176 (number)
+	[1003 (number)] = 646 (number)
+	[5003 (number)] = 1176 (number)
+	[4003 (number)] = 646 (number)
+
+	Damage taken history: Dictionary = table: 1c9e866f, count = 1
+	[2001 (number)] = 1235.101 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+[Tess 40014 (TEAM 2, FRONT, POS 1)] DamageDeal = 4877, DamageTaken = 3272.101, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4e639117, count = 2
+	[1 (number)] = 1938 (number)
+	[2 (number)] = 2939 (number)
+
+	Damage taken by sources: Dictionary = table: 591b1946, count = 2
+	[1 (number)] = 2037 (number)
+	[2 (number)] = 1235.101 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 4b4c173b, count = 5
+	[2002 (number)] = 1176 (number)
+	[1002 (number)] = 646 (number)
+	[5002 (number)] = 1763 (number)
+	[4002 (number)] = 646 (number)
+	[3002 (number)] = 646 (number)
+
+	Damage taken history: Dictionary = table: 23094dc3, count = 4
+	[5001 (number)] = 1235.101 (number)
+	[3001 (number)] = 679 (number)
+	[1001 (number)] = 679 (number)
+	[4001 (number)] = 679 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+
+<> WINNER: 2

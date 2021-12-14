@@ -1,0 +1,2752 @@
+
+<> SEED = 427437464
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 102
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 100
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 1
+attack = 5526
+defense = 672
+hp = 77888/77888
+speed = 61
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1197.6
+dodge = 998
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 6591f744, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 1ce2dd5d, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: ac35cb4, type = 401, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 4b99e7b3, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 4390416e, type = 403, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 90
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 1
+attack = 5101
+defense = 622
+hp = 71851/71851
+speed = 61
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1197.6
+dodge = 998
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 2bda3b10, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 3b6ce423, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 3f4c2882, type = 401, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 5ee76fb2, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 21581253, type = 403, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 1
+attack = 2771
+defense = 344
+hp = 39158/39158
+speed = 61
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1197.6
+dodge = 998
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 788e7899, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 26d84732, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 432726a4, type = 401, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 198c2af0, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 241fddc5, type = 403, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 1
+attack = 2771
+defense = 344
+hp = 39158/39158
+speed = 61
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1197.6
+dodge = 998
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 76c8e754, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: ca0ed2f, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 74038de1, type = 401, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 82d521a, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 12cdd3e8, type = 403, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 420, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 420, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 420, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 420, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.896), TAKE 7490 damage, initiatorPower = 1, targetPower = 0.6 (CRIT)
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.896), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.896, power = 0.6
+- EFFECTS:
+id = table: 396ef60c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.968), TAKE 2492 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.896, power = 0.6
+- EFFECTS:
+id = table: 396ef60c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.968, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.896, power = 0.6
+- EFFECTS:
+id = table: 396ef60c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.936), TAKE 2492 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.968, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.896, power = 0.6
+- EFFECTS:
+id = table: 396ef60c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.936, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.896, power = 0.6
+- EFFECTS:
+id = table: 396ef60c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.821), TAKE 5343 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.86), TAKE 5487 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.936), type = 420, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.936, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.896, power = 0.6
+- EFFECTS:
+id = table: 396ef60c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.936, power = 0
+- EFFECTS:
+id = table: 322cad9b, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.821, power = 0.7
+- EFFECTS:
+id = table: 396ef60c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.86, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.902), TAKE 2666 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.821), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.86), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 420, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.936, power = 0
+- EFFECTS:
+id = table: 322cad9b, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.821, power = 0.7
+- EFFECTS:
+id = table: 396ef60c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.86, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.902, power = 0.1
+- EFFECTS:
+id = table: 322cad9b, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.821, power = 0.7
+- EFFECTS:
+id = table: 396ef60c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 5aa852ba, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 38f76677, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 766739f3, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.868), TAKE 2666 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.18
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.821), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.86), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 420, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.902, power = 0.1
+- EFFECTS:
+id = table: 322cad9b, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.821, power = 0.7
+- EFFECTS:
+id = table: 396ef60c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 5aa852ba, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 38f76677, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 766739f3, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.868, power = 0.2
+- EFFECTS:
+id = table: 322cad9b, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.821, power = 0.7
+- EFFECTS:
+id = table: 396ef60c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 5aa852ba, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 21f012d1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 38f76677, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 39d5a9d7, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+- EFFECTS:
+id = table: 766739f3, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 3a12b444, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.821), type = 1, persistentType = 1, isBuff = false
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.752), TAKE 4993 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.868, power = 0.2
+- EFFECTS:
+id = table: 322cad9b, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.821, power = 0.7
+- EFFECTS:
+id = table: 5aa852ba, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 21f012d1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 38f76677, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 39d5a9d7, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+- EFFECTS:
+id = table: 766739f3, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 3a12b444, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.868, power = 0.7
+- EFFECTS:
+id = table: 322cad9b, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.752, power = 0.8
+- EFFECTS:
+id = table: 5aa852ba, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 21f012d1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 38f76677, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 39d5a9d7, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+- EFFECTS:
+id = table: 766739f3, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 3a12b444, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.836), TAKE 2492 damage, initiatorPower = 0.5, targetPower = 0.8
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.868, power = 0.7
+- EFFECTS:
+id = table: 322cad9b, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.752, power = 0.8
+- EFFECTS:
+id = table: 5aa852ba, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 21f012d1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 38f76677, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 39d5a9d7, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+- EFFECTS:
+id = table: 766739f3, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 3a12b444, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.836, power = 0.8
+- EFFECTS:
+id = table: 322cad9b, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.752, power = 0.8
+- EFFECTS:
+id = table: 5aa852ba, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 21f012d1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.86, power = 0.5
+- EFFECTS:
+id = table: 38f76677, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 39d5a9d7, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+- EFFECTS:
+id = table: 766739f3, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 3a12b444, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.777), TAKE 4587 damage, initiatorPower = 1, targetPower = 0.9
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.836, power = 0.8
+- EFFECTS:
+id = table: 322cad9b, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.752, power = 0.8
+- EFFECTS:
+id = table: 5aa852ba, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 21f012d1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.86, power = 0.5
+- EFFECTS:
+id = table: 38f76677, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 39d5a9d7, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+- EFFECTS:
+id = table: 766739f3, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 3a12b444, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.777, power = 0.9
+- EFFECTS:
+id = table: 322cad9b, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.752, power = 1
+- EFFECTS:
+id = table: 5aa852ba, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 21f012d1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.86, power = 0.5
+- EFFECTS:
+id = table: 38f76677, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 39d5a9d7, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+- EFFECTS:
+id = table: 766739f3, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 3a12b444, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.745), TAKE 2492 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.777, power = 0.9
+- EFFECTS:
+id = table: 322cad9b, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.752, power = 1
+- EFFECTS:
+id = table: 5aa852ba, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 21f012d1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.86, power = 0.5
+- EFFECTS:
+id = table: 38f76677, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 39d5a9d7, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+- EFFECTS:
+id = table: 766739f3, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 3a12b444, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.745, power = 1
+- EFFECTS:
+id = table: 322cad9b, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.752, power = 1
+- EFFECTS:
+id = table: 5aa852ba, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 21f012d1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.86, power = 0.5
+- EFFECTS:
+id = table: 38f76677, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 39d5a9d7, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 766739f3, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 3a12b444, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 3 ----------
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.745), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.752), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.752), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.86), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.86), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 420, persistentType = 1, isBuff = true
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.72), TAKE 5487 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.6
+
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 0.86), TAKE 5487 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.62
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.745), type = 420, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.745, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.752, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.86, power = 0.5
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.745, power = 0
+- EFFECTS:
+id = table: 7575ba54, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.62
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.752, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.72, power = 0.6
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0.6
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.713), TAKE 2492 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.745, power = 0
+- EFFECTS:
+id = table: 7575ba54, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.62
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.752, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.72, power = 0.6
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.713, power = 0.1
+- EFFECTS:
+id = table: 7575ba54, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.752, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.72, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0.6
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.65), TAKE 4909 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.752), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.72), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 0.86), type = 420, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.713, power = 0.1
+- EFFECTS:
+id = table: 7575ba54, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.752, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.72, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.65, power = 0.2
+- EFFECTS:
+id = table: 7575ba54, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.752, power = 0
+- EFFECTS:
+id = table: 54b258b1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.72, power = 1
+- EFFECTS:
+id = table: 40bdd8e1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0.6
+- EFFECTS:
+id = table: 6fa2e426, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.602), TAKE 3738 damage, initiatorPower = 1, targetPower = 0.3 (CRIT)
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.65, power = 0.2
+- EFFECTS:
+id = table: 7575ba54, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.752, power = 0
+- EFFECTS:
+id = table: 54b258b1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.72, power = 1
+- EFFECTS:
+id = table: 40bdd8e1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0.6
+- EFFECTS:
+id = table: 6fa2e426, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.602, power = 0.3
+- EFFECTS:
+id = table: 7575ba54, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.752, power = 0
+- EFFECTS:
+id = table: 54b258b1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.72, power = 1
+- EFFECTS:
+id = table: 40bdd8e1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 6fa2e426, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.682), TAKE 4993 damage, initiatorPower = 0.8, targetPower = 0.1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.682), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.602, power = 0.3
+- EFFECTS:
+id = table: 7575ba54, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.752, power = 0
+- EFFECTS:
+id = table: 54b258b1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.72, power = 1
+- EFFECTS:
+id = table: 40bdd8e1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 6fa2e426, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.602, power = 0.8
+- EFFECTS:
+id = table: 7575ba54, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.682, power = 0.1
+- EFFECTS:
+id = table: 54b258b1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 375d549c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.72, power = 1
+- EFFECTS:
+id = table: 40bdd8e1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 6fa2e426, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.567), TAKE 2666 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.682), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.72), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 0.86), type = 420, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.602, power = 0.8
+- EFFECTS:
+id = table: 7575ba54, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.682, power = 0.1
+- EFFECTS:
+id = table: 54b258b1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 375d549c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.72, power = 1
+- EFFECTS:
+id = table: 40bdd8e1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 6fa2e426, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.567, power = 0.9
+- EFFECTS:
+id = table: 7575ba54, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.682, power = 0.1
+- EFFECTS:
+id = table: 54b258b1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 375d549c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 71ecf516, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.72, power = 0
+- EFFECTS:
+id = table: 40bdd8e1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 5fb8411a, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 6fa2e426, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 27430d1f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.533), TAKE 2666 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.682), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.72), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 0.86), type = 420, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.567, power = 0.9
+- EFFECTS:
+id = table: 7575ba54, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.682, power = 0.1
+- EFFECTS:
+id = table: 54b258b1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 375d549c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 71ecf516, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.72, power = 0
+- EFFECTS:
+id = table: 40bdd8e1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 5fb8411a, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 6fa2e426, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 27430d1f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.533, power = 1
+- EFFECTS:
+id = table: 7575ba54, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.682, power = 0.1
+- EFFECTS:
+id = table: 54b258b1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 375d549c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 71ecf516, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7a6754df, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.72, power = 0
+- EFFECTS:
+id = table: 40bdd8e1, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 5fb8411a, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6cb55ac0, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 6fa2e426, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 27430d1f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 711866dd, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 5 ----------
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.533), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.682), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.72), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 0.86), type = 420, persistentType = 1, isBuff = true
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.608), TAKE 5343 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.58), TAKE 5487 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.88
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.533), type = 420, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.533, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.682, power = 0.1
+- EFFECTS:
+id = table: 375d549c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 71ecf516, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7a6754df, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.72, power = 0
+- EFFECTS:
+id = table: 5fb8411a, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6cb55ac0, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 27430d1f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 711866dd, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.533, power = 0
+- EFFECTS:
+id = table: 4e8ca614, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 0.2
+- EFFECTS:
+id = table: 375d549c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 71ecf516, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7a6754df, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0.1
+- EFFECTS:
+id = table: 5fb8411a, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6cb55ac0, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 27430d1f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 711866dd, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.501), TAKE 2492 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.501), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.533, power = 0
+- EFFECTS:
+id = table: 4e8ca614, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 0.2
+- EFFECTS:
+id = table: 375d549c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 71ecf516, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7a6754df, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0.1
+- EFFECTS:
+id = table: 5fb8411a, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6cb55ac0, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 27430d1f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 711866dd, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.501, power = 0.1
+- EFFECTS:
+id = table: 4e8ca614, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: e0dc2b6, type = 1, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 0.2
+- EFFECTS:
+id = table: 375d549c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 71ecf516, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7a6754df, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0.6
+- EFFECTS:
+id = table: 5fb8411a, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6cb55ac0, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 27430d1f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 711866dd, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.453), TAKE 3738 damage, initiatorPower = 0.5, targetPower = 0.2 (CRIT)
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.58
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.501, power = 0.1
+- EFFECTS:
+id = table: 4e8ca614, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: e0dc2b6, type = 1, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 0.2
+- EFFECTS:
+id = table: 375d549c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 71ecf516, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7a6754df, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0.6
+- EFFECTS:
+id = table: 5fb8411a, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6cb55ac0, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 27430d1f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 711866dd, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.453, power = 0.2
+- EFFECTS:
+id = table: 4e8ca614, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: e0dc2b6, type = 1, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 0.2
+- EFFECTS:
+id = table: 375d549c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 71ecf516, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7a6754df, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0.6
+- EFFECTS:
+id = table: 5fb8411a, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6cb55ac0, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0.5
+- EFFECTS:
+id = table: 27430d1f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 711866dd, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.411), TAKE 3314 damage, initiatorPower = 0, targetPower = 0.3 (CRIT)
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.6
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.411), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.453, power = 0.2
+- EFFECTS:
+id = table: 4e8ca614, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: e0dc2b6, type = 1, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 0.2
+- EFFECTS:
+id = table: 375d549c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 71ecf516, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7a6754df, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0.6
+- EFFECTS:
+id = table: 5fb8411a, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6cb55ac0, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0.5
+- EFFECTS:
+id = table: 27430d1f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 711866dd, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.411, power = 0.3
+- EFFECTS:
+id = table: 4e8ca614, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: e0dc2b6, type = 1, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+id = table: 4828faed, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 0.2
+- EFFECTS:
+id = table: 375d549c, type = 1, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 71ecf516, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7a6754df, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0.6
+- EFFECTS:
+id = table: 5fb8411a, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6cb55ac0, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0.5
+- EFFECTS:
+id = table: 27430d1f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 711866dd, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 6 ----------
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.608), type = 1, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.608), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.608), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.58), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.58), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 0.86), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 0.86), type = 420, persistentType = 1, isBuff = true
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.352), TAKE 4587 damage, initiatorPower = 0.7, targetPower = 0.4
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.62
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.411, power = 0.3
+- EFFECTS:
+id = table: 4e8ca614, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: e0dc2b6, type = 1, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 4828faed, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 0.2
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0.6
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.352, power = 0.4
+- EFFECTS:
+id = table: 4e8ca614, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: e0dc2b6, type = 1, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 4828faed, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 0.7
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0.6
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0.5
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.32), TAKE 2492 damage, initiatorPower = 1, targetPower = 0.5
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.64
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.352, power = 0.4
+- EFFECTS:
+id = table: 4e8ca614, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: e0dc2b6, type = 1, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 4828faed, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 0.7
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0.6
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.32, power = 0.5
+- EFFECTS:
+id = table: 4e8ca614, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: e0dc2b6, type = 1, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 4828faed, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.2
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 0.7
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0.5
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.288), TAKE 2492 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.288), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.32, power = 0.5
+- EFFECTS:
+id = table: 4e8ca614, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: e0dc2b6, type = 1, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 4828faed, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.2
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 0.7
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.288, power = 0.6
+- EFFECTS:
+id = table: 4e8ca614, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: e0dc2b6, type = 1, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 4828faed, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 7a3453bb, type = 1, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 0.7
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 1
+
+
+---------- AFTER ROUND 7 ----------
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.288), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.288), type = 1, persistentType = 1, isBuff = false
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.229), TAKE 4587 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.4
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.288, power = 0.6
+- EFFECTS:
+id = table: 4828faed, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 7a3453bb, type = 1, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 0.7
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.229, power = 0.7
+- EFFECTS:
+id = table: 4828faed, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 7a3453bb, type = 1, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 1
+
+
+TURN 2 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.195), TAKE 2666 damage, initiatorPower = 0, targetPower = 0.8
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.7
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.608), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.58), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 0.86), type = 420, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.229, power = 0.7
+- EFFECTS:
+id = table: 4828faed, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 7a3453bb, type = 1, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.195, power = 0.8
+- EFFECTS:
+id = table: 4828faed, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 7a3453bb, type = 1, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 1
+- EFFECTS:
+id = table: 51a3e6ef, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0
+- EFFECTS:
+id = table: 31db861f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 3e2bed5b, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.16), TAKE 2666 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.72
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.608), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.58), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 0.86), type = 420, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.195, power = 0.8
+- EFFECTS:
+id = table: 4828faed, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 7a3453bb, type = 1, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 1
+- EFFECTS:
+id = table: 51a3e6ef, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0
+- EFFECTS:
+id = table: 31db861f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 3e2bed5b, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.16, power = 0.9
+- EFFECTS:
+id = table: 4828faed, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 7a3453bb, type = 1, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 1
+- EFFECTS:
+id = table: 51a3e6ef, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 665ac8ae, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0
+- EFFECTS:
+id = table: 31db861f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 2880de14, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 3e2bed5b, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45865e65, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 8 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.16), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.16), type = 1, persistentType = 1, isBuff = false
+
+
+ROUND 9
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.504), TAKE 7490 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.16, power = 0.9
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.608, power = 1
+- EFFECTS:
+id = table: 51a3e6ef, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 665ac8ae, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0
+- EFFECTS:
+id = table: 31db861f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 2880de14, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 3e2bed5b, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45865e65, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.16, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.504, power = 1
+- EFFECTS:
+id = table: 51a3e6ef, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 665ac8ae, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0
+- EFFECTS:
+id = table: 31db861f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 2880de14, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 3e2bed5b, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45865e65, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.128), TAKE 2492 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.52
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.84
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.16, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.504, power = 1
+- EFFECTS:
+id = table: 51a3e6ef, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 665ac8ae, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0
+- EFFECTS:
+id = table: 31db861f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 2880de14, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 3e2bed5b, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45865e65, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.128, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.504, power = 1
+- EFFECTS:
+id = table: 51a3e6ef, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 665ac8ae, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0.5
+- EFFECTS:
+id = table: 31db861f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 2880de14, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 3e2bed5b, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45865e65, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.065), TAKE 4909 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.86
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.504), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.58), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 0.86), type = 420, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.128, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.504, power = 1
+- EFFECTS:
+id = table: 51a3e6ef, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 665ac8ae, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0.5
+- EFFECTS:
+id = table: 31db861f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 2880de14, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 3e2bed5b, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45865e65, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.065, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.504, power = 0
+- EFFECTS:
+id = table: 51a3e6ef, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 665ac8ae, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 24a622bb, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0.5
+- EFFECTS:
+id = table: 31db861f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 2880de14, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 14898139, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 3e2bed5b, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45865e65, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 3a578dc2, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.033), TAKE 2492 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.62
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.88
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.065, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.504, power = 0
+- EFFECTS:
+id = table: 51a3e6ef, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 665ac8ae, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 24a622bb, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0.5
+- EFFECTS:
+id = table: 31db861f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 2880de14, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 14898139, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 3e2bed5b, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45865e65, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 3a578dc2, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.033, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.62
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.504, power = 0
+- EFFECTS:
+id = table: 51a3e6ef, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 665ac8ae, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 24a622bb, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0.5
+- EFFECTS:
+id = table: 31db861f, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 2880de14, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 14898139, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0.5
+- EFFECTS:
+id = table: 3e2bed5b, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45865e65, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 3a578dc2, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 9 ----------
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.504), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.504), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.58), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.58), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 0.86), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 0.86), type = 420, persistentType = 1, isBuff = true
+
+
+ROUND 10
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.429), TAKE 5343 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.64
+
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 0.72), TAKE 5487 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.033), type = 420, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.033, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.62
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.504, power = 0
+- EFFECTS:
+id = table: 24a622bb, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0.5
+- EFFECTS:
+id = table: 14898139, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.86, power = 0.5
+- EFFECTS:
+id = table: 3a578dc2, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.033, power = 0
+- EFFECTS:
+id = table: 4d55999b, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.429, power = 0.1
+- EFFECTS:
+id = table: 24a622bb, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0.5
+- EFFECTS:
+id = table: 14898139, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.72, power = 0.6
+- EFFECTS:
+id = table: 3a578dc2, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0.001), TAKE 2492 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.76
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.9
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.033, power = 0
+- EFFECTS:
+id = table: 4d55999b, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.429, power = 0.1
+- EFFECTS:
+id = table: 24a622bb, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 0.5
+- EFFECTS:
+id = table: 14898139, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.72, power = 0.6
+- EFFECTS:
+id = table: 3a578dc2, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.001, power = 0.1
+- EFFECTS:
+id = table: 4d55999b, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.429, power = 0.1
+- EFFECTS:
+id = table: 24a622bb, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 1
+- EFFECTS:
+id = table: 14898139, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.72, power = 0.6
+- EFFECTS:
+id = table: 3a578dc2, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 4587 damage, initiatorPower = 0.6, targetPower = 0
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.92
+
+
+[DEAD_FOR_DISPLAY] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0.001, power = 0.1
+- EFFECTS:
+id = table: 4d55999b, type = 420, initiator = [Aesa 10015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.429, power = 0.1
+- EFFECTS:
+id = table: 24a622bb, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 1
+- EFFECTS:
+id = table: 14898139, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.72, power = 0.6
+- EFFECTS:
+id = table: 3a578dc2, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.429, power = 0.6
+- EFFECTS:
+id = table: 24a622bb, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 1
+- EFFECTS:
+id = table: 14898139, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.72, power = 0.6
+- EFFECTS:
+id = table: 3a578dc2, type = 420, initiator = [Aesa 10015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 10 ----------
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 1)] (hp = 0.429), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 2)] (hp = 0.58), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, FRONT, POS 3)] (hp = 0.72), type = 420, persistentType = 1, isBuff = true
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Aesa 10015 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 1)] hp = 0.429, power = 0.6
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 2)] hp = 0.58, power = 1
+
+> [Aesa 10015 (TEAM 2, FRONT, POS 3)] hp = 0.72, power = 0.6
+
+<> STATISTICS:
+[Aesa 10015 (TEAM 2, FRONT, POS 3)] DamageDeal = 25442, DamageTaken = 11825.64, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 58f3c970, count = 2
+	[1 (number)] = 17444 (number)
+	[2 (number)] = 7998 (number)
+
+	Damage taken by sources: Dictionary = table: 2b1b1e, count = 1
+	[2 (number)] = 11825.64 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 614af44, count = 9
+	[6003 (number)] = 3738 (number)
+	[3004 (number)] = 2492 (number)
+	[9004 (number)] = 2492 (number)
+	[5003 (number)] = 2666 (number)
+	[8003 (number)] = 2666 (number)
+	[2003 (number)] = 2666 (number)
+	[7003 (number)] = 2492 (number)
+	[1003 (number)] = 2492 (number)
+	[4004 (number)] = 3738 (number)
+
+	Damage taken history: Dictionary = table: 67ec675c, count = 2
+	[4001 (number)] = 5912.82 (number)
+	[10001 (number)] = 5912.82 (number)
+
+	Effect created history: Dictionary = table: 21128a98, count = 1
+	[1 (number)] = 2 (number)
+
+	Stat changer buff created history: Dictionary = table: 7939864f, count = 1
+	[20 (number)] = 2694.6 (number)
+
+[Aesa 10015 (TEAM 1, FRONT, POS 1)] DamageDeal = 68430, DamageTaken = 91589.46, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5a7468a3, count = 2
+	[1 (number)] = 24966 (number)
+	[2 (number)] = 43464 (number)
+
+	Damage taken by sources: Dictionary = table: 5e263236, count = 2
+	[1 (number)] = 59198 (number)
+	[2 (number)] = 32391.46 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6b552520, count = 8
+	[1001 (number)] = 7490 (number)
+	[6001 (number)] = 10830 (number)
+	[5001 (number)] = 4993 (number)
+	[4001 (number)] = 10974 (number)
+	[3001 (number)] = 4993 (number)
+	[10001 (number)] = 10830 (number)
+	[2001 (number)] = 10830 (number)
+	[9001 (number)] = 7490 (number)
+
+	Damage taken history: Dictionary = table: 5eebcdfb, count = 26
+	[4002 (number)] = 2771 (number)
+	[8001 (number)] = 5101 (number)
+	[4003 (number)] = 5458.07 (number)
+	[8002 (number)] = 2964.97 (number)
+	[4004 (number)] = 4156.5 (number)
+	[8003 (number)] = 2964.97 (number)
+	[1002 (number)] = 2771 (number)
+	[1003 (number)] = 2771 (number)
+	[5002 (number)] = 2964.97 (number)
+	[5003 (number)] = 2964.97 (number)
+	[9002 (number)] = 2771 (number)
+	[9003 (number)] = 5458.07 (number)
+	[9004 (number)] = 2771 (number)
+	[2002 (number)] = 2964.97 (number)
+	[2003 (number)] = 2964.97 (number)
+	[6002 (number)] = 2771 (number)
+	[6003 (number)] = 4156.5 (number)
+	[10002 (number)] = 2771 (number)
+	[6004 (number)] = 3685.5 (number)
+	[10003 (number)] = 5101 (number)
+	[7001 (number)] = 5101 (number)
+	[3002 (number)] = 2771 (number)
+	[3003 (number)] = 5101 (number)
+	[7002 (number)] = 2771 (number)
+	[3004 (number)] = 2771 (number)
+	[7003 (number)] = 2771 (number)
+
+	Effect created history: Dictionary = table: 272387f5, count = 1
+	[1 (number)] = 4 (number)
+
+	Stat changer buff created history: Dictionary = table: 487ba6a5, count = 1
+	[20 (number)] = 1197.6 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 3314, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: a45f6af, count = 1
+	[2 (number)] = 3314 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: ac16609, count = 1
+	[6004 (number)] = 3314 (number)
+
+	Stat changer debuff created history: Dictionary = table: 3166548b, count = 1
+	[4 (number)] = 60 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+[Aesa 10015 (TEAM 2, FRONT, POS 1)] DamageDeal = 28166, DamageTaken = 45368.46, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 24bd828c, count = 2
+	[1 (number)] = 18348 (number)
+	[2 (number)] = 9818 (number)
+
+	Damage taken by sources: Dictionary = table: 168f83a, count = 2
+	[1 (number)] = 27630 (number)
+	[2 (number)] = 17738.46 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 982730, count = 6
+	[8001 (number)] = 4587 (number)
+	[3003 (number)] = 4587 (number)
+	[10003 (number)] = 4587 (number)
+	[7001 (number)] = 4587 (number)
+	[9003 (number)] = 4909 (number)
+	[4003 (number)] = 4909 (number)
+
+	Damage taken history: Dictionary = table: 3d9e9a4, count = 7
+	[1001 (number)] = 8289 (number)
+	[6001 (number)] = 5912.82 (number)
+	[5001 (number)] = 5526 (number)
+	[3001 (number)] = 5526 (number)
+	[10001 (number)] = 5912.82 (number)
+	[2001 (number)] = 5912.82 (number)
+	[9001 (number)] = 8289 (number)
+
+	Stat changer buff created history: Dictionary = table: 4bb8b2b1, count = 1
+	[20 (number)] = 1796.4 (number)
+
+[Aesa 10015 (TEAM 2, FRONT, POS 2)] DamageDeal = 25442, DamageTaken = 17738.46, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: d573ad4, count = 2
+	[1 (number)] = 17444 (number)
+	[2 (number)] = 7998 (number)
+
+	Damage taken by sources: Dictionary = table: 4c373de9, count = 1
+	[2 (number)] = 17738.46 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: ef7902, count = 10
+	[3002 (number)] = 2492 (number)
+	[6002 (number)] = 2492 (number)
+	[9002 (number)] = 2492 (number)
+	[5002 (number)] = 2666 (number)
+	[8002 (number)] = 2666 (number)
+	[2002 (number)] = 2666 (number)
+	[4002 (number)] = 2492 (number)
+	[7002 (number)] = 2492 (number)
+	[1002 (number)] = 2492 (number)
+	[10002 (number)] = 2492 (number)
+
+	Damage taken history: Dictionary = table: e4c7e94, count = 3
+	[2001 (number)] = 5912.82 (number)
+	[6001 (number)] = 5912.82 (number)
+	[4001 (number)] = 5912.82 (number)
+
+	Effect created history: Dictionary = table: 3a796413, count = 1
+	[1 (number)] = 2 (number)
+
+	Stat changer buff created history: Dictionary = table: 4fd4dec0, count = 1
+	[20 (number)] = 2694.6 (number)
+
+
+<> WINNER: 2

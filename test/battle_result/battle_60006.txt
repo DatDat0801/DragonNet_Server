@@ -1,0 +1,2281 @@
+
+<> SEED = 251332446
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 60
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)]
+star = 2
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 798
+defense = 97
+hp = 10247/10247
+speed = 43
+critRate = 0.1
+critDamage = 1.5
+accuracy = 974
+dodge = 974
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 2fecc416, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 19579086, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 4690cca1, type = 403, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 5107
+defense = 512
+hp = 54596/54596
+speed = 81
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1329
+dodge = 1727.7
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 6d49203c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 64f9b13d, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 410fce84, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 65e34e59, type = 421, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 2835c599, type = 401, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2d7c0cf0, type = 403, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 6384
+defense = 512
+hp = 43677/43677
+speed = 81
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1329
+dodge = 1727.7
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 1ece9fb, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 4759700a, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 211cfa2b, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 5c2c3fa8, type = 421, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 2efddbd7, type = 401, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 41c66ca6, type = 401, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)]
+star = 1
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 500
+defense = 60
+hp = 6423/6423
+speed = 35
+critRate = 0.1
+critDamage = 1.5
+accuracy = 886
+dodge = 886
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 64234cee, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 594feebd, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 22283722, type = 403, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 5107
+defense = 512
+hp = 54596/54596
+speed = 81
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1329
+dodge = 1727.7
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 192cb520, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 4646799, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 22f85bae, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 5e817f64, type = 421, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 54d5baa4, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 7a5e1000, type = 403, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 5107
+defense = 512
+hp = 54596/54596
+speed = 81
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1329
+dodge = 1727.7
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 73aa5708, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 46c070be, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 3fb9f258, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 1e0ae0b0, type = 421, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7733b40e, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 13ef47f8, type = 403, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, FRONT, POS 1)] => [Hehta 60006 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Hehta 60006 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Hehta 60006 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 7309 damage, initiatorPower = 1, targetPower = 0 (CRIT)
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[DEAD_FOR_DISPLAY] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6d49203c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1ece9fb, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 192cb520, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 73aa5708, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6d49203c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1ece9fb, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 192cb520, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 73aa5708, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.893), TAKE 5830 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[RESIST_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 1), effectType = 10
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6d49203c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1ece9fb, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 192cb520, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 73aa5708, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6d49203c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1ece9fb, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.893, power = 0.6
+- EFFECTS:
+id = table: 192cb520, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 73aa5708, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, FRONT, POS 1)] (hp = 0.526), TAKE 4854 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, FRONT, POS 1)] (hp = 0.526), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, FRONT, POS 1)] (hp = 0.195), TAKE 3398 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6d49203c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1ece9fb, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.893, power = 0.6
+- EFFECTS:
+id = table: 192cb520, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 73aa5708, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0.195, power = 0.6
+- EFFECTS:
+id = table: 32b36fd6, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6d49203c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1ece9fb, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.893, power = 1
+- EFFECTS:
+id = table: 192cb520, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 73aa5708, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 4854 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[DEAD_FOR_DISPLAY] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0.195, power = 0.6
+- EFFECTS:
+id = table: 32b36fd6, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6d49203c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1ece9fb, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.893, power = 1
+- EFFECTS:
+id = table: 192cb520, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 73aa5708, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6d49203c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1ece9fb, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.893, power = 1
+- EFFECTS:
+id = table: 192cb520, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 73aa5708, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.748), TAKE 7932 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.903), TAKE 5288 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[RESIST_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 1), effectType = 20
+
+
+[RESIST_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 1), effectType = 20
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6d49203c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1ece9fb, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.893, power = 1
+- EFFECTS:
+id = table: 192cb520, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 73aa5708, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 6d49203c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1ece9fb, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.748, power = 1
+- EFFECTS:
+id = table: 192cb520, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.903, power = 1
+- EFFECTS:
+id = table: 73aa5708, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.627), TAKE 6610 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.782), TAKE 6610 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[RESIST_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 1), effectType = 20
+
+
+[RESIST_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 1), effectType = 20
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 6d49203c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1ece9fb, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.748, power = 1
+- EFFECTS:
+id = table: 192cb520, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.903, power = 1
+- EFFECTS:
+id = table: 73aa5708, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 6d49203c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 1ece9fb, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.627, power = 1
+- EFFECTS:
+id = table: 192cb520, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.782, power = 1
+- EFFECTS:
+id = table: 73aa5708, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0.855), TAKE 7932 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.879), TAKE 5288 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[RESIST_EFFECT] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.627), effectType = 20
+
+
+[RESIST_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.627), effectType = 20
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 6d49203c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 1ece9fb, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.627, power = 1
+- EFFECTS:
+id = table: 192cb520, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.782, power = 1
+- EFFECTS:
+id = table: 73aa5708, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0.855, power = 0.1
+- EFFECTS:
+id = table: 6d49203c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.879, power = 0.1
+- EFFECTS:
+id = table: 1ece9fb, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.627, power = 0
+- EFFECTS:
+id = table: 192cb520, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.782, power = 1
+- EFFECTS:
+id = table: 73aa5708, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0.758), TAKE 5288 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.758), TAKE 5288 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[RESIST_EFFECT] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.782), effectType = 20
+
+
+[RESIST_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.782), effectType = 20
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0.855, power = 0.1
+- EFFECTS:
+id = table: 6d49203c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.879, power = 0.1
+- EFFECTS:
+id = table: 1ece9fb, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.627, power = 0
+- EFFECTS:
+id = table: 192cb520, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.782, power = 1
+- EFFECTS:
+id = table: 73aa5708, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0.758, power = 0.2
+- EFFECTS:
+id = table: 6d49203c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.758, power = 0.2
+- EFFECTS:
+id = table: 1ece9fb, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.627, power = 0
+- EFFECTS:
+id = table: 192cb520, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.782, power = 0
+- EFFECTS:
+id = table: 73aa5708, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0.758), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.758), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.627), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.782), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.541), TAKE 4663 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.541), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.482), TAKE 3264 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.482), type = 401, persistentType = 52, isBuff = true
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.482), type = 410, persistentType = 52, isBuff = true
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.482), type = 411, persistentType = 52, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0.758, power = 0.2
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.758, power = 0.2
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.627, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.782, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0.758, power = 0.7
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.758, power = 0.2
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.482, power = 0.1
+- EFFECTS:
+id = table: 42e870ea, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: bae1767, type = 410, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 615741d8, type = 411, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 48335ffb, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.782, power = 0
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.402) (GLANCING), TAKE 4372 damage, initiatorPower = 0.7, targetPower = 0.2 (CRIT)
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.402), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.327), TAKE 4080 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0.758, power = 0.7
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.758, power = 0.2
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.482, power = 0.1
+- EFFECTS:
+id = table: 42e870ea, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: bae1767, type = 410, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 615741d8, type = 411, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 48335ffb, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.782, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0.758, power = 0.7
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.758, power = 0.7
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.327, power = 0.2
+- EFFECTS:
+id = table: 42e870ea, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: bae1767, type = 410, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 615741d8, type = 411, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 48335ffb, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 495d0937, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.782, power = 0
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0.633), TAKE 6801 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0.633), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0.546), TAKE 4760 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0.546), type = 401, persistentType = 52, isBuff = true
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0.546), type = 410, persistentType = 52, isBuff = true
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0.546), type = 411, persistentType = 52, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0.758, power = 0.7
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.758, power = 0.7
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.327, power = 0.2
+- EFFECTS:
+id = table: 42e870ea, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: bae1767, type = 410, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 615741d8, type = 411, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 48335ffb, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 495d0937, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.782, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0.546, power = 0.8
+- EFFECTS:
+id = table: 32332a54, type = 401, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: 69b1e44b, type = 410, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 3b2fa201, type = 411, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 1a1a00e2, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.758, power = 0.7
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.327, power = 0.7
+- EFFECTS:
+id = table: 42e870ea, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: bae1767, type = 410, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 615741d8, type = 411, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 48335ffb, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 495d0937, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.782, power = 0
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0.461), TAKE 4663 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0.461), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0.401), TAKE 3264 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0.546, power = 0.8
+- EFFECTS:
+id = table: 32332a54, type = 401, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: 69b1e44b, type = 410, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 3b2fa201, type = 411, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 1a1a00e2, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.758, power = 0.7
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.327, power = 0.7
+- EFFECTS:
+id = table: 42e870ea, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: bae1767, type = 410, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 615741d8, type = 411, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 48335ffb, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 495d0937, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.782, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0.401, power = 0.9
+- EFFECTS:
+id = table: 32332a54, type = 401, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: 69b1e44b, type = 410, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 3b2fa201, type = 411, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 1a1a00e2, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 3150e87f, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.758, power = 0.7
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.327, power = 0.7
+- EFFECTS:
+id = table: 42e870ea, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: bae1767, type = 410, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 615741d8, type = 411, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 48335ffb, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 495d0937, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.782, power = 0.5
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 4 ----------
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0.314), TAKE 4760 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0.254), TAKE 3264 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.24), TAKE 4760 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.165), TAKE 4080 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.04), TAKE 6801 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0.04), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0), TAKE 4760 damage, remainingRound = 3
+
+
+[DEAD_FOR_DISPLAY] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 12
+
+
+[DEAD] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [Hehta 60006 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0.254, power = 0.9
+- EFFECTS:
+id = table: 1a1a00e2, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 3150e87f, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 32332a54, type = 401, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: 69b1e44b, type = 410, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 3b2fa201, type = 411, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.758, power = 0.7
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0.165, power = 0.7
+- EFFECTS:
+id = table: 48335ffb, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 495d0937, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 42e870ea, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: bae1767, type = 410, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 615741d8, type = 411, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.782, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0.254, power = 1
+- EFFECTS:
+id = table: 1a1a00e2, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 3150e87f, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 32332a54, type = 401, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: 69b1e44b, type = 410, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 3b2fa201, type = 411, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.758, power = 0.7
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+- EFFECTS:
+id = table: 5725c1a2, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.782, power = 0.5
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.675), TAKE 5830 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.76
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.6
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.675), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.601), TAKE 4080 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0.254, power = 1
+- EFFECTS:
+id = table: 1a1a00e2, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 3150e87f, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 32332a54, type = 401, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: 69b1e44b, type = 410, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 3b2fa201, type = 411, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.758, power = 0.7
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+- EFFECTS:
+id = table: 5725c1a2, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.782, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0.254, power = 1
+- EFFECTS:
+id = table: 1a1a00e2, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 3150e87f, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 32332a54, type = 401, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: 69b1e44b, type = 410, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 3b2fa201, type = 411, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.758, power = 1
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+- EFFECTS:
+id = table: 5725c1a2, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.601, power = 0.6
+- EFFECTS:
+id = table: 115c4eed, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0.169), TAKE 4663 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0.169), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0.109), TAKE 3264 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0.254, power = 1
+- EFFECTS:
+id = table: 1a1a00e2, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 3150e87f, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 32332a54, type = 401, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: 69b1e44b, type = 410, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 3b2fa201, type = 411, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.758, power = 1
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+- EFFECTS:
+id = table: 5725c1a2, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.601, power = 0.6
+- EFFECTS:
+id = table: 115c4eed, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0.109, power = 1
+- EFFECTS:
+id = table: 1a1a00e2, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 3150e87f, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 32332a54, type = 401, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: 69b1e44b, type = 410, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 3b2fa201, type = 411, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 5b8b5134, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.758, power = 1
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+- EFFECTS:
+id = table: 5725c1a2, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.601, power = 1
+- EFFECTS:
+id = table: 115c4eed, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 5 ----------
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 2)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0.049), TAKE 3264 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0), TAKE 3264 damage, remainingRound = 1
+
+
+[DEAD_FOR_DISPLAY] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0), reason = 12
+
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.526), TAKE 4080 damage, remainingRound = 2
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.526), type = 401, persistentType = 52, isBuff = true
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.526), type = 410, persistentType = 52, isBuff = true
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.526), type = 411, persistentType = 52, isBuff = true
+
+
+[DEAD] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, FRONT, POS 2)] (hp = 0), reason = 12
+
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.405), TAKE 6610 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.405), type = 401, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.405), type = 404, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.405), type = 441, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.758, power = 1
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+- EFFECTS:
+id = table: 5725c1a2, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.526, power = 1
+- EFFECTS:
+id = table: 115c4eed, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 6d2e592a, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: 14ffbdfc, type = 410, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 67a7b2a8, type = 411, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.758, power = 0
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+- EFFECTS:
+id = table: 5725c1a2, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.405, power = 1
+- EFFECTS:
+id = table: 115c4eed, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 6d2e592a, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: 14ffbdfc, type = 410, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 67a7b2a8, type = 411, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 66a44d99, type = 401, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 79dcaf6e, type = 404, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 1025fdf4, type = 441, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.429), TAKE 14344 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.429), type = 401, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.429), type = 404, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.429), type = 441, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.429), type = 401, persistentType = 52, isBuff = true
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.429), type = 410, persistentType = 52, isBuff = true
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.429), type = 411, persistentType = 52, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.758, power = 0
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+- EFFECTS:
+id = table: 5725c1a2, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.405, power = 1
+- EFFECTS:
+id = table: 115c4eed, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 6d2e592a, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: 14ffbdfc, type = 410, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 67a7b2a8, type = 411, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 66a44d99, type = 401, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 79dcaf6e, type = 404, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 1025fdf4, type = 441, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.429, power = 0.1
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4a4d3faa, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: ec17bff, type = 404, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 127a0296, type = 441, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2d8f9770, type = 401, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: e1c4d04, type = 410, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: b07d1bb, type = 411, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+- EFFECTS:
+id = table: 5725c1a2, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.405, power = 0
+- EFFECTS:
+id = table: 115c4eed, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 6d2e592a, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: 14ffbdfc, type = 410, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 67a7b2a8, type = 411, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 66a44d99, type = 401, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 79dcaf6e, type = 404, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 1025fdf4, type = 441, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 6 ----------
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.309), TAKE 5242 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.172), TAKE 7489 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.9
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.74
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.172), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.076), TAKE 5242 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.429, power = 0.1
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4a4d3faa, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: ec17bff, type = 404, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 127a0296, type = 441, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2d8f9770, type = 401, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: e1c4d04, type = 410, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: b07d1bb, type = 411, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+- EFFECTS:
+id = table: 5725c1a2, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.309, power = 0
+- EFFECTS:
+id = table: 115c4eed, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 6d2e592a, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: 14ffbdfc, type = 410, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 67a7b2a8, type = 411, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 66a44d99, type = 401, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 79dcaf6e, type = 404, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 1025fdf4, type = 441, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.429, power = 0.6
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4a4d3faa, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: ec17bff, type = 404, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 127a0296, type = 441, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2d8f9770, type = 401, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: e1c4d04, type = 410, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: b07d1bb, type = 411, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+- EFFECTS:
+id = table: 5725c1a2, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.076, power = 0.1
+- EFFECTS:
+id = table: 115c4eed, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 6d2e592a, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: 14ffbdfc, type = 410, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 67a7b2a8, type = 411, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 66a44d99, type = 401, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 79dcaf6e, type = 404, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 1025fdf4, type = 441, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 49ab0cff, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Hehta 60006 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.286), TAKE 6274 damage, initiatorPower = 0.6, targetPower = 0.7
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+[CHANGE_POWER] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.92
+
+
+[ADD_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.286), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.185), TAKE 4392 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.429, power = 0.6
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4a4d3faa, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: ec17bff, type = 404, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 127a0296, type = 441, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2d8f9770, type = 401, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: e1c4d04, type = 410, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: b07d1bb, type = 411, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+- EFFECTS:
+id = table: 5725c1a2, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.076, power = 0.1
+- EFFECTS:
+id = table: 115c4eed, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 6d2e592a, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: 14ffbdfc, type = 410, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 67a7b2a8, type = 411, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 66a44d99, type = 401, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 79dcaf6e, type = 404, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 1025fdf4, type = 441, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 49ab0cff, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.185, power = 0.7
+- EFFECTS:
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4a4d3faa, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: ec17bff, type = 404, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 127a0296, type = 441, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2d8f9770, type = 401, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: e1c4d04, type = 410, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: b07d1bb, type = 411, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 18ce36ad, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+- EFFECTS:
+id = table: 5725c1a2, type = 10, initiator = [Hehta 60006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.7
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0.076, power = 0.6
+- EFFECTS:
+id = table: 115c4eed, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 6d2e592a, type = 401, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.55, changerType = 3, multiplier = 1
+id = table: 14ffbdfc, type = 410, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 67a7b2a8, type = 411, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.6, changerType = 3, multiplier = 1
+id = table: 66a44d99, type = 401, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 79dcaf6e, type = 404, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 1025fdf4, type = 441, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 49ab0cff, type = 10, initiator = [Hehta 60006 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.7
+
+
+---------- AFTER ROUND 6 ----------
+
+[REMOVE_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0.076), type = 10, persistentType = 1, isBuff = false
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 7 ----------
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.085), TAKE 4392 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0), TAKE 5242 damage, remainingRound = 2
+
+
+[DEAD_FOR_DISPLAY] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0), reason = 12
+
+
+[DEAD] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 2, FRONT, POS 3)] (hp = 0), reason = 12
+
+
+---------- AFTER ROUND 7 ----------
+
+[REMOVE_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.085), type = 401, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.085), type = 404, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Hehta 60006 (TEAM 2, FRONT, POS 3)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.085), type = 441, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.085), type = 401, persistentType = 52, isBuff = true
+
+
+[REMOVE_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.085), type = 410, persistentType = 52, isBuff = true
+
+
+[REMOVE_EFFECT] [Hehta 60006 (TEAM 1, BACK, POS 1)] => [Hehta 60006 (TEAM 1, BACK, POS 1)] (hp = 0.085), type = 411, persistentType = 52, isBuff = true
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 1, BACK, POS 1)] hp = 0.085, power = 0.7
+- EFFECTS:
+id = table: 18ce36ad, type = 10, initiator = [Hehta 60006 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.7
+id = table: 3ea86cac, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Hehta 60006 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+<> STATISTICS:
+[SummonerMage (TEAM 2)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: 74563cdd, count = 1
+	[501 (number)] = 4 (number)
+
+[Hehta 60006 (TEAM 1, FRONT, POS 2)] DamageDeal = 44777, DamageTaken = 60442.047, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 41e9b1e5, count = 3
+	[1 (number)] = 18773 (number)
+	[2 (number)] = 13220 (number)
+	[12 (number)] = 12784 (number)
+
+	Damage taken by sources: Dictionary = table: 50b481d3, count = 3
+	[1 (number)] = 17662 (number)
+	[2 (number)] = 14478.345 (number)
+	[12 (number)] = 28301.7 (number)
+
+	NumberKill = 2, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 3926be36, count = 5
+	[1001 (number)] = 7309 (number)
+	[4000 (number)] = 4760 (number)
+	[4001 (number)] = 11561 (number)
+	[3001 (number)] = 7927 (number)
+	[2001 (number)] = 13220 (number)
+
+	Damage taken history: Dictionary = table: 7c53dd1b, count = 7
+	[3003 (number)] = 12661.6 (number)
+	[2003 (number)] = 8687.007 (number)
+	[3004 (number)] = 8681.9 (number)
+	[2004 (number)] = 5791.338 (number)
+	[5000 (number)] = 7149.8 (number)
+	[4000 (number)] = 8788.5 (number)
+	[4003 (number)] = 8681.9 (number)
+
+	Effect created history: Dictionary = table: 70393ded, count = 1
+	[10 (number)] = 6 (number)
+
+	Stat changer buff created history: Dictionary = table: 4f78020, count = 3
+	[1 (number)] = 7023 (number)
+	[10 (number)] = 0.9 (number)
+	[11 (number)] = 1.8 (number)
+
+[Hehta 60006 (TEAM 1, FRONT, POS 1)] DamageDeal = 0, DamageTaken = 13788.9, HpHeal = 0, HpHealTaken = 0
+	Damage taken by sources: Dictionary = table: 82c4986, count = 2
+	[1 (number)] = 10214 (number)
+	[12 (number)] = 3574.9 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage taken history: Dictionary = table: 6af5e69d, count = 2
+	[1003 (number)] = 8681.9 (number)
+	[1004 (number)] = 5107 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: 531a787b, count = 2
+	[501 (number)] = 4 (number)
+	[112 (number)] = 0 (number)
+
+[Hehta 60006 (TEAM 2, FRONT, POS 1)] DamageDeal = 0, DamageTaken = 7660.5, HpHeal = 0, HpHealTaken = 0
+	Damage taken by sources: Dictionary = table: 6bd414b8, count = 1
+	[1 (number)] = 7660.5 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage taken history: Dictionary = table: 15e103d, count = 1
+	[1001 (number)] = 7660.5 (number)
+
+[Hehta 60006 (TEAM 2, FRONT, POS 2)] DamageDeal = 41057, DamageTaken = 67381.164, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 44dadf85, count = 3
+	[1 (number)] = 11655 (number)
+	[2 (number)] = 13220 (number)
+	[12 (number)] = 16182 (number)
+
+	Damage taken by sources: Dictionary = table: 4403aec5, count = 3
+	[1 (number)] = 28515 (number)
+	[2 (number)] = 15926.463 (number)
+	[12 (number)] = 22939.7 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: f390329, count = 5
+	[3003 (number)] = 11561 (number)
+	[2003 (number)] = 13220 (number)
+	[1003 (number)] = 8252 (number)
+	[5000 (number)] = 3264 (number)
+	[4000 (number)] = 4760 (number)
+
+	Damage taken history: Dictionary = table: 7e17250b, count = 7
+	[2002 (number)] = 7239.456 (number)
+	[1002 (number)] = 6384 (number)
+	[4000 (number)] = 9682.4 (number)
+	[4001 (number)] = 12661.6 (number)
+	[3001 (number)] = 8681.9 (number)
+	[2001 (number)] = 8687.007 (number)
+	[3002 (number)] = 14044.8 (number)
+
+	Effect created history: Dictionary = table: 6ca3ebbb, count = 1
+	[10 (number)] = 6 (number)
+
+	Stat changer buff created history: Dictionary = table: 358f156c, count = 3
+	[1 (number)] = 7023 (number)
+	[10 (number)] = 0.9 (number)
+	[11 (number)] = 1.8 (number)
+
+[Hehta 60006 (TEAM 2, FRONT, POS 3)] DamageDeal = 67214, DamageTaken = 59998.15, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 726878bf, count = 3
+	[1 (number)] = 20454 (number)
+	[2 (number)] = 24920 (number)
+	[12 (number)] = 21840 (number)
+
+	Damage taken by sources: Dictionary = table: 35102484, count = 3
+	[1 (number)] = 14257 (number)
+	[2 (number)] = 20270.25 (number)
+	[12 (number)] = 25470.9 (number)
+
+	NumberKill = 2, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 469dffae, count = 9
+	[6002 (number)] = 10666 (number)
+	[3004 (number)] = 7927 (number)
+	[5000 (number)] = 3264 (number)
+	[5002 (number)] = 14344 (number)
+	[2004 (number)] = 10576 (number)
+	[4000 (number)] = 3264 (number)
+	[7000 (number)] = 4392 (number)
+	[4003 (number)] = 7927 (number)
+	[1004 (number)] = 4854 (number)
+
+	Damage taken history: Dictionary = table: bf4b664, count = 8
+	[2002 (number)] = 7239.456 (number)
+	[7000 (number)] = 5511.1 (number)
+	[6000 (number)] = 5511.1 (number)
+	[5000 (number)] = 4468.8 (number)
+	[6001 (number)] = 13384.1 (number)
+	[5001 (number)] = 7239.456 (number)
+	[4002 (number)] = 10852.8 (number)
+	[2001 (number)] = 5791.338 (number)
+
+	Effect created history: Dictionary = table: 3ae88a25, count = 1
+	[10 (number)] = 9 (number)
+
+	Stat changer buff created history: Dictionary = table: ee8bdf8, count = 3
+	[1 (number)] = 7023 (number)
+	[10 (number)] = 0.9 (number)
+	[11 (number)] = 1.8 (number)
+
+	Stat changer debuff created history: Dictionary = table: 27a15304, count = 3
+	[1 (number)] = 2556 (number)
+	[4 (number)] = 60 (number)
+	[41 (number)] = 0.12 (number)
+
+[Hehta 60006 (TEAM 1, BACK, POS 1)] DamageDeal = 75397, DamageTaken = 43120.79, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 9c88602, count = 3
+	[1 (number)] = 23521 (number)
+	[2 (number)] = 19830 (number)
+	[12 (number)] = 32046 (number)
+
+	Damage taken by sources: Dictionary = table: 770f9cbc, count = 3
+	[1 (number)] = 6596 (number)
+	[2 (number)] = 27290.39 (number)
+	[12 (number)] = 9234.4 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 3c43e8d8, count = 10
+	[6000 (number)] = 5242 (number)
+	[6001 (number)] = 12731 (number)
+	[3002 (number)] = 8452 (number)
+	[5000 (number)] = 4080 (number)
+	[5001 (number)] = 6610 (number)
+	[2002 (number)] = 13220 (number)
+	[4000 (number)] = 4080 (number)
+	[7000 (number)] = 5242 (number)
+	[4002 (number)] = 9910 (number)
+	[1002 (number)] = 5830 (number)
+
+	Damage taken history: Dictionary = table: 1157a527, count = 5
+	[7000 (number)] = 4617.2 (number)
+	[2003 (number)] = 5791.338 (number)
+	[2004 (number)] = 5791.338 (number)
+	[6002 (number)] = 11213.2 (number)
+	[5002 (number)] = 15707.714 (number)
+
+	Effect created history: Dictionary = table: 5ce2c999, count = 1
+	[10 (number)] = 9 (number)
+
+	Stat changer buff created history: Dictionary = table: 570354c5, count = 3
+	[1 (number)] = 7023 (number)
+	[10 (number)] = 0.9 (number)
+	[11 (number)] = 1.8 (number)
+
+	Stat changer debuff created history: Dictionary = table: 742573d5, count = 3
+	[1 (number)] = 2556 (number)
+	[4 (number)] = 60 (number)
+	[41 (number)] = 0.12 (number)
+
+
+<> WINNER: 1

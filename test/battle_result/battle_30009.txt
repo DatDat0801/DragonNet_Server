@@ -1,0 +1,2412 @@
+
+<> SEED = 666975745
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 131
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 3
+attack = 3916
+defense = 448
+hp = 54978/54978
+speed = 67
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1098
+dodge = 1098
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 24bcc7d0, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 68462be9, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 6bf0752b, type = 401, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 25cf86ca, type = 403, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 670f47e4, type = 401, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 6090f10, type = 403, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 3
+attack = 3916
+defense = 448
+hp = 54978/54978
+speed = 67
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1098
+dodge = 1098
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 56fe4240, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: f5e7783, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 127331eb, type = 401, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 55f7a963, type = 403, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 713f1ddf, type = 401, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 3e4f318f, type = 403, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 3
+attack = 3916
+defense = 448
+hp = 54978/54978
+speed = 67
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1098
+dodge = 1098
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: da18e14, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 6e82173a, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 675a3ed0, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 660add01, type = 401, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 503bccf8, type = 403, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2efe3a02, type = 401, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 6560a22, type = 403, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 3
+attack = 3916
+defense = 448
+hp = 54978/54978
+speed = 67
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1098
+dodge = 1098
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 18643db3, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 26645c89, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 79155c6d, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 40257f59, type = 401, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 58405b77, type = 403, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5cc4d4e2, type = 401, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 28b6196b, type = 403, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.935), TAKE 3598 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[SPLASH] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0.974), TAKE 1439 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: da18e14, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 18643db3, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.935, power = 0.6
+- EFFECTS:
+id = table: da18e14, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.974, power = 0.5
+- EFFECTS:
+id = table: 18643db3, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0.908), TAKE 3598 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[SPLASH] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.908), TAKE 1439 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.935, power = 0.6
+- EFFECTS:
+id = table: da18e14, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.974, power = 0.5
+- EFFECTS:
+id = table: 18643db3, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.908, power = 0.6
+- EFFECTS:
+id = table: da18e14, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.908, power = 0.6
+- EFFECTS:
+id = table: 18643db3, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.935), TAKE 3598 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.935), type = 1, persistentType = 1, isBuff = false
+
+
+[SPLASH] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.974), TAKE 1439 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.908, power = 0.6
+- EFFECTS:
+id = table: da18e14, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.908, power = 0.6
+- EFFECTS:
+id = table: 18643db3, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.935, power = 1
+- EFFECTS:
+id = table: fe10d23, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.974, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.908, power = 1
+- EFFECTS:
+id = table: da18e14, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.908, power = 0.6
+- EFFECTS:
+id = table: 18643db3, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.908), TAKE 3598 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[SPLASH] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.908), TAKE 1439 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.935, power = 1
+- EFFECTS:
+id = table: fe10d23, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.974, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.908, power = 1
+- EFFECTS:
+id = table: da18e14, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.908, power = 0.6
+- EFFECTS:
+id = table: 18643db3, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.908, power = 1
+- EFFECTS:
+id = table: fe10d23, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.908, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.908, power = 1
+- EFFECTS:
+id = table: da18e14, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.908, power = 1
+- EFFECTS:
+id = table: 18643db3, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.809), TAKE 5465 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0.809), TAKE 5465 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.908, power = 1
+- EFFECTS:
+id = table: fe10d23, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.908, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.908, power = 1
+- EFFECTS:
+id = table: da18e14, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.908, power = 1
+- EFFECTS:
+id = table: 18643db3, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.908, power = 1
+- EFFECTS:
+id = table: fe10d23, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.908, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.809, power = 1
+- EFFECTS:
+id = table: da18e14, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 1
+- EFFECTS:
+id = table: 18643db3, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.809), TAKE 5465 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.759), TAKE 8198 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.759), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.908, power = 1
+- EFFECTS:
+id = table: fe10d23, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.908, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.809, power = 1
+- EFFECTS:
+id = table: da18e14, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 1
+- EFFECTS:
+id = table: 18643db3, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 1
+- EFFECTS:
+id = table: fe10d23, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.759, power = 0.1
+- EFFECTS:
+id = table: 64d56431, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.809, power = 0
+- EFFECTS:
+id = table: da18e14, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 1
+- EFFECTS:
+id = table: 18643db3, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.71), TAKE 5465 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.66), TAKE 5465 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.71), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 1
+- EFFECTS:
+id = table: fe10d23, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.759, power = 0.1
+- EFFECTS:
+id = table: 64d56431, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.809, power = 0
+- EFFECTS:
+id = table: da18e14, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 1
+- EFFECTS:
+id = table: 18643db3, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.71, power = 1
+- EFFECTS:
+id = table: fe10d23, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3e94003f, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.66, power = 0.2
+- EFFECTS:
+id = table: 64d56431, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.809, power = 0
+- EFFECTS:
+id = table: da18e14, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 0
+- EFFECTS:
+id = table: 18643db3, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.71), type = 1, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.809), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0.809), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.644), TAKE 3598 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+[SPLASH] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.634), TAKE 1439 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.71, power = 1
+- EFFECTS:
+id = table: 3e94003f, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.66, power = 0.2
+- EFFECTS:
+id = table: 64d56431, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.809, power = 0
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.644, power = 1
+- EFFECTS:
+id = table: 3e94003f, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.634, power = 0.2
+- EFFECTS:
+id = table: 64d56431, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.809, power = 0.5
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 0
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.568), TAKE 3598 damage, initiatorPower = 0.5, targetPower = 0.3
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.568), type = 1, persistentType = 1, isBuff = false
+
+
+[SPLASH] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.618), TAKE 1439 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.644, power = 1
+- EFFECTS:
+id = table: 3e94003f, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.634, power = 0.2
+- EFFECTS:
+id = table: 64d56431, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.809, power = 0.5
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.618, power = 1
+- EFFECTS:
+id = table: 3e94003f, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.568, power = 0.3
+- EFFECTS:
+id = table: 64d56431, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 440da0cb, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.809, power = 0.5
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 0.5
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.553), TAKE 3598 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.553), type = 1, persistentType = 1, isBuff = false
+
+
+[SPLASH] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.542), TAKE 1439 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.618, power = 1
+- EFFECTS:
+id = table: 3e94003f, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.568, power = 0.3
+- EFFECTS:
+id = table: 64d56431, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 440da0cb, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.809, power = 0.5
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.553, power = 1
+- EFFECTS:
+id = table: 3e94003f, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 4382257c, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.542, power = 0.3
+- EFFECTS:
+id = table: 64d56431, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 440da0cb, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.809, power = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 0.5
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.487), TAKE 3598 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.487), type = 1, persistentType = 1, isBuff = false
+
+
+[SPLASH] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.516), TAKE 1439 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.553, power = 1
+- EFFECTS:
+id = table: 3e94003f, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 4382257c, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.542, power = 0.3
+- EFFECTS:
+id = table: 64d56431, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 440da0cb, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.809, power = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.487, power = 1
+- EFFECTS:
+id = table: 3e94003f, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 4382257c, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: c3925d1, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.516, power = 0.3
+- EFFECTS:
+id = table: 64d56431, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 440da0cb, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.809, power = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 1
+
+
+---------- AFTER ROUND 4 ----------
+
+[REMOVE_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.487), type = 1, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.516), type = 1, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.516), type = 1, persistentType = 1, isBuff = false
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.744), TAKE 3598 damage, initiatorPower = 0.8, targetPower = 1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[SPLASH] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0.783), TAKE 1439 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.487, power = 1
+- EFFECTS:
+id = table: 4382257c, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: c3925d1, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.516, power = 0.3
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.809, power = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.487, power = 1
+- EFFECTS:
+id = table: 4382257c, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: c3925d1, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.516, power = 0.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.744, power = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.783, power = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.388), TAKE 5465 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.416), TAKE 5465 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.487, power = 1
+- EFFECTS:
+id = table: 4382257c, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: c3925d1, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.516, power = 0.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.744, power = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.783, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.388, power = 1
+- EFFECTS:
+id = table: 4382257c, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: c3925d1, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.416, power = 0.9
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.744, power = 0
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.783, power = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.288), TAKE 5465 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.317), TAKE 5465 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.58
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.388, power = 1
+- EFFECTS:
+id = table: 4382257c, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: c3925d1, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.416, power = 0.9
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.744, power = 0
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.783, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.288, power = 1
+- EFFECTS:
+id = table: 4382257c, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: c3925d1, type = 1, initiator = [Gorzodin 30009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.317, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.744, power = 0
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.783, power = 0
+
+
+---------- AFTER ROUND 5 ----------
+
+[REMOVE_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.288), type = 1, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.288), type = 1, persistentType = 1, isBuff = false
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.644), TAKE 5465 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0.683), TAKE 5465 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.74
+
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0.683), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.288, power = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.317, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.744, power = 0
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.783, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.288, power = 0
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.317, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.644, power = 0.1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.683, power = 0.1
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.545), TAKE 5465 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.76
+
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0.584), TAKE 5465 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.78
+
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0.584), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.288, power = 0
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.317, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.644, power = 0.1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.683, power = 0.1
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.288, power = 0
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.317, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.545, power = 0.2
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.584, power = 0.2
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.223), TAKE 3598 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.88
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.6
+
+
+[SPLASH] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.291), TAKE 1439 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.288, power = 0
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.317, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.545, power = 0.2
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.584, power = 0.2
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.223, power = 0.1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.291, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.545, power = 0.7
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.584, power = 0.2
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0.519), TAKE 3598 damage, initiatorPower = 0.6, targetPower = 0.3
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.7
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.9
+
+
+[SPLASH] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.519), TAKE 1439 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.223, power = 0.1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.291, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.545, power = 0.7
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.584, power = 0.2
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.223, power = 0.6
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.291, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.519, power = 0.7
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.519, power = 0.3
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0.453), TAKE 3598 damage, initiatorPower = 0.5, targetPower = 0.4
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.92
+
+
+[SPLASH] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.492), TAKE 1439 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.223, power = 0.6
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.291, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.519, power = 0.7
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.519, power = 0.3
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.223, power = 0.6
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.291, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.92
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.492, power = 0.7
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.453, power = 0.4
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.157), TAKE 3598 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+[SPLASH] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.265), TAKE 1439 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.223, power = 0.6
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.291, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.92
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.492, power = 0.7
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.453, power = 0.4
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.157, power = 0.7
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.265, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.492, power = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.453, power = 0.4
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+TURN 4 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.116), TAKE 2256 damage, initiatorPower = 0, targetPower = 0.8
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.84
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.224), TAKE 2256 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.86
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.116), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.224), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.157, power = 0.7
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.265, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.492, power = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.453, power = 0.4
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.116, power = 0.8
+- EFFECTS:
+id = table: 69ebd32f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.224, power = 0.6
+- EFFECTS:
+id = table: 2cb9646e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.492, power = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.453, power = 0.4
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0.017), TAKE 5465 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.88
+
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.124), TAKE 5465 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.9
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.116, power = 0.8
+- EFFECTS:
+id = table: 69ebd32f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.224, power = 0.6
+- EFFECTS:
+id = table: 2cb9646e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.492, power = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.453, power = 0.4
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.017, power = 0.9
+- EFFECTS:
+id = table: 69ebd32f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.124, power = 0.7
+- EFFECTS:
+id = table: 2cb9646e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.492, power = 0
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.453, power = 0.4
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+TURN 2 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0.355), TAKE 5397 damage, initiatorPower = 1, targetPower = 0.5 (CRIT)
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[SPLASH] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.453), TAKE 2158 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.017, power = 0.9
+- EFFECTS:
+id = table: 69ebd32f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.124, power = 0.7
+- EFFECTS:
+id = table: 2cb9646e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.492, power = 0
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.453, power = 0.4
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.017, power = 1
+- EFFECTS:
+id = table: 69ebd32f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.124, power = 0.7
+- EFFECTS:
+id = table: 2cb9646e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.453, power = 0
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.355, power = 0.5
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+TURN 3 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.412), TAKE 2256 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0.314), TAKE 2256 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.06
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.412), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0.314), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.017, power = 1
+- EFFECTS:
+id = table: 69ebd32f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.124, power = 0.7
+- EFFECTS:
+id = table: 2cb9646e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.453, power = 0
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.355, power = 0.5
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.017, power = 1
+- EFFECTS:
+id = table: 69ebd32f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.124, power = 0.7
+- EFFECTS:
+id = table: 2cb9646e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.06
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.412, power = 0.1
+- EFFECTS:
+id = table: 2cc74eb9, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.314, power = 0.6
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 122e044d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0.216), TAKE 5397 damage, initiatorPower = 1, targetPower = 0.7 (CRIT)
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.08
+
+
+[SPLASH] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.373), TAKE 2158 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.017, power = 1
+- EFFECTS:
+id = table: 69ebd32f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.124, power = 0.7
+- EFFECTS:
+id = table: 2cb9646e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.06
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.412, power = 0.1
+- EFFECTS:
+id = table: 2cc74eb9, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.314, power = 0.6
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 122e044d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.017, power = 1
+- EFFECTS:
+id = table: 69ebd32f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.124, power = 1
+- EFFECTS:
+id = table: 2cb9646e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.08
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.373, power = 0.1
+- EFFECTS:
+id = table: 2cc74eb9, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.216, power = 0.7
+- EFFECTS:
+id = table: 12325991, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3b90a8e4, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 122e044d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 8 ----------
+
+[REMOVE_EFFECT] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0.216), type = 1, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0.216), type = 1, persistentType = 1, isBuff = false
+
+
+ROUND 9
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.273), TAKE 5465 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.1
+
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0.067), TAKE 8198 damage, initiatorPower = 0, targetPower = 0.8 (CRIT)
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.017, power = 1
+- EFFECTS:
+id = table: 69ebd32f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.124, power = 1
+- EFFECTS:
+id = table: 2cb9646e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.08
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.373, power = 0.1
+- EFFECTS:
+id = table: 2cc74eb9, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.216, power = 0.7
+- EFFECTS:
+id = table: 122e044d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.017, power = 0
+- EFFECTS:
+id = table: 69ebd32f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.124, power = 1
+- EFFECTS:
+id = table: 2cb9646e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.273, power = 0.2
+- EFFECTS:
+id = table: 2cc74eb9, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.067, power = 0.8
+- EFFECTS:
+id = table: 122e044d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.059), TAKE 3598 damage, initiatorPower = 0.7, targetPower = 1
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+[SPLASH] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 1439 damage
+
+
+[DEAD_FOR_DISPLAY] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 26
+
+
+[DEAD] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 26
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0.017, power = 0
+- EFFECTS:
+id = table: 69ebd32f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.124, power = 1
+- EFFECTS:
+id = table: 2cb9646e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.273, power = 0.2
+- EFFECTS:
+id = table: 2cc74eb9, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.067, power = 0.8
+- EFFECTS:
+id = table: 122e044d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.059, power = 1
+- EFFECTS:
+id = table: 2cb9646e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.273, power = 0.7
+- EFFECTS:
+id = table: 2cc74eb9, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.067, power = 0.8
+- EFFECTS:
+id = table: 122e044d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.174), TAKE 5465 damage, initiatorPower = 0, targetPower = 0.8
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0), TAKE 5465 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[DEAD_FOR_DISPLAY] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 2
+
+
+[ADD_EFFECT] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.174), type = 1, persistentType = 1, isBuff = false
+
+
+[DEAD] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.059, power = 1
+- EFFECTS:
+id = table: 2cb9646e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.273, power = 0.7
+- EFFECTS:
+id = table: 2cc74eb9, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0.067, power = 0.8
+- EFFECTS:
+id = table: 122e044d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.059, power = 0
+- EFFECTS:
+id = table: 2cb9646e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.174, power = 0.8
+- EFFECTS:
+id = table: 2cc74eb9, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 256bcf8c, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 9 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] (hp = 0.059), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 10
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.109), TAKE 3598 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.059, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.174, power = 0.8
+- EFFECTS:
+id = table: 2cc74eb9, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 256bcf8c, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.059, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.109, power = 0.9
+- EFFECTS:
+id = table: 2cc74eb9, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 256bcf8c, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 10 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.109), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 11
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.01), TAKE 5397 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.059, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.109, power = 0.9
+- EFFECTS:
+id = table: 256bcf8c, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.059, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.01, power = 1
+- EFFECTS:
+id = table: 256bcf8c, type = 1, initiator = [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 11 ----------
+
+[REMOVE_EFFECT] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0.01), type = 1, persistentType = 1, isBuff = false
+
+
+ROUND 12
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gorzodin 30009 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 5465 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[DEAD_FOR_DISPLAY] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[DEAD] [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] => [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.059, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0.01, power = 1
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.059, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Gorzodin 30009 (TEAM 1, FRONT, POS 2)] hp = 0.059, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Gorzodin 30009 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+<> STATISTICS:
+[Gorzodin 30009 (TEAM 2, FRONT, POS 2)] DamageDeal = 36971, DamageTaken = 58669.223, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4216555b, count = 3
+	[1 (number)] = 10794 (number)
+	[2 (number)] = 21860 (number)
+	[26 (number)] = 4317 (number)
+
+	Damage taken by sources: Dictionary = table: 54326926, count = 2
+	[1 (number)] = 23496 (number)
+	[2 (number)] = 35173.223 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 36dc1381, count = 5
+	[2003 (number)] = 10930 (number)
+	[1004 (number)] = 5037 (number)
+	[4002 (number)] = 5037 (number)
+	[5003 (number)] = 10930 (number)
+	[3002 (number)] = 5037 (number)
+
+	Damage taken history: Dictionary = table: 4d30ad79, count = 11
+	[6001 (number)] = 5948.404 (number)
+	[9001 (number)] = 8922.606 (number)
+	[6002 (number)] = 5948.404 (number)
+	[9003 (number)] = 5948.404 (number)
+	[2001 (number)] = 5948.404 (number)
+	[8002 (number)] = 5874 (number)
+	[8003 (number)] = 2457 (number)
+	[8004 (number)] = 5874 (number)
+	[7001 (number)] = 3916 (number)
+	[7002 (number)] = 3916 (number)
+	[1002 (number)] = 3916 (number)
+
+	Effect created history: Dictionary = table: 3d7c8509, count = 1
+	[1 (number)] = 7 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 4512, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 7a40a0d9, count = 1
+	[2 (number)] = 4512 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 2cd6f40b, count = 1
+	[7004 (number)] = 4512 (number)
+
+	Effect created history: Dictionary = table: 64c5df8d, count = 1
+	[501 (number)] = 4 (number)
+
+	Stat changer debuff created history: Dictionary = table: 3d485ad1, count = 1
+	[4 (number)] = 120 (number)
+
+[Gorzodin 30009 (TEAM 1, FRONT, POS 1)] DamageDeal = 42222, DamageTaken = 55695.02, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 427173c9, count = 3
+	[1 (number)] = 12593 (number)
+	[2 (number)] = 24593 (number)
+	[26 (number)] = 5036 (number)
+
+	Damage taken by sources: Dictionary = table: 591ca120, count = 2
+	[1 (number)] = 23496 (number)
+	[2 (number)] = 32199.02 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 13ef2439, count = 5
+	[1001 (number)] = 5037 (number)
+	[7001 (number)] = 5037 (number)
+	[8002 (number)] = 7555 (number)
+	[6001 (number)] = 10930 (number)
+	[9001 (number)] = 13663 (number)
+
+	Damage taken history: Dictionary = table: 6c0e7a47, count = 12
+	[3001 (number)] = 3916 (number)
+	[6003 (number)] = 3916 (number)
+	[8001 (number)] = 5948.404 (number)
+	[5002 (number)] = 5948.404 (number)
+	[2002 (number)] = 5948.404 (number)
+	[5003 (number)] = 5948.404 (number)
+	[2003 (number)] = 5948.404 (number)
+	[4001 (number)] = 3916 (number)
+	[4002 (number)] = 3916 (number)
+	[1003 (number)] = 3916 (number)
+	[7003 (number)] = 3916 (number)
+	[7004 (number)] = 2457 (number)
+
+	Effect created history: Dictionary = table: 2528b334, count = 1
+	[1 (number)] = 3 (number)
+
+[Gorzodin 30009 (TEAM 1, FRONT, POS 2)] DamageDeal = 69916, DamageTaken = 46921.223, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 19810310, count = 3
+	[1 (number)] = 25186 (number)
+	[2 (number)] = 38255 (number)
+	[26 (number)] = 6475 (number)
+
+	Damage taken by sources: Dictionary = table: 73a532f5, count = 2
+	[1 (number)] = 11748 (number)
+	[2 (number)] = 35173.223 (number)
+
+	NumberKill = 2, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6ce6a284, count = 10
+	[12001 (number)] = 5465 (number)
+	[6002 (number)] = 10930 (number)
+	[9003 (number)] = 10930 (number)
+	[2001 (number)] = 10930 (number)
+	[5001 (number)] = 5037 (number)
+	[11001 (number)] = 5397 (number)
+	[8004 (number)] = 7555 (number)
+	[10001 (number)] = 3598 (number)
+	[7002 (number)] = 5037 (number)
+	[1002 (number)] = 5037 (number)
+
+	Damage taken history: Dictionary = table: c371d3f, count = 9
+	[3002 (number)] = 3916 (number)
+	[9002 (number)] = 3916 (number)
+	[8001 (number)] = 5948.404 (number)
+	[5002 (number)] = 5948.404 (number)
+	[2002 (number)] = 8922.606 (number)
+	[5003 (number)] = 5948.404 (number)
+	[2003 (number)] = 5948.404 (number)
+	[7004 (number)] = 2457 (number)
+	[1004 (number)] = 3916 (number)
+
+	Effect created history: Dictionary = table: 1d3f162a, count = 1
+	[1 (number)] = 6 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 4512, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4757bde2, count = 1
+	[2 (number)] = 4512 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 1e7cc50e, count = 1
+	[8003 (number)] = 4512 (number)
+
+	Stat changer debuff created history: Dictionary = table: 2a96ed1b, count = 1
+	[4 (number)] = 120 (number)
+
+[Gorzodin 30009 (TEAM 2, FRONT, POS 1)] DamageDeal = 65745, DamageTaken = 55769.426, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4ffd3025, count = 3
+	[1 (number)] = 21588 (number)
+	[2 (number)] = 35523 (number)
+	[26 (number)] = 8634 (number)
+
+	Damage taken by sources: Dictionary = table: 35bf2c95, count = 2
+	[1 (number)] = 17622 (number)
+	[2 (number)] = 38147.426 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 4d93db99, count = 9
+	[3001 (number)] = 5037 (number)
+	[9002 (number)] = 5037 (number)
+	[6003 (number)] = 5037 (number)
+	[8001 (number)] = 10930 (number)
+	[5002 (number)] = 10930 (number)
+	[2002 (number)] = 13663 (number)
+	[4001 (number)] = 5037 (number)
+	[7003 (number)] = 5037 (number)
+	[1003 (number)] = 5037 (number)
+
+	Damage taken history: Dictionary = table: 50700905, count = 11
+	[9001 (number)] = 5948.404 (number)
+	[6001 (number)] = 5948.404 (number)
+	[12001 (number)] = 5948.404 (number)
+	[6002 (number)] = 5948.404 (number)
+	[9003 (number)] = 5948.404 (number)
+	[2001 (number)] = 5948.404 (number)
+	[5001 (number)] = 3916 (number)
+	[11001 (number)] = 5874 (number)
+	[8003 (number)] = 2457 (number)
+	[1001 (number)] = 3916 (number)
+	[10001 (number)] = 3916 (number)
+
+	Effect created history: Dictionary = table: 76aa7736, count = 1
+	[1 (number)] = 7 (number)
+
+
+<> WINNER: 1

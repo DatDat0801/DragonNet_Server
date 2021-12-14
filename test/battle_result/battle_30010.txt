@@ -1,0 +1,1688 @@
+
+<> SEED = 232816757
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 103
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 3
+attack = 2663
+defense = 358
+hp = 55996/55996
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1076
+dodge = 1043
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+- PASSIVE EFFECTS:
+id = table: 56b2fc96, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 110c7c13, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 50748e55, type = 403, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 1
+attack = 988
+defense = 165
+hp = 18027/18027
+speed = 57
+critRate = 0.2
+critDamage = 1.5
+accuracy = 1129
+dodge = 1063
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+- PASSIVE EFFECTS:
+id = table: 6f7efeaa, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 1de0fbb2, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 192b9521, type = 402, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 78ae6b30, type = 401, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 60bd5121, type = 410, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2ee9f1ad, type = 403, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 1
+attack = 988
+defense = 165
+hp = 18027/18027
+speed = 57
+critRate = 0.2
+critDamage = 1.5
+accuracy = 1129
+dodge = 1063
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 3f5d1b00, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 34210030, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 3e9f7bcc, type = 402, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 14f0ca83, type = 401, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 43a24606, type = 410, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 7a9a0bef, type = 403, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 1
+attack = 988
+defense = 165
+hp = 18027/18027
+speed = 57
+critRate = 0.2
+critDamage = 1.5
+accuracy = 1129
+dodge = 1063
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 3abaabf2, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 280cdaf4, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 79cf3b85, type = 402, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 718f8280, type = 401, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1e855278, type = 410, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 7f3eeec2, type = 403, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 410, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 410, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 410, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Erde 30010 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.801), TAKE 3596 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[HEAL] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 1), HEAL 798 hp, reason = 1
+
+
+[CHANGE_POWER] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 1), power = 0.7
+
+
+[HEAL] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 1), HEAL 798 hp, reason = 1
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.96), TAKE 2229 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.96, power = 1
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.7
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.801, power = 0.6
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.749), TAKE 932 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.968), TAKE 577 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.96, power = 1
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.7
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.801, power = 0.6
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.96, power = 1
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.968, power = 1
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 0.7
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.944), TAKE 914 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.96, power = 1
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.968, power = 1
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 0.7
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.944, power = 1
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.968, power = 1
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.928), TAKE 914 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.944, power = 1
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.968, power = 1
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.928, power = 1
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.968, power = 1
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Erde 30010 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.438), TAKE 5605 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] (hp = 0.689), TAKE 5605 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.865), TAKE 3475 damage
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.803), TAKE 3475 damage
+
+
+[HEAL] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.841), HEAL 2130 hp, reason = 1
+
+
+[HEAL] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 1), HEAL 2130 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.928, power = 1
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.968, power = 1
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.841, power = 0
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.438, power = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.689, power = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.365), TAKE 1307 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] (hp = 0.617), TAKE 1307 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.365), type = 421, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.955), TAKE 810 damage
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] (hp = 0.617), type = 421, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.91), TAKE 810 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.841, power = 0
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.438, power = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.689, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.841, power = 0
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.91, power = 0
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.365, power = 1
+- EFFECTS:
+id = table: 5010e026, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.617, power = 1
+- EFFECTS:
+id = table: 5003fab2, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.83), TAKE 641 damage, initiatorPower = 0, targetPower = 0.1
+[Erde 30010 (TEAM 1, FRONT, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.838), TAKE 1307 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.83), type = 421, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.838), type = 421, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.838), type = 2, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.32), TAKE 810 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.841, power = 0
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.91, power = 0
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.365, power = 1
+- EFFECTS:
+id = table: 5010e026, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.617, power = 1
+- EFFECTS:
+id = table: 5003fab2, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.83, power = 0.1
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 5d95f9b0, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.838, power = 0.1
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 693766e8, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 3e71aa38, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.32, power = 0
+- EFFECTS:
+id = table: 5010e026, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.617, power = 1
+- EFFECTS:
+id = table: 5003fab2, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.796), TAKE 1924 damage, initiatorPower = 0, targetPower = 0.2 (CRIT)
+
+
+[CHANGE_POWER] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.725), TAKE 849 damage, initiatorPower = 0, targetPower = 0.2
+[Cold Axe 10001 (TEAM 1, FRONT, POS 2)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[BREAK_FREEZE] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.725), TAKE 1185 damage
+
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.725), type = 2, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.796), type = 421, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.725), type = 421, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.725), type = 2, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] (hp = 0.587), TAKE 526 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.83, power = 0.1
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 5d95f9b0, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.838, power = 0.1
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 693766e8, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 3e71aa38, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.32, power = 0
+- EFFECTS:
+id = table: 5010e026, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.617, power = 1
+- EFFECTS:
+id = table: 5003fab2, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.796, power = 0.2
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 5d95f9b0, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7168112e, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.725, power = 0.2
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 693766e8, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 3422eca, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 5190186c, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.32, power = 0
+- EFFECTS:
+id = table: 5010e026, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.587, power = 0
+- EFFECTS:
+id = table: 5003fab2, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Erde 30010 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.121), TAKE 3596 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[HEAL] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.769), HEAL 798 hp, reason = 1
+
+
+[HEAL] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.81), HEAL 798 hp, reason = 1
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.77), TAKE 2229 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.796, power = 0.2
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 5d95f9b0, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7168112e, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.725, power = 0.2
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 693766e8, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 3422eca, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 5190186c, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.32, power = 0
+- EFFECTS:
+id = table: 5010e026, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.587, power = 0
+- EFFECTS:
+id = table: 5003fab2, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.77, power = 0.7
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 5d95f9b0, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7168112e, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.769, power = 0.2
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 693766e8, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 3422eca, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 5190186c, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.121, power = 0.1
+- EFFECTS:
+id = table: 5010e026, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.587, power = 0
+- EFFECTS:
+id = table: 5003fab2, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.754), TAKE 914 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+[CHANGE_POWER] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.77, power = 0.7
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 5d95f9b0, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7168112e, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.769, power = 0.2
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 693766e8, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 3422eca, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 5190186c, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.121, power = 0.1
+- EFFECTS:
+id = table: 5010e026, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.587, power = 0
+- EFFECTS:
+id = table: 5003fab2, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.754, power = 0.8
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 5d95f9b0, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7168112e, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.769, power = 0.2
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 693766e8, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 3422eca, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 5190186c, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.121, power = 0.6
+- EFFECTS:
+id = table: 5010e026, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.587, power = 0
+- EFFECTS:
+id = table: 5003fab2, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.742), TAKE 686 damage, initiatorPower = 0.5, targetPower = 0.9 (CRIT)
+[Erde 30010 (TEAM 1, FRONT, POS 1)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.54
+
+
+[CHANGE_POWER] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.754, power = 0.8
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 5d95f9b0, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7168112e, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.769, power = 0.2
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 693766e8, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 3422eca, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 5190186c, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.121, power = 0.6
+- EFFECTS:
+id = table: 5010e026, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.587, power = 0
+- EFFECTS:
+id = table: 5003fab2, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.742, power = 0.9
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 5d95f9b0, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7168112e, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.769, power = 0.2
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 693766e8, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 3422eca, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 5190186c, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.121, power = 0.6
+- EFFECTS:
+id = table: 5010e026, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.587, power = 0.5
+- EFFECTS:
+id = table: 5003fab2, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 3 ----------
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.742), type = 421, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.742), type = 421, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.769), type = 421, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.769), type = 421, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.121), type = 421, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] (hp = 0.587), type = 421, persistentType = 1, isBuff = false
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Erde 30010 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 3596 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[DEAD_FOR_DISPLAY] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[HEAL] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.813), HEAL 798 hp, reason = 1
+
+
+[HEAL] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.756), HEAL 798 hp, reason = 1
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.716), TAKE 2229 damage
+
+
+[DEAD] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.742, power = 0.9
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.769, power = 0.2
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 5190186c, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.121, power = 0.6
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.587, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.716, power = 1
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.813, power = 0.2
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 5190186c, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.587, power = 0.5
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.7), TAKE 914 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.58
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.716, power = 1
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.813, power = 0.2
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 5190186c, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.587, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.7, power = 1
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.813, power = 0.2
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 5190186c, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.587, power = 1
+
+
+---------- AFTER ROUND 4 ----------
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.813), type = 2, persistentType = 1, isBuff = false
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Erde 30010 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] (hp = 0.276), TAKE 5605 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.638), TAKE 3475 damage
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.638), type = 2, persistentType = 1, isBuff = false
+
+
+[HEAL] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.676), HEAL 2130 hp, reason = 1
+
+
+[HEAL] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.931), HEAL 2130 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.7, power = 1
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.813, power = 0.2
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.587, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.676, power = 0
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 6203580c, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.931, power = 0.2
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.276, power = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] (hp = 0.225), TAKE 932 damage, initiatorPower = 0.7, targetPower = 1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.899), TAKE 577 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.676, power = 0
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 6203580c, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.931, power = 0.2
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.276, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.676, power = 0
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 6203580c, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.899, power = 0.7
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.225, power = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.617), TAKE 2501 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.7
+
+
+[BREAK_FREEZE] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.617), TAKE 790 damage
+
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.617), type = 2, persistentType = 1, isBuff = false
+
+
+[>>> ACTIVE_SKILL <<<] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.827), TAKE 1307 damage, initiatorPower = 0, targetPower = 0.8
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.72
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.617), type = 421, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.827), type = 421, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.827), type = 2, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] (hp = 0.18), TAKE 810 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.676, power = 0
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 6203580c, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.899, power = 0.7
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.225, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.617, power = 0.1
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 5353c403, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.827, power = 0.8
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 41f584dd, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 1077b7f7, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.18, power = 0
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Erde 30010 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] (hp = 0), TAKE 3596 damage, initiatorPower = 0.6, targetPower = 0
+
+
+[CHANGE_POWER] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+[DEAD_FOR_DISPLAY] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 1
+
+
+[HEAL] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.871), HEAL 798 hp, reason = 1
+
+
+[CHANGE_POWER] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.871), power = 1
+
+
+[HEAL] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.631), HEAL 798 hp, reason = 1
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.591), TAKE 2229 damage
+
+
+[DEAD] [Erde 30010 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.617, power = 0.1
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 5353c403, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.827, power = 0.8
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 41f584dd, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 1077b7f7, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0.18, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.591, power = 0.6
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 5353c403, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.871, power = 1
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 41f584dd, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 1077b7f7, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 6 ----------
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Erde 30010 (TEAM 1, FRONT, POS 1)] (hp = 0.591), type = 421, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] (hp = 0.871), type = 421, persistentType = 1, isBuff = false
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Erde 30010 (TEAM 1, FRONT, POS 1)] hp = 0.591, power = 0.6
+- EFFECTS:
+id = table: 39de5057, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 2)] hp = 0.871, power = 1
+- EFFECTS:
+id = table: 5a9bca8d, type = 112, initiator = [Erde 30010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.3, blockRate = 0.5
+id = table: 1077b7f7, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+<> STATISTICS:
+[Erde 30010 (TEAM 1, FRONT, POS 1)] DamageDeal = 31199, DamageTaken = 11597.144, HpHeal = 14904, HpHealTaken = 7452
+	Damage dealt by sources: Dictionary = table: 684c4ecd, count = 2
+	[1 (number)] = 14384 (number)
+	[2 (number)] = 16815 (number)
+
+	Damage taken by sources: Dictionary = table: 25f2fc1b, count = 2
+	[1 (number)] = 5434 (number)
+	[2 (number)] = 6163.144 (number)
+
+	Hp heal by sources: Dictionary = table: 484c4714, count = 1
+	[1 (number)] = 14904 (number)
+
+	Hp heal taken by sources: Dictionary = table: 652989e5, count = 1
+	[1 (number)] = 7452 (number)
+
+	NumberKill = 2, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6f9989ab, count = 6
+	[1001 (number)] = 3596 (number)
+	[6001 (number)] = 3596 (number)
+	[5001 (number)] = 5605 (number)
+	[4001 (number)] = 3596 (number)
+	[3001 (number)] = 3596 (number)
+	[2001 (number)] = 11210 (number)
+
+	Damage taken history: Dictionary = table: 5d39b267, count = 8
+	[3003 (number)] = 1482 (number)
+	[2003 (number)] = 1385.176 (number)
+	[1003 (number)] = 988 (number)
+	[2004 (number)] = 2077.764 (number)
+	[1004 (number)] = 988 (number)
+	[4002 (number)] = 988 (number)
+	[5003 (number)] = 2700.204 (number)
+	[3002 (number)] = 988 (number)
+
+	Hp heal history: Dictionary = table: 77673a33, count = 6
+	[1001 (number)] = 1596 (number)
+	[6001 (number)] = 1596 (number)
+	[5001 (number)] = 4260 (number)
+	[4001 (number)] = 1596 (number)
+	[3001 (number)] = 1596 (number)
+	[2001 (number)] = 4260 (number)
+
+	Hp heal taken history: Dictionary = table: 5ea8e39b, count = 6
+	[1001 (number)] = 798 (number)
+	[6001 (number)] = 798 (number)
+	[5001 (number)] = 2130 (number)
+	[4001 (number)] = 798 (number)
+	[3001 (number)] = 798 (number)
+	[2001 (number)] = 2130 (number)
+
+	Effect created history: Dictionary = table: 7ddfed34, count = 1
+	[112 (number)] = 0 (number)
+
+[Cold Axe 10001 (TEAM 1, FRONT, POS 2)] DamageDeal = 6624, DamageTaken = 4570.488, HpHeal = 0, HpHealTaken = 7452
+	Damage dealt by sources: Dictionary = table: 6d65d262, count = 3
+	[1 (number)] = 1864 (number)
+	[2 (number)] = 2614 (number)
+	[21 (number)] = 2146 (number)
+
+	Damage taken by sources: Dictionary = table: 231ddb5f, count = 1
+	[2 (number)] = 4570.488 (number)
+
+	Hp heal taken by sources: Dictionary = table: 3ab0509c, count = 1
+	[1 (number)] = 7452 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 3804acb3, count = 6
+	[2002 (number)] = 2614 (number)
+	[2003 (number)] = 810 (number)
+	[1002 (number)] = 932 (number)
+	[2004 (number)] = 526 (number)
+	[5002 (number)] = 932 (number)
+	[5003 (number)] = 810 (number)
+
+	Damage taken history: Dictionary = table: 7b319f13, count = 3
+	[2004 (number)] = 1800.136 (number)
+	[2003 (number)] = 1385.176 (number)
+	[5003 (number)] = 1385.176 (number)
+
+	Hp heal taken history: Dictionary = table: 363b6409, count = 6
+	[1001 (number)] = 798 (number)
+	[6001 (number)] = 798 (number)
+	[5001 (number)] = 2130 (number)
+	[4001 (number)] = 798 (number)
+	[3001 (number)] = 798 (number)
+	[2001 (number)] = 2130 (number)
+
+	Stat changer debuff created history: Dictionary = table: eb7e6e2, count = 1
+	[21 (number)] = 1275.6 (number)
+
+[Cold Axe 10001 (TEAM 2, FRONT, POS 1)] DamageDeal = 16510, DamageTaken = 19733.273, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 13cba2b3, count = 4
+	[1 (number)] = 1828 (number)
+	[2 (number)] = 1948 (number)
+	[21 (number)] = 11549 (number)
+	[11 (number)] = 1185 (number)
+
+	Damage taken by sources: Dictionary = table: 64757ede, count = 2
+	[1 (number)] = 12412.27 (number)
+	[2 (number)] = 7321.003 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 9835575, count = 10
+	[3001 (number)] = 2229 (number)
+	[3002 (number)] = 914 (number)
+	[2001 (number)] = 3475 (number)
+	[2002 (number)] = 810 (number)
+	[2003 (number)] = 1948 (number)
+	[2004 (number)] = 1185 (number)
+	[1001 (number)] = 2229 (number)
+	[4001 (number)] = 2229 (number)
+	[1002 (number)] = 577 (number)
+	[1003 (number)] = 914 (number)
+
+	Damage taken history: Dictionary = table: 38322251, count = 6
+	[1001 (number)] = 3808.09 (number)
+	[2002 (number)] = 1385.176 (number)
+	[1002 (number)] = 988 (number)
+	[4001 (number)] = 3808.09 (number)
+	[3001 (number)] = 3808.09 (number)
+	[2001 (number)] = 5935.827 (number)
+
+	Effect created history: Dictionary = table: 7622c1de, count = 1
+	[2 (number)] = 3 (number)
+
+	Stat changer debuff created history: Dictionary = table: 39eed24a, count = 1
+	[21 (number)] = 1263.6 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+[SummonerMage (TEAM 2)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+[Cold Axe 10001 (TEAM 2, FRONT, POS 2)] DamageDeal = 20451, DamageTaken = 18052.92, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2ad510ff, count = 4
+	[1 (number)] = 2514 (number)
+	[2 (number)] = 6581 (number)
+	[21 (number)] = 10566 (number)
+	[11 (number)] = 790 (number)
+
+	Damage taken by sources: Dictionary = table: 35c8f5e, count = 2
+	[1 (number)] = 4796.09 (number)
+	[2 (number)] = 13256.83 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 639092da, count = 10
+	[6001 (number)] = 2229 (number)
+	[3003 (number)] = 686 (number)
+	[2001 (number)] = 3475 (number)
+	[5001 (number)] = 3475 (number)
+	[5002 (number)] = 577 (number)
+	[2002 (number)] = 810 (number)
+	[5003 (number)] = 4598 (number)
+	[2004 (number)] = 2773 (number)
+	[4002 (number)] = 914 (number)
+	[1004 (number)] = 914 (number)
+
+	Damage taken history: Dictionary = table: 2c237060, count = 5
+	[2002 (number)] = 1385.176 (number)
+	[6001 (number)] = 3808.09 (number)
+	[5001 (number)] = 5935.827 (number)
+	[5002 (number)] = 988 (number)
+	[2001 (number)] = 5935.827 (number)
+
+	Effect created history: Dictionary = table: 2e73cff3, count = 1
+	[2 (number)] = 8 (number)
+
+	Stat changer debuff created history: Dictionary = table: 49b2931c, count = 1
+	[21 (number)] = 2527.2 (number)
+
+
+<> WINNER: 1

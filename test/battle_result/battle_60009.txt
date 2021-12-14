@@ -1,0 +1,1049 @@
+
+<> SEED = 728933019
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 38
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Khann 60009 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 3566
+defense = 510
+hp = 47596/47596
+speed = 61
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1098
+dodge = 988
+pureDamage = 0
+skillDamage = 0.52
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 42fcc49f, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 47a8550d, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 2c1bcb7c, type = 401, initiator = [Khann 60009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ef4ad9, type = 402, initiator = [Khann 60009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 5313a087, type = 431, initiator = [Khann 60009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 61b7430d, type = 403, initiator = [Khann 60009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Khann 60009 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 4496
+defense = 510
+hp = 38077/38077
+speed = 61
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1098
+dodge = 988
+pureDamage = 0
+skillDamage = 0.52
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 561697d5, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 2910d98f, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 67c943b2, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 583d8a1, type = 401, initiator = [Khann 60009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 61628a7, type = 402, initiator = [Khann 60009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 29e5554b, type = 431, initiator = [Khann 60009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 24a4f640, type = 401, initiator = [Khann 60009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Khann 60009 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 3566
+defense = 510
+hp = 47596/47596
+speed = 61
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1098
+dodge = 988
+pureDamage = 0
+skillDamage = 0.52
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 41c5716, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 282591ab, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 2b69d6e9, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 4d2b9075, type = 401, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 5c74a6d5, type = 402, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 58d8cc39, type = 431, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 1fc1c1e4, type = 403, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Khann 60009 (TEAM 2, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 4496
+defense = 510
+hp = 38077/38077
+speed = 61
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1098
+dodge = 988
+pureDamage = 0
+skillDamage = 0.52
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 3d638755, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2c5a10b4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 4bc6fe65, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6abe9167, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 161de334, type = 401, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 49ec367a, type = 402, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 3525ccf4, type = 431, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 55e149e4, type = 401, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Khann 60009 (TEAM 1, FRONT, POS 1)] => [Khann 60009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Khann 60009 (TEAM 1, BACK, POS 1)] => [Khann 60009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [Khann 60009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Khann 60009 (TEAM 2, BACK, POS 1)] => [Khann 60009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Khann 60009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Khann 60009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Khann 60009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Khann 60009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Khann 60009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Khann 60009 (TEAM 1, FRONT, POS 1)] => [Khann 60009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Khann 60009 (TEAM 1, FRONT, POS 1)] => [Khann 60009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Khann 60009 (TEAM 1, FRONT, POS 1)] => [Khann 60009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Khann 60009 (TEAM 1, BACK, POS 1)] => [Khann 60009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Khann 60009 (TEAM 1, BACK, POS 1)] => [Khann 60009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Khann 60009 (TEAM 1, BACK, POS 1)] => [Khann 60009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Khann 60009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Khann 60009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Khann 60009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Khann 60009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Khann 60009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Khann 60009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Khann 60009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [Khann 60009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [Khann 60009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [Khann 60009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Khann 60009 (TEAM 2, BACK, POS 1)] => [Khann 60009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Khann 60009 (TEAM 2, BACK, POS 1)] => [Khann 60009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Khann 60009 (TEAM 2, BACK, POS 1)] => [Khann 60009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Khann 60009 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Khann 60009 (TEAM 1, FRONT, POS 1)] => [Khann 60009 (TEAM 2, FRONT, POS 1)] (hp = 0.932), TAKE 3256 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[>>> BASIC_ATTACK <<<] [Khann 60009 (TEAM 1, FRONT, POS 1)] => [Khann 60009 (TEAM 2, BACK, POS 1)] (hp = 0.897), TAKE 3908 damage, initiatorPower = 1, targetPower = 0.6 (CRIT)
+[Khann 60009 (TEAM 2, BACK, POS 1)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[RESIST_EFFECT] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [Khann 60009 (TEAM 1, FRONT, POS 1)] (hp = 1), effectType = 181
+
+
+[RESIST_EFFECT] [Khann 60009 (TEAM 2, BACK, POS 1)] => [Khann 60009 (TEAM 1, FRONT, POS 1)] (hp = 1), effectType = 181
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Khann 60009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Khann 60009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 561697d5, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Khann 60009 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 41c5716, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Khann 60009 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3d638755, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2c5a10b4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Khann 60009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Khann 60009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 561697d5, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Khann 60009 (TEAM 2, FRONT, POS 1)] hp = 0.932, power = 0.6
+- EFFECTS:
+id = table: 41c5716, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Khann 60009 (TEAM 2, BACK, POS 1)] hp = 0.897, power = 0.6
+- EFFECTS:
+id = table: 3d638755, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2c5a10b4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Khann 60009 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Khann 60009 (TEAM 1, BACK, POS 1)] => [Khann 60009 (TEAM 2, FRONT, POS 1)] (hp = 0.845), TAKE 4105 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.06
+
+
+[>>> BASIC_ATTACK <<<] [Khann 60009 (TEAM 1, BACK, POS 1)] => [Khann 60009 (TEAM 2, BACK, POS 1)] (hp = 0.811), TAKE 3284 damage, initiatorPower = 1, targetPower = 0.7
+[Khann 60009 (TEAM 2, BACK, POS 1)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.08
+
+
+[RESIST_EFFECT] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [Khann 60009 (TEAM 1, BACK, POS 1)] (hp = 1), effectType = 181
+
+
+[RESIST_EFFECT] [Khann 60009 (TEAM 2, BACK, POS 1)] => [Khann 60009 (TEAM 1, BACK, POS 1)] (hp = 1), effectType = 181
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Khann 60009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Khann 60009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 561697d5, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Khann 60009 (TEAM 2, FRONT, POS 1)] hp = 0.932, power = 0.6
+- EFFECTS:
+id = table: 41c5716, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Khann 60009 (TEAM 2, BACK, POS 1)] hp = 0.897, power = 0.6
+- EFFECTS:
+id = table: 3d638755, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2c5a10b4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Khann 60009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Khann 60009 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 561697d5, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.08
+
+> [Khann 60009 (TEAM 2, FRONT, POS 1)] hp = 0.845, power = 0.7
+- EFFECTS:
+id = table: 41c5716, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Khann 60009 (TEAM 2, BACK, POS 1)] hp = 0.811, power = 0.7
+- EFFECTS:
+id = table: 3d638755, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2c5a10b4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Khann 60009 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [Khann 60009 (TEAM 1, FRONT, POS 1)] (hp = 0.932), TAKE 3256 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.18
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[>>> BASIC_ATTACK <<<] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [Khann 60009 (TEAM 1, BACK, POS 1)] (hp = 0.914), TAKE 3256 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[ADD_EFFECT] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [Khann 60009 (TEAM 1, FRONT, POS 1)] (hp = 0.932), type = 191, persistentType = 42, isBuff = false
+
+
+[ADD_EFFECT] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [Khann 60009 (TEAM 1, FRONT, POS 1)] (hp = 0.932), type = 181, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [Khann 60009 (TEAM 1, BACK, POS 1)] (hp = 0.914), type = 191, persistentType = 42, isBuff = false
+
+
+[ADD_EFFECT] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [Khann 60009 (TEAM 1, BACK, POS 1)] (hp = 0.914), type = 181, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Khann 60009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Khann 60009 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 561697d5, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.08
+
+> [Khann 60009 (TEAM 2, FRONT, POS 1)] hp = 0.845, power = 0.7
+- EFFECTS:
+id = table: 41c5716, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Khann 60009 (TEAM 2, BACK, POS 1)] hp = 0.811, power = 0.7
+- EFFECTS:
+id = table: 3d638755, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2c5a10b4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Khann 60009 (TEAM 1, FRONT, POS 1)] hp = 0.932, power = 1
+- EFFECTS:
+id = table: 2b0e569e, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 42
+id = table: 52731488, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, damageReceive = 0.2
+
+> [Khann 60009 (TEAM 1, BACK, POS 1)] hp = 0.914, power = 1
+- EFFECTS:
+id = table: 561697d5, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a84a75a, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 42
+id = table: 61dd9692, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, damageReceive = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Khann 60009 (TEAM 2, FRONT, POS 1)] hp = 0.845, power = 1
+- EFFECTS:
+id = table: 41c5716, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Khann 60009 (TEAM 2, BACK, POS 1)] hp = 0.811, power = 0.7
+- EFFECTS:
+id = table: 3d638755, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2c5a10b4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Khann 60009 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Khann 60009 (TEAM 2, BACK, POS 1)] => [Khann 60009 (TEAM 1, FRONT, POS 1)] (hp = 0.828), TAKE 4926 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[>>> BASIC_ATTACK <<<] [Khann 60009 (TEAM 2, BACK, POS 1)] => [Khann 60009 (TEAM 1, BACK, POS 1)] (hp = 0.811), TAKE 3940 damage, initiatorPower = 1, targetPower = 1
+[Khann 60009 (TEAM 1, BACK, POS 1)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [Khann 60009 (TEAM 2, BACK, POS 1)] => [Khann 60009 (TEAM 1, FRONT, POS 1)] (hp = 0.828), type = 181, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Khann 60009 (TEAM 2, BACK, POS 1)] => [Khann 60009 (TEAM 1, BACK, POS 1)] (hp = 0.811), type = 181, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Khann 60009 (TEAM 1, FRONT, POS 1)] hp = 0.932, power = 1
+- EFFECTS:
+id = table: 2b0e569e, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 42
+id = table: 52731488, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, damageReceive = 0.2
+
+> [Khann 60009 (TEAM 1, BACK, POS 1)] hp = 0.914, power = 1
+- EFFECTS:
+id = table: 561697d5, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a84a75a, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 42
+id = table: 61dd9692, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, damageReceive = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Khann 60009 (TEAM 2, FRONT, POS 1)] hp = 0.845, power = 1
+- EFFECTS:
+id = table: 41c5716, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Khann 60009 (TEAM 2, BACK, POS 1)] hp = 0.811, power = 0.7
+- EFFECTS:
+id = table: 3d638755, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2c5a10b4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Khann 60009 (TEAM 1, FRONT, POS 1)] hp = 0.828, power = 1
+- EFFECTS:
+id = table: 2b0e569e, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 42
+id = table: 52731488, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, damageReceive = 0.2
+id = table: 383e9691, type = 181, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, damageReceive = 0.2
+
+> [Khann 60009 (TEAM 1, BACK, POS 1)] hp = 0.811, power = 1
+- EFFECTS:
+id = table: 561697d5, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a84a75a, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 42
+id = table: 61dd9692, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, damageReceive = 0.2
+id = table: 7223024a, type = 181, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, damageReceive = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Khann 60009 (TEAM 2, FRONT, POS 1)] hp = 0.845, power = 1
+- EFFECTS:
+id = table: 41c5716, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Khann 60009 (TEAM 2, BACK, POS 1)] hp = 0.811, power = 1
+- EFFECTS:
+id = table: 3d638755, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2c5a10b4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Khann 60009 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Khann 60009 (TEAM 1, FRONT, POS 1)] => [Khann 60009 (TEAM 2, FRONT, POS 1)] (hp = 0.637), TAKE 9901 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Khann 60009 (TEAM 1, FRONT, POS 1)] => [Khann 60009 (TEAM 2, BACK, POS 1)] (hp = 0.551), TAKE 9901 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Khann 60009 (TEAM 1, FRONT, POS 1)] hp = 0.828, power = 1
+- EFFECTS:
+id = table: 2b0e569e, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 42
+id = table: 52731488, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+id = table: 383e9691, type = 181, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+
+> [Khann 60009 (TEAM 1, BACK, POS 1)] hp = 0.811, power = 1
+- EFFECTS:
+id = table: 561697d5, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a84a75a, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 42
+id = table: 61dd9692, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+id = table: 7223024a, type = 181, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Khann 60009 (TEAM 2, FRONT, POS 1)] hp = 0.845, power = 1
+- EFFECTS:
+id = table: 41c5716, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Khann 60009 (TEAM 2, BACK, POS 1)] hp = 0.811, power = 1
+- EFFECTS:
+id = table: 3d638755, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2c5a10b4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Khann 60009 (TEAM 1, FRONT, POS 1)] hp = 0.828, power = 0
+- EFFECTS:
+id = table: 2b0e569e, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 42
+id = table: 52731488, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+id = table: 383e9691, type = 181, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+
+> [Khann 60009 (TEAM 1, BACK, POS 1)] hp = 0.811, power = 1
+- EFFECTS:
+id = table: 561697d5, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a84a75a, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 42
+id = table: 61dd9692, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+id = table: 7223024a, type = 181, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Khann 60009 (TEAM 2, FRONT, POS 1)] hp = 0.637, power = 1
+- EFFECTS:
+id = table: 41c5716, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Khann 60009 (TEAM 2, BACK, POS 1)] hp = 0.551, power = 1
+- EFFECTS:
+id = table: 3d638755, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2c5a10b4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Khann 60009 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [Khann 60009 (TEAM 1, FRONT, POS 1)] (hp = 0.479), TAKE 16633 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [Khann 60009 (TEAM 1, BACK, POS 1)] (hp = 0.374), TAKE 16633 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Khann 60009 (TEAM 1, FRONT, POS 1)] hp = 0.828, power = 0
+- EFFECTS:
+id = table: 2b0e569e, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 42
+id = table: 52731488, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+id = table: 383e9691, type = 181, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+
+> [Khann 60009 (TEAM 1, BACK, POS 1)] hp = 0.811, power = 1
+- EFFECTS:
+id = table: 561697d5, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a84a75a, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 42
+id = table: 61dd9692, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+id = table: 7223024a, type = 181, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Khann 60009 (TEAM 2, FRONT, POS 1)] hp = 0.637, power = 1
+- EFFECTS:
+id = table: 41c5716, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Khann 60009 (TEAM 2, BACK, POS 1)] hp = 0.551, power = 1
+- EFFECTS:
+id = table: 3d638755, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2c5a10b4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Khann 60009 (TEAM 1, FRONT, POS 1)] hp = 0.479, power = 0.1
+- EFFECTS:
+id = table: 2b0e569e, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 42
+id = table: 52731488, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+id = table: 383e9691, type = 181, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+
+> [Khann 60009 (TEAM 1, BACK, POS 1)] hp = 0.374, power = 1
+- EFFECTS:
+id = table: 561697d5, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a84a75a, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 42
+id = table: 61dd9692, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+id = table: 7223024a, type = 181, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Khann 60009 (TEAM 2, FRONT, POS 1)] hp = 0.637, power = 0
+- EFFECTS:
+id = table: 41c5716, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Khann 60009 (TEAM 2, BACK, POS 1)] hp = 0.551, power = 1
+- EFFECTS:
+id = table: 3d638755, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2c5a10b4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Khann 60009 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Khann 60009 (TEAM 1, BACK, POS 1)] => [Khann 60009 (TEAM 2, FRONT, POS 1)] (hp = 0.375), TAKE 12483 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[>>> ACTIVE_SKILL <<<] [Khann 60009 (TEAM 1, BACK, POS 1)] => [Khann 60009 (TEAM 2, BACK, POS 1)] (hp = 0.223), TAKE 12483 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Khann 60009 (TEAM 1, FRONT, POS 1)] hp = 0.479, power = 0.1
+- EFFECTS:
+id = table: 2b0e569e, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 42
+id = table: 52731488, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+id = table: 383e9691, type = 181, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+
+> [Khann 60009 (TEAM 1, BACK, POS 1)] hp = 0.374, power = 1
+- EFFECTS:
+id = table: 561697d5, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a84a75a, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 42
+id = table: 61dd9692, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+id = table: 7223024a, type = 181, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Khann 60009 (TEAM 2, FRONT, POS 1)] hp = 0.637, power = 0
+- EFFECTS:
+id = table: 41c5716, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Khann 60009 (TEAM 2, BACK, POS 1)] hp = 0.551, power = 1
+- EFFECTS:
+id = table: 3d638755, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2c5a10b4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Khann 60009 (TEAM 1, FRONT, POS 1)] hp = 0.479, power = 0.1
+- EFFECTS:
+id = table: 2b0e569e, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 42
+id = table: 52731488, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+id = table: 383e9691, type = 181, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+
+> [Khann 60009 (TEAM 1, BACK, POS 1)] hp = 0.374, power = 0
+- EFFECTS:
+id = table: 561697d5, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a84a75a, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 42
+id = table: 61dd9692, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+id = table: 7223024a, type = 181, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Khann 60009 (TEAM 2, FRONT, POS 1)] hp = 0.375, power = 0.1
+- EFFECTS:
+id = table: 41c5716, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Khann 60009 (TEAM 2, BACK, POS 1)] hp = 0.223, power = 1
+- EFFECTS:
+id = table: 3d638755, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2c5a10b4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Khann 60009 (TEAM 2, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Khann 60009 (TEAM 2, BACK, POS 1)] => [Khann 60009 (TEAM 1, FRONT, POS 1)] (hp = 0.038), TAKE 20972 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+[>>> ACTIVE_SKILL <<<] [Khann 60009 (TEAM 2, BACK, POS 1)] => [Khann 60009 (TEAM 1, BACK, POS 1)] (hp = 0), TAKE 16777 damage, initiatorPower = 0, targetPower = 0
+[Khann 60009 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Khann 60009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+[DEAD_FOR_DISPLAY] [Khann 60009 (TEAM 2, BACK, POS 1)] => [Khann 60009 (TEAM 1, BACK, POS 1)] (hp = 0), reason = 2
+
+
+[DEAD] [Khann 60009 (TEAM 2, BACK, POS 1)] => [Khann 60009 (TEAM 1, BACK, POS 1)] (hp = 0), reason = 2
+
+
+[SUB_ACTIVE_SKILL] [Khann 60009 (TEAM 2, BACK, POS 1)] => [Khann 60009 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 4368 damage (name = Khann_Passive3)
+
+
+[DEAD_FOR_DISPLAY] [Khann 60009 (TEAM 2, BACK, POS 1)] => [Khann 60009 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 4
+
+
+[DEAD] [Khann 60009 (TEAM 2, BACK, POS 1)] => [Khann 60009 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Khann 60009 (TEAM 1, FRONT, POS 1)] hp = 0.479, power = 0.1
+- EFFECTS:
+id = table: 2b0e569e, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 42
+id = table: 52731488, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+id = table: 383e9691, type = 181, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+
+> [Khann 60009 (TEAM 1, BACK, POS 1)] hp = 0.374, power = 0
+- EFFECTS:
+id = table: 561697d5, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a84a75a, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 42
+id = table: 61dd9692, type = 181, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+id = table: 7223024a, type = 181, initiator = [Khann 60009 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, damageReceive = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Khann 60009 (TEAM 2, FRONT, POS 1)] hp = 0.375, power = 0.1
+- EFFECTS:
+id = table: 41c5716, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Khann 60009 (TEAM 2, BACK, POS 1)] hp = 0.223, power = 1
+- EFFECTS:
+id = table: 3d638755, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2c5a10b4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Khann 60009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 2b0e569e, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 42
+
+> [Khann 60009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7a84a75a, type = 191, initiator = [Khann 60009 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 42
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Khann 60009 (TEAM 2, FRONT, POS 1)] hp = 0.375, power = 0.1
+- EFFECTS:
+id = table: 41c5716, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Khann 60009 (TEAM 2, BACK, POS 1)] hp = 0.223, power = 0
+- EFFECTS:
+id = table: 3d638755, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2c5a10b4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Khann 60009 (TEAM 2, FRONT, POS 1)] (hp = 0.375), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Khann 60009 (TEAM 2, BACK, POS 1)] (hp = 0.223), type = 501, persistentType = 31, isBuff = true
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Khann 60009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Khann 60009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Khann 60009 (TEAM 2, FRONT, POS 1)] hp = 0.375, power = 0.1
+
+> [Khann 60009 (TEAM 2, BACK, POS 1)] hp = 0.223, power = 0
+- EFFECTS:
+id = table: 2c5a10b4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+<> STATISTICS:
+[SummonerMage (TEAM 2)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: 2d42c523, count = 2
+	[501 (number)] = 4 (number)
+	[112 (number)] = 0 (number)
+
+[Khann 60009 (TEAM 1, FRONT, POS 1)] DamageDeal = 26966, DamageTaken = 40889.137, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2026bf1f, count = 2
+	[1 (number)] = 7164 (number)
+	[2 (number)] = 19802 (number)
+
+	Damage taken by sources: Dictionary = table: 6ce03f94, count = 3
+	[1 (number)] = 8062 (number)
+	[2 (number)] = 29410.176 (number)
+	[4 (number)] = 3416.96 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6bb4110, count = 2
+	[1001 (number)] = 7164 (number)
+	[2001 (number)] = 19802 (number)
+
+	Damage taken history: Dictionary = table: 3d6be739, count = 4
+	[2004 (number)] = 19818.367 (number)
+	[1003 (number)] = 3566 (number)
+	[2002 (number)] = 13008.768 (number)
+	[1004 (number)] = 4496 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: 282079cc, count = 1
+	[112 (number)] = 0 (number)
+
+[Khann 60009 (TEAM 2, FRONT, POS 1)] DamageDeal = 39778, DamageTaken = 32570.48, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 45d1efc3, count = 2
+	[1 (number)] = 6512 (number)
+	[2 (number)] = 33266 (number)
+
+	Damage taken by sources: Dictionary = table: 193e95a8, count = 2
+	[1 (number)] = 8062 (number)
+	[2 (number)] = 24508.48 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 7b0eeb99, count = 2
+	[1003 (number)] = 6512 (number)
+	[2002 (number)] = 33266 (number)
+
+	Damage taken history: Dictionary = table: 504b132d, count = 4
+	[1002 (number)] = 4496 (number)
+	[2001 (number)] = 10840.64 (number)
+	[1001 (number)] = 3566 (number)
+	[2003 (number)] = 13667.84 (number)
+
+	Effect created history: Dictionary = table: 1a2e5110, count = 2
+	[191 (number)] = 4 (number)
+	[181 (number)] = 4 (number)
+
+[Khann 60009 (TEAM 2, BACK, POS 1)] DamageDeal = 50983, DamageTaken = 34353.48, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 77501428, count = 3
+	[1 (number)] = 8866 (number)
+	[2 (number)] = 37749 (number)
+	[4 (number)] = 4368 (number)
+
+	Damage taken by sources: Dictionary = table: 7b0e7b78, count = 2
+	[1 (number)] = 9845 (number)
+	[2 (number)] = 24508.48 (number)
+
+	NumberKill = 2, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 7354cd4f, count = 2
+	[1004 (number)] = 8866 (number)
+	[2004 (number)] = 42117 (number)
+
+	Damage taken history: Dictionary = table: 1b9ab4e4, count = 4
+	[1002 (number)] = 4496 (number)
+	[2001 (number)] = 10840.64 (number)
+	[1001 (number)] = 5349 (number)
+	[2003 (number)] = 13667.84 (number)
+
+	Effect created history: Dictionary = table: 6c1c12eb, count = 1
+	[181 (number)] = 4 (number)
+
+[Khann 60009 (TEAM 1, BACK, POS 1)] DamageDeal = 32355, DamageTaken = 37472.176, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 644171ab, count = 2
+	[1 (number)] = 7389 (number)
+	[2 (number)] = 24966 (number)
+
+	Damage taken by sources: Dictionary = table: 31aae6d9, count = 2
+	[1 (number)] = 8062 (number)
+	[2 (number)] = 29410.176 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 7f59499c, count = 2
+	[1002 (number)] = 7389 (number)
+	[2003 (number)] = 24966 (number)
+
+	Damage taken history: Dictionary = table: 735e97d6, count = 4
+	[2004 (number)] = 16401.408 (number)
+	[1003 (number)] = 3566 (number)
+	[2002 (number)] = 13008.768 (number)
+	[1004 (number)] = 4496 (number)
+
+
+<> WINNER: 2

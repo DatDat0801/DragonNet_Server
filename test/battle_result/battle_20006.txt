@@ -1,0 +1,2172 @@
+
+<> SEED = 803608247
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 74
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 2
+attack = 968
+defense = 99
+hp = 10946/10946
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1329
+dodge = 1196
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0.2
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 78f52730, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 1c231801, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 6ccb6d65, type = 440, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 26c99698, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 2
+attack = 968
+defense = 99
+hp = 10946/10946
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1329
+dodge = 1196
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0.2
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 5741207e, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 53a6c987, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 64b136d3, type = 440, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 6dc5b32, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 2
+attack = 968
+defense = 99
+hp = 10946/10946
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1329
+dodge = 1196
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0.2
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 5e4c6608, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 3b4366b7, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 56a9c8a2, type = 440, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: d0f4bc, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 2
+attack = 968
+defense = 99
+hp = 10946/10946
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1329
+dodge = 1196
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0.2
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 6c9ae3da, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 4ccc5620, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 54b87bc3, type = 440, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 515bb3df, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 440, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 440, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 440, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 440, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Finde 20006 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.916), TAKE 919 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.983), TAKE 183 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.983, power = 1
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.916, power = 0.6
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Finde 20006 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.832), TAKE 919 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.983), TAKE 183 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.983, power = 1
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.916, power = 0.6
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.983, power = 1
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.983, power = 1
+- EFFECTS:
+id = table: 634e5337, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.832, power = 0.7
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Finde 20006 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.899), TAKE 919 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.832), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.815), TAKE 183 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.983, power = 1
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.983, power = 1
+- EFFECTS:
+id = table: 634e5337, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.832, power = 0.7
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.899, power = 1
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.983, power = 1
+- EFFECTS:
+id = table: 634e5337, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.815, power = 1
+- EFFECTS:
+id = table: 4d9d6428, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Finde 20006 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.815), TAKE 919 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.983), TAKE 183 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.899, power = 1
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.983, power = 1
+- EFFECTS:
+id = table: 634e5337, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.815, power = 1
+- EFFECTS:
+id = table: 4d9d6428, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.815, power = 1
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.983, power = 1
+- EFFECTS:
+id = table: 634e5337, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.815, power = 1
+- EFFECTS:
+id = table: 4d9d6428, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.983, power = 1
+- EFFECTS:
+id = table: 5a6c683b, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 2 ----------
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.799), TAKE 183 damage, remainingRound = 2
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.967), TAKE 183 damage, remainingRound = 2
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.799), TAKE 183 damage, remainingRound = 2
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.967), TAKE 183 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Finde 20006 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.632), TAKE 1828 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.8), TAKE 1828 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.799), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.782), TAKE 183 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.782), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.765), TAKE 183 damage, remainingRound = 3
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.765), power = 0.3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.799, power = 1
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.967, power = 1
+- EFFECTS:
+id = table: 634e5337, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.799, power = 1
+- EFFECTS:
+id = table: 4d9d6428, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.967, power = 1
+- EFFECTS:
+id = table: 5a6c683b, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.765, power = 0.3
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: d348349, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1c72ae33, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.967, power = 1
+- EFFECTS:
+id = table: 634e5337, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.632, power = 1
+- EFFECTS:
+id = table: 4d9d6428, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.8, power = 1
+- EFFECTS:
+id = table: 5a6c683b, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Finde 20006 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.598), TAKE 1830 damage, initiatorPower = 0, targetPower = 0.4
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.8), TAKE 1828 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.632), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.615), TAKE 183 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.615), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.598), TAKE 183 damage, remainingRound = 3
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.598), power = 0.3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.765, power = 0.3
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: d348349, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1c72ae33, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.967, power = 1
+- EFFECTS:
+id = table: 634e5337, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.632, power = 1
+- EFFECTS:
+id = table: 4d9d6428, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.8, power = 1
+- EFFECTS:
+id = table: 5a6c683b, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.598, power = 0.4
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: d348349, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1c72ae33, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.8, power = 1
+- EFFECTS:
+id = table: 634e5337, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.598, power = 0.3
+- EFFECTS:
+id = table: 4d9d6428, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3a6835b1, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3fcbf77, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.8, power = 1
+- EFFECTS:
+id = table: 5a6c683b, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Finde 20006 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.431), TAKE 1830 damage, initiatorPower = 0, targetPower = 0.4
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.633), TAKE 1828 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.8), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.783), TAKE 183 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.633), type = 1, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.783), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.766), TAKE 183 damage, remainingRound = 3
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.766), power = 0.3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.598, power = 0.4
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: d348349, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1c72ae33, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.8, power = 1
+- EFFECTS:
+id = table: 634e5337, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.598, power = 0.3
+- EFFECTS:
+id = table: 4d9d6428, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3a6835b1, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3fcbf77, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.8, power = 1
+- EFFECTS:
+id = table: 5a6c683b, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.598, power = 0.4
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: d348349, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1c72ae33, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.766, power = 0.3
+- EFFECTS:
+id = table: 634e5337, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 2afb5a8a, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 23716ad0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.431, power = 0.4
+- EFFECTS:
+id = table: 4d9d6428, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3a6835b1, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3fcbf77, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.633, power = 1
+- EFFECTS:
+id = table: 5a6c683b, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 584f06b2, type = 1, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 3 ----------
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.598), type = 403, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.598), type = 401, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.598), type = 431, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.766), type = 403, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.766), type = 401, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.766), type = 431, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.431), type = 403, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.431), type = 401, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.431), type = 431, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.633), type = 403, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.633), type = 401, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.633), type = 431, persistentType = 51, isBuff = true
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.581), TAKE 202 damage, remainingRound = 1
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.564), TAKE 202 damage, remainingRound = 2
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.547), TAKE 202 damage, remainingRound = 2
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.749), TAKE 202 damage, remainingRound = 1
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.732), TAKE 202 damage, remainingRound = 2
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.715), TAKE 202 damage, remainingRound = 2
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.414), TAKE 202 damage, remainingRound = 1
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.397), TAKE 202 damage, remainingRound = 2
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.38), TAKE 202 damage, remainingRound = 2
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.616), TAKE 201 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Finde 20006 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.294), TAKE 1012 damage, initiatorPower = 0.9, targetPower = 0.5
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.547), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.53), TAKE 202 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.547, power = 0.4
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: d348349, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1c72ae33, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3eae0dcb, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4e713f9e, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 667efb6a, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.715, power = 0.3
+- EFFECTS:
+id = table: 634e5337, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 2afb5a8a, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 23716ad0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.38, power = 0.4
+- EFFECTS:
+id = table: 4d9d6428, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3a6835b1, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3fcbf77, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 5e54d2a2, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 38ca22fa, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 640a7766, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.616, power = 1
+- EFFECTS:
+id = table: 5a6c683b, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 584f06b2, type = 1, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 2d8f1ac5, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 55361c14, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3c0239ba, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.53, power = 0.9
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: d348349, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1c72ae33, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3eae0dcb, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4e713f9e, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 667efb6a, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: b84d81b, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.715, power = 0.3
+- EFFECTS:
+id = table: 634e5337, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 2afb5a8a, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 23716ad0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.294, power = 0.5
+- EFFECTS:
+id = table: 4d9d6428, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3a6835b1, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3fcbf77, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 5e54d2a2, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 38ca22fa, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 640a7766, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.616, power = 1
+- EFFECTS:
+id = table: 5a6c683b, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 584f06b2, type = 1, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 2d8f1ac5, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 55361c14, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3c0239ba, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Finde 20006 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.208), TAKE 1012 damage, initiatorPower = 0.8, targetPower = 0.6
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.715), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.698), TAKE 202 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.53, power = 0.9
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: d348349, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1c72ae33, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3eae0dcb, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4e713f9e, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 667efb6a, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: b84d81b, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.715, power = 0.3
+- EFFECTS:
+id = table: 634e5337, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 2afb5a8a, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 23716ad0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.294, power = 0.5
+- EFFECTS:
+id = table: 4d9d6428, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3a6835b1, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3fcbf77, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 5e54d2a2, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 38ca22fa, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 640a7766, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.616, power = 1
+- EFFECTS:
+id = table: 5a6c683b, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 584f06b2, type = 1, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 2d8f1ac5, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 55361c14, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3c0239ba, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.53, power = 0.9
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: d348349, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1c72ae33, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3eae0dcb, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4e713f9e, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 667efb6a, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: b84d81b, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.698, power = 0.8
+- EFFECTS:
+id = table: 634e5337, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 2afb5a8a, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 23716ad0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5e88a29c, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.208, power = 0.6
+- EFFECTS:
+id = table: 4d9d6428, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3a6835b1, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3fcbf77, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 5e54d2a2, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 38ca22fa, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 640a7766, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.616, power = 1
+- EFFECTS:
+id = table: 5a6c683b, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 584f06b2, type = 1, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 2d8f1ac5, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 55361c14, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3c0239ba, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Finde 20006 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.444), TAKE 1012 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.208), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.191), TAKE 202 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.53, power = 0.9
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: d348349, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1c72ae33, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3eae0dcb, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4e713f9e, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 667efb6a, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: b84d81b, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.698, power = 0.8
+- EFFECTS:
+id = table: 634e5337, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 2afb5a8a, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 23716ad0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5e88a29c, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.208, power = 0.6
+- EFFECTS:
+id = table: 4d9d6428, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3a6835b1, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3fcbf77, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 5e54d2a2, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 38ca22fa, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 640a7766, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.616, power = 1
+- EFFECTS:
+id = table: 5a6c683b, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 584f06b2, type = 1, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 2d8f1ac5, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 55361c14, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3c0239ba, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.444, power = 1
+- EFFECTS:
+id = table: 58f1ffc0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: d348349, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1c72ae33, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3eae0dcb, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4e713f9e, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 667efb6a, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: b84d81b, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.698, power = 0.8
+- EFFECTS:
+id = table: 634e5337, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 2afb5a8a, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 23716ad0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5e88a29c, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.191, power = 1
+- EFFECTS:
+id = table: 4d9d6428, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3a6835b1, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3fcbf77, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 5e54d2a2, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 38ca22fa, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 640a7766, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3bbbd3e5, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.616, power = 1
+- EFFECTS:
+id = table: 5a6c683b, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 584f06b2, type = 1, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 2d8f1ac5, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 55361c14, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3c0239ba, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 3 ----------
+
+[REMOVE_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.444), type = 111, persistentType = 2, isBuff = false
+
+
+[REMOVE_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.698), type = 111, persistentType = 2, isBuff = false
+
+
+[REMOVE_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.191), type = 111, persistentType = 2, isBuff = false
+
+
+[REMOVE_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.616), type = 111, persistentType = 2, isBuff = false
+
+
+[REMOVE_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.616), type = 1, persistentType = 1, isBuff = false
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 4 ----------
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.427), TAKE 202 damage, remainingRound = 1
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.41), TAKE 202 damage, remainingRound = 1
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.393), TAKE 202 damage, remainingRound = 2
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.68), TAKE 202 damage, remainingRound = 1
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.663), TAKE 202 damage, remainingRound = 1
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.646), TAKE 202 damage, remainingRound = 2
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.174), TAKE 202 damage, remainingRound = 1
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.157), TAKE 202 damage, remainingRound = 1
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0.14), TAKE 202 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Finde 20006 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 2159 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+[DEAD_FOR_DISPLAY] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.434), TAKE 2156 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.5
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.393), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.377), TAKE 183 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.377), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.36), TAKE 202 damage, remainingRound = 3
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.36), power = 0.3
+
+
+[DEAD] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.393, power = 1
+- EFFECTS:
+id = table: d348349, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1c72ae33, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3eae0dcb, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4e713f9e, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 667efb6a, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: b84d81b, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.646, power = 0.8
+- EFFECTS:
+id = table: 2afb5a8a, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 23716ad0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5e88a29c, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0.14, power = 1
+- EFFECTS:
+id = table: 3a6835b1, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3fcbf77, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 5e54d2a2, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 38ca22fa, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 640a7766, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3bbbd3e5, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.616, power = 1
+- EFFECTS:
+id = table: 2d8f1ac5, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 55361c14, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3c0239ba, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.36, power = 0.3
+- EFFECTS:
+id = table: d348349, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1c72ae33, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3eae0dcb, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4e713f9e, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 667efb6a, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: b84d81b, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 16d9f2c1, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3b30a401, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.646, power = 0.8
+- EFFECTS:
+id = table: 2afb5a8a, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 23716ad0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5e88a29c, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.434, power = 1
+- EFFECTS:
+id = table: 2d8f1ac5, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 55361c14, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3c0239ba, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Finde 20006 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.348), TAKE 1010 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.6
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.52
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.646), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.629), TAKE 202 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.36, power = 0.3
+- EFFECTS:
+id = table: d348349, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1c72ae33, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3eae0dcb, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4e713f9e, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 667efb6a, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: b84d81b, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 16d9f2c1, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3b30a401, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.646, power = 0.8
+- EFFECTS:
+id = table: 2afb5a8a, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 23716ad0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5e88a29c, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.434, power = 1
+- EFFECTS:
+id = table: 2d8f1ac5, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 55361c14, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3c0239ba, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.36, power = 0.3
+- EFFECTS:
+id = table: d348349, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1c72ae33, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3eae0dcb, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4e713f9e, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 667efb6a, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: b84d81b, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 16d9f2c1, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3b30a401, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.629, power = 1
+- EFFECTS:
+id = table: 2afb5a8a, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 23716ad0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5e88a29c, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 20377db9, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.348, power = 1
+- EFFECTS:
+id = table: 2d8f1ac5, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 55361c14, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3c0239ba, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Finde 20006 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.177), TAKE 2160 damage, initiatorPower = 0, targetPower = 0.4
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.62
+
+
+[>>> ACTIVE_SKILL <<<] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.355), TAKE 3240 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.64
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.177), type = 1, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.348), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.331), TAKE 201 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.355), type = 1, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.331), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.314), TAKE 201 damage, remainingRound = 3
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.314), power = 0.3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.36, power = 0.3
+- EFFECTS:
+id = table: d348349, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1c72ae33, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3eae0dcb, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4e713f9e, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 667efb6a, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: b84d81b, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 16d9f2c1, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3b30a401, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.629, power = 1
+- EFFECTS:
+id = table: 2afb5a8a, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 23716ad0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5e88a29c, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 20377db9, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.348, power = 1
+- EFFECTS:
+id = table: 2d8f1ac5, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 55361c14, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3c0239ba, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.177, power = 0.4
+- EFFECTS:
+id = table: d348349, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1c72ae33, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3eae0dcb, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4e713f9e, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 667efb6a, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: b84d81b, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 16d9f2c1, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3b30a401, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 45f6b6a1, type = 1, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.355, power = 1
+- EFFECTS:
+id = table: 2afb5a8a, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 23716ad0, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5e88a29c, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 20377db9, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1ce00b24, type = 1, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.314, power = 0.3
+- EFFECTS:
+id = table: 2d8f1ac5, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 55361c14, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3c0239ba, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 224eb415, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 398fcf50, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+---------- AFTER ROUND 4 ----------
+
+[REMOVE_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.177), type = 111, persistentType = 2, isBuff = false
+
+
+[REMOVE_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.177), type = 111, persistentType = 2, isBuff = false
+
+
+[REMOVE_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.355), type = 111, persistentType = 2, isBuff = false
+
+
+[REMOVE_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.355), type = 111, persistentType = 2, isBuff = false
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 5 ----------
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.162), TAKE 183 damage, remainingRound = 1
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.146), TAKE 183 damage, remainingRound = 2
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.129), TAKE 202 damage, remainingRound = 2
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.34), TAKE 183 damage, remainingRound = 1
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.323), TAKE 201 damage, remainingRound = 2
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.297), TAKE 201 damage, remainingRound = 2
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.28), TAKE 201 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Finde 20006 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.044), TAKE 1012 damage, initiatorPower = 0.8, targetPower = 0.5
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.62
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.28), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.263), TAKE 201 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.129, power = 0.4
+- EFFECTS:
+id = table: 3eae0dcb, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4e713f9e, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 667efb6a, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: b84d81b, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 16d9f2c1, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3b30a401, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 45f6b6a1, type = 1, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.323, power = 1
+- EFFECTS:
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5e88a29c, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 20377db9, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1ce00b24, type = 1, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.28, power = 0.3
+- EFFECTS:
+id = table: 2d8f1ac5, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 55361c14, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3c0239ba, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 224eb415, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 398fcf50, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.044, power = 0.5
+- EFFECTS:
+id = table: 3eae0dcb, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4e713f9e, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 667efb6a, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: b84d81b, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 16d9f2c1, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3b30a401, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 45f6b6a1, type = 1, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.323, power = 1
+- EFFECTS:
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5e88a29c, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 20377db9, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 1ce00b24, type = 1, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.62
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.263, power = 0.8
+- EFFECTS:
+id = table: 2d8f1ac5, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 55361c14, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3c0239ba, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 224eb415, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 398fcf50, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 493c257e, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+---------- AFTER ROUND 5 ----------
+
+[REMOVE_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.044), type = 111, persistentType = 2, isBuff = false
+
+
+[REMOVE_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.044), type = 1, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.323), type = 111, persistentType = 2, isBuff = false
+
+
+[REMOVE_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.323), type = 1, persistentType = 1, isBuff = false
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 6 ----------
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.044), type = 403, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.044), type = 401, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.044), type = 431, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.323), type = 403, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.323), type = 401, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.323), type = 431, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.263), type = 403, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.263), type = 401, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.263), type = 431, persistentType = 51, isBuff = true
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 1)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.03), TAKE 183 damage, remainingRound = 1
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.012), TAKE 220 damage, remainingRound = 1
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.306), TAKE 220 damage, remainingRound = 1
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.246), TAKE 220 damage, remainingRound = 1
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.228), TAKE 220 damage, remainingRound = 1
+
+
+[BURN_MARK] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.211), TAKE 220 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Finde 20006 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0.124), TAKE 1104 damage, initiatorPower = 1, targetPower = 0.9
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.76
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.64
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0.012), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 220 damage, remainingRound = 3
+
+
+[DEAD_FOR_DISPLAY] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 14
+
+
+[DEAD] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0.012, power = 0.5
+- EFFECTS:
+id = table: 3eae0dcb, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4e713f9e, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 667efb6a, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 16d9f2c1, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 3b30a401, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 5599be56, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2a046ec, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4592eca7, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.306, power = 1
+- EFFECTS:
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 20377db9, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 6d2d26be, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75de5e43, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75c9e132, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.62
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.211, power = 0.8
+- EFFECTS:
+id = table: 2d8f1ac5, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 55361c14, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3c0239ba, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 224eb415, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 398fcf50, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 493c257e, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 27ecdcf8, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2370166d, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 24db6806, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 1ea1ddde, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.306, power = 1
+- EFFECTS:
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 20377db9, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 6d2d26be, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75de5e43, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75c9e132, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.64
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.124, power = 0.9
+- EFFECTS:
+id = table: 2d8f1ac5, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 55361c14, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3c0239ba, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 224eb415, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 398fcf50, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 493c257e, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 27ecdcf8, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2370166d, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 24db6806, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Finde 20006 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0), TAKE 2515 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+[DEAD_FOR_DISPLAY] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 2
+
+
+[ADD_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.306), type = 111, persistentType = 2, isBuff = false
+
+
+[BURN_MARK] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.291), TAKE 183 damage, remainingRound = 3
+
+
+[CHANGE_POWER] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.291), power = 0.3
+
+
+[DEAD] [Finde 20006 (TEAM 1, FRONT, POS 2)] => [Finde 20006 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 1ea1ddde, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.306, power = 1
+- EFFECTS:
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 20377db9, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 6d2d26be, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75de5e43, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75c9e132, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.64
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0.124, power = 0.9
+- EFFECTS:
+id = table: 2d8f1ac5, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 55361c14, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3c0239ba, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 224eb415, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 398fcf50, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 493c257e, type = 111, initiator = [Finde 20006 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 27ecdcf8, type = 403, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2370166d, type = 401, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 24db6806, type = 431, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 1ea1ddde, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.291, power = 0.3
+- EFFECTS:
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 20377db9, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2, DOT_AMOUNT = 0.2
+id = table: 6d2d26be, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75de5e43, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75c9e132, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5febd9ee, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 6 ----------
+
+[REMOVE_EFFECT] [Finde 20006 (TEAM 2, FRONT, POS 2)] => [Finde 20006 (TEAM 1, FRONT, POS 2)] (hp = 0.291), type = 111, persistentType = 2, isBuff = false
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Finde 20006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 1ea1ddde, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+> [Finde 20006 (TEAM 1, FRONT, POS 2)] hp = 0.291, power = 0.3
+- EFFECTS:
+id = table: 46241b81, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 82a86db, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f60d58f, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6d2d26be, type = 403, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75de5e43, type = 401, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75c9e132, type = 431, initiator = [Finde 20006 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5febd9ee, type = 111, initiator = [Finde 20006 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Finde 20006 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Finde 20006 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+<> STATISTICS:
+[Finde 20006 (TEAM 2, FRONT, POS 2)] DamageDeal = 10155, DamageTaken = 13343.316, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 7c0b7f00, count = 3
+	[1 (number)] = 1931 (number)
+	[2 (number)] = 5400 (number)
+	[14 (number)] = 2824 (number)
+
+	Damage taken by sources: Dictionary = table: 36fa3df, count = 3
+	[1 (number)] = 2225 (number)
+	[2 (number)] = 8757.716 (number)
+	[14 (number)] = 2360.6 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 13b0c141, count = 13
+	[3000 (number)] = 404 (number)
+	[6000 (number)] = 440 (number)
+	[6001 (number)] = 220 (number)
+	[6002 (number)] = 183 (number)
+	[5000 (number)] = 403 (number)
+	[2001 (number)] = 183 (number)
+	[5001 (number)] = 1012 (number)
+	[2003 (number)] = 183 (number)
+	[4000 (number)] = 404 (number)
+	[4001 (number)] = 202 (number)
+	[4002 (number)] = 202 (number)
+	[4003 (number)] = 5400 (number)
+	[1004 (number)] = 919 (number)
+
+	Damage taken history: Dictionary = table: 12155e70, count = 13
+	[3000 (number)] = 212.8 (number)
+	[6000 (number)] = 696.6 (number)
+	[6001 (number)] = 1161 (number)
+	[6002 (number)] = 2642.436 (number)
+	[2000 (number)] = 193.6 (number)
+	[5000 (number)] = 425.6 (number)
+	[2001 (number)] = 1923.416 (number)
+	[5001 (number)] = 212.8 (number)
+	[2003 (number)] = 1923.416 (number)
+	[4001 (number)] = 2268.448 (number)
+	[4002 (number)] = 1064 (number)
+	[4003 (number)] = 425.6 (number)
+	[1004 (number)] = 193.6 (number)
+
+	Effect created history: Dictionary = table: 3541d04d, count = 2
+	[111 (number)] = 18 (number)
+	[1 (number)] = 4 (number)
+
+	Stat changer buff created history: Dictionary = table: 4b4eec61, count = 3
+	[1 (number)] = 1929807 (number)
+	[3 (number)] = 7869213 (number)
+	[31 (number)] = 1999.8 (number)
+
+[Finde 20006 (TEAM 1, FRONT, POS 2)] DamageDeal = 10323, DamageTaken = 8635.088, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5ee18680, count = 3
+	[1 (number)] = 2941 (number)
+	[2 (number)] = 6173 (number)
+	[14 (number)] = 1209 (number)
+
+	Damage taken by sources: Dictionary = table: 66bfa5f2, count = 2
+	[14 (number)] = 3309 (number)
+	[2 (number)] = 5326.088 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 5dc7d2d0, count = 11
+	[3000 (number)] = 202 (number)
+	[6000 (number)] = 220 (number)
+	[3002 (number)] = 1012 (number)
+	[6002 (number)] = 2515 (number)
+	[5000 (number)] = 201 (number)
+	[2002 (number)] = 183 (number)
+	[2003 (number)] = 3658 (number)
+	[4000 (number)] = 202 (number)
+	[4002 (number)] = 1010 (number)
+	[1002 (number)] = 919 (number)
+	[4003 (number)] = 201 (number)
+
+	Damage taken history: Dictionary = table: 615600ed, count = 12
+	[3000 (number)] = 638.4 (number)
+	[6000 (number)] = 232.2 (number)
+	[3002 (number)] = 212.8 (number)
+	[6002 (number)] = 193.6 (number)
+	[2000 (number)] = 193.6 (number)
+	[5000 (number)] = 406.4 (number)
+	[2002 (number)] = 1923.416 (number)
+	[2003 (number)] = 387.2 (number)
+	[4000 (number)] = 638.4 (number)
+	[4002 (number)] = 212.8 (number)
+	[1002 (number)] = 193.6 (number)
+	[4003 (number)] = 3402.672 (number)
+
+	Effect created history: Dictionary = table: 33515fc1, count = 2
+	[111 (number)] = 6 (number)
+	[1 (number)] = 2 (number)
+
+	Stat changer buff created history: Dictionary = table: 285aec6c, count = 3
+	[1 (number)] = 1929807 (number)
+	[3 (number)] = 9549045 (number)
+	[31 (number)] = 1999.8 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+[Finde 20006 (TEAM 2, FRONT, POS 1)] DamageDeal = 9622, DamageTaken = 12443.28, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4be8eae5, count = 3
+	[1 (number)] = 1931 (number)
+	[2 (number)] = 3658 (number)
+	[14 (number)] = 4033 (number)
+
+	Damage taken by sources: Dictionary = table: 1a68ca1d, count = 3
+	[1 (number)] = 4064 (number)
+	[2 (number)] = 6115.28 (number)
+	[14 (number)] = 2264 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 23fe31c6, count = 15
+	[3000 (number)] = 808 (number)
+	[6000 (number)] = 183 (number)
+	[3001 (number)] = 202 (number)
+	[3002 (number)] = 202 (number)
+	[3003 (number)] = 1012 (number)
+	[2000 (number)] = 366 (number)
+	[5000 (number)] = 549 (number)
+	[2001 (number)] = 183 (number)
+	[2002 (number)] = 3658 (number)
+	[2003 (number)] = 183 (number)
+	[4000 (number)] = 808 (number)
+	[1001 (number)] = 183 (number)
+	[4001 (number)] = 183 (number)
+	[1002 (number)] = 183 (number)
+	[1003 (number)] = 919 (number)
+
+	Damage taken history: Dictionary = table: 5c388059, count = 13
+	[3000 (number)] = 638.4 (number)
+	[3001 (number)] = 1064 (number)
+	[3002 (number)] = 1064 (number)
+	[3003 (number)] = 212.8 (number)
+	[2000 (number)] = 193.6 (number)
+	[2001 (number)] = 1923.416 (number)
+	[2002 (number)] = 387.2 (number)
+	[2003 (number)] = 1923.416 (number)
+	[4000 (number)] = 638.4 (number)
+	[1001 (number)] = 968 (number)
+	[4001 (number)] = 2268.448 (number)
+	[1002 (number)] = 968 (number)
+	[1003 (number)] = 193.6 (number)
+
+	Effect created history: Dictionary = table: 500be6f9, count = 1
+	[111 (number)] = 21 (number)
+
+	Stat changer buff created history: Dictionary = table: c6ff6c7, count = 3
+	[1 (number)] = 959904 (number)
+	[3 (number)] = 3759624 (number)
+	[31 (number)] = 999.9 (number)
+
+[Finde 20006 (TEAM 1, FRONT, POS 1)] DamageDeal = 14175, DamageTaken = 12184.264, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5ecd868d, count = 3
+	[1 (number)] = 3035 (number)
+	[2 (number)] = 7971 (number)
+	[14 (number)] = 3169 (number)
+
+	Damage taken by sources: Dictionary = table: 46efef45, count = 3
+	[1 (number)] = 4064 (number)
+	[2 (number)] = 4191.864 (number)
+	[14 (number)] = 3928.4 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 49dce54f, count = 16
+	[3000 (number)] = 605 (number)
+	[6000 (number)] = 440 (number)
+	[3001 (number)] = 1012 (number)
+	[6001 (number)] = 1104 (number)
+	[3003 (number)] = 202 (number)
+	[2000 (number)] = 366 (number)
+	[5000 (number)] = 201 (number)
+	[2001 (number)] = 3656 (number)
+	[5001 (number)] = 201 (number)
+	[2002 (number)] = 183 (number)
+	[4000 (number)] = 404 (number)
+	[1001 (number)] = 919 (number)
+	[4001 (number)] = 4315 (number)
+	[1003 (number)] = 183 (number)
+	[4003 (number)] = 201 (number)
+	[1004 (number)] = 183 (number)
+
+	Damage taken history: Dictionary = table: 3a76eb7d, count = 16
+	[3000 (number)] = 638.4 (number)
+	[6000 (number)] = 425.8 (number)
+	[3001 (number)] = 212.8 (number)
+	[6001 (number)] = 232.2 (number)
+	[3003 (number)] = 1064 (number)
+	[2000 (number)] = 193.6 (number)
+	[5000 (number)] = 600 (number)
+	[2001 (number)] = 387.2 (number)
+	[5001 (number)] = 1064 (number)
+	[2002 (number)] = 1923.416 (number)
+	[4000 (number)] = 638.4 (number)
+	[1001 (number)] = 193.6 (number)
+	[4001 (number)] = 406.4 (number)
+	[1003 (number)] = 968 (number)
+	[4003 (number)] = 2268.448 (number)
+	[1004 (number)] = 968 (number)
+
+	Effect created history: Dictionary = table: 83deb50, count = 1
+	[111 (number)] = 18 (number)
+
+	Stat changer buff created history: Dictionary = table: 3111b8d5, count = 3
+	[1 (number)] = 1929807 (number)
+	[3 (number)] = 5629437 (number)
+	[31 (number)] = 1999.8 (number)
+
+
+<> WINNER: 1

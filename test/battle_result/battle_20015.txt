@@ -1,0 +1,4214 @@
+
+<> SEED = 659373020
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 154
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 2
+attack = 1639
+defense = 184
+hp = 28716/28716
+speed = 53
+critRate = 0.1
+critDamage = 1.5
+accuracy = 889
+dodge = 862
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 7e0cca89, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 606e622c, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: f17dc63, type = 401, initiator = [Kadul 20015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 7b29a5e2, type = 403, initiator = [Kadul 20015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 2
+attack = 2049
+defense = 184
+hp = 22973/22973
+speed = 53
+critRate = 0.1
+critDamage = 1.5
+accuracy = 889
+dodge = 862
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 320bcaeb, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 3ceec0d, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 19d636c, type = 401, initiator = [Kadul 20015 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2167a3e9, type = 401, initiator = [Kadul 20015 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 2
+attack = 1639
+defense = 184
+hp = 28716/28716
+speed = 53
+critRate = 0.1
+critDamage = 1.5
+accuracy = 889
+dodge = 862
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 1d79e05d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 593193b, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6f7f9ce6, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 3dd6e25c, type = 401, initiator = [Kadul 20015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 71c92d8b, type = 403, initiator = [Kadul 20015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 2
+attack = 2049
+defense = 184
+hp = 22973/22973
+speed = 53
+critRate = 0.1
+critDamage = 1.5
+accuracy = 889
+dodge = 862
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 5cb2518, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 1c95e2e, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 5d7658ea, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 2075cb79, type = 401, initiator = [Kadul 20015 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: b079910, type = 401, initiator = [Kadul 20015 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.946), TAKE 1544 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[HEAL] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 1), HEAL 409 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1d79e05d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5cb2518, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.946, power = 0.6
+- EFFECTS:
+id = table: 1d79e05d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5cb2518, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.946), TAKE 1544 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+[HEAL] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.96), HEAL 409 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.946, power = 0.6
+- EFFECTS:
+id = table: 1d79e05d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5cb2518, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.946, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.96, power = 1
+- EFFECTS:
+id = table: 1d79e05d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5cb2518, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.86), TAKE 2896 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[HEAL] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 1), HEAL 512 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.946, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.96, power = 1
+- EFFECTS:
+id = table: 1d79e05d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5cb2518, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.946, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 1d79e05d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5cb2518, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.879), TAKE 1930 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[HEAL] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 1), HEAL 512 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.946, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 1d79e05d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5cb2518, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.879, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 1d79e05d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5cb2518, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.945), TAKE 1255 damage, initiatorPower = 0, targetPower = 1
+[Kadul 20015 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[HEAL] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.896), HEAL 491 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.879, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 1d79e05d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5cb2518, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.896, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 1d79e05d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.945, power = 1
+- EFFECTS:
+id = table: 5cb2518, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.877), TAKE 1569 damage, initiatorPower = 0, targetPower = 1
+[Kadul 20015 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[HEAL] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 1), HEAL 614 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.896, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 1d79e05d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.945, power = 1
+- EFFECTS:
+id = table: 5cb2518, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.896, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 1d79e05d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.877, power = 1
+- EFFECTS:
+id = table: 5cb2518, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.932), TAKE 1569 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[HEAL] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.877), HEAL 491 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.896, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 1d79e05d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.877, power = 1
+- EFFECTS:
+id = table: 5cb2518, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.896, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.932, power = 0.1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.877, power = 0
+- EFFECTS:
+id = table: 1d79e05d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.877, power = 1
+- EFFECTS:
+id = table: 5cb2518, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.863), TAKE 1569 damage, initiatorPower = 0, targetPower = 0.2
+[Kadul 20015 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[HEAL] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.904), HEAL 614 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.896, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.932, power = 0.1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.877, power = 0
+- EFFECTS:
+id = table: 1d79e05d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.877, power = 1
+- EFFECTS:
+id = table: 5cb2518, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.896, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.863, power = 0.2
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.877, power = 0
+- EFFECTS:
+id = table: 1d79e05d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.904, power = 0
+- EFFECTS:
+id = table: 5cb2518, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.877), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.904), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.823), TAKE 1544 damage, initiatorPower = 0.5, targetPower = 0.1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[HEAL] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.91), HEAL 409 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.896, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.863, power = 0.2
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.877, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.904, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.91, power = 0.5
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.863, power = 0.2
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.823, power = 0.1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.904, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.756), TAKE 1930 damage, initiatorPower = 0.7, targetPower = 0.2
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[HEAL] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.886), HEAL 512 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.91, power = 0.5
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.863, power = 0.2
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.823, power = 0.1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.904, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.91, power = 0.5
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 0.7
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.756, power = 0.2
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.904, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.857), TAKE 1544 damage, initiatorPower = 0.7, targetPower = 0.6
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+[HEAL] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.77), HEAL 409 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.91, power = 0.5
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 0.7
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.756, power = 0.2
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.904, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.857, power = 0.6
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 0.7
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.77, power = 0.7
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.904, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.756), TAKE 2896 damage, initiatorPower = 0.5, targetPower = 0.7 (CRIT)
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.52
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[HEAL] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.926), HEAL 512 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.857, power = 0.6
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 0.7
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.77, power = 0.7
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.904, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.756, power = 0.7
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 0.7
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.77, power = 0.7
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.926, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.716), TAKE 1544 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.62
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.54
+
+
+[HEAL] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.77), HEAL 409 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.756, power = 0.7
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 0.7
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.77, power = 0.7
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.926, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.77, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 0.7
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.716, power = 0.8
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.926, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.615), TAKE 2896 damage, initiatorPower = 1, targetPower = 0.9 (CRIT)
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.72
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[HEAL] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.908), HEAL 512 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.77, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 0.7
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.716, power = 0.8
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.926, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.77, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.908, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.615, power = 0.9
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.926, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.716), TAKE 1544 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.74
+
+
+[HEAL] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.63), HEAL 409 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.77, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.908, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.615, power = 0.9
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.926, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.716, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.908, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.63, power = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.926, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.649), TAKE 1930 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.76
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.76
+
+
+[HEAL] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.948), HEAL 512 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.716, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.908, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.63, power = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.926, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.649, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.908, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.63, power = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.948, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.894), TAKE 1255 damage, initiatorPower = 0, targetPower = 1
+[Kadul 20015 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.78
+
+
+[HEAL] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.666), HEAL 491 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.649, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.908, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.63, power = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.948, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.666, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.908, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.63, power = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.894, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.825), TAKE 1569 damage, initiatorPower = 0, targetPower = 1
+[Kadul 20015 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.8
+
+
+[HEAL] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.935), HEAL 614 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.666, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.908, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.63, power = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.894, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.666, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.935, power = 0
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.63, power = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.825, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.866), TAKE 1569 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[HEAL] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.647), HEAL 491 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.666, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.935, power = 0
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.63, power = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.825, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.666, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.866, power = 0.1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.647, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.825, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.781), TAKE 1962 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[HEAL] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.852), HEAL 614 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.666, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.866, power = 0.1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.647, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.825, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.666, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.781, power = 0.2
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.647, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.852, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.566), TAKE 2317 damage, initiatorPower = 0.5, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.9
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+[HEAL] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.68), HEAL 409 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.666, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.781, power = 0.2
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.647, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.852, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.68, power = 0.5
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.781, power = 0.2
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.566, power = 0.1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.852, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.627), TAKE 1544 damage, initiatorPower = 0.6, targetPower = 0.6
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.92
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.92
+
+
+[HEAL] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.58), HEAL 409 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.68, power = 0.5
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.781, power = 0.2
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.566, power = 0.1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.852, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.627, power = 0.6
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.781, power = 0.2
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.92
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.58, power = 0.6
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.852, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.513), TAKE 1930 damage, initiatorPower = 0.7, targetPower = 0.7
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.94
+
+
+[HEAL] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.803), HEAL 512 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.627, power = 0.6
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.781, power = 0.2
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.92
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.58, power = 0.6
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.852, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.627, power = 0.6
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.803, power = 0.7
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.94
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.513, power = 0.7
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.852, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.432), TAKE 2315 damage, initiatorPower = 0, targetPower = 0.8
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.96
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.701), TAKE 3473 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.432), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.701), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.627, power = 0.6
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.803, power = 0.7
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.94
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.513, power = 0.7
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.852, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.627, power = 0.6
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.803, power = 0.7
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.432, power = 0.8
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.701, power = 0.1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.559), TAKE 1930 damage, initiatorPower = 0.6, targetPower = 0.7
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.02
+
+
+[HEAL] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.723), HEAL 512 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.627, power = 0.6
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.803, power = 0.7
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.432, power = 0.8
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.701, power = 0.1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.559, power = 0.7
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.803, power = 0.7
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.432, power = 0.8
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.723, power = 0.6
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.479), TAKE 2315 damage, initiatorPower = 0, targetPower = 0.8
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.04
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.652), TAKE 3473 damage, initiatorPower = 0, targetPower = 0.8 (CRIT)
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.06
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.479), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.652), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.559, power = 0.7
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.803, power = 0.7
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.432, power = 0.8
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.723, power = 0.6
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.06
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.479, power = 0.8
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.652, power = 0.8
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.432, power = 0.8
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.723, power = 0.6
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.379), TAKE 1544 damage, initiatorPower = 1, targetPower = 0.9
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[HEAL] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.493), HEAL 409 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.06
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.479, power = 0.8
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.652, power = 0.8
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.432, power = 0.8
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.723, power = 0.6
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.493, power = 1
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.652, power = 0.8
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.379, power = 0.9
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.723, power = 0.6
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.311), TAKE 1930 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[HEAL] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.674), HEAL 512 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.493, power = 1
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.652, power = 0.8
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.379, power = 0.9
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.723, power = 0.6
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.493, power = 1
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.674, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.311, power = 1
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.723, power = 0.6
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.606), TAKE 1569 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[HEAL] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.329), HEAL 491 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.493, power = 1
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.674, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.311, power = 1
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.723, power = 0.6
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.493, power = 1
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.606, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.329, power = 0
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.723, power = 0.6
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.426), TAKE 1930 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[HEAL] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.746), HEAL 512 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.493, power = 1
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.606, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.329, power = 0
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.723, power = 0.6
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.426, power = 1
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.606, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.329, power = 0
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.746, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.677), TAKE 1569 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.16
+
+
+[HEAL] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.443), HEAL 491 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.426, power = 1
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.606, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.329, power = 0
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.746, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.443, power = 0
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.606, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.329, power = 0
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.677, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.609), TAKE 1569 damage, initiatorPower = 0, targetPower = 1
+[Kadul 20015 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.18
+
+
+[HEAL] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.633), HEAL 614 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.443, power = 0
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.606, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.329, power = 0
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.677, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.443, power = 0
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.633, power = 0
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.329, power = 0
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.609, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.362), TAKE 2317 damage, initiatorPower = 0.5, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[HEAL] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.343), HEAL 409 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.443, power = 0
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.633, power = 0
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.329, power = 0
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.609, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.362, power = 0.1
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.633, power = 0
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.343, power = 0.5
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.609, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.565), TAKE 1569 damage, initiatorPower = 0, targetPower = 0.1
+[Kadul 20015 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+[HEAL] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.636), HEAL 614 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.362, power = 0.1
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.633, power = 0
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.343, power = 0.5
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.609, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.362, power = 0.1
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.565, power = 0.1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.343, power = 0.5
+- EFFECTS:
+id = table: 178d097e, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.636, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5cfe0d8f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 8 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.343), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.636), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 9
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.308), TAKE 1544 damage, initiatorPower = 1, targetPower = 0.2
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+[HEAL] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.357), HEAL 409 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.362, power = 0.1
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.565, power = 0.1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.343, power = 0.5
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.636, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.308, power = 0.2
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.565, power = 0.1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.357, power = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.636, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.241), TAKE 1930 damage, initiatorPower = 0.5, targetPower = 0.3
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[HEAL] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.658), HEAL 512 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.308, power = 0.2
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.565, power = 0.1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.357, power = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.636, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.241, power = 0.3
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.565, power = 0.1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.357, power = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.658, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.303), TAKE 1544 damage, initiatorPower = 0.8, targetPower = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.5
+
+
+[HEAL] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.255), HEAL 409 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.241, power = 0.3
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.565, power = 0.1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.357, power = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.658, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.255, power = 0.8
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.565, power = 0.1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.303, power = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.658, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.236), TAKE 1930 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.58
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.52
+
+
+[HEAL] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.587), HEAL 512 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.255, power = 0.8
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.565, power = 0.1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.303, power = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.658, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.255, power = 0.8
+- EFFECTS:
+id = table: 33a0aff2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.587, power = 0.6
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3d8084fc, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.236, power = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.658, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+---------- AFTER ROUND 9 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.255), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.587), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 10
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.182), TAKE 1544 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.54
+
+
+[HEAL] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.27), HEAL 409 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.255, power = 0.8
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.587, power = 0.6
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.236, power = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.658, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.27, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.587, power = 0.6
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.182, power = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.658, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.505), TAKE 1883 damage, initiatorPower = 0, targetPower = 0.7 (CRIT)
+[Kadul 20015 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.7
+
+
+[HEAL] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.199), HEAL 491 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.27, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.587, power = 0.6
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.182, power = 1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.658, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.27, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.505, power = 0.7
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.199, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.658, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.132), TAKE 1930 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[HEAL] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.527), HEAL 512 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.27, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.505, power = 0.7
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.199, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.658, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.27, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.527, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.132, power = 0.1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.658, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.203), TAKE 1930 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+[HEAL] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.68), HEAL 512 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.27, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.527, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.132, power = 0.1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.658, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.203, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.527, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.132, power = 0.1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.68, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+ROUND 11
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.612), TAKE 1569 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[HEAL] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.22), HEAL 491 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.203, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.527, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.132, power = 0.1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.68, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.22, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.527, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.132, power = 0.1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.612, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.166), TAKE 1544 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.78
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.84
+
+
+[HEAL] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.146), HEAL 409 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.22, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.527, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.132, power = 0.1
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.612, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.166, power = 0.1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.527, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.146, power = 0.6
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.612, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.527), TAKE 1962 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.8
+
+
+[HEAL] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.554), HEAL 614 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.166, power = 0.1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.527, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.146, power = 0.6
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.612, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.166, power = 0.1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.554, power = 0
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.146, power = 0.6
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.527, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.468), TAKE 1962 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.86
+
+
+[HEAL] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.553), HEAL 614 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.166, power = 0.1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.554, power = 0
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.146, power = 0.6
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.527, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.166, power = 0.1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.468, power = 0.1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.146, power = 0.6
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.553, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+ROUND 12
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0.066), TAKE 2317 damage, initiatorPower = 0.6, targetPower = 0.7 (CRIT)
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.96
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+[HEAL] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.18), HEAL 409 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.166, power = 0.1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.468, power = 0.1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.146, power = 0.6
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.553, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.18, power = 0.6
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.468, power = 0.1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.066, power = 0.7
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.553, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 1930 damage, initiatorPower = 0.6, targetPower = 0
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+[DEAD_FOR_DISPLAY] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[HEAL] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.491), HEAL 512 hp, reason = 1
+
+
+[DEAD] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.18, power = 0.6
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.468, power = 0.1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0.066, power = 0.7
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.553, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.18, power = 0.6
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.491, power = 0.6
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.553, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.453), TAKE 2315 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.453), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.18, power = 0.6
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.491, power = 0.6
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.553, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.18, power = 0.6
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.491, power = 0.6
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.453, power = 0.1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 42b9bccb, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.113), TAKE 1930 damage, initiatorPower = 0.6, targetPower = 0.7
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.96
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.02
+
+
+[HEAL] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.475), HEAL 512 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.18, power = 0.6
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.491, power = 0.6
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.453, power = 0.1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 42b9bccb, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.113, power = 0.7
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.491, power = 0.6
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.475, power = 0.6
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 42b9bccb, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 13
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 13)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.374), TAKE 2317 damage, initiatorPower = 1, targetPower = 0.7 (CRIT)
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+[HEAL] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.127), HEAL 409 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.113, power = 0.7
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.491, power = 0.6
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.475, power = 0.6
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 42b9bccb, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.127, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.491, power = 0.6
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.374, power = 0.7
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 42b9bccb, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 13)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.307), TAKE 1544 damage, initiatorPower = 1, targetPower = 0.8
+[Kadul 20015 (TEAM 2, BACK, POS 1)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[HEAL] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.513), HEAL 512 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.127, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.491, power = 0.6
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.374, power = 0.7
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 42b9bccb, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.127, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.513, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.307, power = 0.8
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 42b9bccb, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 13)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.046), TAKE 2315 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.412), TAKE 2315 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0.046), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.412), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.127, power = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.513, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.307, power = 0.8
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 42b9bccb, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.046, power = 1
+- EFFECTS:
+id = table: 6e074366, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.412, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 58eebe6b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.307, power = 0.8
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 42b9bccb, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 13)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 1930 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[DEAD_FOR_DISPLAY] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[HEAL] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.329), HEAL 512 hp, reason = 1
+
+
+[DEAD] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0.046, power = 1
+- EFFECTS:
+id = table: 6e074366, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.412, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 58eebe6b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.307, power = 0.8
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 42b9bccb, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.412, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 58eebe6b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.329, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 42b9bccb, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 14
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 14)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.261), TAKE 1569 damage, initiatorPower = 0, targetPower = 1
+[Kadul 20015 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[HEAL] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.439), HEAL 614 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.412, power = 1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 58eebe6b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.329, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 42b9bccb, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.439, power = 0
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 58eebe6b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.261, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 42b9bccb, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 14)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.354), TAKE 1962 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[HEAL] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.287), HEAL 614 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.439, power = 0
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 58eebe6b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.261, power = 1
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 42b9bccb, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.354, power = 0.1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 58eebe6b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.287, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 42b9bccb, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 14 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.287), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 15
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 15)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.27), TAKE 1930 damage, initiatorPower = 0.5, targetPower = 0.2
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[HEAL] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.31), HEAL 512 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.354, power = 0.1
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 58eebe6b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.287, power = 0
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.27, power = 0.2
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 58eebe6b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.31, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 15)
+--------------------------------------------------------------------------------
+<> INITIATOR [Kadul 20015 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 2, BACK, POS 1)] (hp = 0.226), TAKE 1930 damage, initiatorPower = 0.7, targetPower = 0.6
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Kadul 20015 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[HEAL] [Kadul 20015 (TEAM 1, BACK, POS 1)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.292), HEAL 512 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.27, power = 0.2
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 58eebe6b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.31, power = 0.5
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.292, power = 0.7
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 58eebe6b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.226, power = 0.6
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+---------- AFTER ROUND 15 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Kadul 20015 (TEAM 1, BACK, POS 1)] (hp = 0.292), type = 404, persistentType = 52, isBuff = false
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Kadul 20015 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 1, BACK, POS 1)] hp = 0.292, power = 0.7
+- EFFECTS:
+id = table: 39a77ed6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Kadul 20015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Kadul 20015 (TEAM 2, BACK, POS 1)] hp = 0.226, power = 0.6
+- EFFECTS:
+id = table: 180cbe5b, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+<> STATISTICS:
+[Kadul 20015 (TEAM 1, FRONT, POS 1)] DamageDeal = 21863, DamageTaken = 36672, HpHeal = 5645, HpHealTaken = 5645
+	Damage dealt by sources: Dictionary = table: 617066ee, count = 2
+	[1 (number)] = 16215 (number)
+	[2 (number)] = 5648 (number)
+
+	Damage taken by sources: Dictionary = table: 6e20c1ef, count = 2
+	[1 (number)] = 31758 (number)
+	[2 (number)] = 4914 (number)
+
+	Hp heal by sources: Dictionary = table: 3ae8b33e, count = 1
+	[1 (number)] = 5645 (number)
+
+	Hp heal taken by sources: Dictionary = table: 17584fee, count = 1
+	[1 (number)] = 5645 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 757d0cfd, count = 13
+	[3001 (number)] = 1544 (number)
+	[6001 (number)] = 2317 (number)
+	[12001 (number)] = 2317 (number)
+	[9003 (number)] = 1544 (number)
+	[2001 (number)] = 1255 (number)
+	[5001 (number)] = 1255 (number)
+	[8001 (number)] = 1569 (number)
+	[11001 (number)] = 1569 (number)
+	[4001 (number)] = 1544 (number)
+	[1001 (number)] = 1544 (number)
+	[10001 (number)] = 1544 (number)
+	[13001 (number)] = 2317 (number)
+	[7002 (number)] = 1544 (number)
+
+	Damage taken history: Dictionary = table: 1dba8404, count = 18
+	[4003 (number)] = 1639 (number)
+	[4004 (number)] = 2049 (number)
+	[8003 (number)] = 2458.5 (number)
+	[12004 (number)] = 2049 (number)
+	[1002 (number)] = 1639 (number)
+	[9001 (number)] = 1639 (number)
+	[1004 (number)] = 2049 (number)
+	[9002 (number)] = 2049 (number)
+	[13003 (number)] = 2457 (number)
+	[13004 (number)] = 2049 (number)
+	[6002 (number)] = 1639 (number)
+	[10004 (number)] = 2049 (number)
+	[6005 (number)] = 2049 (number)
+	[7001 (number)] = 2457 (number)
+	[3003 (number)] = 1639 (number)
+	[11002 (number)] = 1639 (number)
+	[3004 (number)] = 3073.5 (number)
+	[7005 (number)] = 2049 (number)
+
+	Hp heal history: Dictionary = table: 62b4b5ce, count = 13
+	[3001 (number)] = 409 (number)
+	[6001 (number)] = 409 (number)
+	[12001 (number)] = 409 (number)
+	[9003 (number)] = 409 (number)
+	[2001 (number)] = 491 (number)
+	[5001 (number)] = 491 (number)
+	[8001 (number)] = 491 (number)
+	[11001 (number)] = 491 (number)
+	[4001 (number)] = 409 (number)
+	[1001 (number)] = 409 (number)
+	[10001 (number)] = 409 (number)
+	[13001 (number)] = 409 (number)
+	[7002 (number)] = 409 (number)
+
+	Hp heal taken history: Dictionary = table: 37c6a149, count = 13
+	[3001 (number)] = 409 (number)
+	[6001 (number)] = 409 (number)
+	[12001 (number)] = 409 (number)
+	[9003 (number)] = 409 (number)
+	[2001 (number)] = 491 (number)
+	[5001 (number)] = 491 (number)
+	[8001 (number)] = 491 (number)
+	[11001 (number)] = 491 (number)
+	[4001 (number)] = 409 (number)
+	[1001 (number)] = 409 (number)
+	[10001 (number)] = 409 (number)
+	[13001 (number)] = 409 (number)
+	[7002 (number)] = 409 (number)
+
+[Kadul 20015 (TEAM 1, BACK, POS 1)] DamageDeal = 29084, DamageTaken = 26093.928, HpHeal = 8190, HpHealTaken = 8190
+	Damage dealt by sources: Dictionary = table: 2ac159a8, count = 2
+	[1 (number)] = 20846 (number)
+	[2 (number)] = 8238 (number)
+
+	Damage taken by sources: Dictionary = table: 63926250, count = 2
+	[1 (number)] = 2049 (number)
+	[2 (number)] = 24044.928 (number)
+
+	Hp heal by sources: Dictionary = table: 244fa129, count = 1
+	[1 (number)] = 8190 (number)
+
+	Hp heal taken by sources: Dictionary = table: 26818000, count = 1
+	[1 (number)] = 8190 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6ad9161, count = 15
+	[3002 (number)] = 1930 (number)
+	[12002 (number)] = 1930 (number)
+	[15002 (number)] = 1930 (number)
+	[6003 (number)] = 1930 (number)
+	[9004 (number)] = 1930 (number)
+	[14001 (number)] = 1569 (number)
+	[5002 (number)] = 1569 (number)
+	[8002 (number)] = 1569 (number)
+	[2002 (number)] = 1569 (number)
+	[11003 (number)] = 1962 (number)
+	[4002 (number)] = 2896 (number)
+	[13002 (number)] = 1544 (number)
+	[7003 (number)] = 1930 (number)
+	[1003 (number)] = 2896 (number)
+	[10003 (number)] = 1930 (number)
+
+	Damage taken history: Dictionary = table: 765df306, count = 12
+	[15001 (number)] = 2049 (number)
+	[14002 (number)] = 2081.784 (number)
+	[5003 (number)] = 1665.224 (number)
+	[2003 (number)] = 1665.224 (number)
+	[5004 (number)] = 2081.784 (number)
+	[8004 (number)] = 2081.784 (number)
+	[2004 (number)] = 2081.784 (number)
+	[11004 (number)] = 2081.784 (number)
+	[7001 (number)] = 3685.5 (number)
+	[10002 (number)] = 2497.836 (number)
+	[13003 (number)] = 2457 (number)
+	[7004 (number)] = 1665.224 (number)
+
+	Hp heal history: Dictionary = table: 2f42520d, count = 15
+	[3002 (number)] = 512 (number)
+	[12002 (number)] = 512 (number)
+	[15002 (number)] = 512 (number)
+	[6003 (number)] = 512 (number)
+	[9004 (number)] = 512 (number)
+	[14001 (number)] = 614 (number)
+	[5002 (number)] = 614 (number)
+	[8002 (number)] = 614 (number)
+	[2002 (number)] = 614 (number)
+	[11003 (number)] = 614 (number)
+	[4002 (number)] = 512 (number)
+	[13002 (number)] = 512 (number)
+	[7003 (number)] = 512 (number)
+	[1003 (number)] = 512 (number)
+	[10003 (number)] = 512 (number)
+
+	Hp heal taken history: Dictionary = table: 5e95665, count = 15
+	[3002 (number)] = 512 (number)
+	[12002 (number)] = 512 (number)
+	[15002 (number)] = 512 (number)
+	[6003 (number)] = 512 (number)
+	[9004 (number)] = 512 (number)
+	[14001 (number)] = 614 (number)
+	[5002 (number)] = 614 (number)
+	[8002 (number)] = 614 (number)
+	[2002 (number)] = 614 (number)
+	[11003 (number)] = 614 (number)
+	[4002 (number)] = 512 (number)
+	[13002 (number)] = 512 (number)
+	[7003 (number)] = 512 (number)
+	[1003 (number)] = 512 (number)
+	[10003 (number)] = 512 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 10418, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 6fa5e920, count = 1
+	[2 (number)] = 10418 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 76f9e211, count = 2
+	[7001 (number)] = 5788 (number)
+	[13003 (number)] = 4630 (number)
+
+	Effect created history: Dictionary = table: 4b1614f9, count = 2
+	[501 (number)] = 4 (number)
+	[112 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: 4032980, count = 1
+	[4 (number)] = 240 (number)
+
+[Kadul 20015 (TEAM 2, BACK, POS 1)] DamageDeal = 29290, DamageTaken = 29768.816, HpHeal = 8190, HpHealTaken = 8190
+	Damage dealt by sources: Dictionary = table: 44af3cc9, count = 2
+	[1 (number)] = 20266 (number)
+	[2 (number)] = 9024 (number)
+
+	Damage taken by sources: Dictionary = table: 7d7fa727, count = 2
+	[1 (number)] = 6556.5 (number)
+	[2 (number)] = 23212.316 (number)
+
+	Hp heal by sources: Dictionary = table: 6b5d5ad, count = 1
+	[1 (number)] = 8190 (number)
+
+	Hp heal taken by sources: Dictionary = table: 1b67a3d2, count = 1
+	[1 (number)] = 8190 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 26939d03, count = 15
+	[7005 (number)] = 1930 (number)
+	[15001 (number)] = 1930 (number)
+	[9002 (number)] = 1930 (number)
+	[3004 (number)] = 2896 (number)
+	[12004 (number)] = 1930 (number)
+	[6005 (number)] = 1930 (number)
+	[14002 (number)] = 1962 (number)
+	[5004 (number)] = 1962 (number)
+	[8004 (number)] = 1569 (number)
+	[2004 (number)] = 1569 (number)
+	[11004 (number)] = 1962 (number)
+	[1004 (number)] = 1930 (number)
+	[4004 (number)] = 1930 (number)
+	[10004 (number)] = 1930 (number)
+	[13004 (number)] = 1930 (number)
+
+	Damage taken history: Dictionary = table: 26d55069, count = 14
+	[15002 (number)] = 2049 (number)
+	[12003 (number)] = 2457 (number)
+	[6004 (number)] = 3685.5 (number)
+	[2001 (number)] = 1665.224 (number)
+	[11001 (number)] = 1665.224 (number)
+	[5001 (number)] = 1665.224 (number)
+	[8001 (number)] = 1665.224 (number)
+	[14001 (number)] = 2081.784 (number)
+	[5002 (number)] = 2081.784 (number)
+	[8002 (number)] = 2081.784 (number)
+	[2002 (number)] = 2081.784 (number)
+	[11003 (number)] = 2081.784 (number)
+	[13001 (number)] = 2458.5 (number)
+	[13002 (number)] = 2049 (number)
+
+	Hp heal history: Dictionary = table: ee5e1a3, count = 15
+	[7005 (number)] = 512 (number)
+	[15001 (number)] = 512 (number)
+	[9002 (number)] = 512 (number)
+	[3004 (number)] = 512 (number)
+	[12004 (number)] = 512 (number)
+	[6005 (number)] = 512 (number)
+	[14002 (number)] = 614 (number)
+	[5004 (number)] = 614 (number)
+	[8004 (number)] = 614 (number)
+	[2004 (number)] = 614 (number)
+	[11004 (number)] = 614 (number)
+	[1004 (number)] = 512 (number)
+	[4004 (number)] = 512 (number)
+	[10004 (number)] = 512 (number)
+	[13004 (number)] = 512 (number)
+
+	Hp heal taken history: Dictionary = table: 28baba9e, count = 15
+	[7005 (number)] = 512 (number)
+	[15001 (number)] = 512 (number)
+	[9002 (number)] = 512 (number)
+	[3004 (number)] = 512 (number)
+	[12004 (number)] = 512 (number)
+	[6005 (number)] = 512 (number)
+	[14002 (number)] = 614 (number)
+	[5004 (number)] = 614 (number)
+	[8004 (number)] = 614 (number)
+	[2004 (number)] = 614 (number)
+	[11004 (number)] = 614 (number)
+	[1004 (number)] = 512 (number)
+	[4004 (number)] = 512 (number)
+	[10004 (number)] = 512 (number)
+	[13004 (number)] = 512 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 8103, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 12fb510f, count = 1
+	[2 (number)] = 8103 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 1ea10d21, count = 2
+	[6004 (number)] = 5788 (number)
+	[12003 (number)] = 2315 (number)
+
+	Effect created history: Dictionary = table: 3fe80faf, count = 1
+	[112 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: 42fb2c86, count = 1
+	[4 (number)] = 180 (number)
+
+[Kadul 20015 (TEAM 2, FRONT, POS 1)] DamageDeal = 18171, DamageTaken = 35649, HpHeal = 4827, HpHealTaken = 4827
+	Damage dealt by sources: Dictionary = table: ac07eff, count = 2
+	[1 (number)] = 11581 (number)
+	[2 (number)] = 6590 (number)
+
+	Damage taken by sources: Dictionary = table: 1c9eb283, count = 2
+	[1 (number)] = 33192 (number)
+	[2 (number)] = 2457 (number)
+
+	Hp heal by sources: Dictionary = table: 637443c8, count = 1
+	[1 (number)] = 4827 (number)
+
+	Hp heal taken by sources: Dictionary = table: 7870dc3c, count = 1
+	[1 (number)] = 4827 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 714e624b, count = 11
+	[9001 (number)] = 1544 (number)
+	[6002 (number)] = 1544 (number)
+	[3003 (number)] = 1544 (number)
+	[11002 (number)] = 1544 (number)
+	[5003 (number)] = 1569 (number)
+	[8003 (number)] = 2317 (number)
+	[2003 (number)] = 1569 (number)
+	[1002 (number)] = 1544 (number)
+	[10002 (number)] = 1883 (number)
+	[4003 (number)] = 1544 (number)
+	[7004 (number)] = 1569 (number)
+
+	Damage taken history: Dictionary = table: 182dcc4b, count = 17
+	[4001 (number)] = 1639 (number)
+	[4002 (number)] = 3073.5 (number)
+	[12001 (number)] = 2458.5 (number)
+	[12002 (number)] = 2049 (number)
+	[1001 (number)] = 1639 (number)
+	[1003 (number)] = 3073.5 (number)
+	[9003 (number)] = 1639 (number)
+	[9004 (number)] = 2049 (number)
+	[6001 (number)] = 2458.5 (number)
+	[10001 (number)] = 1639 (number)
+	[6003 (number)] = 2049 (number)
+	[10003 (number)] = 2049 (number)
+	[6004 (number)] = 2457 (number)
+	[3001 (number)] = 1639 (number)
+	[3002 (number)] = 2049 (number)
+	[7002 (number)] = 1639 (number)
+	[7003 (number)] = 2049 (number)
+
+	Hp heal history: Dictionary = table: 5906a685, count = 11
+	[9001 (number)] = 409 (number)
+	[6002 (number)] = 409 (number)
+	[3003 (number)] = 409 (number)
+	[11002 (number)] = 409 (number)
+	[5003 (number)] = 491 (number)
+	[8003 (number)] = 409 (number)
+	[2003 (number)] = 491 (number)
+	[1002 (number)] = 409 (number)
+	[10002 (number)] = 491 (number)
+	[4003 (number)] = 409 (number)
+	[7004 (number)] = 491 (number)
+
+	Hp heal taken history: Dictionary = table: 276900a5, count = 11
+	[9001 (number)] = 409 (number)
+	[6002 (number)] = 409 (number)
+	[3003 (number)] = 409 (number)
+	[11002 (number)] = 409 (number)
+	[5003 (number)] = 491 (number)
+	[8003 (number)] = 409 (number)
+	[2003 (number)] = 491 (number)
+	[1002 (number)] = 409 (number)
+	[10002 (number)] = 491 (number)
+	[4003 (number)] = 409 (number)
+	[7004 (number)] = 491 (number)
+
+
+<> WINNER: 2

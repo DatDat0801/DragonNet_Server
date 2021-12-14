@@ -1,0 +1,2633 @@
+
+<> SEED = 144012620
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 110
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 5
+attack = 5400
+defense = 394
+hp = 41996/41996
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1208
+pureDamage = 0.2
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 1781a649, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 4e67c4df, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 1b293404, type = 401, initiator = [Aris 50009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 59f0388f, type = 430, initiator = [Aris 50009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 43d97e16, type = 401, initiator = [Aris 50009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 21, calculationType = 1, amount = 0.45, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 438d46a, type = 403, initiator = [Aris 50009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 5
+attack = 6382
+defense = 394
+hp = 33597/33597
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1208
+pureDamage = 0.2
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 39dff81a, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 317e08f9, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 42b9c123, type = 401, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 3ff0751f, type = 430, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 79a945d3, type = 401, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 21, calculationType = 1, amount = 0.45, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 61b390e3, type = 401, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 5
+attack = 6382
+defense = 394
+hp = 33597/33597
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1208
+pureDamage = 0.2
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 8891e30, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 3b3d552f, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: ec7c6dc, type = 401, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 5499669e, type = 430, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 14219aa3, type = 401, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 0, persistentType = 21, calculationType = 1, amount = 0.45, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 346dcd2f, type = 401, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 5
+attack = 5400
+defense = 394
+hp = 41996/41996
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1208
+pureDamage = 0.2
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 75a5fe63, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6a17dbdf, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 72fbb0bc, type = 401, initiator = [Aris 50009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 16724acf, type = 430, initiator = [Aris 50009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 4cfee884, type = 401, initiator = [Aris 50009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 21, calculationType = 1, amount = 0.45, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 45e42125, type = 403, initiator = [Aris 50009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 5
+attack = 6382
+defense = 394
+hp = 33597/33597
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1208
+pureDamage = 0.2
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 8134232, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 82f5ce4, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 2e8b51f8, type = 401, initiator = [Aris 50009 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: c8b20e3, type = 430, initiator = [Aris 50009 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1e9be192, type = 401, initiator = [Aris 50009 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 21, calculationType = 1, amount = 0.45, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 3312361c, type = 401, initiator = [Aris 50009 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 5
+attack = 6382
+defense = 394
+hp = 33597/33597
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1208
+pureDamage = 0.2
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: c5e96b7, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6aaf9e6b, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 7c195de4, type = 401, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 7250d4c3, type = 430, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: ac30f10, type = 401, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 0, persistentType = 21, calculationType = 1, amount = 0.45, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 4d8869e5, type = 401, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [Aris 50009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 1, BACK, POS 1)] => [Aris 50009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 1, BACK, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 2, FRONT, POS 1)] => [Aris 50009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 2, BACK, POS 1)] => [Aris 50009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Aris 50009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Aris 50009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Aris 50009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Aris 50009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Aris 50009 (TEAM 1, BACK, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Aris 50009 (TEAM 1, BACK, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Aris 50009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Aris 50009 (TEAM 1, BACK, POS 2)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [Aris 50009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [Aris 50009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [Aris 50009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 1, BACK, POS 1)] => [Aris 50009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 1, BACK, POS 1)] => [Aris 50009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 1, BACK, POS 1)] => [Aris 50009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 1, BACK, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 1, BACK, POS 2)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 1, BACK, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Aris 50009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Aris 50009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Aris 50009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Aris 50009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Aris 50009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Aris 50009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 2, FRONT, POS 1)] => [Aris 50009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 2, FRONT, POS 1)] => [Aris 50009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 2, FRONT, POS 1)] => [Aris 50009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 2, BACK, POS 1)] => [Aris 50009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 2, BACK, POS 1)] => [Aris 50009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 2, BACK, POS 1)] => [Aris 50009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [Aris 50009 (TEAM 2, FRONT, POS 1)] (hp = 0.856), TAKE 6067 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.856, power = 0.6
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 1, BACK, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 2, FRONT, POS 1)] (hp = 0.685), TAKE 7170 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.856, power = 0.6
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.685, power = 0.7
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aris 50009 (TEAM 2, BACK, POS 1)] => [Aris 50009 (TEAM 1, FRONT, POS 1)] (hp = 0.829), TAKE 7170 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.685, power = 0.7
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.829, power = 1
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.685, power = 0.7
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aris 50009 (TEAM 2, FRONT, POS 1)] => [Aris 50009 (TEAM 1, FRONT, POS 1)] (hp = 0.685), TAKE 6067 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.829, power = 1
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.685, power = 0.7
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.685, power = 1
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.685, power = 1
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 5 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aris 50009 (TEAM 1, BACK, POS 1)] => [Aris 50009 (TEAM 2, FRONT, POS 1)] (hp = 0.514), TAKE 7170 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[ADD_EFFECT] [Aris 50009 (TEAM 1, BACK, POS 1)] => [Aris 50009 (TEAM 1, FRONT, POS 1)] (hp = 0.685), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.685, power = 1
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.685, power = 1
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.685, power = 1
+- EFFECTS:
+id = table: 1c0984e5, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.514, power = 1
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 6 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 2, BACK, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 1, FRONT, POS 1)] (hp = 0.514), TAKE 7170 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.685, power = 1
+- EFFECTS:
+id = table: 1c0984e5, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.514, power = 1
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.514, power = 1
+- EFFECTS:
+id = table: 1c0984e5, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.514, power = 1
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [Aris 50009 (TEAM 2, BACK, POS 1)] (hp = 0.587), TAKE 13887 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.514, power = 1
+- EFFECTS:
+id = table: 1c0984e5, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.514, power = 1
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.514, power = 0
+- EFFECTS:
+id = table: 1c0984e5, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.514, power = 1
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0.587, power = 1
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aris 50009 (TEAM 1, BACK, POS 1)] => [Aris 50009 (TEAM 2, BACK, POS 1)] (hp = 0.188), TAKE 13385 damage, initiatorPower = 0, targetPower = 1
+[Aris 50009 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.514, power = 0
+- EFFECTS:
+id = table: 1c0984e5, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.514, power = 1
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0.587, power = 1
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.514, power = 0
+- EFFECTS:
+id = table: 1c0984e5, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.514, power = 1
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0.188, power = 1
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 2, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aris 50009 (TEAM 2, BACK, POS 1)] => [Aris 50009 (TEAM 1, BACK, POS 1)] (hp = 0.602), TAKE 13385 damage, initiatorPower = 0, targetPower = 0.1
+[Aris 50009 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.514, power = 0
+- EFFECTS:
+id = table: 1c0984e5, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.514, power = 1
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0.188, power = 1
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.514, power = 0
+- EFFECTS:
+id = table: 1c0984e5, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0.602, power = 0.1
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.514, power = 1
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0.188, power = 0
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aris 50009 (TEAM 2, FRONT, POS 1)] => [Aris 50009 (TEAM 1, BACK, POS 1)] (hp = 0.188), TAKE 13887 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.514, power = 0
+- EFFECTS:
+id = table: 1c0984e5, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0.602, power = 0.1
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.514, power = 1
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0.188, power = 0
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.514, power = 0
+- EFFECTS:
+id = table: 1c0984e5, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0.188, power = 0.2
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.514, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0.188, power = 0
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 5 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 1, BACK, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 2, BACK, POS 1)] (hp = 0), TAKE 16412 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+[DEAD_FOR_DISPLAY] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 2, BACK, POS 1)] (hp = 0), reason = 2
+
+
+[DEAD] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 2, BACK, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.514, power = 0
+- EFFECTS:
+id = table: 1c0984e5, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0.188, power = 0.2
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.514, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0.188, power = 0
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 37322607, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.514, power = 0
+- EFFECTS:
+id = table: 1c0984e5, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0.188, power = 0.2
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.514, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 6 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 2, BACK, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 1, BACK, POS 1)] (hp = 0), TAKE 16412 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[DEAD_FOR_DISPLAY] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 1, BACK, POS 1)] (hp = 0), reason = 2
+
+
+[DEAD] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 1, BACK, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.514, power = 0
+- EFFECTS:
+id = table: 1c0984e5, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0.188, power = 0.2
+- EFFECTS:
+id = table: 33e80b8e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.514, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.514, power = 0
+- EFFECTS:
+id = table: 1c0984e5, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.514, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18630be7, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 6ca146d9, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [Aris 50009 (TEAM 1, BACK, POS 1)] => [Aris 50009 (TEAM 1, FRONT, POS 1)] (hp = 0.514), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [Aris 50009 (TEAM 2, FRONT, POS 1)] (hp = 0.37), TAKE 6067 damage, initiatorPower = 0.5, targetPower = 0.1
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.514, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.514, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.514, power = 0.5
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.37, power = 0.1
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 1, BACK, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 2, FRONT, POS 1)] (hp = 0.199), TAKE 7170 damage, initiatorPower = 0.5, targetPower = 0.2
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.62
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.514, power = 0.5
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.37, power = 0.1
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.514, power = 0.5
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.199, power = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aris 50009 (TEAM 2, FRONT, POS 1)] => [Aris 50009 (TEAM 1, FRONT, POS 1)] (hp = 0.37), TAKE 6067 damage, initiatorPower = 0.7, targetPower = 0.6
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.64
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.514, power = 0.5
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.199, power = 0.2
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.37, power = 0.6
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.199, power = 0.7
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 2, BACK, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 1, FRONT, POS 1)] (hp = 0.129), TAKE 10118 damage, initiatorPower = 0.5, targetPower = 0.7 (CRIT)
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[ADD_EFFECT] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 2, FRONT, POS 1)] (hp = 0.199), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.37, power = 0.6
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.199, power = 0.7
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.129, power = 0.7
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.199, power = 0.7
+- EFFECTS:
+id = table: 2a490cfd, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 2
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [Aris 50009 (TEAM 2, FRONT, POS 1)] (hp = 0.054), TAKE 6067 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.76
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[ADD_EFFECT] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [Aris 50009 (TEAM 1, BACK, POS 2)] (hp = 1), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.129, power = 0.7
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.199, power = 0.7
+- EFFECTS:
+id = table: 2a490cfd, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.129, power = 1
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5ecb23bb, type = 501, initiator = [Aris 50009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.054, power = 0.8
+- EFFECTS:
+id = table: 2a490cfd, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 1, BACK, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 7170 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.86
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[DEAD_FOR_DISPLAY] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.129, power = 1
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5ecb23bb, type = 501, initiator = [Aris 50009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0.054, power = 0.8
+- EFFECTS:
+id = table: 2a490cfd, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.129, power = 1
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5ecb23bb, type = 501, initiator = [Aris 50009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 2, BACK, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 10118 damage, initiatorPower = 1, targetPower = 0 (CRIT)
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.8
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.88
+
+
+[DEAD_FOR_DISPLAY] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[ADD_EFFECT] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 1), type = 501, persistentType = 2, isBuff = true
+
+
+[DEAD] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0.129, power = 1
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5ecb23bb, type = 501, initiator = [Aris 50009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5ecb23bb, type = 501, initiator = [Aris 50009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4ce20cfd, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 2
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 1, BACK, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 0.512), TAKE 16412 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5ecb23bb, type = 501, initiator = [Aris 50009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4ce20cfd, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5ecb23bb, type = 501, initiator = [Aris 50009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 0.512, power = 1
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4ce20cfd, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 2, BACK, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 1, BACK, POS 2)] (hp = 0.602), TAKE 13385 damage, initiatorPower = 0, targetPower = 0.1
+[Aris 50009 (TEAM 1, BACK, POS 2)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.9
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5ecb23bb, type = 501, initiator = [Aris 50009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 0.512, power = 1
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4ce20cfd, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 0.602, power = 0.1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5ecb23bb, type = 501, initiator = [Aris 50009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 0.512, power = 0
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4ce20cfd, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+
+
+---------- AFTER ROUND 5 ----------
+
+[REMOVE_EFFECT] [Aris 50009 (TEAM 1, FRONT, POS 1)] => [Aris 50009 (TEAM 1, BACK, POS 2)] (hp = 0.602), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 0.512), type = 501, persistentType = 2, isBuff = true
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 1, BACK, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 0.298), TAKE 7170 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+[ADD_EFFECT] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 1, BACK, POS 2)] (hp = 0.602), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 0.602, power = 0.1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 0.512, power = 0
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 0.602, power = 0.6
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1c9c8728, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 0.298, power = 0.1
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 0.217), TAKE 2722 damage, initiatorPower = 0, targetPower = 0.2 (CRIT)
+[Aris 50009 (TEAM 2, BACK, POS 2)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 0.217), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 0.602, power = 0.6
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1c9c8728, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 0.298, power = 0.1
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 0.602, power = 0.6
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1c9c8728, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 0.217, power = 0.2
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7e504ea2, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 2, BACK, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 1, BACK, POS 2)] (hp = 0.388), TAKE 7170 damage, initiatorPower = 0.7, targetPower = 0.7
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.96
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.02
+
+
+[ADD_EFFECT] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 0.217), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 0.602, power = 0.6
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1c9c8728, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 0.217, power = 0.2
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7e504ea2, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 0.388, power = 0.7
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1c9c8728, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 0.217, power = 0.7
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7e504ea2, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79017c28, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 2
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 1, BACK, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 0.039), TAKE 5991 damage, initiatorPower = 1, targetPower = 0.8
+[Aris 50009 (TEAM 2, BACK, POS 2)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+[ADD_EFFECT] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 1, BACK, POS 2)] (hp = 0.388), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 0.388, power = 0.7
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1c9c8728, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 0.217, power = 0.7
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7e504ea2, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79017c28, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 0.388, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1c9c8728, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+id = table: 25d81211, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 0.039, power = 0.8
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7e504ea2, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79017c28, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 2, BACK, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 1, BACK, POS 2)] (hp = 0.21), TAKE 5991 damage, initiatorPower = 1, targetPower = 1
+[Aris 50009 (TEAM 1, BACK, POS 2)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+[ADD_EFFECT] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 0.039), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 0.388, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1c9c8728, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+id = table: 25d81211, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 0.039, power = 0.8
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7e504ea2, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79017c28, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 0.21, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1c9c8728, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+id = table: 25d81211, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 0.039, power = 1
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7e504ea2, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79017c28, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+id = table: 5d857445, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 2
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Aris 50009 (TEAM 1, BACK, POS 2)] (hp = 0.156), TAKE 1814 damage, initiatorPower = 0, targetPower = 1
+[Aris 50009 (TEAM 1, BACK, POS 2)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Aris 50009 (TEAM 1, BACK, POS 2)] (hp = 0.156), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 0.21, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1c9c8728, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+id = table: 25d81211, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 0.039, power = 1
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7e504ea2, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79017c28, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+id = table: 5d857445, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 0.156, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1c9c8728, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+id = table: 25d81211, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 2
+id = table: 21dc1409, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 0.039, power = 1
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7e504ea2, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79017c28, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+id = table: 5d857445, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 2
+
+
+---------- AFTER ROUND 7 ----------
+
+[REMOVE_EFFECT] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 1, BACK, POS 2)] (hp = 0.156), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Aris 50009 (TEAM 2, BACK, POS 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 0.039), type = 501, persistentType = 2, isBuff = true
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aris 50009 (TEAM 1, BACK, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 0), TAKE 16412 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Aris 50009 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[DEAD_FOR_DISPLAY] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 0), reason = 2
+
+
+[DEAD] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 2, BACK, POS 2)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 0.156, power = 1
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 25d81211, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+id = table: 21dc1409, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 0.039, power = 1
+- EFFECTS:
+id = table: 18d1de24, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7e504ea2, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 5d857445, type = 501, initiator = [Aris 50009 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 0.156, power = 0
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 25d81211, type = 501, initiator = [Aris 50009 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 2
+id = table: 21dc1409, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 8 ----------
+
+[REMOVE_EFFECT] [Aris 50009 (TEAM 1, BACK, POS 2)] => [Aris 50009 (TEAM 1, BACK, POS 2)] (hp = 0.156), type = 501, persistentType = 2, isBuff = true
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Aris 50009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 1, BACK, POS 2)] hp = 0.156, power = 0
+- EFFECTS:
+id = table: 3851b3df, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 21dc1409, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Aris 50009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aris 50009 (TEAM 2, BACK, POS 2)] hp = 0, power = 0
+
+<> STATISTICS:
+[SummonerMage (TEAM 1)] DamageDeal = 2722, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 534edc26, count = 1
+	[2 (number)] = 2722 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 36e314c4, count = 1
+	[6002 (number)] = 2722 (number)
+
+	Effect created history: Dictionary = table: 40326901, count = 1
+	[112 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: 10f5152, count = 1
+	[4 (number)] = 60 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 1814, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 240502b9, count = 1
+	[2 (number)] = 1814 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: a6e77c9, count = 1
+	[7003 (number)] = 1814 (number)
+
+	Effect created history: Dictionary = table: 59476de4, count = 2
+	[501 (number)] = 4 (number)
+	[112 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: 2239225f, count = 1
+	[4 (number)] = 60 (number)
+
+[Aris 50009 (TEAM 2, FRONT, POS 1)] DamageDeal = 26021, DamageTaken = 41728, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2e25ec6b, count = 2
+	[1 (number)] = 12134 (number)
+	[2 (number)] = 13887 (number)
+
+	Damage taken by sources: Dictionary = table: 578c1659, count = 1
+	[1 (number)] = 41728 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 35c66901, count = 3
+	[2004 (number)] = 13887 (number)
+	[3003 (number)] = 6067 (number)
+	[1004 (number)] = 6067 (number)
+
+	Damage taken history: Dictionary = table: 5e868e3c, count = 7
+	[1001 (number)] = 5400 (number)
+	[1002 (number)] = 6382 (number)
+	[1005 (number)] = 6382 (number)
+	[4001 (number)] = 5400 (number)
+	[3001 (number)] = 5400 (number)
+	[4002 (number)] = 6382 (number)
+	[3002 (number)] = 6382 (number)
+
+[Aris 50009 (TEAM 1, BACK, POS 2)] DamageDeal = 83907, DamageTaken = 31609.977, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5f416733, count = 2
+	[1 (number)] = 34671 (number)
+	[2 (number)] = 49236 (number)
+
+	Damage taken by sources: Dictionary = table: 68c88c5c, count = 2
+	[1 (number)] = 12764 (number)
+	[2 (number)] = 18845.977 (number)
+
+	NumberKill = 3, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6ec07e25, count = 8
+	[8001 (number)] = 16412 (number)
+	[1002 (number)] = 7170 (number)
+	[7001 (number)] = 5991 (number)
+	[6001 (number)] = 7170 (number)
+	[2005 (number)] = 16412 (number)
+	[5001 (number)] = 16412 (number)
+	[4002 (number)] = 7170 (number)
+	[3002 (number)] = 7170 (number)
+
+	Damage taken history: Dictionary = table: 4ddeaaf, count = 4
+	[6003 (number)] = 6382 (number)
+	[7002 (number)] = 6382 (number)
+	[5002 (number)] = 16388.977 (number)
+	[7003 (number)] = 2457 (number)
+
+	Effect created history: Dictionary = table: 50f17df8, count = 1
+	[501 (number)] = 4 (number)
+
+[Aris 50009 (TEAM 2, BACK, POS 1)] DamageDeal = 20555, DamageTaken = 46645.152, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 7cf7a1d6, count = 2
+	[1 (number)] = 7170 (number)
+	[2 (number)] = 13385 (number)
+
+	Damage taken by sources: Dictionary = table: 11abc93b, count = 1
+	[2 (number)] = 46645.152 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 7a48d133, count = 2
+	[1003 (number)] = 7170 (number)
+	[2003 (number)] = 13385 (number)
+
+	Damage taken history: Dictionary = table: 210d7d3f, count = 3
+	[2001 (number)] = 13867.2 (number)
+	[2002 (number)] = 16388.977 (number)
+	[2005 (number)] = 16388.977 (number)
+
+[Aris 50009 (TEAM 1, BACK, POS 1)] DamageDeal = 20555, DamageTaken = 46645.152, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 603591d9, count = 2
+	[1 (number)] = 7170 (number)
+	[2 (number)] = 13385 (number)
+
+	Damage taken by sources: Dictionary = table: 2f987ef5, count = 1
+	[2 (number)] = 46645.152 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 1365e37c, count = 2
+	[1005 (number)] = 7170 (number)
+	[2002 (number)] = 13385 (number)
+
+	Damage taken history: Dictionary = table: 59cb90aa, count = 3
+	[2004 (number)] = 13867.2 (number)
+	[2003 (number)] = 16388.977 (number)
+	[2006 (number)] = 16388.977 (number)
+
+	Effect created history: Dictionary = table: 153c6913, count = 1
+	[501 (number)] = 2 (number)
+
+[Aris 50009 (TEAM 2, BACK, POS 2)] DamageDeal = 70364, DamageTaken = 49227.453, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 793fc297, count = 2
+	[1 (number)] = 40567 (number)
+	[2 (number)] = 29797 (number)
+
+	Damage taken by sources: Dictionary = table: 45fda0cf, count = 2
+	[1 (number)] = 12764 (number)
+	[2 (number)] = 36463.453 (number)
+
+	NumberKill = 2, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 4036261a, count = 7
+	[3004 (number)] = 10118 (number)
+	[7002 (number)] = 5991 (number)
+	[2006 (number)] = 16412 (number)
+	[5002 (number)] = 13385 (number)
+	[6003 (number)] = 7170 (number)
+	[1006 (number)] = 7170 (number)
+	[4003 (number)] = 10118 (number)
+
+	Damage taken history: Dictionary = table: 3634bbfe, count = 5
+	[8001 (number)] = 16388.977 (number)
+	[7001 (number)] = 6382 (number)
+	[6001 (number)] = 6382 (number)
+	[6002 (number)] = 3685.5 (number)
+	[5001 (number)] = 16388.977 (number)
+
+	Effect created history: Dictionary = table: 3118fcd5, count = 1
+	[501 (number)] = 8 (number)
+
+[Aris 50009 (TEAM 1, FRONT, POS 1)] DamageDeal = 32088, DamageTaken = 42710, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 194bc9e1, count = 2
+	[1 (number)] = 18201 (number)
+	[2 (number)] = 13887 (number)
+
+	Damage taken by sources: Dictionary = table: 683c3a24, count = 1
+	[1 (number)] = 42710 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 7bc49796, count = 4
+	[2001 (number)] = 13887 (number)
+	[3001 (number)] = 6067 (number)
+	[1001 (number)] = 6067 (number)
+	[4001 (number)] = 6067 (number)
+
+	Damage taken history: Dictionary = table: d4c326f, count = 6
+	[3003 (number)] = 5400 (number)
+	[3004 (number)] = 9573 (number)
+	[1003 (number)] = 6382 (number)
+	[1004 (number)] = 5400 (number)
+	[1006 (number)] = 6382 (number)
+	[4003 (number)] = 9573 (number)
+
+	Effect created history: Dictionary = table: 4a0ff6e6, count = 1
+	[501 (number)] = 2 (number)
+
+
+<> WINNER: 1

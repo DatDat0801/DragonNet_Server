@@ -1,0 +1,401 @@
+key<>value
+feature_1<>캠페인
+feature_2<>소환
+feature_4<>대장간
+feature_5<>드래곤 타워
+feature_6<>암시장
+feature_7<>술집
+feature_8<>고대 나무
+feature_9<>던전
+feature_10<>길드
+feature_11<>운명의 바퀴
+feature_12<>경기장
+feature_13<>금광
+feature_14<>가방
+feature_15<>소환사
+feature_16<>숙련
+feature_17<>친구
+feature_18<>도전
+faction_type_1<>물
+faction_type_2<>불
+faction_type_3<>심연
+faction_type_4<>자연
+faction_type_5<>빛
+faction_type_6<>어두움
+class_type_1<>마법사
+class_type_2<>전사
+class_type_3<>사제
+class_type_4<>암살자
+class_type_5<>레인저
+stat_type_1<>공격력
+stat_type_2<>방어력
+stat_type_3<>HP
+stat_type_4<>속도
+stat_type_10<>치명타 확률
+stat_type_11<>치명타 데미지
+stat_type_20<>명중률
+stat_type_21<>회피율
+stat_type_30<>순수 데미지
+stat_type_31<>스킬 데미지
+stat_type_32<>방어 관통
+stat_type_40<>CC 저항
+stat_type_41<>받는피해 감소
+stat_type_50<>에너지
+effect_type_1<>아찔합니다
+effect_type_2<>얼어 붙습니다
+effect_type_3<>잠재우기
+effect_type_4<>화석
+effect_type_10<>독
+effect_type_11<>피를 흘립니다
+effect_type_12<>태우기
+effect_type_30<>저주
+effect_type_31<>저주 터치
+effect_type_40<>조용
+effect_type_50<>불가침
+effect_type_100<>단점 토치
+effect_type_101<>귀신 터치
+effect_type_102<>친절한 워터 마크
+effect_type_103<>빛 방패
+effect_type_104<>신방패
+effect_type_105<>드라이어드 마크
+effect_type_106<>어둠 터치
+effect_type_107<>역전 터치
+effect_type_108<>중심 터치
+effect_type_109<>도발 터치
+effect_type_110<>독사 터치
+effect_type_111<>태운 터치
+effect_type_112<>마술 방패
+effect_type_113<>익사한 터치
+effect_type_114<>블러드 마크
+effect_type_191<>역병 터치
+effect_type_192<>다스린 터치
+effect_type_200<>결합 효과
+effect_type_500<>축복
+effect_type_501<>블레싱 마크
+effect_type_510<>회복
+effect_type_511<>회복 저항
+effect_type_530<>재생
+effect_type_531<>소환
+effect_type_600<>반격
+effect_type_612<>마지막 기회
+casino_type_0<>소원의 바퀴
+casino_type_1<>운명의 바퀴
+money_type_-1<>랜덤
+money_type_0<>금
+money_type_1<>보석
+money_type_2<>VIP 포인트
+money_type_10<>경험치 약
+money_type_11<>고대 물약
+money_type_20<>영혼돌
+money_type_30<>소원돌
+money_type_31<>운명돌
+money_type_32<>다행히 동전
+money_type_40<>경기 티켓
+money_type_41<>경기 동전
+money_type_50<>기본 소환한 감슴니다
+money_type_51<>고급소환서
+money_type_52<>소환 포인트
+money_type_60<>예언한돌
+money_type_61<>축복 잎
+money_type_70<>친구 포인트
+money_type_71<>강도
+money_type_80<>마술 먼지
+money_type_85<>드래곤 타워 조각
+money_type_90<>기본 퀘스트
+money_type_91<>고급 퀘스트
+money_type_100<>능속한 점
+money_type_110<>고서
+money_type_120<>클랜 동전
+money_type_121<>고급 클랜 동전
+money_type_122<>빨간색 티켓
+money_type_123<>보란색 티켓
+money_type_8<>소환사 EXP
+artifact_type_1<>자주
+artifact_type_2<>희한
+artifact_type_3<>고대
+artifact_type_4<>레전드
+artifact_type_5<>불멸
+stone_rarity_1<>자주
+stone_rarity_2<>고급
+stone_rarity_3<>희한
+stone_rarity_4<>고대
+stone_rarity_5<>레전드
+stone_rarity_6<>불멸
+potion_type_0<>빨간색 약병
+potion_type_1<>노란색 약병
+potion_type_2<>보란색 약병
+game_mode_1<>캠페인
+game_mode_2<>드래곤 타워
+game_mode_3<>도전
+game_mode_4<>지옥
+game_mode_5<>친선 결투
+game_mode_6<>경기장
+game_mode_7<>길드 경기장
+game_mode_8<>길드 전쟁
+game_mode_9<>친구 보스
+game_mode_10<>클랜 보스
+game_mode_11<>길드 던전
+raid_type_0<>골드 도전
+raid_type_1<>경험 도전
+raid_type_2<>영웅 도전
+mastery_type_0<>공격
+mastery_type_1<>방어
+mastery_type_2<>생명
+mastery_type_3<>정확
+mastery_type_4<>피하기
+companion_type_1<>지수를 올리기 위해 5명의 다른 영웅들을 사용하세요
+companion_type_2<>지수가 올리기 위해 같은 등급 영웅 3명 다른 남은 같은 등급 +2영웅 사용하세요
+companion_type_3<>지수가 올리기 위해 같은 등급 영웅 3명 남은 같은 등급 +2영웅 사용하세요
+companion_type_4<>지수를 올리기 위해 동시대 영웅 4영웅을 사용하세요
+companion_type_5<>지수를 올리기 위해 동시대 영웅 5영웅을 사용하세요
+formation_type_1<>1_4
+formation_type_2<>4_1
+formation_type_3<>2_3
+formation_type_4<>3_2
+summon_type_0<>기본 소환
+summon_type_1<>고급 소환
+summon_type_2<>우정 소환
+difficult_type_1<>보통
+difficult_type_2<>어려움
+difficult_type_3<>극한
+difficult_type_4<>악몽
+difficult_type_5<>광기
+difficult_type_6<>혼돈
+difficult_type_7<>우주
+difficult_type_8<>하느님
+equip_rarity_1<>자주
+equip_rarity_2<>고급
+equip_rarity_3<>희한
+equip_rarity_4<>고대
+equip_rarity_5<>레전드
+equip_rarity_6<>불멸
+resource_type_1<>영웅
+resource_type_2<>통화
+resource_type_3<>장비
+resource_type_4<>유물
+resource_type_5<>돌
+resource_type_6<>고물 조각
+resource_type_7<>영웅 조각
+resource_type_12<>테두리
+resource_type_13<>영웅 진화 재료
+resource_type_2_12<>자원
+resource_type_2_40<>자원
+resource_type_2_71<>자원
+resource_type_2_85<>자원
+resource_type_2_122<>자원
+resource_type_2_123<>자원
+resource_type_17<>퀵 배틀 티켓
+linking_1<>영원한 사랑
+linking_2<>정의 연합
+linking_3<>여성 해적
+linking_4<>죽음의 알림
+linking_5<>정신 쉬프터
+linking_6<>영원한 생명
+linking_7<>워 라이크 블레이드
+linking_8<>다이아몬드
+linking_9<>얼어 붙은 힘 
+linking_10<>어둠의 저주 
+linking_11<>영혼 수집가
+linking_12<>문 블레이드-블랙 스피어
+linking_13<>신성한 정글 수호자
+linking_14<>천국의 축복
+linking_15<>화염의 하인
+linking_16<>마법
+linking_17<>
+ally_target_position_1<>자기
+ally_target_position_10_5<>모든 동맹
+ally_target_position_10<>{0} 우연한 동맹
+ally_target_position_11_5<>모든 동맹
+ally_target_position_11<>{0}동맹
+ally_target_position_20_4<>앞줄의 모든 동맹
+ally_target_position_20<>앞줄의 랜덤 동맹 {0}
+ally_target_position_21_4<>뒷줄의 모든 동맹
+ally_target_position_21<>뒷줄의 랜덤 동맹 {0}
+ally_target_position_30<>HP가 가장 낮은 동맹 {0}
+ally_target_position_31<>공격이 가장 센 동맹 {0}
+ally_target_position_32<>갑옷이 가장 낮은 동맹 {0}
+ally_target_position_33<>%HP가 가장 높은 동맹 {0}
+ally_target_position_34<>갑옷이 가장 높은 동맹 {0}
+ally_target_position_35<>피가 가장 많이 있는 동맹 {0}
+ally_target_position_36<>%HP가 가장 낮은 동맹 {0}
+ally_target_position_41<>같은 줄의 동맹 {0}
+ally_target_position_41_4<>같은 줄의 모든 동맹
+ally_target_position_45<>다른 줄의 동맹 {0}
+ally_target_position_45_4<>다른 줄의 모든 동맹
+ally_target_position_51<>효과를 받고 있는 동맹 {0}
+enemy_target_position_10_5<>모든 적
+enemy_target_position_10<>우연한 적 {0}
+enemy_target_position_11_5<>모든 적
+enemy_target_position_11<>{0}적
+enemy_target_position_20_4<>앞줄의 모든 적
+enemy_target_position_20<>앞줄의 우연한 적 {0}
+enemy_target_position_21_4<>뒷줄의 모든 적
+enemy_target_position_21<>뒷줄의 랜덤 적 {0}
+enemy_target_position_30<>HP가 가장 낮은 적 {0}
+enemy_target_position_31<>공격이 가장 센 적 {0}
+enemy_target_position_32<>갑옷이 가장 낮은 적 {0}
+enemy_target_position_33<>적의 %HP가 가장 높습니다 {0}
+enemy_target_position_34<>갑옷이 가장 높은 적 {0}
+enemy_target_position_35<>가장 많은 피를 흘리는 적을 보였습니다 {0}
+enemy_target_position_36<>적의 %HP가 가장 낮습니다 {0}
+enemy_target_position_41<>같은 줄의 적 {0}
+enemy_target_position_45<>다른 열의 적 {0}
+enemy_target_position_51<>우영한 적 {0}
+money_type_140<>신의 영혼
+money_type_141<>타이탄 소울
+money_type_142<>고대 타이탄 소울
+money_type_130<>금 전적
+money_type_131<>은 전적
+money_type_135<>지트가 배지
+resource_type_8<>소환자의 EXP
+guild_war_register_notification<>Castle Defense formation has just been changed by another person.
+damage_1<>Damage
+damage_1_2<>Damage for {2}
+damage_1_3<>Damage Against {2}
+damage_1_4<>Damage Against {2}
+damage_1_2_3<>Damage for {2} When Against {3}
+damage_1_2_4<>Damage for {2} When Against {3}
+damage_1_2_3_4<>Damage for {2} When Against {3} and {4}
+damage_1_2_3_4_or<>Damage for {2} When Against {3} or {4}
+money_type_150<>Arena Shop EXP
+money_type_151<>Guild Store EXP
+money_type_152<>Black Market EXP
+summon_type_6<>요금 상승
+money_type_190<>아레나 패스 포인트
+money_type_191<>매일 미션 패스 포인트
+resource_type_14<>복장
+money_type_180<>등실
+money_type_181<>월병
+resource_type_11<>화신
+money_type_75<>Gold Adventure Ticket
+money_type_76<>Potion Adventure Ticket
+money_type_77<>Fragment Adventure Ticket
+money_type_210<>주사위
+money_type_211<>호박
+money_type_170<>Raising Star
+feature_20<>올립니다 수준 
+feature_21<>요새 도시
+land_1<>마리아나 베이
+land_2<>불타는 대륙
+land_3<>헬할 사막
+land_4<>와일드 우드 정글
+land_5<>선 필드 밸리
+land_6<>에버 미스트 피크
+land_7<>꿈나라
+land_8<>혼돈
+land_9<>스피릿 월드
+land_10<>시간의 도서관
+restrict_type_1<>워터 히어로 만 허용
+restrict_type_2<>Fire Heroes 만 허용
+restrict_type_3<>Abyss Heroes 만 허용
+restrict_type_4<>Nature Heroes 만 허용
+restrict_type_5<>라이트 히어로 만 허용
+restrict_type_6<>다크 히어로 만 허용
+restrict_type_7<>소환사 불가
+restrict_type_8<>규칙이 없습니다. 마음을 자유롭게하십시오.
+restrict_type_9<>마스터리가 허용되지 않습니다. 조심하세요!
+restrict_type_10<>장비, 룬, 유물 금지
+money_type_200<>물의 매력
+money_type_201<>불의 매력
+money_type_202<>심연의 매력
+money_type_203<>자연의 매력
+money_type_204<>가벼운 매력
+money_type_205<>다크 참
+money_type_206<>드림 참
+money_type_207<>혼돈의 매력
+money_type_208<>태어나지 않은 매력
+money_type_209<>Time Charm
+money_type_220<>사탕 지팡이
+money_type_221<>산타 클로스의 자루
+money_type_222<>이그나티우스 지팡이
+money_type_230<>엽서
+linking_18<>
+linking_19<>
+linking_20<>
+money_type_240<>빨간 주사위
+money_type_241<>호부
+money_type_242<>폭죽
+money_type_245<>빨간 종이
+money_type_244<>엘리트 스크롤
+money_type_243<>빨간 봉투
+resource_type_18<>Growth Pack
+resource_type_19<>Event Lunar New Year Wish
+money_type_250<>초콜릿
+money_type_251<>화살
+ally_target_position_52<>{0} 클래스의 동맹 영웅
+enemy_target_position_52<>{0} 클래스의 적 영웅
+ally_target_position_61<>{0} 위치에있는 동맹 영웅
+enemy_target_position_61<>{0} 위치에있는 적 영웅
+money_type_45<>용감한 배지 
+feature_23<>무술 경기장 
+money_type_165<>장미
+game_mode_14<>무술 경기장 
+money_type_46<>브레이브 코인
+money_type_154<>용감한 경험치 
+summon_type_7<>전설 소환 
+money_type_136<>유니언 포인트 
+money_type_12<>Awaken Book
+money_type_25<>성수
+feature_24<>회귀 
+money_type_235<>Silver Egg
+money_type_236<>Gold Egg
+money_type_237<>Rainbow Egg
+money_type_238<>Gold Hammer
+money_type_239<>Rainbow Hammer
+feature_25<>Hero Super Awaken
+money_type_166<>아스트랄 스타 
+companion_type_remake_1<>지수를 올리기 위해 5명의 다른 영웅들을 사용하세요
+companion_type_remake_2<>같은 세력을 가진 두 쌍의 영웅과 두 쌍의 세력이 다른 마지막 영웅을 배치하십시오. 
+companion_type_remake_3<>지수가 올리기 위해 같은 등급 영웅 3명 다른 남은 같은 등급 +2영웅 사용하세요
+companion_type_remake_4<>지수가 올리기 위해 같은 등급 영웅 3명 남은 같은 등급 +2영웅 사용하세요
+companion_type_remake_5<>지수를 올리기 위해 동시대 영웅 4영웅을 사용하세요
+companion_type_remake_6<>지수를 올리기 위해 동시대 영웅 5영웅을 사용하세요
+money_type_167<>Enule의 블레이드
+money_type_225<>매직 키
+money_type_168<>나침반
+resource_type_20<>재능
+talent_1000101<>강력한 두 카이
+talent_1000201<>강도 진화
+talent_1000301<>신성한 방패
+talent_1000401<>풍부한 활력
+talent_1000501<>블러디 무서운
+talent_1000601<>인크 레 더블 플래시
+talent_1000701<>크리티컬 샷
+talent_1000801<>손상에 버스트
+talent_1000901<>놓칠 수 없다
+talent_1001001<>특별한 움직임
+talent_1001101<>길들여지지 않은
+talent_1001201<>풀 파워 논스톱
+talent_1001301<>소울 스틸
+talent_1001401<>면역에 가깝다
+talent_1001501<>친위대
+feature_26<>도메인
+money_type_115<>일반 보물
+money_type_116<>희귀 한 보물
+money_type_117<>희귀 한 상자
+money_type_118<>에픽 상자
+money_type_119<>전설 상자
+money_type_113<>미스터리 코인
+avatar_121<>행운의 비취 홀더
+avatar_frame_101<>철 테두리
+avatar_frame_102<>청동 테두리
+avatar_frame_103<>실버 테두리
+avatar_frame_104<>골드 테두리
+avatar_frame_105<>플래티넘 테두리
+avatar_frame_106<>다이아몬드 테두리
+avatar_frame_107<>마스터 테두리
+avatar_frame_108<>그랜드 마스터
+avatar_frame_109<>Top 1 경기장
+avatar_109<>용감한 카일린
+avatar_108<>장난꾸러기 카일린
+avatar_107<>리틀 카일린
+avatar_frame_110<>중추절 국경
+money_type_195<>배틀 패스 경험치
+avatar_110<>Legend Qilin
+feature_28<>Item Revolution
+money_type_15<>마법의 수정
+equip_rarity_7<>혁명
+talent_1001601<>번개 주문
+stat_type_33<>피해 감소 감소
+avatar_frame_111<>으스스한 시즌
+avatar_111<>미친 호박

@@ -1,0 +1,3147 @@
+
+<> SEED = 193079173
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 191
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 5
+attack = 3273
+defense = 394
+hp = 41996/41996
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1691.2
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0.2
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 3ccf412e, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 744553be, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 40dbddb0, type = 440, initiator = [Alvar 50012 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 5a2d76ea, type = 421, initiator = [Alvar 50012 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 1f90bf8e, type = 403, initiator = [Alvar 50012 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 5
+attack = 4254
+defense = 394
+hp = 33597/33597
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1691.2
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0.2
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 5c038190, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6d2826dc, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 1da0c9d3, type = 440, initiator = [Alvar 50012 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 7d2ed, type = 421, initiator = [Alvar 50012 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 42abe228, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 5
+attack = 4254
+defense = 394
+hp = 33597/33597
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1691.2
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0.2
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 770fbe62, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 49a18ad4, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 4f0c84a0, type = 440, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 732970da, type = 421, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 6cfa1c7f, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 5
+attack = 3273
+defense = 394
+hp = 41996/41996
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1691.2
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0.2
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 3c6deea6, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 176f440f, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 2ff84998, type = 440, initiator = [Alvar 50012 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2fc4c4a0, type = 421, initiator = [Alvar 50012 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 795f2c73, type = 403, initiator = [Alvar 50012 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 5
+attack = 4254
+defense = 394
+hp = 33597/33597
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1691.2
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0.2
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 7cf444a6, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 751c7e5c, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 71aed1d8, type = 440, initiator = [Alvar 50012 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: ba5d504, type = 421, initiator = [Alvar 50012 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 11ad7b82, type = 401, initiator = [Alvar 50012 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 5
+attack = 4254
+defense = 394
+hp = 33597/33597
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1691.2
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0.2
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 44752276, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 61ddd209, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 677c98e1, type = 440, initiator = [Alvar 50012 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 34a33be8, type = 421, initiator = [Alvar 50012 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 43d20bc5, type = 401, initiator = [Alvar 50012 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 440, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 1), type = 440, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 1), type = 440, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 440, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 1), type = 440, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 1), type = 440, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 0.928), TAKE 3022 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 0.955) (GLANCING), TAKE 1511 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 0.6
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.955, power = 0.6
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 0.914), TAKE 3626 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.928), TAKE 2417 damage, initiatorPower = 1, targetPower = 0.6
+[Alvar 50012 (TEAM 1, BACK, POS 1)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 0.6
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.955, power = 0.6
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.914, power = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.928, power = 0.6
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.955, power = 0.6
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 0.86), TAKE 4714 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.16
+
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 0.843), TAKE 3771 damage, initiatorPower = 1, targetPower = 0.7
+[Alvar 50012 (TEAM 2, BACK, POS 2)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.18
+
+
+[HEAL] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.998), HEAL 2357 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.914, power = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.928, power = 0.6
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.955, power = 0.6
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.914, power = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.998, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.86, power = 0.6
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.843, power = 0.7
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 1, BACK, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 0.816), TAKE 4714 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.2
+
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 0.772) (GLANCING), TAKE 2946 damage, initiatorPower = 1, targetPower = 0.7 (CRIT)
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 1), type = 401, persistentType = 52, isBuff = true
+
+
+[ADD_EFFECT] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 1), type = 402, persistentType = 52, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.914, power = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.998, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.86, power = 0.6
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.843, power = 0.7
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.914, power = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.998, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.816, power = 1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.772, power = 0.7
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.843, power = 0.7
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 5 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.886), TAKE 3771 damage, initiatorPower = 1, targetPower = 1
+[Alvar 50012 (TEAM 1, BACK, POS 1)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 0.931) (GLANCING), TAKE 2330 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[HEAL] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 0.828), HEAL 1885 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 0.863), HEAL 1165 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.914, power = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.998, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.816, power = 1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.772, power = 0.7
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.843, power = 0.7
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.914, power = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.931, power = 1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.816, power = 1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.863, power = 1
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.843, power = 0.7
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 6 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 2, BACK, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 0.858) (GLANCING), TAKE 2357 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.886) (MISS), TAKE 0 damage, initiatorPower = 1, targetPower = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.914, power = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.931, power = 1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.816, power = 1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.863, power = 1
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.843, power = 0.7
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.858, power = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.931, power = 1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.816, power = 1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.863, power = 1
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.843, power = 1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 0.55), TAKE 11159 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+[>>> ACTIVE_SKILL <<<] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 0.641), TAKE 7439 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[HEAL] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 0.931), HEAL 3099 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.978), HEAL 3099 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 1), HEAL 3099 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.858, power = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.931, power = 1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.816, power = 1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.863, power = 1
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.843, power = 1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.931, power = 0
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.978, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.55, power = 1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.641, power = 1
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.843, power = 1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 0.754), TAKE 7439 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[>>> ACTIVE_SKILL <<<] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.801), TAKE 5951 damage, initiatorPower = 0, targetPower = 1
+[Alvar 50012 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+[HEAL] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 0.603), HEAL 2231 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 0.708), HEAL 2231 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 0.909), HEAL 2231 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.931, power = 0
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.978, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.55, power = 1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.641, power = 1
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.843, power = 1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.754, power = 0.1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.801, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.603, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.708, power = 1
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.909, power = 1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 1, BACK, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 0.338), TAKE 11158 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+[>>> ACTIVE_SKILL <<<] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 0.442), TAKE 8926 damage, initiatorPower = 0, targetPower = 1
+[Alvar 50012 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.5
+
+
+[HEAL] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 1), HEAL 3347 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 0.834), HEAL 3347 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.901), HEAL 3347 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.754, power = 0.1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.801, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.603, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.708, power = 1
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.909, power = 1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.834, power = 0.1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.901, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.338, power = 0.1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.442, power = 1
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.909, power = 1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 2, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.67), TAKE 7735 damage, initiatorPower = 0, targetPower = 1
+[Alvar 50012 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+[>>> ACTIVE_SKILL <<<] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 0.772), TAKE 7648 damage, initiatorPower = 0, targetPower = 0.1
+[Alvar 50012 (TEAM 1, BACK, POS 2)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[HEAL] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 0.518), HEAL 2563 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 0.399), HEAL 2563 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 0.985), HEAL 2563 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.834, power = 0.1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.901, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.338, power = 0.1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.442, power = 1
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.909, power = 1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.834, power = 0.1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.67, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.772, power = 0.1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.399, power = 0.1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.518, power = 0
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.985, power = 1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 5 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 0.168), TAKE 9669 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.52
+
+
+[>>> ACTIVE_SKILL <<<] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 0.288), TAKE 7735 damage, initiatorPower = 0, targetPower = 0.1
+[Alvar 50012 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.54
+
+
+[HEAL] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.757), HEAL 2900 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 0.903), HEAL 2900 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 0.859), HEAL 2900 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.834, power = 0.1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.67, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.772, power = 0.1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.399, power = 0.1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.518, power = 0
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.985, power = 1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.903, power = 0.1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.757, power = 0
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.859, power = 0.1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.168, power = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.288, power = 0.1
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.985, power = 1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 6 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 2, BACK, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.527), TAKE 7735 damage, initiatorPower = 0, targetPower = 0.1
+[Alvar 50012 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+[>>> ACTIVE_SKILL <<<] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 0.631), TAKE 7648 damage, initiatorPower = 0, targetPower = 0.2
+[Alvar 50012 (TEAM 1, BACK, POS 2)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[HEAL] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 1), HEAL 2563 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 0.229), HEAL 2563 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 0.364), HEAL 2563 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.903, power = 0.1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.757, power = 0
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.859, power = 0.1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.168, power = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.288, power = 0.1
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.985, power = 1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.903, power = 0.1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.527, power = 0.1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.631, power = 0.2
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.229, power = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.364, power = 0.1
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 0.292), TAKE 2417 damage, initiatorPower = 0.6, targetPower = 0.2
+[Alvar 50012 (TEAM 2, BACK, POS 1)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.62
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 0.91), TAKE 3022 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.903, power = 0.1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.527, power = 0.1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.631, power = 0.2
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.229, power = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.364, power = 0.1
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.903, power = 0.6
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.527, power = 0.1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.631, power = 0.2
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.229, power = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.292, power = 0.2
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.91, power = 0.1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 0.136), TAKE 3928 damage, initiatorPower = 0.6, targetPower = 0.3
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.72
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.6
+
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 0.199), TAKE 3142 damage, initiatorPower = 0.6, targetPower = 0.3
+[Alvar 50012 (TEAM 2, BACK, POS 1)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.62
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.903, power = 0.6
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.527, power = 0.1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.631, power = 0.2
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.229, power = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.292, power = 0.2
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.91, power = 0.1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.903, power = 0.6
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.527, power = 0.6
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.631, power = 0.2
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.62
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.136, power = 0.3
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.199, power = 0.3
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.91, power = 0.1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 0.791), TAKE 4714 damage, initiatorPower = 0.8, targetPower = 0.7
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.74
+
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.386), TAKE 4714 damage, initiatorPower = 0.8, targetPower = 0.7
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.76
+
+
+[HEAL] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 0.269), HEAL 2357 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.903, power = 0.6
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.527, power = 0.6
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.631, power = 0.2
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.62
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.136, power = 0.3
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.199, power = 0.3
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.91, power = 0.1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.791, power = 0.7
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.386, power = 0.7
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.631, power = 0.2
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.136, power = 0.3
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.269, power = 0.8
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.91, power = 0.1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 1, BACK, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 0.134), TAKE 4533 damage, initiatorPower = 0.7, targetPower = 0.9
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.86
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.74
+
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 0.781), TAKE 4352 damage, initiatorPower = 0.7, targetPower = 0.2
+[Alvar 50012 (TEAM 2, BACK, POS 2)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.76
+
+
+[HEAL] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 0.698), HEAL 2266 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 0.763), HEAL 2176 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.791, power = 0.7
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.386, power = 0.7
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.631, power = 0.2
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.136, power = 0.3
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.269, power = 0.8
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.91, power = 0.1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.791, power = 0.7
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.386, power = 0.7
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.763, power = 0.7
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.136, power = 0.3
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.134, power = 0.9
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.781, power = 0.2
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 5 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.278), TAKE 3626 damage, initiatorPower = 0.8, targetPower = 0.8
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.88
+
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 0.678), TAKE 2869 damage, initiatorPower = 0.8, targetPower = 0.8
+[Alvar 50012 (TEAM 1, BACK, POS 2)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.9
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.791, power = 0.7
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.386, power = 0.7
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.763, power = 0.7
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.136, power = 0.3
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.134, power = 0.9
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.781, power = 0.2
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.791, power = 0.7
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.278, power = 0.8
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.678, power = 0.8
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.136, power = 0.8
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.134, power = 0.9
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.781, power = 0.2
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 6 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 2, BACK, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 0.678), TAKE 4714 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.96
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.92
+
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 0.562), TAKE 3884 damage, initiatorPower = 0.7, targetPower = 0.9
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.94
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.791, power = 0.7
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.278, power = 0.8
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.678, power = 0.8
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.136, power = 0.8
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.134, power = 0.9
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.781, power = 0.2
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.678, power = 0.8
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.278, power = 0.8
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.562, power = 0.9
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5928c998, type = 401, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 566a052e, type = 402, initiator = [Alvar 50012 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.136, power = 0.8
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.134, power = 0.9
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.781, power = 0.7
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+---------- AFTER ROUND 3 ----------
+
+[REMOVE_EFFECT] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 0.562), type = 401, persistentType = 52, isBuff = true
+
+
+[REMOVE_EFFECT] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 0.562), type = 402, persistentType = 52, isBuff = true
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 0.1) (GLANCING), TAKE 1511 damage, initiatorPower = 1, targetPower = 0.9
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 0.044), TAKE 3022 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.678, power = 0.8
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.278, power = 0.8
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.562, power = 0.9
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.136, power = 0.8
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.134, power = 0.9
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.781, power = 0.7
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.678, power = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.278, power = 0.8
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.562, power = 0.9
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.1, power = 0.9
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.044, power = 1
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.781, power = 0.7
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 0.046), TAKE 2268 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 0), TAKE 2268 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[DEAD_FOR_DISPLAY] [SummonerMage (TEAM 1)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 0.727), TAKE 1814 damage, initiatorPower = 0, targetPower = 0.8
+[Alvar 50012 (TEAM 2, BACK, POS 2)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 0.046), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 0.727), type = 404, persistentType = 52, isBuff = false
+
+
+[DEAD] [SummonerMage (TEAM 1)] => [Alvar 50012 (TEAM 2, BACK, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.678, power = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.278, power = 0.8
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.562, power = 0.9
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.1, power = 0.9
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0.044, power = 1
+- EFFECTS:
+id = table: 7c8f0720, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.781, power = 0.7
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.678, power = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.278, power = 0.8
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.562, power = 0.9
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.046, power = 1
+- EFFECTS:
+id = table: 55523492, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.727, power = 0.8
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 780339ab, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 0.624), TAKE 2268 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.02
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.224), TAKE 1814 damage, initiatorPower = 0, targetPower = 0.9
+[Alvar 50012 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.04
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 0.495), TAKE 2268 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.06
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 0.624), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.224), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 0.495), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.678, power = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.278, power = 0.8
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.562, power = 0.9
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.046, power = 1
+- EFFECTS:
+id = table: 55523492, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.727, power = 0.8
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 780339ab, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.06
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.624, power = 1
+- EFFECTS:
+id = table: 67f85b3a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.224, power = 0.9
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 613d719e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.495, power = 1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 250f2f8f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.046, power = 1
+- EFFECTS:
+id = table: 55523492, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.727, power = 0.8
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 780339ab, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 1, BACK, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 9669 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[DEAD_FOR_DISPLAY] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 0.439), TAKE 9669 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[HEAL] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 0.591), HEAL 3223 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 0.701), HEAL 3223 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.32), HEAL 3223 hp, reason = 1
+
+
+[DEAD] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.06
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.624, power = 1
+- EFFECTS:
+id = table: 67f85b3a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.224, power = 0.9
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 613d719e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.495, power = 1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 250f2f8f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0.046, power = 1
+- EFFECTS:
+id = table: 55523492, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.727, power = 0.8
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 780339ab, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.06
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.701, power = 1
+- EFFECTS:
+id = table: 67f85b3a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.32, power = 0.9
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 613d719e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.591, power = 0
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 250f2f8f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.439, power = 0.9
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 780339ab, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 0.298), TAKE 4714 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.06
+
+
+[HEAL] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.39), HEAL 2357 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.06
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.701, power = 1
+- EFFECTS:
+id = table: 67f85b3a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.32, power = 0.9
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 613d719e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.591, power = 0
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 250f2f8f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.439, power = 0.9
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 780339ab, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.701, power = 1
+- EFFECTS:
+id = table: 67f85b3a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.39, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 613d719e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.591, power = 0
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 250f2f8f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.06
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.298, power = 1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 780339ab, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 6 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 2, BACK, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.103), TAKE 9669 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.18
+
+
+[>>> ACTIVE_SKILL <<<] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 0.36), TAKE 7735 damage, initiatorPower = 0, targetPower = 0.1
+[Alvar 50012 (TEAM 1, BACK, POS 2)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[HEAL] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 0.557), HEAL 8702 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.701, power = 1
+- EFFECTS:
+id = table: 67f85b3a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.39, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 613d719e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.591, power = 0
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 250f2f8f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.06
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.298, power = 1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 780339ab, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.701, power = 1
+- EFFECTS:
+id = table: 67f85b3a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.103, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 613d719e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.36, power = 0.1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 250f2f8f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.06
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.557, power = 0
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 780339ab, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 0.336), TAKE 7439 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.08
+
+
+[HEAL] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 0.731), HEAL 1239 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.14), HEAL 1239 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 0.397), HEAL 1239 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.701, power = 1
+- EFFECTS:
+id = table: 67f85b3a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.103, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 613d719e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.36, power = 0.1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 250f2f8f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.06
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.557, power = 0
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 780339ab, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.731, power = 0
+- EFFECTS:
+id = table: 67f85b3a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.14, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 613d719e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.397, power = 0.1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 250f2f8f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.08
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.336, power = 0.1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 780339ab, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 1, BACK, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 0.242), TAKE 3142 damage, initiatorPower = 0.6, targetPower = 0.2
+[Alvar 50012 (TEAM 2, BACK, POS 2)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.731, power = 0
+- EFFECTS:
+id = table: 67f85b3a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.14, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 613d719e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.397, power = 0.1
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 250f2f8f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.08
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.336, power = 0.1
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 780339ab, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.731, power = 0
+- EFFECTS:
+id = table: 67f85b3a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.14, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 613d719e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.397, power = 0.6
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 250f2f8f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.242, power = 0.2
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 780339ab, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 0.012), TAKE 7735 damage, initiatorPower = 0, targetPower = 0.3
+[Alvar 50012 (TEAM 2, BACK, POS 2)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[HEAL] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.178), HEAL 1289 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 0.761), HEAL 1289 hp, reason = 1
+
+
+[HEAL] [Alvar 50012 (TEAM 1, BACK, POS 1)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 0.436), HEAL 1289 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.731, power = 0
+- EFFECTS:
+id = table: 67f85b3a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.14, power = 1
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 613d719e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.397, power = 0.6
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 250f2f8f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.242, power = 0.2
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 780339ab, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.761, power = 0
+- EFFECTS:
+id = table: 67f85b3a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.178, power = 0
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 613d719e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.436, power = 0.6
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 250f2f8f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.012, power = 0.3
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 780339ab, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 2, BACK, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 0.705) (GLANCING), TAKE 2357 damage, initiatorPower = 0.8, targetPower = 0.1
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 0.295), TAKE 4714 damage, initiatorPower = 0.8, targetPower = 0.7
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, BACK, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.761, power = 0
+- EFFECTS:
+id = table: 67f85b3a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.178, power = 0
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 613d719e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.436, power = 0.6
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 250f2f8f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.012, power = 0.3
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 780339ab, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.705, power = 0.1
+- EFFECTS:
+id = table: 67f85b3a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.178, power = 0
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 613d719e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.295, power = 0.7
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 250f2f8f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.012, power = 0.8
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 780339ab, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Alvar 50012 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 0) (GLANCING), TAKE 1208 damage, initiatorPower = 0.6, targetPower = 0
+[Alvar 50012 (TEAM 2, BACK, POS 2)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+[CHANGE_POWER] [Alvar 50012 (TEAM 2, BACK, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[DEAD_FOR_DISPLAY] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 0), reason = 1
+
+
+[DEAD] [Alvar 50012 (TEAM 1, FRONT, POS 1)] => [Alvar 50012 (TEAM 2, BACK, POS 2)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.705, power = 0.1
+- EFFECTS:
+id = table: 67f85b3a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.178, power = 0
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 613d719e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.295, power = 0.7
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 250f2f8f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0.012, power = 0.8
+- EFFECTS:
+id = table: 552a61a2, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 780339ab, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.705, power = 0.6
+- EFFECTS:
+id = table: 67f85b3a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.178, power = 0
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 613d719e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.295, power = 0.7
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 250f2f8f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 6 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Alvar 50012 (TEAM 1, FRONT, POS 1)] (hp = 0.705), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Alvar 50012 (TEAM 1, BACK, POS 1)] (hp = 0.178), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Alvar 50012 (TEAM 1, BACK, POS 2)] (hp = 0.295), type = 404, persistentType = 52, isBuff = false
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Alvar 50012 (TEAM 1, FRONT, POS 1)] hp = 0.705, power = 0.6
+
+> [Alvar 50012 (TEAM 1, BACK, POS 1)] hp = 0.178, power = 0
+- EFFECTS:
+id = table: 1c2d9ab0, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+> [Alvar 50012 (TEAM 1, BACK, POS 2)] hp = 0.295, power = 0.7
+- EFFECTS:
+id = table: 40c8dc7c, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Alvar 50012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Alvar 50012 (TEAM 2, BACK, POS 2)] hp = 0, power = 0
+
+<> STATISTICS:
+[Alvar 50012 (TEAM 2, BACK, POS 1)] DamageDeal = 30912, DamageTaken = 60256.797, HpHeal = 13096, HpHealTaken = 12764
+	Damage dealt by sources: Dictionary = table: 44a094e4, count = 2
+	[1 (number)] = 15529 (number)
+	[2 (number)] = 15383 (number)
+
+	Damage taken by sources: Dictionary = table: 61a426c1, count = 2
+	[1 (number)] = 27194.8 (number)
+	[2 (number)] = 33061.996 (number)
+
+	Hp heal by sources: Dictionary = table: 6b9f0aea, count = 1
+	[1 (number)] = 13096 (number)
+
+	Hp heal taken by sources: Dictionary = table: 37302341, count = 1
+	[1 (number)] = 12764 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 77f786f7, count = 3
+	[2004 (number)] = 15383 (number)
+	[1005 (number)] = 6101 (number)
+	[3003 (number)] = 9428 (number)
+
+	Damage taken history: Dictionary = table: 37a534e6, count = 10
+	[3001 (number)] = 3273 (number)
+	[3002 (number)] = 4254 (number)
+	[3004 (number)] = 4909 (number)
+	[2001 (number)] = 8054.853 (number)
+	[2003 (number)] = 12081.049 (number)
+	[2005 (number)] = 10469.094 (number)
+	[4001 (number)] = 3273 (number)
+	[4002 (number)] = 2457 (number)
+	[1003 (number)] = 5104.8 (number)
+	[1004 (number)] = 6381 (number)
+
+	Hp heal history: Dictionary = table: 24feb0a2, count = 3
+	[2004 (number)] = 7689 (number)
+	[1005 (number)] = 3050 (number)
+	[3003 (number)] = 2357 (number)
+
+	Hp heal taken history: Dictionary = table: 12e2b557, count = 5
+	[2002 (number)] = 2231 (number)
+	[3003 (number)] = 2357 (number)
+	[2004 (number)] = 2563 (number)
+	[2006 (number)] = 2563 (number)
+	[1005 (number)] = 3050 (number)
+
+[Alvar 50012 (TEAM 2, FRONT, POS 1)] DamageDeal = 25928, DamageTaken = 63463.316, HpHeal = 6693, HpHealTaken = 7357
+	Damage dealt by sources: Dictionary = table: 59e949c2, count = 2
+	[1 (number)] = 12538 (number)
+	[2 (number)] = 13390 (number)
+
+	Damage taken by sources: Dictionary = table: 4775541d, count = 2
+	[1 (number)] = 15904.8 (number)
+	[2 (number)] = 47558.516 (number)
+
+	Hp heal by sources: Dictionary = table: 16df87f1, count = 1
+	[1 (number)] = 6693 (number)
+
+	Hp heal taken by sources: Dictionary = table: 1190d070, count = 1
+	[1 (number)] = 7357 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 2a43cd9, count = 3
+	[1002 (number)] = 6043 (number)
+	[2002 (number)] = 13390 (number)
+	[3005 (number)] = 6495 (number)
+
+	Damage taken history: Dictionary = table: 6f9c552c, count = 9
+	[3002 (number)] = 4254 (number)
+	[2001 (number)] = 12082.279 (number)
+	[2003 (number)] = 12081.049 (number)
+	[2005 (number)] = 10469.094 (number)
+	[4001 (number)] = 3273 (number)
+	[1001 (number)] = 3273 (number)
+	[4002 (number)] = 2457 (number)
+	[1004 (number)] = 5104.8 (number)
+	[4004 (number)] = 10469.094 (number)
+
+	Hp heal history: Dictionary = table: 516a721, count = 1
+	[2002 (number)] = 6693 (number)
+
+	Hp heal taken history: Dictionary = table: 1212f4a3, count = 3
+	[2004 (number)] = 2563 (number)
+	[2002 (number)] = 2231 (number)
+	[2006 (number)] = 2563 (number)
+
+[Alvar 50012 (TEAM 1, BACK, POS 1)] DamageDeal = 45408, DamageTaken = 64434.137, HpHeal = 17281, HpHealTaken = 19811
+	Damage dealt by sources: Dictionary = table: 317350cc, count = 2
+	[1 (number)] = 20269 (number)
+	[2 (number)] = 25139 (number)
+
+	Damage taken by sources: Dictionary = table: 3c4b46fb, count = 2
+	[1 (number)] = 22515.0 (number)
+	[2 (number)] = 41919.137 (number)
+
+	Hp heal by sources: Dictionary = table: c54d1fc, count = 1
+	[1 (number)] = 17281 (number)
+
+	Hp heal taken by sources: Dictionary = table: 9e69b39, count = 1
+	[1 (number)] = 19811 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 22384ff9, count = 5
+	[4005 (number)] = 4714 (number)
+	[1003 (number)] = 8485 (number)
+	[2005 (number)] = 17404 (number)
+	[5003 (number)] = 7735 (number)
+	[3002 (number)] = 7070 (number)
+
+	Damage taken history: Dictionary = table: 44a2b9db, count = 10
+	[1005 (number)] = 5104.8 (number)
+	[1006 (number)] = 5104.8 (number)
+	[4006 (number)] = 10469.094 (number)
+	[3003 (number)] = 5104.8 (number)
+	[3005 (number)] = 3927.6 (number)
+	[2002 (number)] = 8054.853 (number)
+	[2004 (number)] = 10469.094 (number)
+	[2006 (number)] = 10469.094 (number)
+	[1002 (number)] = 3273 (number)
+	[4003 (number)] = 2457 (number)
+
+	Hp heal history: Dictionary = table: 6e535b82, count = 4
+	[4005 (number)] = 2357 (number)
+	[2005 (number)] = 8700 (number)
+	[1003 (number)] = 2357 (number)
+	[5003 (number)] = 3867 (number)
+
+	Hp heal taken history: Dictionary = table: 53d13a22, count = 8
+	[4004 (number)] = 3223 (number)
+	[2003 (number)] = 3347 (number)
+	[4005 (number)] = 2357 (number)
+	[1003 (number)] = 2357 (number)
+	[2005 (number)] = 2900 (number)
+	[5001 (number)] = 1239 (number)
+	[5003 (number)] = 1289 (number)
+	[2001 (number)] = 3099 (number)
+
+[Alvar 50012 (TEAM 1, BACK, POS 2)] DamageDeal = 59109, DamageTaken = 52255.48, HpHeal = 24152, HpHealTaken = 19539
+	Damage dealt by sources: Dictionary = table: 33f6e026, count = 2
+	[1 (number)] = 19687 (number)
+	[2 (number)] = 39422 (number)
+
+	Damage taken by sources: Dictionary = table: 62cbfbe2, count = 2
+	[1 (number)] = 18391.2 (number)
+	[2 (number)] = 33864.28 (number)
+
+	Hp heal by sources: Dictionary = table: 16b02372, count = 1
+	[1 (number)] = 24152 (number)
+
+	Hp heal taken by sources: Dictionary = table: 4cea0bac, count = 1
+	[1 (number)] = 19539 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 481925c7, count = 5
+	[4004 (number)] = 19338 (number)
+	[2003 (number)] = 20084 (number)
+	[3004 (number)] = 8885 (number)
+	[1004 (number)] = 7660 (number)
+	[5002 (number)] = 3142 (number)
+
+	Damage taken history: Dictionary = table: 75b0d3cd, count = 8
+	[3005 (number)] = 3927.6 (number)
+	[2004 (number)] = 10469.094 (number)
+	[4006 (number)] = 10469.094 (number)
+	[3006 (number)] = 4254 (number)
+	[2006 (number)] = 10469.094 (number)
+	[1005 (number)] = 5104.8 (number)
+	[4003 (number)] = 2457 (number)
+	[5004 (number)] = 5104.8 (number)
+
+	Hp heal history: Dictionary = table: 628cd5ba, count = 3
+	[3004 (number)] = 4442 (number)
+	[2003 (number)] = 10041 (number)
+	[4004 (number)] = 9669 (number)
+
+	Hp heal taken history: Dictionary = table: 7e27052c, count = 7
+	[4004 (number)] = 3223 (number)
+	[2003 (number)] = 3347 (number)
+	[3004 (number)] = 4442 (number)
+	[2005 (number)] = 2900 (number)
+	[5001 (number)] = 1239 (number)
+	[5003 (number)] = 1289 (number)
+	[2001 (number)] = 3099 (number)
+
+	Stat changer buff created history: Dictionary = table: 7f912032, count = 2
+	[1 (number)] = 1965 (number)
+	[2 (number)] = 354 (number)
+
+[Alvar 50012 (TEAM 1, FRONT, POS 1)] DamageDeal = 41750, DamageTaken = 34858.652, HpHeal = 13014, HpHealTaken = 15097
+	Damage dealt by sources: Dictionary = table: cccaab6, count = 2
+	[1 (number)] = 15713 (number)
+	[2 (number)] = 26037 (number)
+
+	Damage taken by sources: Dictionary = table: 8e99f90, count = 2
+	[1 (number)] = 24346.8 (number)
+	[2 (number)] = 10511.853 (number)
+
+	Hp heal by sources: Dictionary = table: 4ea1e5c4, count = 1
+	[1 (number)] = 13014 (number)
+
+	Hp heal taken by sources: Dictionary = table: 3847dc92, count = 1
+	[1 (number)] = 15097 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 51374836, count = 6
+	[1001 (number)] = 4533 (number)
+	[6001 (number)] = 1208 (number)
+	[5001 (number)] = 7439 (number)
+	[4001 (number)] = 4533 (number)
+	[3001 (number)] = 5439 (number)
+	[2001 (number)] = 18598 (number)
+
+	Damage taken history: Dictionary = table: 15e6489f, count = 7
+	[2002 (number)] = 8054.853 (number)
+	[3003 (number)] = 5104.8 (number)
+	[1002 (number)] = 3927.6 (number)
+	[3006 (number)] = 5104.8 (number)
+	[1006 (number)] = 5104.8 (number)
+	[4003 (number)] = 2457 (number)
+	[5004 (number)] = 5104.8 (number)
+
+	Hp heal history: Dictionary = table: 54a81022, count = 2
+	[2001 (number)] = 9297 (number)
+	[5001 (number)] = 3717 (number)
+
+	Hp heal taken history: Dictionary = table: 528df569, count = 6
+	[4004 (number)] = 3223 (number)
+	[2003 (number)] = 3347 (number)
+	[2005 (number)] = 2900 (number)
+	[5001 (number)] = 1239 (number)
+	[5003 (number)] = 1289 (number)
+	[2001 (number)] = 3099 (number)
+
+[Alvar 50012 (TEAM 2, BACK, POS 2)] DamageDeal = 50813, DamageTaken = 61623.44, HpHeal = 16391, HpHealTaken = 16059
+	Damage dealt by sources: Dictionary = table: 391061f6, count = 2
+	[1 (number)] = 18026 (number)
+	[2 (number)] = 32787 (number)
+
+	Damage taken by sources: Dictionary = table: 1e1574fb, count = 2
+	[1 (number)] = 30173.4 (number)
+	[2 (number)] = 31450.041 (number)
+
+	Hp heal by sources: Dictionary = table: a284e1b, count = 1
+	[1 (number)] = 16391 (number)
+
+	Hp heal taken by sources: Dictionary = table: 37b3c48a, count = 1
+	[1 (number)] = 16059 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: d160c5b, count = 5
+	[4006 (number)] = 17404 (number)
+	[3006 (number)] = 8598 (number)
+	[2006 (number)] = 15383 (number)
+	[1006 (number)] = 2357 (number)
+	[5004 (number)] = 7071 (number)
+
+	Damage taken history: Dictionary = table: 389103ae, count = 11
+	[4005 (number)] = 5104.8 (number)
+	[3001 (number)] = 3273 (number)
+	[6001 (number)] = 3273 (number)
+	[3004 (number)] = 5890.8 (number)
+	[5001 (number)] = 8054.853 (number)
+	[5002 (number)] = 4254 (number)
+	[5003 (number)] = 10469.094 (number)
+	[1001 (number)] = 3273 (number)
+	[4002 (number)] = 2457 (number)
+	[1003 (number)] = 5104.8 (number)
+	[4004 (number)] = 10469.094 (number)
+
+	Hp heal history: Dictionary = table: 7001da31, count = 2
+	[2006 (number)] = 7689 (number)
+	[4006 (number)] = 8702 (number)
+
+	Hp heal taken history: Dictionary = table: 593fd72f, count = 4
+	[2004 (number)] = 2563 (number)
+	[2002 (number)] = 2231 (number)
+	[4006 (number)] = 8702 (number)
+	[2006 (number)] = 2563 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 6350, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 64766c87, count = 1
+	[2 (number)] = 6350 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 54ca8fd4, count = 1
+	[4002 (number)] = 6350 (number)
+
+	Effect created history: Dictionary = table: 2a64172e, count = 1
+	[112 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: dc52be2, count = 1
+	[4 (number)] = 120 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 6350, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5a807c89, count = 1
+	[2 (number)] = 6350 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 5ab4fc22, count = 1
+	[4003 (number)] = 6350 (number)
+
+	Effect created history: Dictionary = table: 50e34d3d, count = 1
+	[112 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: 74ddf6f8, count = 1
+	[4 (number)] = 180 (number)
+
+
+<> WINNER: 1

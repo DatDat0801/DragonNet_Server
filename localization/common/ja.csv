@@ -1,0 +1,1433 @@
+key<>value
+notice_content<><size = 50> 1.2.10パッチ注：</ size>\n\n1.調整：\n-酒屋のクエストリセットロジック\n-要塞、ドメイン、{0}、{1}の報酬\n2.新機能：銀鉱、{2}での広告ウォッチング。\n3.バグを最適化して修正します
+notice<>通知
+tap_to_play<>タッチしてプレーする
+setting<>設定
+account<>アカウント
+id<>ID
+summoner<>氏名
+register_account<>アカウントの登録
+change_password<>パスワード変更
+switch_server<>サーバー移転
+switch_account<>アカウント変更
+email_verify<>復元Eメール
+game_version<>ゲームバージョン
+close<>閉じる
+closed<>閉じた
+sound<>効果音
+music<>音楽
+graphic_quality<>グラフィックス品質
+low<>低
+medium<>ミディアム
+high<>高
+language<>言語
+language_setting<>言語選択
+password<>パスワード
+enter_text<>友達のIDを入力してください
+forget<>忘れる
+do_you_want_restore<>復元しますか
+register<>登録
+login<>ログイン
+restore<>復元
+confirm_password<>パスワードを確認してください
+cancel<>キャンセル
+confirm<>確認
+new_password<>新たしいパスワード
+confirm_new_password<>新たしいパスワードを確認してください
+please_select_language<>言語を選んでください
+daily_checkin<>チェックイン
+mail<>メール
+friend<>友達
+shop<>店
+main_character<>サモナー
+mastery<>補足表
+inventory<>かばん
+hero_list<>ヒーロー
+event<>イベント
+daily_reward<>毎日賞与
+checkin_progress<>%sチェックインプロセス
+reply<>返事
+claim<>取る
+mail_box<>メールボックス
+claim_all<>すべて受け取る
+system_mail<>システムのメール
+player_mail<>プレーヤーのメール
+mail_empty<>空きメールボックス
+received_applications<>要求を受けました
+recommended_friend<>提案
+claim_and_send<>受け・送り
+friend_list<>友達一覧表
+search<>探す
+friend_request<>友達リクエスト
+help_fight<>探検
+apply<>適用
+delete_all<>全部削除
+delete<>削除
+scout<>偵察
+ranking_point<>ランキング点数
+ranking_reward<>ランキング賞与
+battle_reward<>試合の賞与
+battle<>試合
+smash<>速く攻撃する
+preview<>プレビュー
+auto_fill<>自動選択
+disassemble<>取り外し
+heroese<>ヒーロー
+ok<>合意
+yes<>イエス
+no<>ノー
+not_select_all_hero<>あらゆるヒーローが選択できません
+do_disassemble_hero_4_star<>本当に%sより高いスターを持っているヒーローを取り外しますか
+you_need_select_hero<>ヒーローを一人選んでください
+do_you_want_disassemble<>本当に取り外しますか
+basic<>基本
+premium<>高級
+refresh<>リフレッシュ
+time<>時間
+forge<>鍛錬
+available_to_forge<>鍛錬するために既存
+weapon<>兵器
+armor<>装甲
+helmet<>ヘルメット
+ring<>指輪
+rank_x<>ランキング：%s
+season_ranking<>シーズンのランキング
+point<>点
+group_ranking<>グループのランキング
+score<>点数
+reward<>賞与
+record<>記載
+defense<>防御
+choose_rival<>敵手の選択
+change<>替え
+your_current_rank_x<>現在ランキング：%s
+reward_will_sent<>賞与の保存所
+reward_will_sent_x<>商用の保存所：%s
+wave<>回
+will_open_in<>オープン時点：
+will_end_in<>クロース時点：
+quick<>速い
+secret_shop<>商人
+skip<>飛ばし
+buy<>購入
+primary_merchant<>初級商人
+medium_merchant<>中級商人
+senior_merchant<>高級商人
+mysterious_merchant<>神秘的な商人
+primary<>初級
+senior<>高級
+formation<>フォーメーション
+save<>保存
+material<>材料
+upgrade<>アップグレード
+skip_battle<>試合飛ばし
+back<>戻り
+front<>前列
+gallery<>ギャラリー
+linking<>リンク
+sort<>整理
+level<>レベル
+star<>スター
+select_hero_altar<>分散するヒーローの選択
+replay<>リプレー
+reward_current_ranking<>現在ランキングに応じる賞与
+hero_shard<>ヒーローシャード
+tap_to_close<>タッチして閉じる
+avatar<>アバター
+border<>枠
+avatar_border<>アバターと枠
+current_avatar<>現在のアバターと枠
+select_avatar<>アバターを選んでください
+select_border<>枠を選んでください
+world<>世界
+send<>送り
+chat_option_1<>VIP情報
+chat_option_2<>世界チャットのブロック
+chat_option_3<>ギルドチャットのブロック
+chat_option_4<>採用チャットのブロック
+select_hero_battle<>戦闘するヒーローの選択
+vs<>VS
+hero_info<>情報
+equip<>整備
+evolve<>進化
+skin<>衣類
+level_to_max<>Lv.Max
+level_up<>レベルアップ
+unlock_level<>%sレベルでアンロック
+unequip<>脱ぐ
+auto_equip<>早速整備
+awaken<>起きる
+switch_character<>サモナー替え
+exp<>EXP
+free<>無料
+free_x<>%s無料
+summon<>喚問
+summon_x<>%s 喚問
+storage<>倉庫
+fragment<>ピース
+artifact<>古物
+leaderboard<>ランキング表
+quest<>任務
+damage_stat<>ダメージ指数
+notification<>通知
+spin_x<>%s回転
+next_force_refresh<>後リフレッシュ
+pack_of_item<>荷物パック
+congratulation<>おめでとう
+smash_title<>何回チャレンジしますか
+select_heroes<>ヒーローの選択
+requirement<>要求
+start<>始め
+quest_refresh_in<>{2}後に ({1})の任務がリセットされる
+speed_up<>加速
+complete<>完了
+block<>ブロック
+unblock<>アンブロック
+send_mail<>メールを送る
+refresh_in<>%s後にリフレッシュ
+remaining_attempts<>残り試合：
+challenge<>チャレンジ
+rename<>名前替え
+x_character<>%sキャラクタ
+change_avatar<>アバターと枠
+vip<>VIP Info
+replace_hero<>ヒーローの替え
+select_your_hero<>あなたのヒーローを選んでください
+please_select_hero_replace<>交換するヒーローを選んでください
+convert<>コンバート
+lock_current_stat<>現特性のロック
+upgrade_artifact<>古物のアップグレード
+select_material_artifact<>材料の古物を選んでください
+training_hero<>訓練
+to_complete_training<>あらゆるヒーローの最長訓練期間
+select_item<>荷物の選択
+map<>マップ
+select_material_hero<>材料のヒーローを選んでください
+select<>選択
+unlock_star<>%s*アンロック
+guild_application<>参加申請リスト
+request_x<>%s要求
+accept<>同意する
+decline<>拒否
+guild_foundation<>ギルドの設定
+recommended<>提案
+enter_guild_name_id<>ID又はギルド名の入力
+found<>作成
+guild_content<>ギルドに参加し、又は自分でギルドを作成しギルドのイベントに参加することで以下の荷物を得られる。
+member_x<>%sメンバー
+emblem<>アイコン
+info<>情報
+enter_guild_name<>ギルド名の入力
+enter_guild_info<>ギルド情報の入力
+recruit<>採用
+daily_boss<>ギルドのボス
+checkin<>チェックイン
+application<>参加申請リスト
+input_recruit_info<>採用情報を入力してください
+kick<>キック
+demote<>降格
+promote<>昇格
+season_reward<>シーズンの賞与
+self_damage<>自分にダメージ
+guild_damage<>ギルドにダメージ
+level_boss_x<>%sボスレベル
+unlock_at_guild_x<>%sギルドレベルでアンロック
+current_reward<>現在賞与
+next_reward<>次の賞与
+guild_log<>ギルド日記
+stage_reward<>ステージ賞与
+map_stage<>{1}図表、{2}ステージ、{3}難しさ
+need_input_code<>コードを入力してください
+need_input_mail<>アカウントの復元Eメールを入力してください
+input_code_fail<>コードが確認できません
+confirm_new_password_fail<>新しいパスワードが確認できません
+need_input_new_password<>新しいパスワードを入力してください
+can_not_claim_reward<>受けました
+max_buy_turn_daily<>毎日最高購入量
+coming_soon<>準備中
+limit_purchase_this_pack<>このパックの最高購入量に達しました
+member_kick_guild<>ギルドからキックされたメンバー
+failed_kick_member<>メンバーをキックする事ができません
+login_current_account<>現アカウントにログイン
+member_role_changed<>メンバーの役割が変わった
+guild_sub_leader_reached_limit<>ギルドのバイスリーダーが限度に達しました
+failed_change_member_role<>メンバーの役割が変えられない
+input_password_failed<>パスワードが確認できません
+input_user_name_failed<>ユーザー名が確認できません
+enter_recruit_info_please<>採用の情報を入力してください
+send_recruit_successful<>採用要求を送りました
+fail_send_recruit_info<>採用の情報が送れません
+fail_get_data<>データが取れません
+fail_refresh<>リフレッシュができません
+player_joined_guild<>一つのギルドに参加したプレーヤー
+guild_limit_member<>ギルドのメンバー人数が足りました
+need_permission_perform_action<>この活動があたなの許可を得ないといけません
+failed_get_dungeon_stage<>土牢の詳細情報が取れません
+send_request_successful<>要求を送りました
+already_in_guild<>ギルドに参加しました
+please_enter_guild_name<>ギルド名を入力してください
+create_guild_success<>ギルドを作成しました
+create_guild_failed<>ギルドが作成できません
+upgrade_guild_success<>ギルドの情報を更新しました
+challenge_guild_dungeon_success<>ギルドの土牢とチャレンジすることが成功しました
+guild_description_invalid<>ギルドの記述情報が不当
+failed_challenge_guild_dungeon<>ギルドの土牢とチャレンジすることが失敗しました
+guild_description_bad_word<>情報が更新できません。ギルドの記述情報が不当
+password_failed<>パスワークが確認できません
+try_again_few_seconds<>数秒後リトライください
+need_input<>ID又はギルド名を入力してください
+insert_least_one_hero<>ヒーローを一人以上選んで下さい
+change_success<>変えました
+email<>Eメール
+code_verify<>確認コード
+master_can_not_quit_guild<>ギルドのボスがギルドが離れられません
+sure_leave_guild<>本当にギルドを離れたいですか
+have_left_guild<>ギルドを離れました
+need_level_mastery<>あらゆる補足表を%sレベルにアップグレードしないといけません
+login_failed<>ログインできません
+boss_died<>ボスが負かされた
+limit_level_x<>%sレベルに限り
+continue_facebook<>Facebookで続きます
+remove_friend_success<>削除しました
+do_want_delete_mail<>メールを削除しますか
+can_not_claim_mail<>メールが受けられません
+send_success<>メールを送りました
+claim_success<>メールを受けました
+claim_send_success<>受信・送信が成功しました
+can_not_claim_send<>要求又は配送用ハートがありません
+do_want_delete_all<>全て削除しますか
+add_friend_success<>友達を追加しました
+hero_in_arena<>土俵内のヒーロー
+hero_in_training<>自動教育されるヒーロー
+require_level_x<>%sレベルの要求
+help<>支援
+guild_name_contain_banned_word<>ギルド名が確認できません
+guild_desc_contain_banned_word<>ギルドの記述情報が不当
+selected<>選びました
+not_enough_x<>%sが不足
+casino_shop<>希望店
+altar_shop<>神社店
+guild_shop<>ギルド店
+arena_shop<>土俵店
+want_to_buy<>買いますか
+require_tavern<>こちらのヒーローが任務要求を満たしません
+require_hero_star_x<>%sヒーローを要求します
+require_hero_faction_x<>%s会派のヒーローを要求します
+require_hero_class_x<>%sクラスのヒーローを要求します
+want_to_cancel_quest<>任務をキャンセルしますか
+want_to_speed_up<>任務を加速しますか
+not_enough_equipment<>材料がたりません
+noti_full_hero<>ヒーロー一覧表が足りました
+unlock_new_function<>新しい機能
+reset<>リセット
+mastery_skill<>補足表のスキル
+need_reset_main_mastery<>補足表をリセットしますか
+want_to_reset<>リセットしたいですか
+not_enough_resource<>資源が足りません
+user_profile<>ユーザー情報
+fanpage<>ホームページ
+go_to_fanpage_notice<>ホームページにアクセスしてサポートを得てください
+want_to_switch_server<>サーバーを変えますか
+want_to_new_server<>このサーバーで新しいプロフィールを登録したいですか
+want_to_clear_data<>データーを削除しますか
+connecting_server<>サーバーとコネクト
+init_service<>初期化
+init_data_request<>データーの初期化
+init_resource_request<>資源の初期化
+download_asset_bundle<>資源をダウンロードします
+next_scout<>次回の偵察：%s
+summoner_can_view<>サモナーはいずれかの会派とします
+require_stage_x<>アンロックするために {1} {2}-{3} ステージを完了してください
+hero_info_max_level<>ヒーローの最高レベルに達しました
+daily_quest<>毎日任務
+hero_level_cap_to<>ヒーローの最高レベル：%s
+bonus_class<>{1}クラスに追加します
+bonus_faction<>{1}会派に追加します
+bonus_class_faction<>{1}クラスと {2}会派に追加します
+free_gem<>無料の玉
+skill_enhance<>スキルの進化
+level_cap<>レベル限定
+how_many_purchase<>{1}数量を入力してください。
+sell<>売ります
+vip_full<>VIPレベルが限定に達しました
+copy_to_clipboard<>データーエリアにコピーします
+player_blocked<>プレーヤーがブロックされました
+hero_fragment_title_star<>{1} スターのヒーローピース
+hero_fragment_faction<>{2}会派の {1}スターのヒーローピース
+hero_fragment_name<>{1}のピース
+hero_fragment_star<>{1} スターのヒーローピース
+hero_fragment_star_faction<>{2} {1} スターのヒーローピース
+hero_fragment_info<>ヒーローを喚問するために{1} ピースを集めます
+artifact_fragment_title_1<>希少な古物のピース
+artifact_fragment_title_2<>古代の古物のピース
+artifact_fragment_title_3<>伝説の古物のピース
+artifact_fragment_title_4<>伝説の古物のピース (特別)
+artifact_fragment_title_5<>永遠な古物のピース
+artifact_fragment_title_6<>永遠な古物のピース(特別)
+artifact_fragment_info<>偶然の古物を喚問するために {1} ピースを集めてください
+require_level_stage<>{2} {3}-{4}ステージを{1} レベルを要求します
+require_vip_or_stage<>VIP {1} 又は {2} {3}-{4}ステーを要求しています
+require_vip_or_level_stage<>VIP {1}又は{2}レベル、{4}-{5}ステーを要求しています
+achievement<>成績
+quest_tree<>任務木
+achievement_tittle_group_1<>連結パワー
+achievement_tittle_group_2<>生又は死
+achievement_tittle_group_3<>喚問戦略
+achievement_tittle_group_4<>大きなチャレンジ
+achievement_tittle_group_5<>他の
+quest_tree_tittle_group_1<>旅行の始め
+quest_tree_tittle_group_2<>モンスターの征服
+quest_tree_tittle_group_3<>切りの無いチャレンジ
+completed<>完了
+player_already_show_info<>表示されたプレーヤーの情報
+in_progress<>実施中
+new_password_is_last<>パスワードが重なりました
+new_password_failed<>新しいパスワードが確認できません
+chat_delay<>%s秒後にチャットします
+search_failed<>探せません
+need_input_friend_id<>友達のIDを入力してください
+send_failed<>送れません
+warning_send_mail<>%s秒後に送れます
+mail_content<>メール内容を入力してください
+max_hero<>ヒーローが限度に達しました
+enough_hero_material<>ヒーローの材料が足りません
+max_turn_bought<>購入回数が限定に達しました
+hero_max_star<>ヒーロースターが最高になりました
+need_up_max_level<>ヒーローが最高レベルにアップされなければなりません
+hero_is_training<>実施中
+hour_x<>%s時
+min_x<>%s分
+smash_reward<>早送りの賞与
+refresh_x<>%s後にリフレッシュ
+potion_1<>%sHPを回復します
+potion_2<>%sエネルギーを上げます
+potion_3<>%sHPと%sエネルギーを上げます
+full_slot<>空き所が無くなりました
+want_to_use_potion<>薬を使いますか
+day_ago_format<>から{0} 日{1} 時間前
+hour_ago_format<>から{0} 時間{1} 分前
+min_ago_format<>から{0} 分{1} 秒前
+second_ago_format<>から{0} 秒前
+tower_record_error<>このレコードに不良が1点あります。別の物をトライしてください。
+require_vip_or_level<>VIP {1} 又は{2}レベルを要求します
+reach_limited_pack<>このパックが限度に達しました
+all_heroes_were_killed<>あらゆるヒーローし死ました
+use_id_format<>交換するためにIDフォーマットを使用してください
+guild_not_found<>ギルドが見つけられません
+recommend_guild_failed<>提案されたギルドを示されません
+have_just_joined_guild<>一つのギルドに参加しました
+boss_changed_successful<>ボスを替えました
+select_boss_failed<>ボスが選べません
+challenge_guild_boss_successful<>ギルドボスとのチャレンジに失敗しました
+challenge_guild_boss_failed<>ギルドボスとチャレンジできません
+guild_was_kicked<>ギルドからキックされました
+check_in_successful<>チェックインしました
+restore_failed<>回復できません
+play_record_failed<>このレコードに不良が一点あります。別の物をトライしてください。
+need_clear_previous_stage<>直前のステージを完了しなければなりません
+map_cleared<>完了
+no_video<>ビデオが無効になりました
+current_name<>現在の名称
+product_not_exist<>このIDは存在しません
+purchase_processing<>処理中
+register_account_success<>アカウント登録が完了しました
+new_pass_limit<>新しいパースワードを%sキャラクターに限ります
+new_pass_special<>新しいパースワードに特別なキャラクターを含めます
+confirm_pass_fail<>パースワードが確認できません
+disconnect<>ディスコネクトゥ
+dungeon_time_up<>監獄が閉まりました
+change_language<>言語を%sに変えますか
+create_guild<>ギルドを作りますか
+want_block<>ブロックしますか
+want_unblock<>アンブロックしますか
+want_delete_all_mail<>メールを全部削除しますか
+want_refresh_tavern<>酒店をリフレッシュしますか
+remove_friend<>友達を削除しますか
+have_verified_email<>復元Eメールを追加しましたか
+quit_game<>ゲームを辞めますか
+want_refresh_shop<>店をリフレッシュしますか
+all_hero_died<>あらゆるヒーローが失敗しました
+resend<>もう一度送ります
+input_code<>コードを入力します
+noti_code<>一つのメールがあなたのメールボックスに届きました
+update<>アップデート
+raw_pack_1<>一握りの玉
+raw_pack_2<>多量の玉
+raw_pack_3<>玉の袋
+raw_pack_4<>玉のボックス
+raw_pack_5<>玉の箱
+limited_pack_1<>小さい週次パック
+limited_pack_2<>平均の週次パック
+limited_pack_3<>大きな週次パック
+limited_pack_4<>お日様の週次パック
+limited_pack_5<>金の週次パック
+limited_pack_6<>小さい月次パック
+limited_pack_7<>平均の月次パック
+limited_pack_8<>大きな月次パック
+limited_pack_9<>銀の月次パック
+limited_pack_10<>金の月次パック
+smash_many<>数量を入力してください
+events<>イベント
+event_summon<>喚問
+event_prophet_tree<>希望木
+event_arena<>土俵
+event_wheel_of_fate<>運命の輪
+event_tavern<>酒店
+event_collection<>収集
+event_exchange<>交換
+event_bundle<>イベント纏
+event_hot_deal<>ホットディール
+event_prophet_tree_info<>予知木に要求される喚問回数を完了してから賞与を得ます
+event_wheel_of_fate_info<>運命の輪に要求される回転回数を完了してから賞与を得ます
+event_collection_info<>要求されるヒーローの数を十分に集めてから賞与を得ます
+event_tavern_info<>酒店に要求される任務を全て完了してから賞与を得ます
+event_summon_info<>喚問マジックに要求される喚問回数を全て完了してから賞与を得ます
+event_arena_info<>土俵に要求されるプレー回数を全て完了してから賞与を得ます
+event_bundle_info<>イベント中限定条件を満たすパックが買えます
+event_hot_deal_info<>イベント中限定条件を満たすパックが買えます
+gate<>マップ
+enemy<>敵手
+faction_restrain<>会派の制圧
+faction_restrain_info<>会派を制圧して{1}のダメージを追加して{2}の正確をプラスします
+round<>回
+invite<>招待
+name<>名称
+stock<>制限
+select_guild_logo<>あなたのギルド用ロゴを選んでください
+member<>メンバー
+master<>ギルドのボス
+deputy<>ギルドのバイスリーダー
+guild_notice<>通知
+season_end_in<>シーズンが　に終了されます。
+stage<>ステージ
+hall_of_fame<>有名会場
+floor<>階
+remove_all<>全部削除
+enemy_team<>敵手チーム
+go<>行く
+save_point<>保存ポイント
+next_stage<>次のステージ
+attacker<>攻撃者
+defender<>防御者
+forge_equipment<>整備の
+upgrade_hero<>ヒーローのアップグレード
+summon_hero<>ヒーローの喚問
+enter_redemption_code<>プレゼント受けコードを入力してください
+gift_code<>プレゼント
+current_ranking<>現在ランキング
+monthly_packs<>毎月のホットデール
+raw_packs<>玉のパック
+limited_packs<>限定パック
+total_reward<>総プレゼント
+instant_reward<>すぐ受けます
+weekly<>月次カード
+monthly<>玉カード
+premium_monthly<>特別な玉カード
+free_acquire_video_reward<>広告をスキップ。
+limit_pack_per_week<>%sパック/週
+limit_pack_per_month<>%sパック/月
+lock<>ロック
+edit_lock_heroes<>ロック種類
+back_to_current<>現在
+mastery_name<>{2}の{1}
+get_vip_point_to_reach<>達するために%sVIPポイントが要します
+remove<>削除
+replace<>替え
+use<>使用
+add_one<>x1 追加
+add_ten<>x10 追加
+admin_mail<>管理者のメール
+moderator_mail<>調停者 のメール
+merchant<>商人
+enter_name_please<>名称を入力してください
+enter_chat<>字を入力します
+chat<>チャット
+join<>参加
+please_wait_for_seconds<>%s秒お待ちください
+max<>最高
+gold_mine<>金鉱
+friend_not_save_formation<>この友達がまだチームを設定していません
+not_enough_quest_refresh<>リフレッシュ用の任務がありません
+do_you_want_use_resource<>{1} {2}使用しますか
+wanna_kick_member<>このメンバーをキックしますか
+special<>特別な玉カード
+first_purchase<>あなただけのために
+account_limit_character<>{1}-{2}キャラクタが要します
+hero_food_moon_title<>月
+hero_food_sun_info<>冥と光の会派に属するヒーローの進化に用います
+hero_food_sun_title<>日
+hero_food_moon_info<>天然、火、水、深潭の会派に属するヒーローの進化に用います
+boss<>ボス
+verify_email_success<>回復Eメールを追加しましたか
+level_up_reward<>レベルアップの賞与
+no_tavern_quest<>任務がありません
+season_open_in<>シーズンが　に開始されます
+cleared<>完了
+claim_reach_level<>要求レベルに達するために委託賞与をすぐ受けてください
+more_time_reach_level<>{2}レベルに達するために {1} 超が要します
+claim_to_not_max<>委託賞与が限定に達する前に受けるよう忘れないでください
+to_reach_level_x<>{2}レベルに達するために {1}要します
+ranking_1<>鉄
+ranking_2<>銅
+ranking_3<>銀
+ranking_4<>金
+ranking_5<>白金
+ranking_6<>ダイヤモンド
+ranking_7<>マスター
+ranking_top_1<>グランドマスターは
+ranking_top_2<>チャレンジ
+top_x<>{1}トップ
+top_x+<>{1}+トップ
+top_x_x<>{1}トップ - {2}トップ
+point_x-<>{1}pt-
+point_x+<>{1}pt+
+point_x_x<>{1}pt - {2}pt
+not_ranked<>ランキングされていません
+version_outdate<>あなたの%sバージョンが旧バージョンで、アップデートしてください
+role<>役割
+ago<>前
+preload_resources<>資源を事前にロードします
+download_resource_complete<>資源をロードしました
+load_user_data<>データローディング
+start_game<>ゲーム開始
+under_maintenance<>サーバーが保持されています
+no_data<>データがありません
+change_leader<>リーダーを交換します
+set_as_leader<>リーダーにセットします
+guild_member_list<>メンバー一覧表
+confirm_change_leader<>確実に{1} を{2}に設置しますか
+unblock_training_condition<>収穫してからヒーローを替えられます
+quick_battle<>早送り
+quick_battle_info<>経験瓶と金を含める%sに積んでおく賞与をすぐ得ます
+monthly_reward<>毎月賞与
+max_quick_battle_turn<>早+F617送り限定を設定しました
+event_has_ended<>イベントが完了しました
+archived<>成績
+more_items<>その他の科目が%s残ります
+purchase_items<>荷物を買います
+limited_pack_desc_1<>合理的な選択
+limited_pack_desc_2<>この選択はあたなの有名度を広げます
+limited_pack_desc_3<>この選択は予想外の利得を齎らします
+limited_pack_desc_4<>素晴らしい投資
+limited_pack_desc_5<>この選択は 優勝者の栄光を齎します
+limited_pack_desc_6<>優秀な制限者に対する必要な選択
+limited_pack_desc_7<>何よりも大きいな投資
+limited_pack_desc_8<>この投資の利得がすぐ得られます
+companion_buff<>会派共鳴
+total<>合計
+when_you_login<>ログイン時
+claim_each_day<>%s日中の毎日
+day<>日
+speed_up_gold<>加速 キン
+speed_up_hero_exp<>加速 古代の薬
+speed_up_summoner_exp<>サモナーEXPの加速
+speed_up_gold_info<>%s 時間相当のキンを即座に取得します\nキャンペーン 画面でアクティブ化
+speed_up_hero_exp_info<>経験瓶の %s 時間を即座に獲得できます\nキャンペーン 画面でアクティブにします
+speed_up_summoner_exp_info<>%s時間に相当する サモナーEXP をすぐ貰います\nキャンペーン 画面でアクティブにします
+all_received<>あらゆる受けた物
+attack_success<>攻撃に成功しました
+attack_fail<>攻撃に失敗しました
+defense_success<>防御に成功しました
+defense_fail<>防御に失敗しました
+revenge<>仕返しします
+hide<>隠します
+season_end_reward<>シーズンの賞与
+champion<>優勝者
+reward_area_end<>メールを開けてプレゼントを受けます
+go_to_mail<>メールを開けます
+arena_point_reset<>あなたのランキング点数が%sに戻りました
+rate_x<>%s確率
+season_end<>シーズン終わり
+highest_ever<>レコード
+random_item_pool<>荷物一覧表
+next_refresh<>後リフレッシュ
+community<>地域社会
+guild_log_join<>{0} がギルドに参加しました
+guild_log_leave<>{0} がギルドを脱退しました
+guild_log_assign_leader<>{0} が{1}をギルドのリーダーに 指名しました
+guild_log_assign_sub_leader<>{0} が{1}をギルドのサーブリーダーに 指名しました
+guild_log_kick_out<>{0} がギルドからキックされました
+free_refresh<>以内に無料のリフレッシュ
+flash_sale<>フラッシュセール
+rate_title<>ゲームが好きですか
+not_rate_contain<>不愉快な場合をかけてしまい大変申し訳ございませんでした。ファンページでご返事してください。ゲームの改善に全力を尽くしております。
+transaction_mail<>取引メール
+weekly_packs<>毎週のお買い得
+subscription_packs<>月次カード
+rate_content<>Summoner Eraを楽しみましたか？5ツのスターで等級して頂けませんか
+rate<>等級
+not_rate<>ノ、ありがとう
+go_to_fanpage<>ファンページへ
+notice_watch_ads<>賞与を得るために一つの広告をみますか?
+play_video<>ビデオをプレーします
+init_proceed_failed<>あなたのアカウントでこの発注に支払うことができなくなります。アカウントを確認してからリトライしてください
+start_free_trial<>%s日で無料プレー
+trial_available<>体験版をプレーして頂きありがとうございます
+warning_flash_sale<>こほパックが1回しかありません。本当に飛ばしますか？
+warning_download_data<>データの{1}MBをダウンロードしてください。\n<color=#{2}> Wi-fi</color>を使用するべきです
+not_enough_space_memory<>データ保存用の空き容量が足りません。%sMBの空き容量がないと続けません。
+retry<>リトライ
+download<>ダウンロード
+event_login<>ログインのイベント
+event_login_info<>イベントの間に無料賞与を得られるためにログインしてください
+tip_1<>ヒーローを進化素材としてリセットまたは使用すると、そのヒーローのレベルアップに使用した素材が100%、ルーン強化に使用した素材の80%が返されます。
+tip_2<>通知！ 低星のヒーロー（1～3）は役に立たない。 進化させて、メイン ヒーローに非常食として持ってきてください。
+tip_3<>進化によりヒーローの重要な指数が多く上げられます。
+tip_4<>土俵でより高いランクに達するように頑張ってください。熟達テーブル用の多くプラス点が得られます。
+tip_5<>3ツのスター以下のヒーローのレベルアップのために自動練習が最適です
+tip_6<>アカウントの保安のためアカウントの登録と回復Eメールを追加するように忘れないでください
+tip_7<>ヒーローを進化素材としてリセットまたは使用すると、そのヒーローのレベルアップに使用した素材が100%、ルーン強化に使用した素材の80%が返されます。
+notice_upgrade_stone_converting<>ストーン変換又はアップグレードをすぐ使ってください
+day_only<>日
+login_event_progress<>%sログインプロセス
+notice_switch_all_summoner<>あらゆるサモナーを変えますか
+not_enough_point<>点数が足りません
+event_arena_ranking<>土俵等級
+event_arena_ranking_info<>あなたの土俵等級点数を上げて相当の賞与を得ます。賞与はメールで送られます。
+notice_reset_hero<>リセットした時の返却資源量が当時点ヒーローのレベルに応じます。
+guild_hall<>ギルドハウス
+guild_hall_info<>ギルドの工事を保存し、メンバーが活動する所です
+join_now<>すぐ参加します
+are_you_sure<>確定ですか
+registered_member<>メンバー登録
+phase_message_tittle<>ギルドアシスタント
+message_phase_1<>{2}回に進めるために少なくとも{1}の メンバーが必要です
+message_phase_2<>防衛隊が設定されていないため、ギルドは{1}に参加できません。設定できるのは、リーダーと副リーダーだけです。
+change_formation<>チーム変換
+change_defender<>防御状態変換
+guild_leader_benefit<>ギルドのリーダーとサーブリーダーしか戦争ギルドに参加できません
+notice_evolve_hero_converting<>このヒーローが変換されています。本当に進化しますか
+unlock_previous_stage<>前ステージでアンロックしました
+missing_join_stage<>参加を逃しました
+deal_damage_to_get_reward<>ダメージを与えて賞与を得ます
+only_leader_can_change_boss<>ギルドのリーダーとサーブリーダーしかギルドのボスを替えられません
+total_damage<>総ダメージ
+event_release_festival<>開始歓迎イベント
+event_release_festival_info<>イベントにおいてサーバーが一定のプレーヤー人数を纏めた時、そのサーバーのあらゆるプレーヤーが賞与を得ます
+player_join_server<>プレーヤーはサーバーに参加します
+skip_batte<>時間を早送りします
+summoner_locked<>サモナーがまだアンロックされていません
+member_has_registered<>登録したメンバー
+not_eligible_to_join<>参加条件を満たしません
+guild_war_phase_1_name<>登録段階
+guild_war_phase_2_name<>防御設定段階
+guild_war_phase_3_name<>戦闘段階
+random_boss<>偶然ボス
+try_time<>リトライ
+check_out_defenders<>防御チームをチェックします
+limited_pack_11<>特別なパック
+limited_pack_desc_11<>この投資の利得がすぐ得られます
+event_shop<>ソウル店
+mission<>イベントミッション
+exchange<>交換
+not_enough<>足りません
+limit_x<>%s限定
+soul_shop<>ソウル店
+hidden_deal<>秘密な協議
+owned<>所有しました
+guild_owned<>ギルドの所有
+not_in_guild<>ギルドに参加していません
+new<>新しい
+out_of_turn<>回数が無くなりました
+event_exchange_1<>ヒーローの交換
+event_exchange_1_info<>任務を完了するために必要な材料を纏めてヒーローを交換してください
+event_exchange_2<>整備の交換
+event_exchange_2_info<>任務を完了するために必要な材料を纏めて整備を交換してください
+event_exchange_3<>神秘的な商人
+event_exchange_3_info<>神秘的な商人から面白い整備が買えます
+profit<>利益
+tilion_nick_name<>ベストヒーラー
+donate<>岐阜
+guild_donate_history<>ギルドの岐阜暦
+defronowe_nick_name<>激怒キラー
+first_time_reward_desc<>初回支払いにはこのヒーローを受けます
+first_time_reward<>初回チャージ
+go_to_shop<>店へ
+guild_donate_help<>ギルドの岐阜にサポートします
+guild_donate_title<>ギルドの岐阜
+starter_pack<>初段パック
+owned_x<>所有した： {1}
+starter_pack_name_1<>整備
+starter_pack_desc_2<>広い範囲にダメージ
+starter_pack_desc_4<>ワンショットワンキル
+starter_pack_desc_3<>すべての敵を燃やす 
+extra<>プラス
+quick_battle_ticket_2_0<>{1}時間 - 金早送り
+quick_battle_ticket_2_10<>{1}時間 - 経験早送り
+quick_battle_ticket_8_0<>{1}時間 - サモナーの経験早送り
+event_type_20<>ギルド任務のイベント
+event_type_20_info<>金戦績と銀戦績を両方完了して賞与を得ます
+hero_lock_in_inventory<>倉庫にあるヒーローロック
+hero_in_guild_war<>戦争ギルドのヒーロー
+require_vip<>VIP %sの要求
+received<>受けましたと送りました
+final_reward<>最後賞与
+day_x<>第%s日
+buy_item_quest_name<>荷物を買います
+event_server_open<>ルーキーミッション
+item_loot<>強盗整備
+done<>完了
+support<>サポート
+check_game_version<>ゲームバージョンをチェックします
+check_game_logic<>ゲームの合理度をチェックします
+check_game_resources<>ゲームの資源をチェックします
+check_resources_config<>ゲームの資源構成をチェックします
+go_to_store<>店へ
+switch_all<>全部替え
+server_open<>ルーキーミッション
+login_summoner_era<>Summoner Eraアカウントログイン
+login_facebook<>Facebookアカウントログイン
+login_google<>Googleアカウントログイン
+login_apple<>Appleアカウントログイン
+binding_summoner_era<>Summoner Eraアカウント連結
+binding_facebook<>Facebookアカウント連結
+binding_google<>Googleアカウント連結
+binding_apple<>Appleアカウント連結
+binded<>連結しました
+noti_binding<>これはゲストアカウントです。デートを失わないようにアカウント連結してください
+mail_verified<>回復Eメール：%s
+min_donate_event_guild_quest<>最小寄付{1} {2}および{3} {4}
+player_banned<>不審なアクティビティが原因で、アカウントが禁止されました。 詳細については、当社の顧客サービスに親切に接触。
+scroll_monthly<>スクロールカード
+sale_off<>セールオフ
+hot<>Hot
+level_pass<>レベルパス
+unlock_level_pass<>プレミアム
+free_reward<>フリーボーナス
+premium_reward<>プレミアムボーナス
+activated<>活性化した
+reward_claimed<>受信した
+summoner_exp<>サモナーEXP
+tap_to_claim<>受信する
+growth_pack_lock<>購入後、指定されたレベルに到達して、大量の貴重な報酬を受け取ります。
+noti_register<>新しいアカウントを登録しますか?
+skip_cut_scene<>スキップカットシーン
+turn_on_cut_scene<>カットシーンをオンにする
+select_hero_evolve<>%sを進化させるヒーローを選択
+noti_confirm_resource<>これらのリソースを今すぐ消費しますか?
+noti_close_multi_evolve<>今すぐ出発することを確認した場合、次回はヒーローを補充する必要があります。
+server_maintain_in_x<>サーバーのメンテナンスは次の%sで実装されます
+empty_hero_evolve<>進化するヒーローを選択してください
+multi_evolve<>多重進化
+potion<>ポーション
+collection_bag<>バフ
+empty<>ブロックはありません。
+remaining<>Remaining
+unpack_resources<>Unpack Resources
+choose<>選択
+hero_alive<>このヒーローはまだ生きています。
+hp_full<>The hero is full health
+power_full<>The hero is full power
+guild_war_season_ranking<>ギルドウォーズシーズンランキング
+guild_war_member_setup_progress<>十分なメンバーが登録されていません
+guild_war_member_setup_successful<>ギルドウォーズのメンバー登録が成功
+guild_war_setup_can_be_modified<>すべてのフォーメーションが設定されています。{1}より前に変更できるのは、リーダーと副リーダーのみです
+swap_member_successful<>メンバーを正常に交換します
+ask_for_save_the_change_guild_war_defenders<>防衛ラインナップを変更しました。次回のために保存しますか？
+swap_member<>Swap member
+win<>Win
+your_guild_get<>Your guild get %s
+min_hero_dead_requirement<>Win with at least %s hero alive
+max_round_requirement<>Win in %s round(s)
+save_successful<>セーブに成功
+power<>Combat Power
+point_gained<>Point gained
+not_enough_member_registered<>Unable to join due to insufficient number of registered members.
+guild_war_point<>Guild War Ranking Point
+guild_war_season_end<>The new season of guild war is coming soon. Prepare yourself to conquer new enemies.
+guild_war_register_notification<>Castle Defense formation has just been changed by another person
+require_event_rate_up_point<>Event rate up point is not enough to summon
+summon_rate_up<>召喚の保証: %s
+guaranteed_requirement<>Rate-up Event Point
+guaranteed_requirement_describe<>You are guaranteed to get this Event Hero. Every time you use Premium summon by Scroll or Diamond, you gain 1 Point. After you fulfill the Point Bar, the next summon is guaranteed to get the Event Hero.\n\nPoint Bar will be reset to 0 when you summoned the Event Hero. Even when you've not fulfilled it yet.\n\nRemember: Rate-up Event Summon is the independent system. It doesn't count for another event summon.
+summoner_level<>サモナー レベル
+daily_packs<>デイリーパック
+5_star_hero_reward<>5つ星の英雄の報酬
+clear_stage_to_get_reward<>このステージをクリアして、シーズンの終わりに報酬を獲得してください
+current_season_reward<>Current season reward
+artifact_fragment_title_7<>Immortal Artifact (Water)
+artifact_fragment_title_8<>Immortal Artifact (Fire)
+artifact_fragment_title_9<>Immortal Artifact (Abyss)
+artifact_fragment_title_10<>Immortal Artifact (Nature)
+artifact_fragment_title_11<>Immortal Artifact (Light)
+artifact_fragment_title_12<>Immortal Artifact (Dark)
+guild_market<>ギルドストア
+market_upgrade_describe<>You will need the following resources to upgrade
+attack_log<>攻撃
+defense_log<>防衛
+attack_count<>Attack Count
+special_offer<>待ってるの?
+master_blacksmith<>見事な鍛冶屋
+your_summoner_name<>サモナーの名前を入力してください
+when_upgrade<>統計アップグレード
+material_refund<>Material Refund
+arena_pass<>アリーナパス
+daily_quest_pass<>デイリークエストパス
+arena_pass_desc<>アリーナパスポイントは、アリーナに参加することで獲得できます。
+daily_quest_pass_desc<>デイリークエストパスポイントは、デイリークエスト報酬から獲得できます。
+has_not_skin<>このヒーローにはスキンがありません
+select_hero<>ヒーローを選択
+exit_guild<>ギルドを出る
+event_golden_time_name<>中秋節
+event_golden_time_desc<>メインイベントの期間中、プレイヤーはe キャンペーン アイドル報酬で灯籠と月餅を要求します。それらを使用してイベントをプレイし、報酬を獲得します。\n灯籠と月餅は中秋節の通貨です。イベント期間終了後は姿を消します。
+event_feed_beast_name<>月餅 ごちそう
+event_feed_beast_desc<>キリンに月餅を渡してください。\nすべての新しい進化フォームで独占的な報酬を獲得してください。
+event_gem_box_name<>満月の夜の宝物
+event_gem_box_desc<>イベント期間中に報酬を受け取ります。\nより多くの灯籠、より多くの報酬。
+feed<>餌
+source_money_type_180<>∙ キャンペーンアイドル報酬\n∙ 中秋節のオファー\n∙ 満月の夜の宝物
+source_money_type_181<>∙ キャンペーンアイドル報酬\n∙ 中秋節のオファー\n ∙ フェスティバルチェックイン
+select_buff<>バフを選択
+drop_time<>イベント開始から7日
+golden_time_drop_info<>∙ 1 灯籠: 40秒\n∙ 1 月餅: 240秒
+event_midautumn_specialoffer<>中秋節のオファー
+event_midautumn_checkin<>フェスティバルチェックイン
+event_midautumn_exchange_name<>灯籠交換
+event_midautumn_exchange_desc<>ランタンを集めて、以下の無制限の報酬を交換してください
+no_limit<>制限なし
+mid_autumn_offer_1<>ラッキー灯籠
+mid_autumn_offer_2<>メリー月餅
+mid_autumn_offer_3<>バーミリオンブルーム
+item_exchange<>アイテム交換
+random_reward<>ランダム報酬
+not_own_this_skin<>あなたはまだこのスキンを所有していません
+arena_pass_unlock_content<>到達した指定ポイントごとに報酬のロックを解除して請求します。
+daily_quest_pass_unlock_content<>到達した指定ポイントごとに報酬のロックを解除して請求します。
+popup_context_need_resource<>財源不足。 これらを集めて戻ってきてください。
+warning_you_need_more_resources<>不十分な資源。 もっと
+town_center<>主な建設
+turret<>タレット
+event_golden_time_halloween_name<>ハロウィンタイム
+event_golden_time_halloween_desc<>サイコロとかぼちゃを集めて報酬を交換します。イベント終了後、ハロウィンアイテムはなくなります。\nメインイベントは7日しかありません。 8日目は特典の交換のみ可能です。
+source_money_type_210<>∙キャンペーン アイドル報酬\n∙フェスティバルオファー\n∙{1} / {2}
+source_money_type_211<>∙キャンペーン アイドル報酬\n∙フェスティバルオファー\n∙{3}\n∙{1} / {2}
+drop_time_halloween<>Drop Time: 14 days (00:00 Oct 23 - 23:59 Nov 05) [UTC+0]
+golden_time_halloween_drop_info<>∙ 1 サイコロ: {0} (s)\n∙ 1 かぼちゃ: {1} (s)
+dice_title<>お化けゲーム
+dice_guide<>サイコロを集めて転がす-素晴らしい賞品を手に入れましょう。\n詳細については、アイドル報酬と{2}をご覧ください。
+event_halloween_exchange_name<>デビルトレーディング
+event_halloween_exchange_desc<>かぼちゃをお見逃しなく。ハロウィーンでのみ報酬を交換します。\n{3}でさらに収集します。あなたが主張したいたくさんの報酬。
+halloween_daily_checkin<>フェスティバルチェックイン
+event_halloween_specialoffer<>フェスティバルオファー
+halloween_purchase_1<>ジャック・オー・ランタン
+halloween_purchase_2<>予言のダイス
+halloween_purchase_3<>デススピリット
+roll<>ロール 
+lap_reward<>ボーナスラウンド
+lap_x<>ラップ %s
+event_halloween_dice<>ダイスロール
+hallo_ween<>Halloween
+next_free<>次の報酬
+lap_completed<>ラップが完了しました
+black_friday_remain_x<>Black Friday card remaining %s
+black_friday_gem_pack<>Black Friday Shop
+event_card_black_friday<>Subscription Card
+event_card_gem_pack<>Gem Box Exchange
+black_friday_card_content<>Login every day for 7 days to claim daily reward
+black_friday_card<>Black Friday Card
+black_friday<>Black Friday
+do_you_want_to<>Please confirm to use
+reset_this_slot<>to reset this slot?
+raised_list<>上げられたリスト
+raise_hero_describe<>レイズドリストで強化したいヒーローを選択してください。彼らのレベルは、以下のマイティファイブの最低レベルのヒーローと同じレベルに引き上げられます。
+describe_unbinding_raise_level<>このスロットからヒーローのバインドを解除すると、上げられたレベルが元のレベルに戻ります。このスロットは後で利用可能になります
+hero_in_pentagram<>Hero is one of the Mighty Five
+hero_in_raise_level<>Hero is in Raised List
+hero_in_ancient_tree<>Hero is in Ancient Tree
+need_to_select<>ヒーローを選択する必要があります。
+same_hero_id<>This hero has the same Hero ID with the other hero in Raised List
+revert_to<>Revert to
+binding_sungame<>Binding Sungame
+login_sungame<>Login Sungame
+open_slot_before<>Please open the previous slot first
+on_cooldown<>クールダウン
+unlock_slot_success<>You've just opened extra slot
+tower<>Tower 
+defense_stage_reward<>Instant Reward
+failed<>Failed
+success<>Success
+require_login_sungame_to_purchase<>You need to login by Sungame account to occur this transaction
+event_shop_name<>スイーツファクトリー
+event_frosty_ignatius<>フロスティイグナティウス
+event_exclusive_offer<>限定オファー
+event_xmas_daily_checkin<>ジングルベルチェックイン
+event_golden_time<>ギフトがいっぱい
+event_xmas_exchange_desc<>キャンディケインをギフトに交換します。
+xmas_purchase_1<>メリークリスマス
+xmas_purchase_2<>ジョリークリスマス
+xmas_purchase_3<>ファンシークリスマス
+xmas<>クリスマス
+need_login_by_sungame<>サンゲーム アカウントでログインする必要があります。
+binding_success<>拘束力のある成功
+full_of_gift_name<>サンタクロースの袋
+full_of_gift_desc<>サンタクロースの袋を開けて、驚くべき贈り物を手に入れましょう。
+drop_time_xmas<>ドロップ時間：14日（2020年12月19日0:00- 2021年1月1日0:00）[UTC + 0]
+full_of_gift_drop_info<>1つのサンタクロースの袋は7200秒ごとにドロップします。
+reward_pool<>リングピンポーン
+completed_level_x<>よくやった！ レベルパス %s を完了しました。
+need_reload_data<>Need reload data
+need_set_formation_road_x<>道路 %s には少なくとも1人のヒーローが必要です。
+wave_x<>ウェーブ %s
+happy_new_year<>お正月
+new_year_golden_time_name<>うれしそうな瞬間
+new_year_golden_time_desc<>新年のポストカードを集めて新年のラッキーウィッシュをプレイし、スーパープライズを獲得しましょう。 はがきは、アイドルリワード、デイリーバンドル、[旧へのお別れ]から入手できます。
+drop_time_new_year<>ドロップ時間：7日（1月1日 0:00- 1月8日 0:00 [UTC + 0]）
+event_new_year_card<>ブレッシングカード
+new_year_remain_x<>次の %s 日は継続的に報酬を受け取ります。
+event_new_year_card_content<>ギフトは %s 日で毎日あなたに送られます。
+event_new_year_lottery<>ラッキーの願
+event_new_year_exchange<>旧へのお別れ
+new_year_golden_time_drop_info<>ドロップのクールダウン：1500秒。 略奪されるポストカードの最大数は、アイドルチェストの最大時間によって異なります。
+lottery_title<>ラッキーの願
+source_money_type_230<>ポストカード
+event_ignatius_name<>寒冰忿怒
+event_ignatius_desc<>スーパーボス-フロスティイグナティウスに挑戦が価値のある賞品を手に入れる。
+highest_damage<>最高のダメージ
+new_year_card_title<>ブレッシングカード
+xmas_daily_checkin_title<>ジングルベルチェックイン
+event_xmas_golden_time_name<>ギフトがいっぱい
+event_xmas_shop_name<>スイーツファクトリー
+hero_linking_description<>リストされているように{0}ヒーローを展開します。
+select_hero_for_linking<>適切なヒーロー
+friend_hero_support<>友情サポート提案
+hero_linking_description_2<>{1}スターに続く{0}ヒーローを展開します
+time_to_move_x<>時間がヒーローを切り替えるに残りました:
+star_hero<>星
+remove_hire_success<>成功はリンクからヒーローを削除します
+hire_success<>リンクのためのヒーローの展開の成功
+my_support_hero<>サポートされているヒーローを変更する
+require_unique_hero_id<>このヒーローまたはそのアップグレードが選択されました。
+describe_hero_for_hire<>友人をサポートするためのヒーローを選択します。
+require_at_least_one_your_hero_in_linking<>少なくとも1人のヒーローがあなたのものである必要があります。
+data_updated<>データが更新されました。
+feature_maintain<>機能はメンテナンス中です。
+hero_in_support_hero_linking<>このヒーローはサポートされているヒーローリストにあります。
+hero_in_linking<>このヒーローはリンク機能にあります。
+hero_support_for_friends<>あなたのサポートヒーローリスト
+feature_available_in_s<>この機能は %s の中で利用できるようになります
+chest<>棺
+loose<>敗北
+event_lunar_new_year_login<>春の芽摘み
+event_lunar_new_year_login_title<>春の芽摘み
+lunar_path_dice_title<>繁栄する通り
+lunar_path_dice_desc<>レッドダイスは送旧迎新クエストから入手でき、宝石と一緒に購入できます。 レッドダイスローリング、あなたは5 お守りを取得し、あなたのギルドは1つのイベントポイントを取得します。
+lunar_path_quest_title<>送旧迎新クエスト
+lunar_path_quest_desc<>期間限定のクエストを完了してボーナスレッドダイスを手に入れましょう。 クエストはイベント時間中に毎日リセットされます。
+require_chap_boss<>Require Expel Devil %s
+new_year_golden_time_title<>うれしそうな瞬間
+event_lottery_title<>ラッキーの願
+event_new_year_exchange_title<>旧へのお別れ
+event_lunar_path_shop<>富の神の店
+event_lunar_path_exchange_name<>富の神の店
+event_lunar_path_exchange_desc<>収集お守り報酬を交換します。 対応するギフトのロックを解除するには、適切な除名悪魔レベルに到達する必要があります。
+event_lunar_path_quest<>送旧迎新クエスト
+lunar_new_year<>旧正月
+lunar_path_dice<>レッドダイス
+lunar_new_year_path<>繁栄する通り
+event_lunar_path_boss<>除名悪魔
+event_lunar_path_boss_title<>除名悪魔
+event_lunar_path_boss_desc<>悪と戦い、報酬を得る。 悪はプレイヤーがギルドに参加したときにのみ戦うことができました。
+finish<>終了
+event_lunar_new_year_exchange<>ラッキーマネー
+event_lunar_new_year_exchange_title<>ラッキーマネー
+event_lunar_new_year_exchange_desc<>赤い封筒を使ってギフトを交換する
+event_lunar_elite_summon<>エリート召喚
+lunar_path_purchase_1<>豊かな旧正月
+lunar_path_purchase_2<>平和旧正月
+lunar_path_purchase_3<>繁栄の旧正月
+event_lunar_path_bundle<>春の買い物
+golden_time_lunar_new_year<>春祭り
+golden_time_lunar_new_year_name<>春祭り
+golden_time_lunar_new_year_desc<>赤い封筒を集めて報酬を交換してください。 赤い封筒が多ければ多いほど、贈り物は大きくなります。
+drop_time_lunar_new_year<>ドロップ時間：7日、2月5日0：00- 2月12日0:00（UTC+0）
+golden_time_lunar_new_year_drop_info<>赤い封筒は1200秒ごとにドロップします。
+source_money_type_243<>キャンペーンリワードで受け取りました
+free_summon<>で無料召喚
+select_elite_summon_wish<>エリート召喚ヒーローリスト
+gem_summon<>残りのターン
+need_summon_more<>次に受信することが保証
+event_lunar_new_year_bundle<>春の贈り物
+event_lunar_new_year_bundle_title<>春の贈り物
+event_lunar_new_year_bundle_desc<>イベント期間中は、これらのパックを購入して貴重品を手に入れましょう。
+summon_more_to_gain_reward<>もう一度召喚して願いの報酬を獲得する
+valentine_checkin<>ブラインドデート
+valentine_checkin_title<>ブラインドデート
+valentine_checkin_des<>愛を逃してはいけません。 完全にログインして、ラブギフトを手に入れましょう。
+valentine_love_challenge<>キューピッドの挑戦
+valentine_love_challenge_title<>永遠の愛
+valentine_love_challenge_des<>上司と戦い、愛がどれほど強いかを示してください。 あなたは価値のある報酬を受け取ります。
+valentine_store<>ロマンチックなギフト
+valentine_store_des<>あなたのような素敵な人がこれらの贈り物を買わないのはなぜですか？
+event_valentine_open_card<>愛のクイズ
+event_valentine_open_card_title<>愛のクイズ
+event_valentine_open_card_des<>チョコレートを使って愛のクイズのロックを解除し、希望のギフトを手に入れましょう。 愛のクイズの第2章を完了して、エンティアスキンを入手してください。
+valentine<>バレンタイン
+event_lunar_skin_bundle<>ドラゴン族の女王
+event_lunar_skin_name<>Longmu Arryl
+select_wishing_reward_for_round<>まず、第%s章の希望するギフトを選択します
+select_card_wish_list<>ウィッシュリスト
+item_lock<>ロックを解除するには、前の章を完了してください
+unlock_round<>第%s章の願い
+need_select_card_wish<>最初にご希望の報酬を選択してください。
+max_round<>愛のクイズは完了しました。
+item_not_select<>あなたはこのアイテムを受け取りました。
+round_x_wishing_reward<>第%s章報酬リスト
+select_round<>Available Wishlist
+social_tab<>コミュニティ
+social_tab_title<>コミュニティ
+social_tab_des<>Summoners Eraにあなたの時間を過ごしていただき、ありがとうございます。 のは、最新の更新プログラムを入手するために、私たちの社会チャンネルに参加してみましょう。 活動や贈り物の膨大な量があなたを待っています。
+social_reward_desc<>私たちのコミュニティにアクセスして、初めて%s を受け取ります。
+can_not_claim<>リソースが悪用されています。
+in_use_skill<>使用中
+use_skill<>使用
+detail<>詳細
+next_wave<>次の波
+stage_record<>プレイヤーの提案
+wave_x_record<>ウェーブ%s結果
+need_upgrade_main_construction<>タワーのレベルは、メイン構造のレベルより高くありません。
+player_stage_record<>あなたの戦争
+price_open_card_x<>各開口部は、%sのコスト
+new_hero<>新しいヒーローに敬礼 
+new_hero_quest_2<>ウェルカムミッション 
+select_hero_all_formation<>各ラインナップには少なくとも1人のヒーローが必要です 
+arena_team_shop<>ナイトショップ 
+arena_desc<>シングルマッチ 
+arena_3v3_desc<>チームマッチ 
+team<>ラインナップ
+defense_your_team<>定義する 
+defeat<>敗北 
+victory<>勝利
+do_you_want_save_formation<>あなたは、あなたのチームを保存していません。 保存しますか？ 
+hero_in_arena_team<>ヒーローはマーシャルアリーナ にいます。
+new_hero_bundle_title<>シナジーバンドル 
+event_merge_server_quest_tittle<>ジャンプスタートミッション 
+event_merge_server_quest_desc<>サーバーのマージイベントの際には、活動や贈り物の大きなはあなたに利用できるようになります。
+merge_server_quest<>ジャンプスタートミッション 
+merge_server_check_in<>7日間のユナイト
+merge_server_checkin_title<>7日間のユナイト
+merge_server_exchange<>サーバーの交換をマージ 
+merge_server_bundle<>サプライパッケージ 
+merge_server_accumulation<>集積点 
+event_merge_server<>サーバーマージ 
+event_merge_server_accumulation_tittle<>集積点 
+event_merge_server_accumulation_desc<>ジャンプスタートミッション を完了し、ユニオンポイントを受け取って報酬を獲得します。 
+event_merge_server_exchange_title<>サーバーの交換をマージ 
+event_merge_server_exchange_desc<>これらのアイテムは、新しいサーバーで大いに役立ちます。
+new_hero_summon<>伝説の召喚 
+new_hero_spin<>チャームのラダー 
+rose_spin<>チャームのラダー 
+review_skin<>ヒーロープレビュー 
+new_hero_checkin_title<>新しいヒーローの祝福 
+noti_binding_account<>あなたは、あなたのアカウントをリンクせずにしばらくプレイしてきました。 データの損失を防ぐために、今すぐアカウントをリンクしてみませんか？
+binding_account_now<>リンク
+hero_food_faction_info_5<>天然、火、水、深潭の会派に属するヒーローの進化に用います
+hero_food_faction_title_11<>月 (水)
+hero_food_faction_info_11<>水のヒーローを進化させるために使用されます。
+hero_food_faction_title_12<>月 (火)
+hero_food_faction_info_12<>火のヒーローを進化させるために使用されます。
+hero_food_faction_title_13<>月 (深潭)
+hero_food_faction_info_13<>深潭のヒーローを進化させるために使用されます。
+hero_food_faction_title_14<>月 (自然)
+hero_food_faction_info_14<>自然のヒーローを進化させるために使用されます。
+hero_food_faction_title_15<>日 (光)
+hero_food_faction_info_15<>光のヒーローを進化させるために使用されます。
+hero_food_faction_title_16<>日 (冥)
+hero_food_faction_info_16<>冥のヒーローを進化させるために使用されます。
+regression<>回帰 
+regression_reward<>返却された資料 
+event_merge_server_bundle_tittle<>サプライパッケージ 
+event_merge_server_bundle_desc<>あなたは購入するプールから2つの項目を選択することができます。
+select_item_pool<>アイテムリスト
+select_x_item<>2項目選択してください 
+confirm_regression<>このヒーローを退行させてよろしいですか？ 
+evolve_invalid<>マルチエボリューションに十分なヒーローがいない
+device_not_support<>お使いのデバイスは、ゲームとの互換性がサポートされていません。  
+not_register<>アカウントが登録されていません。
+event_easter_egg<>イースターイベント 
+easter_egg_check_in<>神からの贈り物 
+easter_egg_checkin_title<>神からの贈り物
+easter_egg_bunny_card<>バニーカード 
+event_easter_egg_bunny_tittle<>バニーカード 
+event_easter_egg_bunny_desc<>レベルに応じて、玉、タイタンソウル、キンを受け取ります。 ギフトは%s日で毎日送られます。
+purchased<>購入した
+easter_egg_limited_offer<>Icarus Easter Bunny 
+event_easter_limited_offer_tittle<>ICARUS EASTER BUNNY 
+easter_egg_limited_offer_desc<>Icarusの期間限定スキンを手に入れるチャンスをお見逃しなく。
+easter_egg_hunt<>イースターエッグコレクション
+easter_egg_break<>イースターエッグを粉砕する 
+egg_hun_name<>イースターエッグコレクション
+egg_hun_desc<>卵とハンマーは多くの活動を通して得ることができました。 集めに行きましょう。
+egg_hun_drop_1<>- 1200秒ごとにキャンペーン にドロップインします。\n - すべての勝利土俵とマーシャルアリーナ 後。\n- 毎日のクエストを通して。
+egg_hun_drop_2<>-監獄ステージ100に合格。 300。\n-すべての毎日のクエストを完了します。\n-100ごとに組み合わせるSilver Egg\n-イベントパッケージ内。
+egg_hun_drop_3<>- イベントで毎日チェックイン\n- コンバイン10 Gold Egg\n- イベントパッケージ内。
+hammer_drop_1<>- 監獄ステージ200、400に合格しました。\n- 土俵での{0} / 20の勝利ごと\n- イベントパッケージ内 
+hammer_drop_2<>- イベントで毎日チェックイン\n- イベントパッケージで
+new_hero_quest_tittle_2<>ウェルカムミッション 
+new_hero_quest_desc_2<>イベント活動にアストラルスター より多くを受け取るためにこれらのクエストを完了。 
+new_hero_spin_2<>宇宙征服 
+new_hero_login_2<>新しいヒーローの祝福 
+new_hero_bundle_2<>シナジーバンドル 
+new_hero_collection_2<>専用バウンティ 
+new_hero_collection_tittle_2<>専用バウンティ 
+new_hero_collection_desc_2<>あなたが得るDiadoraが多ければ多いほど、あなたはより多くの贈り物を受け取ります。
+rose_spin_2<>宇宙征服
+smash_egg<>スマッシュ 
+smash_egg_desc<>卵を粉砕して報酬を受け取ります。 あなたはあなたが受け取ることができるものを見るために卵をタップすることができます。
+egg_combine<>卵を変換する
+combine<>変換する 
+max_item_select<>選択できるアイテムは2つまでです。
+hero_in_other_feature<>Hero available to regress is in other feature.
+term_of_use<>利用規約 
+policy<>ポリシーノート
+welcome_back_login<>おかえりチェックイン 
+welcome_back_login_title<>おかえりチェックイン 
+welcome_back_quest<>再結合クエスト 
+welcome_back_quest_title<>再結合クエスト 
+welcome_back_quest_desc<>これらのクエストは、長いオフライン時間の間にゲームの変更に追いつくのをサポートします。
+welcome_back<>お帰りなさい 
+idle_reward<>アイドル報酬 
+noti_term_of_use<>ポリシーを注意深く読み、利用規約に同意したことになります。
+cannot_purchase_in_pbe<>PBEバージョンでは購入はサポートされていません。 
+new_hero_boss_challenge_3<>パワーコンテスト
+new_hero_boss_challenge_tittle_3<>パワーコンテスト
+new_hero_boss_challenge_desc_3<>1日2回、インスタント報酬を受け取ります。 特に、Charonはボスに300％のダメージを与え、ボスからは50％のダメージしか受けません。
+new_hero_quest_3<>ウェルカムミッション 
+new_hero_quest_tittle_3<>ウェルカムミッション 
+new_hero_quest_desc_3<>イベント活動にEnuleブレイドより多くを受け取るためにこれらのクエストを完了。 
+new_hero_login_3<>新しいヒーローの祝福 
+new_hero_bundle_3<>シナジーバンドル 
+new_hero_collection_3<>専用バウンティ 
+new_hero_collection_tittle_3<>専用バウンティ 
+new_hero_collection_desc_3<>あなたが得るCharonが多ければ多いほど、あなたはより多くの贈り物を受け取ります。
+new_hero_exchange_3<>エクスチェンジブレード
+event_new_hero_exchange_name<>エクスチェンジブレード
+event_new_hero_exchange_desc<>使用Enuleブレイド報酬を交換します。
+new_hero_boss_leader_board_3<>名誉のトロフィー
+welcome_back_bundle<>超利益パッケージ
+welcome_back_bundle_title<>超利益パッケージ
+claimable_reward_turn<>贈り物との戦い
+new_hero_boss_leader_board_title_3<>名誉のトロフィー
+new_hero_boss_leader_board_desc_3<>このランキングは、ボスEnuleに最も大きなダメージを与えたプレイヤーを称える場所です。
+chest_boss_challenge_damage_info<>このチェストを受け取るには、1回の戦闘で%sのダメージを与えます
+birthday_check_in<>誕生日のチェックイン
+birthday_check_in_title<>誕生日のチェックイン
+even_birthday_golden_time_name<>Play more, more birthday gifts
+birthday<>1歳の誕生日
+elune_journey<>海賊島の地図
+birthday_treasure_map<>Hunting Treasure
+final_journey_reward<>プレシャス・チェスト
+complete_journey_x<>受け取るために%sつの方向を完了します
+goal_x<>トレジャー %s
+move<>テレポート
+need_complete_one_more_journey<>少なくとも1つの方向が完了している必要があります。 
+need_claim_previous_reward<>前の宛先が完了している必要があります。
+new_hero_collection_4<>専用バウンティ 
+new_hero_collection_tittle_4<>専用バウンティ 
+new_hero_bundle_4<>シナジーバンドル 
+new_hero_skin_bundle_4<>サマーパーティー
+event_new_hero_skin_bundle_1_data_4<>Renaks 夏のパーティー
+event_new_hero_skin_bundle_2_data_4<>Enule 夏のパーティー
+new_hero_treasure_4<>海賊島の地図
+unlock_super_monthly_card<>あなたが購入したときに報酬を受け取る特別な玉カード
+birthday_bundle<>アニバーサリーオファー
+event_birthday_bundle_1<>うれしそうな誕生日
+event_birthday_bundle_2<>思い出に残る誕生日
+birthday_check_wheel<>奇跡的な回転
+birthday_exchange<>ギフトの引き換え
+confirm_stop_spin<>取得したすべての報酬を受け取るために回転を終了しますか？
+event_birthday_exchange_title<>ギフトの引き換え
+event_birthday_exchange_desc<>このイベントであなたを助けるためにこれらの報酬を交換することを忘れないでください。
+skin_bundle<>スキンショップ
+skin_bundle_view_43<>スキンコンボ
+skin_bundle_view_44<>スキンリテール
+stop<>やめる
+spin<>スピン
+noti_select_talent<>このオプションを選択しますか？
+select_talent<>タレントオプション
+noti_refresh_talent<>これらすべてのオプションを更新しますか？
+treasure_completed<>あなたは宝の冒険を完了しました。
+skin_bundle_1_desc<>購入1-ゲット11。信じられない！
+create_team<>分隊を作成する
+create<>作成する
+allowed_class<>これらのクラスのヒーローのみが使用できました
+your_team<>あなたのヒーロー
+lobby<>ロビー
+invitation<>招待
+domain_chest_stage_x_name<>ステージ%s
+domain_chest_stage_x_desc<>ステージ%sをクリアして報酬を請求する
+block_domains_team_chat<>チームチャットをブロックする
+block_domains_recruit_chat<>採用チャットをブロックする
+domains_team<>チームチャット
+domains_recruit<>採用チャット
+guild<>ギルドメンバー
+verify<>応用
+noti_change_leader<>このプレイヤーをリーダーにしてよろしいですか？
+noti_kick_member<>この選手を蹴ってよろしいですか？
+disband<>解散
+noti_disband<>チームを解散してもよろしいですか？
+enter_team_name_id<>検索するチーム名またはIDを入力します
+leave<>去る
+ready<>準備
+unready<>準備ができていない
+noti_leave<>このチームを退会しますか?
+domain_name_require<>チーム名を入力してください
+domain_desc_require<>チームの説明を入力してください
+crew_disbanded<>あなたのチームはリーダーによって解散されました。
+domain_leader_updated<>チームリーダーが変更されました。
+fast_create<>クイック作成
+default_team_desc<>気軽に私のチームに参加してください!
+default_team_x<>チーム_%s
+kicked_from_crew<>あなたはチームから追い出されました。
+domain_challenge_over<>チャレンジ成功
+domain_challenge_congrat<>優れた！あなたのチームは今日のチャレンジを完了しました。
+has_sent_to_mail<>報酬は郵送で送られてきました。
+synchronize<>同期する
+invitation_sent<>招待される
+beta<>ベータ
+replay_domain<>最近の試合
+enter_domain_recruit<>ここにあなたのチームについて何かテキストを送ってください。
+hot_deal<>ホット
+hero_in_domain<>ヒーローはドメインにいます
+party<>ヒーローズパーティー
+lose<>負けた戦い
+equipped<>装備
+show_skin<>肌を見せて
+hero_release_collection<>コレクションクエスト
+hero_release_bundle<>新しいヒーローバンドル
+event_hero_release_1<>ジャングルの試練
+hero_release_collection_tittle_1<>コレクションクエスト
+event_hero_release_bundle_tittle_1<>新しいヒーローウェルカムバンドル
+feature_open_at_version_s<>この機能はバージョン%sで開きます
+feature_open_at_version_s_time_s<>この機能は、%sの後のバージョン%sで開きます
+event_hero_release_summon_1<>伝説の召喚 
+expire_in_s<>%sで期限切れ
+hero_release_collection_desc_1<>Cernunousを召喚して、成果のロックを解除します
+hero_release_daily_quest_tittle_1<>新しいヒーローの祝福 
+instantly_get<>即座に請求する
+claim_daily<>毎日請求する
+bonus_login_days_s<>%s日でのログインボーナス
+hero_release_daily_quest<>イベントデイリークエスト
+subscription_packs_2<>ルーキーズカード
+subscription_packs_3<>ベテランのカード
+subscription_packs_4<>皇帝のカード
+require_unready<>チームを変更するには、「準備ができていない」必要があります。
+summon_hero_release_reward<>ボーナスリワード
+rate_up<>高いドロップ率
+overview_hero_40004<>彼が生まれて以来、Cernunosは常に自分自身をジャングルと馬の守護者と見なしています。 彼の義務は、馬の群れをハンターから安全な聖域に導くことです。 伝説によれば、森の中でしばらく迷子になった不運な人々はいつも会い、Cernunosまでに家に案内されます。\nCernunosは、彼が攻撃するすべての敵に対して攻撃力を獲得します。 したがって、Cernunosに攻撃される敵が多いほど、敵は強くなります。
+hero_release_overview<>ヒーローストーリー
+guild_season<>グランドシーズン
+guild_grand_season<>グランドシーズン
+guild_season_in_tab<>参加者
+guild_season_out_tab<>非参加者
+guild_leader<>ギルドリーダー
+guild_vice_leader<>副リーダー
+random_name<>ランダムな名前
+delete_data<>データをリロードする
+warning_delete_data<>データをリロードしますか？
+re_download_resource<>
+first_Top_Up_Confirm_Choose_Reward<>1回目のトップアップ報酬
+overview_hero_50004<>女王が妊娠したとき、彼女は息子がワシのように勇敢でライオンのように強くなることを望みました。神々は彼女の願いを聞いてそれを認めました。それで、ハンサムな若い王子の代わりに、少年グリムが生まれました、彼は半分のワシと半分のライオンを持つ怪物でした。\n王は非常に失望したので、王位継承者のリストから彼を削除しました。グリムは父親から疎遠になって育ちました。恥ずかしくて、彼は家から逃げ出した。\nある日、彼らの王国は闇の軍隊に打ち負かされました。敵は王を高い壁から落として処刑しました。幸いなことに、グリムは突然現れ、父親を宙に浮かせました。彼は土地を横切って飛んでいて、他の王国からの援軍を求めていました。そのおかげで、闇の軍隊は敗北し、撤退しなければなりませんでした。\nまだ王位を継承していませんが、グリムはみんなに愛されていました。彼は空高く舞い上がり、彼の翼の下ですべての無実の存在が保護されています。
+hero_release_daily_quest_tittle_2<>新しいヒーローの祝福 
+hero_release_collection_tittle_2<>コレクションクエスト
+event_hero_release_bundle_tittle_2<>新しいヒーローウェルカムバンドル
+event_hero_release_summon_2<>伝説の召喚 
+event_hero_release_2<>天国からの咆哮
+first_top_up_content_2<>今すぐ補充して、報酬を手に入れましょう！
+first_top_up_content<>ボーナスを選択してください
+first_top_up_main<>選択
+hero_release_collection_desc_2<>グリムを入手するためのボーナスギフトを受け取る
+Border_Limited_Duration<>%s 日で期限切れ
+first_top_up_reward_confirm<>最初の購入報酬を再選択することはできません。 これらのギフトを選んでよろしいですか？
+reset_talent_confirm<>現在の才能をリセットしてもよろしいですか？
+reset_talent<>リセット
+change_crew<>変更リーダー
+crew<>リーダー
+crew_promote<>替え
+you_are_new_crew<>リーダーがあなたに変わりました。
+first_top_up_content2<>以下の追加の報酬を受け取ります。
+selected_hero<>選択済み
+customizeble_bundle_1<>カスタマイズ可能なパック
+customizeble_bundle_2<>プラチナカスタマイズ可能バンドル
+select_2_reward<>2つのアイテムを選択してください
+sold_out<>完売
+customize_packs<>カスタマイズ可能なパック
+selected_2_rewards<>選択した2つのアイテム
+select_2_rewards_before_purchase <>最初に必要なアイテムを選択してください
+flash_sale_new_13<>ウェルカムパック
+flash_sale_new_14<>サモナーパッケージ
+flash_sale_new_15<>選ばれたパッケージ
+flash_sale_new_16<>アップグレードパッケージ1
+flash_sale_new_17<>祈願ストーンパッケージ
+flash_sale_new_18<>運命ストーンパッケージ
+flash_sale_new_19<>アップグレードパッケージ2
+buy_stock_remain_x<>購入残り %s
+will_get_item<>あなたは得るでしょう
+auto<>自動
+popup_confirm_auto_next_battle<>この機能を使用することを確認してください。この機能は、戦闘に負けると停止します。
+auto_next_battle_off<>オートネクストステージがオフになっています。
+auto_battle_end_in<>ステージ{1} {2}-{3}は{4}で到着します。
+button_auto_next_formation<>オートネクストステージ
+event_hero_release_3<>新しいヒーロー
+hero_release_daily_quest_tittle_3<>レッドチャレンジ
+hero_release_collection_tittle_3<>ボーナスインデンチャー
+event_hero_release_bundle_tittle_3<>神聖な火の好意
+hero_release_collection_desc_3<>Moblinを集めて、ボーナス報酬を獲得してください。
+event_hero_release_summon_3<>伝説の召喚 
+auto_battle<>オートバトル
+overview_hero_20008<>Moblinはゴブリンの力を誇示したいと願う小さな男です。力を見つける旅で、ゴブリンは失われた象と出会い、2人の孤独な人生がソウルメイトになりました。 Moblin象をファントと名付けました。\n神は人々を失望させず、試練と苦難に満ちた旅を経て、Moblinは訓練と火の神との契約から力を得ました。しかし、彼らが言うように、火で遊んではいけません、火の神は不法に契約に反呪をかけました。彼はもともとゴブリンを好まなかったので、ゴブリンを劣った種族と見なしていました。\n呪い、Moblinは肉体的および精神的な苦痛に苦しんでいます。ファントには力がなく、助けられずMoblin、彼のソウルメイトと毎日しか過ごすことができません。呪いは何十年も続きました。それはまた、Moblinンとファントが戦った長年のことでもあります。ファントは火の神のところへ行き、モブリンを救うために彼に呪いをかけることを志願しました。火の神は承認し、ファントは先史時代のマンモスのような邪悪な形を取りました。しかし、Moblinの誠実な友情がファントの魂を腐敗から救ったので、ファントの人間性は残った。結局、2人の友人はまだ一緒で、新しい土地への旅行を続けました。
+bundle_battle_pass_level<>購入レベル
+purchase_battle_pass_level_1<>1レベル
+purchase_battle_pass_level_2<>5レベル
+purchase_battle_pass_level_3<>10レベル
+battle_pass<>バトルパス
+battle_pass_level<>バトルパスレベル
+battle_pass_purchase_level<>購入レベル
+battle_pass_title<>バトルパスファーストシーズン
+unlock_battle_pass_1<>バトルパスバンドル
+unlock_battle_pass_2<>プレミアムバトルパスバンドル
+battle_pass_tab_quest_title<>引用
+button_battle_pass_reward_preview<>プレビュー報酬
+button_battle_pass_unlock_premium<>プレミアムバトルパスバンドル
+battle_pass_claim_all<>すべてを請求する
+battle_pass_tab_reward_title<>報酬
+battle_pass_time_end<>シーズンは%s後に終了します
+button_battle_pass_unlocked_premium<>プレミアムバトルパスのロックが解除されました
+preview_battle_pass_reward<>バトルパス報酬
+unlock_premium<>プレミアムパスを取得
+week<>週
+battle_pass_unlocked<>バトルパスのロックが解除されました。
+confirm_free_battle_reward<>バトルパス報酬
+confirm_battle_pass_reward<>無料バトルパスの特典
+claim_confirmed_battle_pass<>利用可能な報酬を請求する
+confirm_premium_reward_battle_pass<>プレミアムバトルの報酬
+battle_pass_cannot_purchase_level<>最大レベルに達しました。
+confirm_free_reward_battle_pass<>無料リワード
+overview_hero_60004<>カロスは寺院の真ん中に静かに座っています。\n実際、彼は自分の周りでこの最大限の沈黙を最後に感じた時を思い出すことができませんでした。カロスは、人間が最初に神の存在に気づいた日から、古代の神の司祭に選ばれました。彼はマスターのメッセージ、予言、そして恐ろしい警告の言葉を伝えるのを手伝いました。オラクルが唇から落ちたのを聞いた後、人間がひざまずくのを見ると、彼は力の感覚にふけり、恐怖で震えるのを見て、彼はさらに力に飢えました。多分、彼は貪欲になりすぎていたのでしょう。感覚を維持するために、彼は古代神の指示なしに疫病、戦争、災害についての誤った予言を広め、彼自身の刺繍された悪夢によって世界をひっくり返しました。\nカロスが背後で何をしているのかを発見したとき、古代の神はカロスの贈り物を司祭として奪うことを決心しました。彼はもはや神の声を聞いていません。カロスへの信仰に裏切られた人間は、神殿とその司祭を捨て、忘れられた国に崩れさせた。\n番号。忘れられない！」\nその決意を念頭に置いて、カロスは彼女の古いマスターとダークマジックのセプターのマスクを身に着け、彼がかつて仕えた神のように、痛みの悪夢と人類への憤慨と死を植え付ける旅に出ます
+hero_release_daily_quest_tittle_4<>ダークチャレンジ
+event_hero_release_bundle_tittle_4<>ミスティカルショップ
+hero_release_collection_tittle_4<>ブラックパワー
+hero_release_collection_desc_4<>Karosを集めて、ボーナス報酬を獲得してください。
+event_hero_release_4<>神の詐欺師
+event_hero_release_summon_4<>伝説の召喚 
+starter_pack_new_23<>ギアパック
+starter_pack_new_24<>サモナーパック
+starter_pack_new_25<>ヒーローパック
+starter_pack_choose_hero_noti<>このパックで購入するヒーローを選択してください！
+starter_pack_sold_out<>このパックは購入済みです。
+first_top_up_choose_from<>以下の%s 報酬の1つを選択してください。
+first_top_up_desc<>あなたがどんな商品を購入するときに、これらの報酬はボーナスです。
+first_Top_Up_Confirm_Choose_Reward_New<>これらのギフトを選んでよろしいですか？
+free_gem_title<>無料玉
+free_gem_details<>無料で広告を見る玉
+or<>Connect to your Wallet to sign up on website
+create_new_account<>Connect to your Wallet to sign up on website
+instant_unlock_ten_level<>すぐに10レベルを取得
+special_event<>期間限定クエスト
+preview_reward<>プレビュー報酬
+reward_info<>すべての広告を終えた後に受け取る
+noti_next_battle_pass<>昨シーズンの残り%s回の経験が今シーズンに引き継がれています。
+limit<>制限
+out_of_buy_level_by_gem_time<>玉での購入数が制限に達しました。
+buy_level_buy_gem<>玉で購入レベル
+select_artifact<>古物を選択します
+available_artifact<>利用可能古物

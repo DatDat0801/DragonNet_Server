@@ -1,0 +1,3431 @@
+
+<> SEED = 577246733
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 105
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 5
+attack = 2929
+defense = 394
+hp = 61596/61596
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1076
+dodge = 1043
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 266602a7, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 78c84982, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 7b71455d, type = 403, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 5
+attack = 3807
+defense = 394
+hp = 49277/49277
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1076
+dodge = 1043
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 2fa4df9b, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 159a07b4, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 3941812e, type = 401, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 5
+attack = 2929
+defense = 394
+hp = 61596/61596
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1076
+dodge = 1043
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 614fe22, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 3ab80ede, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 7f5a199a, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 33e9473f, type = 403, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 1 ----------
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 1), effectType = 100
+
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), effectType = 100
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 100, persistentType = 1, isBuff = false
+
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.956), TAKE 2704 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.963), HEAL 405 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5e1e0dbd, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 273769fe, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 614fe22, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5e1e0dbd, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 273769fe, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.963, power = 0.6
+- EFFECTS:
+id = table: 614fe22, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.906), TAKE 3515 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.914), HEAL 527 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5e1e0dbd, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 273769fe, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.963, power = 0.6
+- EFFECTS:
+id = table: 614fe22, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5e1e0dbd, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 273769fe, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.914, power = 0.7
+- EFFECTS:
+id = table: 614fe22, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.95), TAKE 3110 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.962), HEAL 2929 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5e1e0dbd, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 273769fe, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.914, power = 0.7
+- EFFECTS:
+id = table: 614fe22, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.95, power = 1
+- EFFECTS:
+id = table: 5e1e0dbd, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 273769fe, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.962, power = 1
+- EFFECTS:
+id = table: 614fe22, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+---------- AFTER ROUND 1 ----------
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.95), type = 100, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 100, persistentType = 1, isBuff = false
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 2 ----------
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.95), effectType = 100
+
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), effectType = 100
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.95), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 100, persistentType = 1, isBuff = false
+
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.914), TAKE 2953 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.16
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.921), HEAL 442 hp, reason = 1
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.95), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.95), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.95, power = 1
+- EFFECTS:
+id = table: 5d834d38, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 723a09db, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.962, power = 1
+- EFFECTS:
+id = table: 614fe22, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.95, power = 0
+- EFFECTS:
+id = table: 5ce781c4, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40836b3f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.921, power = 1
+- EFFECTS:
+id = table: 614fe22, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.859), TAKE 3839 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.18
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.95), type = 501, persistentType = 2, isBuff = true
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.95, power = 0
+- EFFECTS:
+id = table: 5ce781c4, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40836b3f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.921, power = 1
+- EFFECTS:
+id = table: 614fe22, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.95, power = 0
+- EFFECTS:
+id = table: 5ce781c4, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 7ae049a, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40836b3f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 25f8b165, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.859, power = 1
+- EFFECTS:
+id = table: 614fe22, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.902), TAKE 2953 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[>>> ACTIVE_SKILL <<<] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.94), TAKE 2953 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.859), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.95, power = 0
+- EFFECTS:
+id = table: 5ce781c4, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 7ae049a, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40836b3f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 25f8b165, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.859, power = 1
+- EFFECTS:
+id = table: 614fe22, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.902, power = 0.1
+- EFFECTS:
+id = table: 5ce781c4, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 7ae049a, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.94, power = 0.1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40836b3f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 25f8b165, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.859, power = 0
+- EFFECTS:
+id = table: 614fe22, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 4571edbf, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.859), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 3 ----------
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.902), effectType = 100
+
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.94), effectType = 100
+
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.859), effectType = 100
+
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.859), effectType = 100
+
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.815), TAKE 2704 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.902, power = 0.1
+- EFFECTS:
+id = table: 5ce781c4, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 7ae049a, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.94, power = 0.1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40836b3f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 25f8b165, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.859, power = 0
+- EFFECTS:
+id = table: 4571edbf, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.902, power = 0.6
+- EFFECTS:
+id = table: 5ce781c4, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 7ae049a, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.94, power = 0.1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40836b3f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 25f8b165, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.2
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.815, power = 0.1
+- EFFECTS:
+id = table: 4571edbf, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.758), TAKE 3515 damage, initiatorPower = 0.6, targetPower = 0.2
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.902, power = 0.6
+- EFFECTS:
+id = table: 5ce781c4, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 7ae049a, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.94, power = 0.1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40836b3f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 25f8b165, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.2
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.815, power = 0.1
+- EFFECTS:
+id = table: 4571edbf, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.902, power = 0.6
+- EFFECTS:
+id = table: 5ce781c4, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 7ae049a, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.94, power = 0.6
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40836b3f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 25f8b165, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.758, power = 0.2
+- EFFECTS:
+id = table: 4571edbf, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.858), TAKE 2704 damage, initiatorPower = 0.7, targetPower = 0.7
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.902, power = 0.6
+- EFFECTS:
+id = table: 5ce781c4, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 7ae049a, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.94, power = 0.6
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40836b3f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 25f8b165, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.758, power = 0.2
+- EFFECTS:
+id = table: 4571edbf, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.858, power = 0.7
+- EFFECTS:
+id = table: 5ce781c4, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 7ae049a, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.94, power = 0.6
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40836b3f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 25f8b165, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.758, power = 0.7
+- EFFECTS:
+id = table: 4571edbf, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+---------- AFTER ROUND 3 ----------
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.858), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.858), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.94), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.94), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.758), type = 501, persistentType = 2, isBuff = true
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 4 ----------
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.758), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.758), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.858), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.94), type = 100, persistentType = 1, isBuff = false
+
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.707), TAKE 3110 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.58
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), HEAL 2929 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.715), HEAL 466 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.858, power = 0.7
+- EFFECTS:
+id = table: 1ef0bcbd, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.94, power = 0.6
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 698df12d, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.758, power = 0.7
+- EFFECTS:
+id = table: 99e16e0, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 43c81e79, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.858, power = 1
+- EFFECTS:
+id = table: 1ef0bcbd, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.6
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 698df12d, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.715, power = 0.8
+- EFFECTS:
+id = table: 99e16e0, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 43c81e79, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.649), TAKE 4043 damage, initiatorPower = 1, targetPower = 0.9
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.919), HEAL 3807 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.659), HEAL 606 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.858, power = 1
+- EFFECTS:
+id = table: 1ef0bcbd, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.6
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 698df12d, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.715, power = 0.8
+- EFFECTS:
+id = table: 99e16e0, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 43c81e79, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.919, power = 1
+- EFFECTS:
+id = table: 1ef0bcbd, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 698df12d, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.659, power = 0.9
+- EFFECTS:
+id = table: 99e16e0, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 43c81e79, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.869), TAKE 3110 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.7
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.706), HEAL 2929 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), HEAL 466 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.877), HEAL 466 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.919, power = 1
+- EFFECTS:
+id = table: 1ef0bcbd, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 698df12d, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.659, power = 0.9
+- EFFECTS:
+id = table: 99e16e0, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 43c81e79, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.877, power = 1
+- EFFECTS:
+id = table: 1ef0bcbd, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 698df12d, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.706, power = 1
+- EFFECTS:
+id = table: 99e16e0, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 43c81e79, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+---------- AFTER ROUND 4 ----------
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.877), type = 100, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 100, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.706), type = 100, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.706), type = 100, persistentType = 1, isBuff = false
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 5 ----------
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.706), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.706), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.877), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 100, persistentType = 1, isBuff = false
+
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.651), TAKE 3397 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.924), HEAL 2929 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.66), HEAL 509 hp, reason = 1
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.924), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.924), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.877, power = 1
+- EFFECTS:
+id = table: 58c657e9, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 5ec4c145, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.706, power = 1
+- EFFECTS:
+id = table: 2714f56b, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 242c0c26, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.924, power = 0
+- EFFECTS:
+id = table: 4e3f7e55, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3689403e, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.66, power = 1
+- EFFECTS:
+id = table: 2714f56b, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 242c0c26, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.588), TAKE 4416 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.5
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), HEAL 3807 hp, reason = 1
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.924), type = 501, persistentType = 2, isBuff = true
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.924, power = 0
+- EFFECTS:
+id = table: 4e3f7e55, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3689403e, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.66, power = 1
+- EFFECTS:
+id = table: 2714f56b, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 242c0c26, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.924, power = 0
+- EFFECTS:
+id = table: 4e3f7e55, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 36364429, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3689403e, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 72bf23f5, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.588, power = 1
+- EFFECTS:
+id = table: 2714f56b, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 242c0c26, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.876), TAKE 2953 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.72
+
+
+[>>> ACTIVE_SKILL <<<] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.94), TAKE 2953 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.74
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.949), HEAL 442 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.883), HEAL 442 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.958), HEAL 442 hp, reason = 1
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.588), type = 100, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.588), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.588), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.924, power = 0
+- EFFECTS:
+id = table: 4e3f7e55, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 36364429, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3689403e, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 72bf23f5, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.588, power = 1
+- EFFECTS:
+id = table: 2714f56b, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 242c0c26, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.883, power = 0.1
+- EFFECTS:
+id = table: 4e3f7e55, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 36364429, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.958, power = 0.1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3689403e, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 72bf23f5, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.588, power = 0
+- EFFECTS:
+id = table: 47473621, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 6 ----------
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.883), effectType = 100
+
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.958), effectType = 100
+
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.588), effectType = 100
+
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.588), effectType = 100
+
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.544), TAKE 2704 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.84
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.52
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.883, power = 0.1
+- EFFECTS:
+id = table: 4e3f7e55, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 36364429, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.958, power = 0.1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3689403e, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 72bf23f5, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.588, power = 0
+- EFFECTS:
+id = table: 47473621, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.883, power = 0.6
+- EFFECTS:
+id = table: 4e3f7e55, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 36364429, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.958, power = 0.1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3689403e, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 72bf23f5, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.544, power = 0.1
+- EFFECTS:
+id = table: 47473621, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.458), TAKE 5274 damage, initiatorPower = 0.6, targetPower = 0.2 (CRIT)
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.94
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.54
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.883, power = 0.6
+- EFFECTS:
+id = table: 4e3f7e55, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 36364429, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.958, power = 0.1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3689403e, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 72bf23f5, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.544, power = 0.1
+- EFFECTS:
+id = table: 47473621, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.883, power = 0.6
+- EFFECTS:
+id = table: 4e3f7e55, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 36364429, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.958, power = 0.6
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3689403e, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 72bf23f5, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.458, power = 0.2
+- EFFECTS:
+id = table: 47473621, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.839), TAKE 2704 damage, initiatorPower = 0.7, targetPower = 0.7
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.64
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.96
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.883, power = 0.6
+- EFFECTS:
+id = table: 4e3f7e55, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 36364429, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.958, power = 0.6
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3689403e, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 72bf23f5, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.458, power = 0.2
+- EFFECTS:
+id = table: 47473621, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.839, power = 0.7
+- EFFECTS:
+id = table: 4e3f7e55, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 36364429, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.958, power = 0.6
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3689403e, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 72bf23f5, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.64
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.458, power = 0.7
+- EFFECTS:
+id = table: 47473621, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+---------- AFTER ROUND 6 ----------
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.839), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.839), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.958), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.958), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.458), type = 501, persistentType = 2, isBuff = true
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 7 ----------
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.458), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.458), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.839), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.958), type = 100, persistentType = 1, isBuff = false
+
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.408), TAKE 3110 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), HEAL 2929 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.415), HEAL 466 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.839, power = 0.7
+- EFFECTS:
+id = table: 3b330647, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.958, power = 0.6
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3f200a04, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.64
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.458, power = 0.7
+- EFFECTS:
+id = table: 340b369e, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 4a83f800, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.839, power = 1
+- EFFECTS:
+id = table: 3b330647, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.6
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3f200a04, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.415, power = 0.8
+- EFFECTS:
+id = table: 340b369e, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 4a83f800, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.379), TAKE 2268 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.379), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.839, power = 1
+- EFFECTS:
+id = table: 3b330647, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.6
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3f200a04, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.415, power = 0.8
+- EFFECTS:
+id = table: 340b369e, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 4a83f800, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.839, power = 1
+- EFFECTS:
+id = table: 3b330647, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.6
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3f200a04, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.379, power = 0.9
+- EFFECTS:
+id = table: 340b369e, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 4a83f800, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 69a1ce29, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.313), TAKE 4043 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), HEAL 3807 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.323), HEAL 606 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.839, power = 1
+- EFFECTS:
+id = table: 3b330647, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.6
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3f200a04, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.379, power = 0.9
+- EFFECTS:
+id = table: 340b369e, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 4a83f800, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 69a1ce29, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.839, power = 1
+- EFFECTS:
+id = table: 3b330647, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3f200a04, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.323, power = 1
+- EFFECTS:
+id = table: 340b369e, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 4a83f800, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 69a1ce29, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.784), TAKE 3397 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+[>>> ACTIVE_SKILL <<<] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.945), TAKE 2717 damage, initiatorPower = 0, targetPower = 1
+[Amiable Angel 50001 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.37), HEAL 2929 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.793), HEAL 509 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.418), HEAL 2929 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.953), HEAL 407 hp, reason = 1
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.418), type = 100, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.418), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.418), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.839, power = 1
+- EFFECTS:
+id = table: 3b330647, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3f200a04, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.323, power = 1
+- EFFECTS:
+id = table: 340b369e, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 4a83f800, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 69a1ce29, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.793, power = 1
+- EFFECTS:
+id = table: 3b330647, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3f200a04, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.418, power = 0
+- EFFECTS:
+id = table: 69a1ce29, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 566e9933, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+---------- AFTER ROUND 7 ----------
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.793), type = 100, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.953), type = 100, persistentType = 1, isBuff = false
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 8 ----------
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.793), effectType = 100
+
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.953), effectType = 100
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.793), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.953), type = 100, persistentType = 1, isBuff = false
+
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.37), TAKE 2953 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.377), HEAL 442 hp, reason = 1
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.793), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.793), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.953), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.953), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.793, power = 1
+- EFFECTS:
+id = table: 3bbcfaa6, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6eaa5629, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.418, power = 0
+- EFFECTS:
+id = table: 69a1ce29, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 566e9933, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 91d1d53, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2b18aa42, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.377, power = 0.1
+- EFFECTS:
+id = table: 69a1ce29, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 566e9933, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+TURN 2 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.315), TAKE 3839 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.74
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.793), type = 501, persistentType = 2, isBuff = true
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.953), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 91d1d53, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2b18aa42, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.377, power = 0.1
+- EFFECTS:
+id = table: 69a1ce29, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 566e9933, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 91d1d53, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 772d0c4d, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 0
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2b18aa42, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 4b8a079f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.315, power = 0.2
+- EFFECTS:
+id = table: 69a1ce29, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 566e9933, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+TURN 3 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.749), TAKE 2704 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 91d1d53, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 772d0c4d, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 0
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2b18aa42, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 4b8a079f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.315, power = 0.2
+- EFFECTS:
+id = table: 69a1ce29, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 566e9933, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.749, power = 0.1
+- EFFECTS:
+id = table: 91d1d53, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 772d0c4d, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 0
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2b18aa42, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 4b8a079f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.315, power = 0.7
+- EFFECTS:
+id = table: 69a1ce29, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 566e9933, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+---------- AFTER ROUND 8 ----------
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.315), type = 501, persistentType = 2, isBuff = true
+
+
+ROUND 9
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 9 ----------
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.315), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.315), type = 100, persistentType = 1, isBuff = false
+
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.315), effectType = 100
+
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.315), effectType = 100
+
+
+TURN 1 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.264), TAKE 3110 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), HEAL 2929 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.749, power = 0.1
+- EFFECTS:
+id = table: 91d1d53, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 772d0c4d, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 0
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2b18aa42, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 4b8a079f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.315, power = 0.7
+- EFFECTS:
+id = table: 69a1ce29, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 2a1c6c38, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 44b88983, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.749, power = 0.6
+- EFFECTS:
+id = table: 91d1d53, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 772d0c4d, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2b18aa42, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 4b8a079f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.264, power = 0.8
+- EFFECTS:
+id = table: 69a1ce29, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 2a1c6c38, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 44b88983, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+TURN 2 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.199), TAKE 4043 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.88
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.81), HEAL 3807 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.749, power = 0.6
+- EFFECTS:
+id = table: 91d1d53, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 772d0c4d, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2b18aa42, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 4b8a079f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.264, power = 0.8
+- EFFECTS:
+id = table: 69a1ce29, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 2a1c6c38, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 44b88983, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.81, power = 0.6
+- EFFECTS:
+id = table: 91d1d53, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 772d0c4d, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2b18aa42, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 4b8a079f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.199, power = 0.9
+- EFFECTS:
+id = table: 69a1ce29, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 2a1c6c38, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 44b88983, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+TURN 3 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.767), TAKE 2704 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.773), HEAL 405 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.81, power = 0.6
+- EFFECTS:
+id = table: 91d1d53, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 772d0c4d, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2b18aa42, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 4b8a079f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.199, power = 0.9
+- EFFECTS:
+id = table: 69a1ce29, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 2a1c6c38, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 44b88983, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.773, power = 0.7
+- EFFECTS:
+id = table: 91d1d53, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 772d0c4d, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2b18aa42, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 4b8a079f, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.199, power = 1
+- EFFECTS:
+id = table: 69a1ce29, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 2a1c6c38, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 44b88983, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+---------- AFTER ROUND 9 ----------
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.773), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.773), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.199), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.199), type = 100, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.199), type = 100, persistentType = 1, isBuff = false
+
+
+ROUND 10
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 10 ----------
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.199), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.199), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.773), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 100, persistentType = 1, isBuff = false
+
+
+TURN 1 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.148), TAKE 3110 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 1), HEAL 2929 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.156), HEAL 466 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.773, power = 0.7
+- EFFECTS:
+id = table: 5be8aa3d, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40c5e820, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.199, power = 1
+- EFFECTS:
+id = table: 9f121ac, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 9855580, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.773, power = 1
+- EFFECTS:
+id = table: 5be8aa3d, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40c5e820, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.156, power = 1
+- EFFECTS:
+id = table: 9f121ac, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 9855580, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+TURN 2 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.736), TAKE 2268 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.963), TAKE 1814 damage, initiatorPower = 0, targetPower = 0.6
+[Amiable Angel 50001 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.736), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.963), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.773, power = 1
+- EFFECTS:
+id = table: 5be8aa3d, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40c5e820, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.156, power = 1
+- EFFECTS:
+id = table: 9f121ac, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 9855580, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.736, power = 1
+- EFFECTS:
+id = table: 5be8aa3d, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1722afcf, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.963, power = 0.6
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40c5e820, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 7849c1e3, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.156, power = 1
+- EFFECTS:
+id = table: 9f121ac, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 9855580, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+TURN 3 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.654), TAKE 5096 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[>>> ACTIVE_SKILL <<<] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.894), TAKE 3397 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.203), HEAL 2929 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.91), HEAL 764 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.666), HEAL 764 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.251), HEAL 2929 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.674), HEAL 509 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.92), HEAL 509 hp, reason = 1
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.251), type = 100, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.251), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.251), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.736, power = 1
+- EFFECTS:
+id = table: 5be8aa3d, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1722afcf, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.963, power = 0.6
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40c5e820, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 7849c1e3, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.156, power = 1
+- EFFECTS:
+id = table: 9f121ac, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 9855580, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.674, power = 1
+- EFFECTS:
+id = table: 5be8aa3d, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1722afcf, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.92, power = 0.7
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40c5e820, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 7849c1e3, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.251, power = 0
+- EFFECTS:
+id = table: 78b56307, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+TURN 4 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.165), TAKE 5274 damage, initiatorPower = 1, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.178), HEAL 791 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.674, power = 1
+- EFFECTS:
+id = table: 5be8aa3d, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1722afcf, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.92, power = 0.7
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40c5e820, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 7849c1e3, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.251, power = 0
+- EFFECTS:
+id = table: 78b56307, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.674, power = 1
+- EFFECTS:
+id = table: 5be8aa3d, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1722afcf, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.92, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 40c5e820, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 7849c1e3, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.178, power = 0.1
+- EFFECTS:
+id = table: 78b56307, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+---------- AFTER ROUND 10 ----------
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.674), type = 100, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.92), type = 100, persistentType = 1, isBuff = false
+
+
+ROUND 11
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 11 ----------
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.674), effectType = 100
+
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.92), effectType = 100
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.674), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.92), type = 100, persistentType = 1, isBuff = false
+
+
+TURN 1 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.624), TAKE 3110 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.226), HEAL 2929 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.674, power = 1
+- EFFECTS:
+id = table: 1722afcf, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 5bbf00c4, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.92, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7849c1e3, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 59e190ab, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.178, power = 0.1
+- EFFECTS:
+id = table: 78b56307, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.624, power = 1
+- EFFECTS:
+id = table: 1722afcf, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 5bbf00c4, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.92, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7849c1e3, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 59e190ab, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.226, power = 0.6
+- EFFECTS:
+id = table: 78b56307, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+TURN 2 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.178), TAKE 2953 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.185), HEAL 442 hp, reason = 1
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.624), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.624), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.92), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.92), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.624, power = 1
+- EFFECTS:
+id = table: 1722afcf, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 5bbf00c4, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.92, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7849c1e3, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 59e190ab, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.226, power = 0.6
+- EFFECTS:
+id = table: 78b56307, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.624, power = 0
+- EFFECTS:
+id = table: 1722afcf, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6f1114ad, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.92, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7849c1e3, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 3cefef13, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.185, power = 0.7
+- EFFECTS:
+id = table: 78b56307, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+TURN 3 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.123), TAKE 3839 damage, initiatorPower = 0, targetPower = 0.8
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.16
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.624), type = 501, persistentType = 2, isBuff = true
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.92), type = 501, persistentType = 2, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.624, power = 0
+- EFFECTS:
+id = table: 1722afcf, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6f1114ad, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.92, power = 1
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7849c1e3, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 3cefef13, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.185, power = 0.7
+- EFFECTS:
+id = table: 78b56307, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.624, power = 0
+- EFFECTS:
+id = table: 1722afcf, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6f1114ad, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 1f75716a, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.92, power = 0
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7849c1e3, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 3cefef13, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 2
+id = table: 4ac4dee7, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.123, power = 0.8
+- EFFECTS:
+id = table: 78b56307, type = 501, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+---------- AFTER ROUND 11 ----------
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.123), type = 501, persistentType = 2, isBuff = true
+
+
+ROUND 12
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 12 ----------
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.123), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.123), type = 100, persistentType = 1, isBuff = false
+
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.123), effectType = 100
+
+
+[RESIST_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.123), effectType = 100
+
+
+TURN 1 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.58), TAKE 2704 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.7
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.928), HEAL 405 hp, reason = 1
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.586), HEAL 405 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.624, power = 0
+- EFFECTS:
+id = table: 1722afcf, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6f1114ad, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 1f75716a, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.92, power = 0
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7849c1e3, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 3cefef13, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 4ac4dee7, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.123, power = 0.8
+- EFFECTS:
+id = table: 2d970f6e, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 6e43eab8, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.586, power = 0.1
+- EFFECTS:
+id = table: 1722afcf, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6f1114ad, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 1f75716a, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.928, power = 0
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7849c1e3, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 3cefef13, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 4ac4dee7, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.123, power = 1
+- EFFECTS:
+id = table: 2d970f6e, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 6e43eab8, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+TURN 2 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.072), TAKE 3110 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.988), HEAL 2929 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.586, power = 0.1
+- EFFECTS:
+id = table: 1722afcf, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6f1114ad, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 1f75716a, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.928, power = 0
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7849c1e3, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 3cefef13, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 4ac4dee7, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.123, power = 1
+- EFFECTS:
+id = table: 2d970f6e, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 6e43eab8, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.586, power = 0.6
+- EFFECTS:
+id = table: 1722afcf, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6f1114ad, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 1f75716a, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.988, power = 0
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7849c1e3, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 3cefef13, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 4ac4dee7, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.072, power = 1
+- EFFECTS:
+id = table: 2d970f6e, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 6e43eab8, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+TURN 3 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.006), TAKE 4043 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.9
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[HEAL] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.648), HEAL 3807 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.586, power = 0.6
+- EFFECTS:
+id = table: 1722afcf, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6f1114ad, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 1f75716a, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.988, power = 0
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7849c1e3, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 3cefef13, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 4ac4dee7, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.072, power = 1
+- EFFECTS:
+id = table: 2d970f6e, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 6e43eab8, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.648, power = 0.6
+- EFFECTS:
+id = table: 1722afcf, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6f1114ad, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 1f75716a, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.988, power = 0.5
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7849c1e3, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 3cefef13, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 2
+id = table: 4ac4dee7, type = 501, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.006, power = 1
+- EFFECTS:
+id = table: 2d970f6e, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 6e43eab8, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+---------- AFTER ROUND 12 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.648), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.648), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.648), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.988), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.988), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.988), type = 501, persistentType = 2, isBuff = true
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.006), type = 100, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.006), type = 100, persistentType = 1, isBuff = false
+
+
+ROUND 13
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 13 ----------
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.006), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0.006), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.648), type = 100, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.988), type = 100, persistentType = 1, isBuff = false
+
+
+TURN 1 (ROUND 13)
+--------------------------------------------------------------------------------
+<> INITIATOR [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 3110 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[DEAD_FOR_DISPLAY] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.648, power = 0.6
+- EFFECTS:
+id = table: 5a09383b, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.988, power = 0.5
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 36d6f67b, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0.006, power = 1
+- EFFECTS:
+id = table: 23af63b0, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 52c84b57, type = 100, initiator = [Amiable Angel 50001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.648, power = 1
+- EFFECTS:
+id = table: 5a09383b, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.988, power = 0.5
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 36d6f67b, type = 100, initiator = [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 13 ----------
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] (hp = 0.648), type = 100, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] => [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] (hp = 0.988), type = 100, persistentType = 1, isBuff = false
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] hp = 0.648, power = 1
+
+> [Amiable Angel 50001 (TEAM 1, BACK, POS 1)] hp = 0.988, power = 0.5
+- EFFECTS:
+id = table: 486b6ed3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+<> STATISTICS:
+[Amiable Angel 50001 (TEAM 1, BACK, POS 1)] DamageDeal = 49683, DamageTaken = 16211.584, HpHeal = 20902, HpHealTaken = 25694
+	Damage dealt by sources: Dictionary = table: 419379d5, count = 2
+	[1 (number)] = 33750 (number)
+	[2 (number)] = 15933 (number)
+
+	Damage taken by sources: Dictionary = table: 40773ab2, count = 1
+	[2 (number)] = 16211.584 (number)
+
+	Hp heal by sources: Dictionary = table: 181d73ef, count = 1
+	[1 (number)] = 20902 (number)
+
+	Hp heal taken by sources: Dictionary = table: 81f1148, count = 1
+	[1 (number)] = 25694 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 52988c4f, count = 12
+	[3002 (number)] = 3515 (number)
+	[6002 (number)] = 5274 (number)
+	[9002 (number)] = 4043 (number)
+	[12003 (number)] = 4043 (number)
+	[5002 (number)] = 4416 (number)
+	[8002 (number)] = 3839 (number)
+	[2002 (number)] = 3839 (number)
+	[11003 (number)] = 3839 (number)
+	[4002 (number)] = 4043 (number)
+	[1002 (number)] = 3515 (number)
+	[7003 (number)] = 4043 (number)
+	[10004 (number)] = 5274 (number)
+
+	Damage taken history: Dictionary = table: 2b438e04, count = 5
+	[10003 (number)] = 3678.824 (number)
+	[2003 (number)] = 3198.468 (number)
+	[7004 (number)] = 3678.824 (number)
+	[5003 (number)] = 3198.468 (number)
+	[10002 (number)] = 2457 (number)
+
+	Hp heal history: Dictionary = table: 58320288, count = 8
+	[9002 (number)] = 3807 (number)
+	[10003 (number)] = 1018 (number)
+	[7003 (number)] = 3807 (number)
+	[5002 (number)] = 3807 (number)
+	[7004 (number)] = 407 (number)
+	[5003 (number)] = 442 (number)
+	[4002 (number)] = 3807 (number)
+	[12003 (number)] = 3807 (number)
+
+	Hp heal taken history: Dictionary = table: 28d7dd97, count = 12
+	[9001 (number)] = 2929 (number)
+	[12001 (number)] = 405 (number)
+	[12002 (number)] = 2929 (number)
+	[5002 (number)] = 3807 (number)
+	[5003 (number)] = 884 (number)
+	[4001 (number)] = 2929 (number)
+	[7001 (number)] = 2929 (number)
+	[10001 (number)] = 2929 (number)
+	[4003 (number)] = 466 (number)
+	[7003 (number)] = 3807 (number)
+	[10003 (number)] = 1273 (number)
+	[7004 (number)] = 407 (number)
+
+	Effect created history: Dictionary = table: 3ebbc636, count = 2
+	[501 (number)] = 16 (number)
+	[100 (number)] = 7 (number)
+
+[Amiable Angel 50001 (TEAM 1, FRONT, POS 1)] DamageDeal = 39028, DamageTaken = 42801.047, HpHeal = 22642, HpHealTaken = 17850
+	Damage dealt by sources: Dictionary = table: 9bf5c4b, count = 2
+	[1 (number)] = 26772 (number)
+	[2 (number)] = 12256 (number)
+
+	Damage taken by sources: Dictionary = table: 41d139b6, count = 2
+	[1 (number)] = 24750.05 (number)
+	[2 (number)] = 18050.996 (number)
+
+	Hp heal by sources: Dictionary = table: 57fc6f7e, count = 1
+	[1 (number)] = 22642 (number)
+
+	Hp heal taken by sources: Dictionary = table: 379699c1, count = 1
+	[1 (number)] = 17850 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 4438d67c, count = 13
+	[3001 (number)] = 2704 (number)
+	[6001 (number)] = 2704 (number)
+	[9001 (number)] = 3110 (number)
+	[12002 (number)] = 3110 (number)
+	[2001 (number)] = 2953 (number)
+	[5001 (number)] = 3397 (number)
+	[8001 (number)] = 2953 (number)
+	[11002 (number)] = 2953 (number)
+	[4001 (number)] = 3110 (number)
+	[7001 (number)] = 3110 (number)
+	[1001 (number)] = 2704 (number)
+	[10001 (number)] = 3110 (number)
+	[13001 (number)] = 3110 (number)
+
+	Damage taken history: Dictionary = table: cec4bc4, count = 13
+	[12001 (number)] = 2929 (number)
+	[6003 (number)] = 2929 (number)
+	[3003 (number)] = 2929 (number)
+	[9003 (number)] = 2929 (number)
+	[11001 (number)] = 3368.35 (number)
+	[5003 (number)] = 3198.468 (number)
+	[8003 (number)] = 2929 (number)
+	[2003 (number)] = 3198.468 (number)
+	[10002 (number)] = 2457 (number)
+	[4003 (number)] = 3368.35 (number)
+	[1003 (number)] = 3368.35 (number)
+	[10003 (number)] = 5518.236 (number)
+	[7004 (number)] = 3678.824 (number)
+
+	Hp heal history: Dictionary = table: 38df42b8, count = 12
+	[9001 (number)] = 2929 (number)
+	[12001 (number)] = 810 (number)
+	[12002 (number)] = 2929 (number)
+	[9003 (number)] = 405 (number)
+	[5001 (number)] = 2929 (number)
+	[5003 (number)] = 884 (number)
+	[4001 (number)] = 2929 (number)
+	[7001 (number)] = 2929 (number)
+	[10001 (number)] = 2929 (number)
+	[4003 (number)] = 932 (number)
+	[10003 (number)] = 1528 (number)
+	[7004 (number)] = 509 (number)
+
+	Hp heal taken history: Dictionary = table: 3b848cf3, count = 10
+	[12001 (number)] = 405 (number)
+	[9002 (number)] = 3807 (number)
+	[9003 (number)] = 405 (number)
+	[12003 (number)] = 3807 (number)
+	[5001 (number)] = 2929 (number)
+	[5003 (number)] = 442 (number)
+	[4002 (number)] = 3807 (number)
+	[4003 (number)] = 466 (number)
+	[10003 (number)] = 1273 (number)
+	[7004 (number)] = 509 (number)
+
+	Effect created history: Dictionary = table: 398d36c9, count = 2
+	[501 (number)] = 16 (number)
+	[100 (number)] = 7 (number)
+
+[Amiable Angel 50001 (TEAM 2, FRONT, POS 1)] DamageDeal = 49269, DamageTaken = 98528.85, HpHeal = 26671, HpHealTaken = 26671
+	Damage dealt by sources: Dictionary = table: 57d1f857, count = 2
+	[1 (number)] = 22850 (number)
+	[2 (number)] = 26419 (number)
+
+	Damage taken by sources: Dictionary = table: 15d9ba97, count = 2
+	[1 (number)] = 65544.3 (number)
+	[2 (number)] = 32984.55 (number)
+
+	Hp heal by sources: Dictionary = table: a255fcb, count = 1
+	[1 (number)] = 26671 (number)
+
+	Hp heal taken by sources: Dictionary = table: 5ace0b38, count = 1
+	[1 (number)] = 26671 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 2055376, count = 12
+	[12001 (number)] = 2704 (number)
+	[6003 (number)] = 2704 (number)
+	[3003 (number)] = 2704 (number)
+	[9003 (number)] = 2704 (number)
+	[11001 (number)] = 3110 (number)
+	[5003 (number)] = 5906 (number)
+	[8003 (number)] = 2704 (number)
+	[2003 (number)] = 5906 (number)
+	[4003 (number)] = 3110 (number)
+	[1003 (number)] = 3110 (number)
+	[10003 (number)] = 8493 (number)
+	[7004 (number)] = 6114 (number)
+
+	Damage taken history: Dictionary = table: 5a504ca3, count = 26
+	[4001 (number)] = 3368.35 (number)
+	[4002 (number)] = 4378.05 (number)
+	[8001 (number)] = 3198.468 (number)
+	[8002 (number)] = 4157.244 (number)
+	[12002 (number)] = 3368.35 (number)
+	[12003 (number)] = 4378.05 (number)
+	[1001 (number)] = 2929 (number)
+	[1002 (number)] = 3807 (number)
+	[5001 (number)] = 3678.824 (number)
+	[5002 (number)] = 4781.592 (number)
+	[9001 (number)] = 3368.35 (number)
+	[9002 (number)] = 4378.05 (number)
+	[13001 (number)] = 3368.35 (number)
+	[2001 (number)] = 3198.468 (number)
+	[2002 (number)] = 4157.244 (number)
+	[6001 (number)] = 2929 (number)
+	[6002 (number)] = 5710.5 (number)
+	[10001 (number)] = 3368.35 (number)
+	[10004 (number)] = 5710.5 (number)
+	[3001 (number)] = 2929 (number)
+	[7001 (number)] = 3368.35 (number)
+	[3002 (number)] = 3807 (number)
+	[7002 (number)] = 2457 (number)
+	[7003 (number)] = 4378.05 (number)
+	[11002 (number)] = 3198.468 (number)
+	[11003 (number)] = 4157.244 (number)
+
+	Hp heal history: Dictionary = table: 7a2b8b25, count = 17
+	[4001 (number)] = 466 (number)
+	[4002 (number)] = 606 (number)
+	[8001 (number)] = 442 (number)
+	[4003 (number)] = 2929 (number)
+	[1001 (number)] = 405 (number)
+	[1002 (number)] = 527 (number)
+	[5001 (number)] = 509 (number)
+	[1003 (number)] = 2929 (number)
+	[2001 (number)] = 442 (number)
+	[10001 (number)] = 466 (number)
+	[10003 (number)] = 5858 (number)
+	[10004 (number)] = 791 (number)
+	[7001 (number)] = 466 (number)
+	[11001 (number)] = 2929 (number)
+	[7003 (number)] = 606 (number)
+	[11002 (number)] = 442 (number)
+	[7004 (number)] = 5858 (number)
+
+	Hp heal taken history: Dictionary = table: 5096d893, count = 17
+	[4001 (number)] = 466 (number)
+	[4002 (number)] = 606 (number)
+	[8001 (number)] = 442 (number)
+	[4003 (number)] = 2929 (number)
+	[1001 (number)] = 405 (number)
+	[1002 (number)] = 527 (number)
+	[5001 (number)] = 509 (number)
+	[1003 (number)] = 2929 (number)
+	[2001 (number)] = 442 (number)
+	[10001 (number)] = 466 (number)
+	[10003 (number)] = 5858 (number)
+	[10004 (number)] = 791 (number)
+	[7001 (number)] = 466 (number)
+	[11001 (number)] = 2929 (number)
+	[7003 (number)] = 606 (number)
+	[11002 (number)] = 442 (number)
+	[7004 (number)] = 5858 (number)
+
+	Effect created history: Dictionary = table: 78a0af14, count = 2
+	[100 (number)] = 18 (number)
+	[501 (number)] = 8 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 4082, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 20cdd1f7, count = 1
+	[2 (number)] = 4082 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6991468, count = 1
+	[10002 (number)] = 4082 (number)
+
+	Effect created history: Dictionary = table: 602d1668, count = 1
+	[501 (number)] = 2 (number)
+
+	Stat changer debuff created history: Dictionary = table: 1d08cd76, count = 1
+	[4 (number)] = 120 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 2268, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5384f549, count = 1
+	[2 (number)] = 2268 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 1df09105, count = 1
+	[7002 (number)] = 2268 (number)
+
+	Effect created history: Dictionary = table: 15665a85, count = 1
+	[112 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: 4ede4622, count = 1
+	[4 (number)] = 60 (number)
+
+
+<> WINNER: 1

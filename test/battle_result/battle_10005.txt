@@ -1,0 +1,829 @@
+
+<> SEED = 236097073
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 38
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Mist 10005 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 1
+attack = 4642
+defense = 466
+hp = 49632/49632
+speed = 81
+critRate = 0.15
+critDamage = 1.5
+accuracy = 1329
+dodge = 1594.8
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 30cc8240, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 22df3297, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 28a31fc0, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 7ca95616, type = 401, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 580a64a4, type = 410, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.05, changerType = 3, multiplier = 1
+id = table: 39aaeb8, type = 421, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 3e13529d, type = 403, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Mist 10005 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 1
+attack = 5803
+defense = 466
+hp = 39706/39706
+speed = 81
+critRate = 0.15
+critDamage = 1.5
+accuracy = 1329
+dodge = 1594.8
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 3377fc14, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 558058a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 58c5eed8, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 54de2e88, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 116f15cc, type = 401, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 7c887b46, type = 410, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.05, changerType = 3, multiplier = 1
+id = table: b4cf921, type = 421, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: e7c6ec1, type = 401, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Mist 10005 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 1
+attack = 4642
+defense = 466
+hp = 49632/49632
+speed = 81
+critRate = 0.15
+critDamage = 1.5
+accuracy = 1329
+dodge = 1594.8
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 476b8dcf, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 78868c2f, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 14eff7ef, type = 401, initiator = [Mist 10005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 23fe1f80, type = 410, initiator = [Mist 10005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.05, changerType = 3, multiplier = 1
+id = table: 3860ebc5, type = 421, initiator = [Mist 10005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2ec32cae, type = 403, initiator = [Mist 10005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Mist 10005 (TEAM 1, FRONT, POS 1)] => [Mist 10005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Mist 10005 (TEAM 1, BACK, POS 1)] => [Mist 10005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Mist 10005 (TEAM 2, FRONT, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Mist 10005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Mist 10005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Mist 10005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Mist 10005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Mist 10005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Mist 10005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Mist 10005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Mist 10005 (TEAM 1, FRONT, POS 1)] => [Mist 10005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Mist 10005 (TEAM 1, FRONT, POS 1)] => [Mist 10005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 410, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Mist 10005 (TEAM 1, FRONT, POS 1)] => [Mist 10005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Mist 10005 (TEAM 1, BACK, POS 1)] => [Mist 10005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Mist 10005 (TEAM 1, BACK, POS 1)] => [Mist 10005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 410, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Mist 10005 (TEAM 1, BACK, POS 1)] => [Mist 10005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Mist 10005 (TEAM 2, FRONT, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Mist 10005 (TEAM 2, FRONT, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 410, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Mist 10005 (TEAM 2, FRONT, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Mist 10005 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Mist 10005 (TEAM 1, FRONT, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 0.914), TAKE 4257 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Mist 10005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Mist 10005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[ADD_EFFECT] [Mist 10005 (TEAM 1, FRONT, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 0.914), type = 404, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Mist 10005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 30cc8240, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Mist 10005 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3377fc14, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 558058a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Mist 10005 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Mist 10005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 30cc8240, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Mist 10005 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3377fc14, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 558058a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Mist 10005 (TEAM 2, FRONT, POS 1)] hp = 0.914, power = 0.6
+- EFFECTS:
+id = table: 74cbef12, type = 404, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Mist 10005 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Mist 10005 (TEAM 1, BACK, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 0.753), TAKE 7983 damage, initiatorPower = 1, targetPower = 0.7 (CRIT)
+
+
+[CHANGE_POWER] [Mist 10005 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Mist 10005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[ADD_EFFECT] [Mist 10005 (TEAM 1, BACK, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 0.753), type = 404, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Mist 10005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 30cc8240, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Mist 10005 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3377fc14, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 558058a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Mist 10005 (TEAM 2, FRONT, POS 1)] hp = 0.914, power = 0.6
+- EFFECTS:
+id = table: 74cbef12, type = 404, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Mist 10005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 30cc8240, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Mist 10005 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3377fc14, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 558058a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Mist 10005 (TEAM 2, FRONT, POS 1)] hp = 0.753, power = 0.7
+- EFFECTS:
+id = table: 74cbef12, type = 404, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 1f702eeb, type = 404, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Mist 10005 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Mist 10005 (TEAM 2, FRONT, POS 1)] => [Mist 10005 (TEAM 1, FRONT, POS 1)] (hp = 0.957) (GLANCING), TAKE 2128 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Mist 10005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Mist 10005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[>>> BASIC_ATTACK <<<] [Mist 10005 (TEAM 2, FRONT, POS 1)] => [Mist 10005 (TEAM 1, BACK, POS 1)] (hp = 0.893), TAKE 4257 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Mist 10005 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[RESIST_EFFECT] [Mist 10005 (TEAM 1, FRONT, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 0.753), effectType = 20
+
+
+[RESIST_EFFECT] [Mist 10005 (TEAM 1, BACK, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 0.753), effectType = 20
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Mist 10005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 30cc8240, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Mist 10005 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3377fc14, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 558058a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Mist 10005 (TEAM 2, FRONT, POS 1)] hp = 0.753, power = 0.7
+- EFFECTS:
+id = table: 74cbef12, type = 404, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 1f702eeb, type = 404, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Mist 10005 (TEAM 1, FRONT, POS 1)] hp = 0.957, power = 1
+- EFFECTS:
+id = table: 30cc8240, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Mist 10005 (TEAM 1, BACK, POS 1)] hp = 0.893, power = 1
+- EFFECTS:
+id = table: 3377fc14, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 558058a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Mist 10005 (TEAM 2, FRONT, POS 1)] hp = 0.753, power = 1
+- EFFECTS:
+id = table: 74cbef12, type = 404, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 1f702eeb, type = 404, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Mist 10005 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Mist 10005 (TEAM 1, FRONT, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 0.542), TAKE 10478 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Mist 10005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.16
+
+
+[ADD_EFFECT] [Mist 10005 (TEAM 1, FRONT, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 0.542), type = 420, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Mist 10005 (TEAM 1, FRONT, POS 1)] hp = 0.957, power = 1
+- EFFECTS:
+id = table: 30cc8240, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Mist 10005 (TEAM 1, BACK, POS 1)] hp = 0.893, power = 1
+- EFFECTS:
+id = table: 3377fc14, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 558058a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Mist 10005 (TEAM 2, FRONT, POS 1)] hp = 0.753, power = 1
+- EFFECTS:
+id = table: 74cbef12, type = 404, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 1f702eeb, type = 404, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Mist 10005 (TEAM 1, FRONT, POS 1)] hp = 0.957, power = 0
+- EFFECTS:
+id = table: 30cc8240, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Mist 10005 (TEAM 1, BACK, POS 1)] hp = 0.893, power = 1
+- EFFECTS:
+id = table: 3377fc14, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 558058a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Mist 10005 (TEAM 2, FRONT, POS 1)] hp = 0.542, power = 1
+- EFFECTS:
+id = table: 74cbef12, type = 404, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 1f702eeb, type = 404, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 4ca1309a, type = 420, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Mist 10005 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Mist 10005 (TEAM 1, BACK, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 0.146), TAKE 19648 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Mist 10005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.18
+
+
+[ADD_EFFECT] [Mist 10005 (TEAM 1, BACK, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 0.146), type = 420, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Mist 10005 (TEAM 1, FRONT, POS 1)] hp = 0.957, power = 0
+- EFFECTS:
+id = table: 30cc8240, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Mist 10005 (TEAM 1, BACK, POS 1)] hp = 0.893, power = 1
+- EFFECTS:
+id = table: 3377fc14, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 558058a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Mist 10005 (TEAM 2, FRONT, POS 1)] hp = 0.542, power = 1
+- EFFECTS:
+id = table: 74cbef12, type = 404, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 1f702eeb, type = 404, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 4ca1309a, type = 420, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Mist 10005 (TEAM 1, FRONT, POS 1)] hp = 0.957, power = 0
+- EFFECTS:
+id = table: 30cc8240, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Mist 10005 (TEAM 1, BACK, POS 1)] hp = 0.893, power = 0
+- EFFECTS:
+id = table: 3377fc14, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 558058a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Mist 10005 (TEAM 2, FRONT, POS 1)] hp = 0.146, power = 1
+- EFFECTS:
+id = table: 74cbef12, type = 404, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 1f702eeb, type = 404, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 4ca1309a, type = 420, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: 7320d408, type = 420, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Mist 10005 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Mist 10005 (TEAM 2, FRONT, POS 1)] => [Mist 10005 (TEAM 1, BACK, POS 1)] (hp = 0.629), TAKE 10478 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Mist 10005 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[RESIST_EFFECT] [Mist 10005 (TEAM 1, BACK, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 0.146), effectType = 20
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Mist 10005 (TEAM 1, FRONT, POS 1)] hp = 0.957, power = 0
+- EFFECTS:
+id = table: 30cc8240, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Mist 10005 (TEAM 1, BACK, POS 1)] hp = 0.893, power = 0
+- EFFECTS:
+id = table: 3377fc14, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 558058a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Mist 10005 (TEAM 2, FRONT, POS 1)] hp = 0.146, power = 1
+- EFFECTS:
+id = table: 74cbef12, type = 404, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 1f702eeb, type = 404, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 4ca1309a, type = 420, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: 7320d408, type = 420, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Mist 10005 (TEAM 1, FRONT, POS 1)] hp = 0.957, power = 0
+- EFFECTS:
+id = table: 30cc8240, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Mist 10005 (TEAM 1, BACK, POS 1)] hp = 0.629, power = 0.1
+- EFFECTS:
+id = table: 3377fc14, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 558058a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Mist 10005 (TEAM 2, FRONT, POS 1)] hp = 0.146, power = 0
+- EFFECTS:
+id = table: 74cbef12, type = 404, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 1f702eeb, type = 404, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+id = table: 4ca1309a, type = 420, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: 7320d408, type = 420, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Mist 10005 (TEAM 1, FRONT, POS 1)] (hp = 0.957), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Mist 10005 (TEAM 1, BACK, POS 1)] (hp = 0.629), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [Mist 10005 (TEAM 1, FRONT, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 0.146), type = 404, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Mist 10005 (TEAM 1, BACK, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 0.146), type = 404, persistentType = 1, isBuff = false
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Mist 10005 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Mist 10005 (TEAM 1, FRONT, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 0.061), TAKE 4257 damage, initiatorPower = 0.5, targetPower = 0.1
+
+
+[CHANGE_POWER] [Mist 10005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+[CHANGE_POWER] [Mist 10005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.2
+
+
+[ADD_EFFECT] [Mist 10005 (TEAM 1, FRONT, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 0.061), type = 404, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Mist 10005 (TEAM 1, FRONT, POS 1)] hp = 0.957, power = 0
+
+> [Mist 10005 (TEAM 1, BACK, POS 1)] hp = 0.629, power = 0.1
+- EFFECTS:
+id = table: 558058a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Mist 10005 (TEAM 2, FRONT, POS 1)] hp = 0.146, power = 0
+- EFFECTS:
+id = table: 4ca1309a, type = 420, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: 7320d408, type = 420, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Mist 10005 (TEAM 1, FRONT, POS 1)] hp = 0.957, power = 0.5
+
+> [Mist 10005 (TEAM 1, BACK, POS 1)] hp = 0.629, power = 0.1
+- EFFECTS:
+id = table: 558058a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.2
+
+> [Mist 10005 (TEAM 2, FRONT, POS 1)] hp = 0.061, power = 0.1
+- EFFECTS:
+id = table: 4ca1309a, type = 420, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: 7320d408, type = 420, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: 58381601, type = 404, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Mist 10005 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Mist 10005 (TEAM 1, BACK, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 5322 damage, initiatorPower = 0.6, targetPower = 0
+
+
+[CHANGE_POWER] [Mist 10005 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Mist 10005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[DEAD_FOR_DISPLAY] [Mist 10005 (TEAM 1, BACK, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Mist 10005 (TEAM 1, BACK, POS 1)] => [Mist 10005 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Mist 10005 (TEAM 1, FRONT, POS 1)] hp = 0.957, power = 0.5
+
+> [Mist 10005 (TEAM 1, BACK, POS 1)] hp = 0.629, power = 0.1
+- EFFECTS:
+id = table: 558058a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.2
+
+> [Mist 10005 (TEAM 2, FRONT, POS 1)] hp = 0.061, power = 0.1
+- EFFECTS:
+id = table: 4ca1309a, type = 420, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: 7320d408, type = 420, initiator = [Mist 10005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: 58381601, type = 404, initiator = [Mist 10005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Mist 10005 (TEAM 1, FRONT, POS 1)] hp = 0.957, power = 0.5
+
+> [Mist 10005 (TEAM 1, BACK, POS 1)] hp = 0.629, power = 0.6
+- EFFECTS:
+id = table: 558058a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Mist 10005 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Mist 10005 (TEAM 1, FRONT, POS 1)] hp = 0.957, power = 0.5
+
+> [Mist 10005 (TEAM 1, BACK, POS 1)] hp = 0.629, power = 0.6
+- EFFECTS:
+id = table: 558058a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Mist 10005 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+<> STATISTICS:
+[Mist 10005 (TEAM 2, FRONT, POS 1)] DamageDeal = 16863, DamageTaken = 56637.24, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 46a17c9b, count = 2
+	[1 (number)] = 6385 (number)
+	[2 (number)] = 10478 (number)
+
+	Damage taken by sources: Dictionary = table: 341b135, count = 2
+	[1 (number)] = 23791.5 (number)
+	[2 (number)] = 32845.74 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 76b4b5c1, count = 2
+	[1003 (number)] = 6385 (number)
+	[2003 (number)] = 10478 (number)
+
+	Damage taken history: Dictionary = table: 6e243d08, count = 6
+	[1001 (number)] = 4642 (number)
+	[2002 (number)] = 21421.775 (number)
+	[1002 (number)] = 8704.5 (number)
+	[3001 (number)] = 4642 (number)
+	[2001 (number)] = 11423.962 (number)
+	[3002 (number)] = 5803 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: 232cc1f3, count = 2
+	[501 (number)] = 4 (number)
+	[112 (number)] = 0 (number)
+
+[Mist 10005 (TEAM 1, BACK, POS 1)] DamageDeal = 32953, DamageTaken = 16065.962, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2d6a04ba, count = 2
+	[1 (number)] = 13305 (number)
+	[2 (number)] = 19648 (number)
+
+	Damage taken by sources: Dictionary = table: 7e23a66b, count = 2
+	[1 (number)] = 4642 (number)
+	[2 (number)] = 11423.962 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 312018da, count = 3
+	[1002 (number)] = 7983 (number)
+	[2002 (number)] = 19648 (number)
+	[3002 (number)] = 5322 (number)
+
+	Damage taken history: Dictionary = table: 74c67454, count = 2
+	[1003 (number)] = 4642 (number)
+	[2003 (number)] = 11423.962 (number)
+
+	Stat changer debuff created history: Dictionary = table: 9f4e1a2, count = 2
+	[4 (number)] = 40 (number)
+	[20 (number)] = 1993.5 (number)
+
+[Mist 10005 (TEAM 1, FRONT, POS 1)] DamageDeal = 18992, DamageTaken = 4642, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 6a870e09, count = 2
+	[1 (number)] = 8514 (number)
+	[2 (number)] = 10478 (number)
+
+	Damage taken by sources: Dictionary = table: 5bd02d4b, count = 1
+	[1 (number)] = 4642 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 1cf386b1, count = 3
+	[2001 (number)] = 10478 (number)
+	[3001 (number)] = 4257 (number)
+	[1001 (number)] = 4257 (number)
+
+	Damage taken history: Dictionary = table: 32a49d7c, count = 1
+	[1003 (number)] = 4642 (number)
+
+	Stat changer debuff created history: Dictionary = table: 60012a67, count = 2
+	[4 (number)] = 80 (number)
+	[20 (number)] = 1993.5 (number)
+
+
+<> WINNER: 1

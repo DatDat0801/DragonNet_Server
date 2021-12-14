@@ -1,0 +1,1239 @@
+
+<> SEED = 537476422
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 43
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 1
+attack = 1018
+defense = 123
+hp = 13053/13053
+speed = 56
+critRate = 0.1
+critDamage = 1.5
+accuracy = 908
+dodge = 908
+pureDamage = 0.1
+skillDamage = 0.07
+armorBreak = 0.1
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 52dd02fd, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 7586a522, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 1f10010d, type = 430, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: a9da0bb, type = 432, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 4fcb4a6e, type = 403, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 1
+attack = 1018
+defense = 123
+hp = 13053/13053
+speed = 56
+critRate = 0.1
+critDamage = 1.5
+accuracy = 908
+dodge = 908
+pureDamage = 0.1
+skillDamage = 0.07
+armorBreak = 0.1
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 70028d75, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6f85e211, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 8fa0f22, type = 430, initiator = [Krag 10023 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 54c485bb, type = 432, initiator = [Krag 10023 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 30ed81ff, type = 403, initiator = [Krag 10023 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 1
+attack = 1018
+defense = 123
+hp = 13053/13053
+speed = 56
+critRate = 0.1
+critDamage = 1.5
+accuracy = 908
+dodge = 908
+pureDamage = 0.1
+skillDamage = 0.07
+armorBreak = 0.1
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 709c2a01, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 2847a82f, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 58de09c1, type = 430, initiator = [Krag 10023 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 26721bf2, type = 432, initiator = [Krag 10023 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 3049c373, type = 403, initiator = [Krag 10023 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 1
+attack = 1018
+defense = 123
+hp = 13053/13053
+speed = 56
+critRate = 0.1
+critDamage = 1.5
+accuracy = 908
+dodge = 908
+pureDamage = 0.1
+skillDamage = 0.07
+armorBreak = 0.1
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 223c2115, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: a84a492, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 3c9f93bb, type = 430, initiator = [Krag 10023 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 74f0ba3e, type = 432, initiator = [Krag 10023 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 37aff11f, type = 403, initiator = [Krag 10023 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Krag 10023 (TEAM 2, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Krag 10023 (TEAM 2, FRONT, POS 2)] => [Krag 10023 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Krag 10023 (TEAM 2, FRONT, POS 3)] => [Krag 10023 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 432, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Krag 10023 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Krag 10023 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Krag 10023 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Krag 10023 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Krag 10023 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Krag 10023 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Krag 10023 (TEAM 2, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Krag 10023 (TEAM 2, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 432, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Krag 10023 (TEAM 2, FRONT, POS 2)] => [Krag 10023 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Krag 10023 (TEAM 2, FRONT, POS 2)] => [Krag 10023 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 432, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Krag 10023 (TEAM 2, FRONT, POS 3)] => [Krag 10023 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Krag 10023 (TEAM 2, FRONT, POS 3)] => [Krag 10023 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 432, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Krag 10023 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 1)] (hp = 0.918), TAKE 1067 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.918, power = 0.6
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Krag 10023 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Krag 10023 (TEAM 2, FRONT, POS 2)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.918), TAKE 1067 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.918, power = 0.6
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.918, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.918, power = 0.6
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Krag 10023 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Krag 10023 (TEAM 2, FRONT, POS 1)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.837), TAKE 1067 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.918, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.918, power = 0.6
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.837, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.918, power = 1
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Krag 10023 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Krag 10023 (TEAM 2, FRONT, POS 3)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.755), TAKE 1067 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.837, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.918, power = 1
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.755, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.918, power = 1
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Krag 10023 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 1)] (hp = 0.815), TAKE 1342 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[>>> ACTIVE_SKILL <<<] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 3)] (hp = 0.897), TAKE 1342 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[ADD_EFFECT] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 1)] (hp = 0.815), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 1)] (hp = 0.793), TAKE 294 damage, remainingRound = 2
+
+
+[ADD_EFFECT] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 3)] (hp = 0.897), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 3)] (hp = 0.875), TAKE 294 damage, remainingRound = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.755, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.918, power = 1
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.755, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.793, power = 1
+- EFFECTS:
+id = table: 3787093c, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.875, power = 1
+- EFFECTS:
+id = table: 18889b6a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Krag 10023 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Krag 10023 (TEAM 2, FRONT, POS 1)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.652), TAKE 1342 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.18
+
+
+[ADD_EFFECT] [Krag 10023 (TEAM 2, FRONT, POS 1)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.652), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Krag 10023 (TEAM 2, FRONT, POS 1)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.629), TAKE 294 damage, remainingRound = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.755, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.793, power = 1
+- EFFECTS:
+id = table: 3787093c, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.875, power = 1
+- EFFECTS:
+id = table: 18889b6a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.629, power = 0.1
+- EFFECTS:
+id = table: 584ac18b, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 3787093c, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.875, power = 1
+- EFFECTS:
+id = table: 18889b6a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Krag 10023 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Krag 10023 (TEAM 2, FRONT, POS 2)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.527), TAKE 1342 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[ADD_EFFECT] [Krag 10023 (TEAM 2, FRONT, POS 2)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.527), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Krag 10023 (TEAM 2, FRONT, POS 2)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.504), TAKE 294 damage, remainingRound = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.629, power = 0.1
+- EFFECTS:
+id = table: 584ac18b, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 3787093c, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.875, power = 1
+- EFFECTS:
+id = table: 18889b6a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.504, power = 0.2
+- EFFECTS:
+id = table: 584ac18b, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 299aa1f6, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 3787093c, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.875, power = 1
+- EFFECTS:
+id = table: 18889b6a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Krag 10023 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Krag 10023 (TEAM 2, FRONT, POS 3)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.401), TAKE 1342 damage, initiatorPower = 0, targetPower = 0.3
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[ADD_EFFECT] [Krag 10023 (TEAM 2, FRONT, POS 3)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.401), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Krag 10023 (TEAM 2, FRONT, POS 3)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.379), TAKE 294 damage, remainingRound = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.504, power = 0.2
+- EFFECTS:
+id = table: 584ac18b, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 299aa1f6, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 3787093c, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.875, power = 1
+- EFFECTS:
+id = table: 18889b6a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.379, power = 0.3
+- EFFECTS:
+id = table: 584ac18b, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 299aa1f6, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 265b9310, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 3787093c, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.875, power = 0
+- EFFECTS:
+id = table: 18889b6a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 3 ----------
+
+[BLEED] [Krag 10023 (TEAM 2, FRONT, POS 1)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.356), TAKE 294 damage, remainingRound = 1
+
+
+[BLEED] [Krag 10023 (TEAM 2, FRONT, POS 2)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.334), TAKE 294 damage, remainingRound = 1
+
+
+[BLEED] [Krag 10023 (TEAM 2, FRONT, POS 3)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.311), TAKE 294 damage, remainingRound = 1
+
+
+[BLEED] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 1)] (hp = 0.77), TAKE 294 damage, remainingRound = 1
+
+
+[BLEED] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 3)] (hp = 0.852), TAKE 294 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Krag 10023 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 1)] (hp = 0.689), TAKE 1067 damage, initiatorPower = 0.8, targetPower = 0.1
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.311, power = 0.3
+- EFFECTS:
+id = table: 584ac18b, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 299aa1f6, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 265b9310, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.77, power = 0
+- EFFECTS:
+id = table: 3787093c, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.852, power = 0
+- EFFECTS:
+id = table: 18889b6a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.311, power = 0.8
+- EFFECTS:
+id = table: 584ac18b, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 299aa1f6, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 265b9310, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.689, power = 0.1
+- EFFECTS:
+id = table: 3787093c, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.852, power = 0
+- EFFECTS:
+id = table: 18889b6a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Krag 10023 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Krag 10023 (TEAM 2, FRONT, POS 2)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.229), TAKE 1067 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.311, power = 0.8
+- EFFECTS:
+id = table: 584ac18b, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 299aa1f6, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 265b9310, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.689, power = 0.1
+- EFFECTS:
+id = table: 3787093c, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.852, power = 0
+- EFFECTS:
+id = table: 18889b6a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.229, power = 0.9
+- EFFECTS:
+id = table: 584ac18b, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 299aa1f6, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 265b9310, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.689, power = 0.1
+- EFFECTS:
+id = table: 3787093c, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.852, power = 0
+- EFFECTS:
+id = table: 18889b6a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Krag 10023 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Krag 10023 (TEAM 2, FRONT, POS 1)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.148), TAKE 1067 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.229, power = 0.9
+- EFFECTS:
+id = table: 584ac18b, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 299aa1f6, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 265b9310, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.689, power = 0.1
+- EFFECTS:
+id = table: 3787093c, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.852, power = 0
+- EFFECTS:
+id = table: 18889b6a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.148, power = 1
+- EFFECTS:
+id = table: 584ac18b, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 299aa1f6, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 265b9310, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.689, power = 0.6
+- EFFECTS:
+id = table: 3787093c, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.852, power = 0
+- EFFECTS:
+id = table: 18889b6a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Krag 10023 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Krag 10023 (TEAM 2, FRONT, POS 3)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.066), TAKE 1067 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.148, power = 1
+- EFFECTS:
+id = table: 584ac18b, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 299aa1f6, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 265b9310, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.689, power = 0.6
+- EFFECTS:
+id = table: 3787093c, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.852, power = 0
+- EFFECTS:
+id = table: 18889b6a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.066, power = 1
+- EFFECTS:
+id = table: 584ac18b, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 299aa1f6, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 265b9310, type = 11, initiator = [Krag 10023 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.689, power = 0.6
+- EFFECTS:
+id = table: 3787093c, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.852, power = 0.5
+- EFFECTS:
+id = table: 18889b6a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+---------- AFTER ROUND 3 ----------
+
+[REMOVE_EFFECT] [Krag 10023 (TEAM 2, FRONT, POS 1)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.066), type = 11, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Krag 10023 (TEAM 2, FRONT, POS 2)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.066), type = 11, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Krag 10023 (TEAM 2, FRONT, POS 3)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0.066), type = 11, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 1)] (hp = 0.689), type = 11, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 3)] (hp = 0.852), type = 11, persistentType = 1, isBuff = false
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Krag 10023 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 1)] (hp = 0.586), TAKE 1342 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[>>> ACTIVE_SKILL <<<] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 3)] (hp = 0.749), TAKE 1342 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+[ADD_EFFECT] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 1)] (hp = 0.586), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 1)] (hp = 0.563), TAKE 294 damage, remainingRound = 2
+
+
+[ADD_EFFECT] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 3)] (hp = 0.749), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [Krag 10023 (TEAM 2, FRONT, POS 3)] (hp = 0.727), TAKE 294 damage, remainingRound = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.066, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.689, power = 0.6
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.852, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.066, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.563, power = 0.7
+- EFFECTS:
+id = table: 7ad41f7a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.727, power = 0.6
+- EFFECTS:
+id = table: 749ccf32, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Krag 10023 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Krag 10023 (TEAM 2, FRONT, POS 2)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 1067 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+[CHANGE_POWER] [Krag 10023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+[DEAD_FOR_DISPLAY] [Krag 10023 (TEAM 2, FRONT, POS 2)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Krag 10023 (TEAM 2, FRONT, POS 2)] => [Krag 10023 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0.066, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.563, power = 0.7
+- EFFECTS:
+id = table: 7ad41f7a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.727, power = 0.6
+- EFFECTS:
+id = table: 749ccf32, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.563, power = 0.7
+- EFFECTS:
+id = table: 7ad41f7a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.727, power = 0.6
+- EFFECTS:
+id = table: 749ccf32, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Krag 10023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Krag 10023 (TEAM 2, FRONT, POS 1)] hp = 0.563, power = 0.7
+- EFFECTS:
+id = table: 7ad41f7a, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Krag 10023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Krag 10023 (TEAM 2, FRONT, POS 3)] hp = 0.727, power = 0.6
+- EFFECTS:
+id = table: 749ccf32, type = 11, initiator = [Krag 10023 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+<> STATISTICS:
+[SummonerMage (TEAM 2)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+[Krag 10023 (TEAM 2, FRONT, POS 3)] DamageDeal = 4064, DamageTaken = 3225.024, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 8754546, count = 3
+	[1 (number)] = 2134 (number)
+	[2 (number)] = 1342 (number)
+	[13 (number)] = 588 (number)
+
+	Damage taken by sources: Dictionary = table: 72cc944b, count = 2
+	[2 (number)] = 2614.224 (number)
+	[13 (number)] = 610.8 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 28397aa7, count = 4
+	[2004 (number)] = 1636 (number)
+	[3000 (number)] = 294 (number)
+	[3004 (number)] = 1067 (number)
+	[1004 (number)] = 1067 (number)
+
+	Damage taken history: Dictionary = table: 3a4ed5cd, count = 3
+	[3000 (number)] = 203.6 (number)
+	[2001 (number)] = 1510.712 (number)
+	[4001 (number)] = 1510.712 (number)
+
+	Effect created history: Dictionary = table: 18b3f8b7, count = 1
+	[11 (number)] = 2 (number)
+
+[Krag 10023 (TEAM 1, FRONT, POS 1)] DamageDeal = 9266, DamageTaken = 12268.936, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: ecb4926, count = 3
+	[1 (number)] = 2134 (number)
+	[2 (number)] = 5368 (number)
+	[13 (number)] = 1764 (number)
+
+	Damage taken by sources: Dictionary = table: 6d44f61a, count = 3
+	[1 (number)] = 7126 (number)
+	[2 (number)] = 3921.336 (number)
+	[13 (number)] = 1221.6 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 21e8b6c2, count = 5
+	[1001 (number)] = 1067 (number)
+	[3000 (number)] = 588 (number)
+	[4001 (number)] = 3272 (number)
+	[3001 (number)] = 1067 (number)
+	[2001 (number)] = 3272 (number)
+
+	Damage taken history: Dictionary = table: 26999408, count = 11
+	[3000 (number)] = 610.8 (number)
+	[3002 (number)] = 1018 (number)
+	[3003 (number)] = 1018 (number)
+	[3004 (number)] = 1018 (number)
+	[2002 (number)] = 1510.712 (number)
+	[2003 (number)] = 1510.712 (number)
+	[2004 (number)] = 1510.712 (number)
+	[1002 (number)] = 1018 (number)
+	[4002 (number)] = 1018 (number)
+	[1003 (number)] = 1018 (number)
+	[1004 (number)] = 1018 (number)
+
+	Effect created history: Dictionary = table: 72cf7b84, count = 1
+	[11 (number)] = 8 (number)
+
+[Krag 10023 (TEAM 2, FRONT, POS 1)] DamageDeal = 4064, DamageTaken = 5261.024, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 38f1a7e1, count = 3
+	[1 (number)] = 2134 (number)
+	[2 (number)] = 1342 (number)
+	[13 (number)] = 588 (number)
+
+	Damage taken by sources: Dictionary = table: 5c4b489b, count = 3
+	[1 (number)] = 2036 (number)
+	[2 (number)] = 2614.224 (number)
+	[13 (number)] = 610.8 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 3618aece, count = 4
+	[3000 (number)] = 294 (number)
+	[3003 (number)] = 1067 (number)
+	[2002 (number)] = 1636 (number)
+	[1003 (number)] = 1067 (number)
+
+	Damage taken history: Dictionary = table: 3f02e0d2, count = 5
+	[1001 (number)] = 1018 (number)
+	[3000 (number)] = 203.6 (number)
+	[4001 (number)] = 1510.712 (number)
+	[3001 (number)] = 1018 (number)
+	[2001 (number)] = 1510.712 (number)
+
+	Effect created history: Dictionary = table: af9867c, count = 1
+	[11 (number)] = 2 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+[Krag 10023 (TEAM 2, FRONT, POS 2)] DamageDeal = 5131, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: cf01828, count = 3
+	[1 (number)] = 3201 (number)
+	[2 (number)] = 1342 (number)
+	[13 (number)] = 588 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 7f6da9a6, count = 5
+	[2003 (number)] = 1636 (number)
+	[1002 (number)] = 1067 (number)
+	[3000 (number)] = 294 (number)
+	[4002 (number)] = 1067 (number)
+	[3002 (number)] = 1067 (number)
+
+	Effect created history: Dictionary = table: 5741c2e9, count = 1
+	[11 (number)] = 2 (number)
+
+
+<> WINNER: 2

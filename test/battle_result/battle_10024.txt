@@ -1,0 +1,1263 @@
+
+<> SEED = 897547129
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 53
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 1
+attack = 1178
+defense = 153
+hp = 17403/17403
+speed = 51
+critRate = 0.1
+critDamage = 1.5
+accuracy = 907.5
+dodge = 825
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 52c35f2c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 268f8cc2, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 729eebf1, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 3a6cf0b1, type = 420, initiator = [Gurrgly 10024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2647ce58, type = 401, initiator = [Gurrgly 10024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2a46de2a, type = 403, initiator = [Gurrgly 10024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 1
+attack = 1178
+defense = 153
+hp = 17403/17403
+speed = 51
+critRate = 0.1
+critDamage = 1.5
+accuracy = 907.5
+dodge = 825
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 79b002d2, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 24049c2d, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 3ca9a3fb, type = 420, initiator = [Gurrgly 10024 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 657a617f, type = 401, initiator = [Gurrgly 10024 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 7c74afce, type = 403, initiator = [Gurrgly 10024 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 1
+attack = 1178
+defense = 153
+hp = 17403/17403
+speed = 51
+critRate = 0.1
+critDamage = 1.5
+accuracy = 907.5
+dodge = 825
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 1cc05bcd, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6d8785d5, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 5b406083, type = 420, initiator = [Gurrgly 10024 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6d1f4ba2, type = 401, initiator = [Gurrgly 10024 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 1c255990, type = 403, initiator = [Gurrgly 10024 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 1
+attack = 1178
+defense = 153
+hp = 17403/17403
+speed = 51
+critRate = 0.1
+critDamage = 1.5
+accuracy = 907.5
+dodge = 825
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 2267f174, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 7afbd9c3, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 6d2ecf65, type = 420, initiator = [Gurrgly 10024 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 65e681ac, type = 401, initiator = [Gurrgly 10024 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 739f6bff, type = 403, initiator = [Gurrgly 10024 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 420, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 420, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 420, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 420, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gurrgly 10024 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] (hp = 0.936), TAKE 1113 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 52c35f2c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 52c35f2c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.936, power = 0.6
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gurrgly 10024 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 0.936), TAKE 1113 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 52c35f2c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.936, power = 0.6
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.936, power = 1
+- EFFECTS:
+id = table: 52c35f2c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.936, power = 0.6
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gurrgly 10024 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 0.872), TAKE 1113 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.936, power = 1
+- EFFECTS:
+id = table: 52c35f2c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.936, power = 0.6
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.872, power = 1
+- EFFECTS:
+id = table: 52c35f2c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.936, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gurrgly 10024 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 0.776), TAKE 1670 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.872, power = 1
+- EFFECTS:
+id = table: 52c35f2c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.936, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.776, power = 1
+- EFFECTS:
+id = table: 52c35f2c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.936, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gurrgly 10024 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] (hp = 0.874), TAKE 1072 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[>>> ACTIVE_SKILL <<<] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] (hp = 0.938), TAKE 1072 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.776, power = 1
+- EFFECTS:
+id = table: 52c35f2c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.936, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.776, power = 0
+- EFFECTS:
+id = table: 52c35f2c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.874, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.938, power = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gurrgly 10024 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 0.715), TAKE 1072 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.18
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.776, power = 0
+- EFFECTS:
+id = table: 52c35f2c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.874, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.938, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.715, power = 0.1
+- EFFECTS:
+id = table: 52c35f2c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.874, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.938, power = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gurrgly 10024 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 0.653), TAKE 1072 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.715, power = 0.1
+- EFFECTS:
+id = table: 52c35f2c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.874, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.938, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.653, power = 0.2
+- EFFECTS:
+id = table: 52c35f2c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.874, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.938, power = 1
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gurrgly 10024 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 0.591), TAKE 1072 damage, initiatorPower = 0, targetPower = 0.3
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.653, power = 0.2
+- EFFECTS:
+id = table: 52c35f2c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.874, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.938, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.591, power = 0.3
+- EFFECTS:
+id = table: 52c35f2c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.874, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.938, power = 0
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 0.591), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gurrgly 10024 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] (hp = 0.81), TAKE 1113 damage, initiatorPower = 0.8, targetPower = 0.1
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.591, power = 0.3
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.874, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.938, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.591, power = 0.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.81, power = 0.1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.938, power = 0
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gurrgly 10024 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 0.527), TAKE 1113 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.591, power = 0.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.81, power = 0.1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.938, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.527, power = 0.9
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.81, power = 0.1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.938, power = 0
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gurrgly 10024 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 0.463), TAKE 1113 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.527, power = 0.9
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.81, power = 0.1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.938, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.463, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.81, power = 0.6
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.938, power = 0
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gurrgly 10024 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 0.399), TAKE 1113 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.463, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.81, power = 0.6
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.938, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.399, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.81, power = 0.6
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.938, power = 0.5
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gurrgly 10024 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] (hp = 0.749), TAKE 1072 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[>>> ACTIVE_SKILL <<<] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] (hp = 0.877), TAKE 1072 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.399, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.81, power = 0.6
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.938, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.399, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 0.7
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.877, power = 0.6
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gurrgly 10024 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 0.336), TAKE 1113 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.399, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 0.7
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.877, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.336, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.877, power = 0.6
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gurrgly 10024 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 0.272), TAKE 1113 damage, initiatorPower = 1, targetPower = 0.2
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.92
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.336, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.877, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.272, power = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.92
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.877, power = 0.6
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gurrgly 10024 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 0.208), TAKE 1113 damage, initiatorPower = 1, targetPower = 0.3
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.272, power = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.92
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.877, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.208, power = 0.3
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.877, power = 1
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 0.007), TAKE 3483 damage, initiatorPower = 0, targetPower = 0.4 (CRIT)
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 0.007), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.208, power = 0.3
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.877, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.007, power = 0.4
+- EFFECTS:
+id = table: 78972035, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.877, power = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Gurrgly 10024 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 1072 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[DEAD_FOR_DISPLAY] [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[DEAD] [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] => [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0.007, power = 0.4
+- EFFECTS:
+id = table: 78972035, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.877, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.877, power = 1
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Gurrgly 10024 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 1
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Gurrgly 10024 (TEAM 2, FRONT, POS 3)] hp = 0.877, power = 1
+
+<> STATISTICS:
+[Gurrgly 10024 (TEAM 2, FRONT, POS 3)] DamageDeal = 4968, DamageTaken = 2268.828, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5c06db25, count = 2
+	[1 (number)] = 3896 (number)
+	[2 (number)] = 1072 (number)
+
+	Damage taken by sources: Dictionary = table: 47c87227, count = 1
+	[2 (number)] = 2268.828 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 16f27093, count = 4
+	[2004 (number)] = 1072 (number)
+	[3004 (number)] = 1113 (number)
+	[1004 (number)] = 1670 (number)
+	[4004 (number)] = 1113 (number)
+
+	Damage taken history: Dictionary = table: 57a57cf0, count = 2
+	[2001 (number)] = 1134.414 (number)
+	[4001 (number)] = 1134.414 (number)
+
+[Gurrgly 10024 (TEAM 2, FRONT, POS 2)] DamageDeal = 5483, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 3d905ad2, count = 2
+	[1 (number)] = 3339 (number)
+	[2 (number)] = 2144 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 39cd5e0d, count = 5
+	[2002 (number)] = 1072 (number)
+	[1002 (number)] = 1113 (number)
+	[5002 (number)] = 1072 (number)
+	[3002 (number)] = 1113 (number)
+	[4003 (number)] = 1113 (number)
+
+[Gurrgly 10024 (TEAM 1, FRONT, POS 1)] DamageDeal = 6514, DamageTaken = 19414.156, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 3cbed74f, count = 2
+	[1 (number)] = 2226 (number)
+	[2 (number)] = 4288 (number)
+
+	Damage taken by sources: Dictionary = table: 40807ed4, count = 2
+	[1 (number)] = 11191 (number)
+	[2 (number)] = 8223.156 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 7ff9eadc, count = 4
+	[2001 (number)] = 2144 (number)
+	[3001 (number)] = 1113 (number)
+	[1001 (number)] = 1113 (number)
+	[4001 (number)] = 2144 (number)
+
+	Damage taken history: Dictionary = table: 2c17fe18, count = 14
+	[3002 (number)] = 1178 (number)
+	[3003 (number)] = 1178 (number)
+	[3004 (number)] = 1178 (number)
+	[5001 (number)] = 3685.5 (number)
+	[2002 (number)] = 1134.414 (number)
+	[5002 (number)] = 1134.414 (number)
+	[2003 (number)] = 1134.414 (number)
+	[2004 (number)] = 1134.414 (number)
+	[1002 (number)] = 1178 (number)
+	[4002 (number)] = 1178 (number)
+	[1003 (number)] = 1178 (number)
+	[4003 (number)] = 1178 (number)
+	[1004 (number)] = 1767 (number)
+	[4004 (number)] = 1178 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 3483, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 6659507a, count = 1
+	[2 (number)] = 3483 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 25ecf4bb, count = 1
+	[5001 (number)] = 3483 (number)
+
+	Stat changer debuff created history: Dictionary = table: 157345d0, count = 1
+	[4 (number)] = 60 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: 6078e58, count = 1
+	[501 (number)] = 2 (number)
+
+[Gurrgly 10024 (TEAM 2, FRONT, POS 1)] DamageDeal = 4411, DamageTaken = 4624.828, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2a71d462, count = 2
+	[1 (number)] = 3339 (number)
+	[2 (number)] = 1072 (number)
+
+	Damage taken by sources: Dictionary = table: 68faa4bb, count = 2
+	[1 (number)] = 2356 (number)
+	[2 (number)] = 2268.828 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 67a831b1, count = 4
+	[3003 (number)] = 1113 (number)
+	[4002 (number)] = 1113 (number)
+	[1003 (number)] = 1113 (number)
+	[2003 (number)] = 1072 (number)
+
+	Damage taken history: Dictionary = table: 5de70652, count = 4
+	[2001 (number)] = 1134.414 (number)
+	[3001 (number)] = 1178 (number)
+	[1001 (number)] = 1178 (number)
+	[4001 (number)] = 1134.414 (number)
+
+
+<> WINNER: 2

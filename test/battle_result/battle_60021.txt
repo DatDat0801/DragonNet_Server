@@ -1,0 +1,2961 @@
+
+<> SEED = 384700821
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 114
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 6
+attack = 2651
+defense = 344
+hp = 39158/39158
+speed = 61
+critRate = 0.1
+critDamage = 1.6
+accuracy = 998
+dodge = 998
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 78cd443, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: a6e068a, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: c690b33, type = 401, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 31a51873, type = 411, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 5dec13ae, type = 403, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 714
+defense = 102
+hp = 11602/11602
+speed = 46
+critRate = 0.1
+critDamage = 1.5
+accuracy = 750
+dodge = 750
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 2a4afa09, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6e3e5ce0, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 50eaecc8, type = 403, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 6
+attack = 2651
+defense = 344
+hp = 39158/39158
+speed = 61
+critRate = 0.1
+critDamage = 1.6
+accuracy = 998
+dodge = 998
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 70ca8948, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: d2dafea, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 11682bf3, type = 401, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6bed511d, type = 411, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 77c1b7d4, type = 403, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 714
+defense = 102
+hp = 11602/11602
+speed = 46
+critRate = 0.1
+critDamage = 1.5
+accuracy = 750
+dodge = 750
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 2f7bb11d, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 7f9c30b2, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 4f4915e1, type = 403, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 411, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 411, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.937), TAKE 2459 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.937, power = 0.6
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.937), TAKE 2459 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.937, power = 0.6
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.937, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.937, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.937) (MISS), TAKE 0 damage, initiatorPower = 0.5, targetPower = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.937, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.937, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.937, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.937, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.925) (GLANCING), TAKE 496 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.937, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.937, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.925, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.937, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.877), TAKE 2341 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[>>> ACTIVE_SKILL <<<] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.793), TAKE 2398 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.925, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.937, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.925, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.877, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.865), TAKE 2341 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+[>>> ACTIVE_SKILL <<<] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.793), TAKE 2398 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.18
+
+
+[ADD_EFFECT] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.793), type = 40, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.925, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.877, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.865, power = 0.1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.793, power = 0.6
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.877, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.852), TAKE 993 damage, initiatorPower = 1, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.865, power = 0.1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.793, power = 0.6
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.877, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.865, power = 0.1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.793, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.852, power = 0.1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 1
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.836), TAKE 1133 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.693), TAKE 1161 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.793), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.865, power = 0.1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.793, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.852, power = 0.1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.836, power = 0.2
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.852, power = 0.1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 791917c6, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.789), TAKE 2459 damage, initiatorPower = 0.7, targetPower = 0.2
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.836, power = 0.2
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.852, power = 0.1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 791917c6, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.836, power = 0.7
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.789, power = 0.2
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 791917c6, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.773), TAKE 2459 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.4
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.836, power = 0.7
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.789, power = 0.2
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 791917c6, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.773, power = 0.8
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.789, power = 0.7
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 791917c6, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.781) (GLANCING), TAKE 331 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.773, power = 0.8
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.789, power = 0.7
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 791917c6, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.773, power = 0.8
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.781, power = 0.8
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 791917c6, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.753), TAKE 793 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.52
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.773, power = 0.8
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.781, power = 0.8
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0
+- EFFECTS:
+id = table: 791917c6, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.753, power = 0.9
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.781, power = 0.8
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0.5
+- EFFECTS:
+id = table: 791917c6, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.718), TAKE 2459 damage, initiatorPower = 1, targetPower = 0.9
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.54
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.753, power = 0.9
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.781, power = 0.8
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0.5
+- EFFECTS:
+id = table: 791917c6, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.753, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.718, power = 0.9
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0.5
+- EFFECTS:
+id = table: 791917c6, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.69), TAKE 2459 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.64
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.753, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.718, power = 0.9
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0.5
+- EFFECTS:
+id = table: 791917c6, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.69, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.64
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.718, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0.5
+- EFFECTS:
+id = table: 791917c6, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.701), TAKE 662 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.69, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.64
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.718, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0.5
+- EFFECTS:
+id = table: 791917c6, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.69, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.701, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0.5
+- EFFECTS:
+id = table: 791917c6, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.69) (MISS), TAKE 0 damage, initiatorPower = 0.5, targetPower = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.69, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.701, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0.5
+- EFFECTS:
+id = table: 791917c6, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.69, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 7ef8f3e5, type = 40, initiator = [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.701, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0.5
+- EFFECTS:
+id = table: 791917c6, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 4 ----------
+
+[REMOVE_EFFECT] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.693), type = 40, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.793), type = 401, persistentType = 1, isBuff = true
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.641), TAKE 2341 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[>>> ACTIVE_SKILL <<<] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.587), TAKE 2398 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[ADD_EFFECT] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.587), type = 40, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.69, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.701, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.69, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.641, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.587, power = 0.6
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.594), TAKE 3746 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[>>> ACTIVE_SKILL <<<] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.487), TAKE 2398 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.69, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.693, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.641, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.587, power = 0.6
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.594, power = 0.1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.487, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.641, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.587, power = 0.6
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.612), TAKE 1133 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.487), TAKE 1161 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.74
+
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.487), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.594, power = 0.1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.487, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.641, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.587, power = 0.6
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.594, power = 0.1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.487, power = 0
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.612, power = 0.1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.487, power = 0.7
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+
+
+TURN 4 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.577), TAKE 662 damage, initiatorPower = 1, targetPower = 0.2
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.84
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.594, power = 0.1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.487, power = 0
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.612, power = 0.1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.487, power = 0.7
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.577, power = 0.2
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.487, power = 0
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.612, power = 0.1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.487, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.55), TAKE 2459 damage, initiatorPower = 0.7, targetPower = 0.2
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.94
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.577, power = 0.2
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.487, power = 0
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.612, power = 0.1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.487, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.577, power = 0.7
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.487, power = 0
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.55, power = 0.2
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.487, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.515), TAKE 2459 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.96
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.96
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.577, power = 0.7
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.487, power = 0
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.55, power = 0.2
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.487, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.515, power = 0.8
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.487, power = 0
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.55, power = 0.7
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.487, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.529), TAKE 793 damage, initiatorPower = 0.5, targetPower = 0.8
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.515, power = 0.8
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.487, power = 0
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.55, power = 0.7
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.487, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.515, power = 0.8
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.487, power = 0.5
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.529, power = 0.8
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.487, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+TURN 4 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.471), TAKE 2280 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.285), TAKE 2334 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.471), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.285), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.515, power = 0.8
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.487, power = 0.5
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.529, power = 0.8
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.487, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.515, power = 0.8
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.487, power = 0.5
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.471, power = 0.9
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.285, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.456), TAKE 2280 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.02
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.285), TAKE 2334 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.04
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.456), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.285), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.515, power = 0.8
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.487, power = 0.5
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.471, power = 0.9
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.285, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.04
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.456, power = 0.9
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.285, power = 0.6
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 3e30ccbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.471, power = 0.9
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.285, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 6 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.439), TAKE 662 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.06
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.04
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.456, power = 0.9
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.285, power = 0.6
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 3e30ccbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.471, power = 0.9
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.285, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.06
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.439, power = 1
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.285, power = 0.6
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 3e30ccbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.471, power = 0.9
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.285, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.411), TAKE 2341 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[>>> ACTIVE_SKILL <<<] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.079), TAKE 2398 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.06
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.439, power = 1
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.285, power = 0.6
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 3e30ccbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.471, power = 0.9
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.285, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.06
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.439, power = 0
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.285, power = 0.6
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 3e30ccbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.411, power = 1
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.38), TAKE 2341 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.08
+
+
+[>>> ACTIVE_SKILL <<<] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.079), TAKE 2398 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.06
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.439, power = 0
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.285, power = 0.6
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 3e30ccbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.411, power = 1
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.38, power = 0.1
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.079, power = 0.7
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 3e30ccbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.411, power = 0
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.411) (MISS), TAKE 0 damage, initiatorPower = 0.7, targetPower = 0
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.38, power = 0.1
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.079, power = 0.7
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 3e30ccbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.411, power = 0
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.38, power = 0.1
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.079, power = 0.7
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 3e30ccbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.411, power = 0
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.371) (GLANCING), TAKE 331 damage, initiatorPower = 1, targetPower = 0.2
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.38, power = 0.1
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.079, power = 0.7
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 3e30ccbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.411, power = 0
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.371, power = 0.2
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.079, power = 0.7
+- EFFECTS:
+id = table: 151f1ad0, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 3e30ccbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.411, power = 0
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 1
+- EFFECTS:
+id = table: b18a2a1, type = 40, initiator = [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 7 ----------
+
+[REMOVE_EFFECT] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.079), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.079), type = 40, persistentType = 1, isBuff = false
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.349), TAKE 2459 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.371, power = 0.2
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.079, power = 0.7
+- EFFECTS:
+id = table: 3e30ccbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.411, power = 0
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 1
+- EFFECTS:
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.371, power = 0.7
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.079, power = 0.7
+- EFFECTS:
+id = table: 3e30ccbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.349, power = 0.1
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 1
+- EFFECTS:
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.308), TAKE 2459 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.371, power = 0.7
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.079, power = 0.7
+- EFFECTS:
+id = table: 3e30ccbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.349, power = 0.1
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 1
+- EFFECTS:
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.308, power = 0.8
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.079, power = 0.7
+- EFFECTS:
+id = table: 3e30ccbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.349, power = 0.6
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 1
+- EFFECTS:
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.332), TAKE 662 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.308, power = 0.8
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.079, power = 0.7
+- EFFECTS:
+id = table: 3e30ccbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.349, power = 0.6
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 1
+- EFFECTS:
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.308, power = 0.8
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.079, power = 1
+- EFFECTS:
+id = table: 3e30ccbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.332, power = 0.7
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 1
+- EFFECTS:
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.28), TAKE 1133 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0), TAKE 1161 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[DEAD_FOR_DISPLAY] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0), reason = 2
+
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.079), type = 401, persistentType = 1, isBuff = true
+
+
+[DEAD] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.308, power = 0.8
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.079, power = 1
+- EFFECTS:
+id = table: 3e30ccbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.332, power = 0.7
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 1
+- EFFECTS:
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.28, power = 0.9
+- EFFECTS:
+id = table: 53148595, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.332, power = 0.7
+- EFFECTS:
+id = table: 2c41a44d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 0
+- EFFECTS:
+id = table: 1dd72124, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 1f7264fa, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 8 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.28), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.332), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.079), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 9
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.269), TAKE 2459 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.28, power = 0.9
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.332, power = 0.7
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 0
+- EFFECTS:
+id = table: 1f7264fa, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.28, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.269, power = 0.8
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 0
+- EFFECTS:
+id = table: 1f7264fa, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.217), TAKE 2459 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.5
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.28, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.269, power = 0.8
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 0
+- EFFECTS:
+id = table: 1f7264fa, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.217, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.269, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 0
+- EFFECTS:
+id = table: 1f7264fa, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.196), TAKE 793 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.6
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.217, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.269, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 0
+- EFFECTS:
+id = table: 1f7264fa, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.196, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.269, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 0.5
+- EFFECTS:
+id = table: 1f7264fa, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+ROUND 10
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.209), TAKE 2341 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.62
+
+
+[>>> ACTIVE_SKILL <<<] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0), TAKE 2398 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.64
+
+
+[DEAD_FOR_DISPLAY] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 2
+
+
+[DEAD] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.196, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.269, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 0.5
+- EFFECTS:
+id = table: 1f7264fa, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.196, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.64
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.209, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+
+TURN 2 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.137), TAKE 2341 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.196, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.64
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.209, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.137, power = 0.1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.64
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.209, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+
+ROUND 11
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.109), TAKE 3936 damage, initiatorPower = 0.6, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.64
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.137, power = 0.1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.64
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.209, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.137, power = 0.6
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.109, power = 0.1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+
+TURN 2 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.083), TAKE 984 damage, initiatorPower = 1, targetPower = 0.2
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.74
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.137, power = 0.6
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.109, power = 0.1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.137, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.083, power = 0.2
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+
+TURN 3 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.036), TAKE 3936 damage, initiatorPower = 0.7, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.78
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.76
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.137, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.083, power = 0.2
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.036, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.083, power = 0.7
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+
+TURN 4 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0.011), TAKE 984 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.88
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.036, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.083, power = 0.7
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.011, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.083, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+
+ROUND 12
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] (hp = 0.024), TAKE 2341 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.9
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.011, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.083, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.011, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.024, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+
+TURN 2 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [DarkArcher 60021 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 2341 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[DEAD_FOR_DISPLAY] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[DEAD] [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] => [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0.011, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.024, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.024, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [DarkArcher 60021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [DarkArcher 60021 (TEAM 2, FRONT, POS 1)] hp = 0.024, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+<> STATISTICS:
+[DarkArcher 60021 (TEAM 1, FRONT, POS 1)] DamageDeal = 40971, DamageTaken = 46023.746, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 3b08b831, count = 2
+	[1 (number)] = 19674 (number)
+	[2 (number)] = 21297 (number)
+
+	Damage taken by sources: Dictionary = table: 4c47bae8, count = 2
+	[1 (number)] = 26989 (number)
+	[2 (number)] = 19034.746 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 74aad2f9, count = 13
+	[3001 (number)] = 2459 (number)
+	[6001 (number)] = 2459 (number)
+	[9001 (number)] = 2459 (number)
+	[12001 (number)] = 2341 (number)
+	[2001 (number)] = 4739 (number)
+	[5001 (number)] = 4739 (number)
+	[8001 (number)] = 2459 (number)
+	[11001 (number)] = 3936 (number)
+	[11002 (number)] = 984 (number)
+	[4001 (number)] = 2459 (number)
+	[7001 (number)] = 4739 (number)
+	[1001 (number)] = 2459 (number)
+	[10001 (number)] = 4739 (number)
+
+	Damage taken history: Dictionary = table: 78733d22, count = 23
+	[4002 (number)] = 2651 (number)
+	[8002 (number)] = 2651 (number)
+	[4004 (number)] = 856 (number)
+	[12002 (number)] = 2523.752 (number)
+	[8004 (number)] = 1222.368 (number)
+	[1002 (number)] = 2651 (number)
+	[5002 (number)] = 4038.003 (number)
+	[1004 (number)] = 1071 (number)
+	[9002 (number)] = 2651 (number)
+	[5004 (number)] = 714 (number)
+	[9003 (number)] = 856 (number)
+	[2002 (number)] = 2523.752 (number)
+	[6002 (number)] = 2651 (number)
+	[2004 (number)] = 1222.368 (number)
+	[10002 (number)] = 2523.752 (number)
+	[6005 (number)] = 2457 (number)
+	[6006 (number)] = 714 (number)
+	[3002 (number)] = 2651 (number)
+	[7002 (number)] = 2523.752 (number)
+	[3004 (number)] = 856 (number)
+	[7004 (number)] = 714 (number)
+	[11003 (number)] = 4241.6 (number)
+	[11004 (number)] = 1060.4 (number)
+
+	Effect created history: Dictionary = table: 644db2d, count = 1
+	[40 (number)] = 3 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 4614, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 7725b1f7, count = 1
+	[2 (number)] = 4614 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 553a88f0, count = 1
+	[6005 (number)] = 4614 (number)
+
+	Stat changer debuff created history: Dictionary = table: 34c12558, count = 1
+	[4 (number)] = 120 (number)
+
+[Dark Mage 60016 (TEAM 2, FRONT, POS 2)] DamageDeal = 8325, DamageTaken = 13774.376, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 147c1d5e, count = 2
+	[1 (number)] = 3737 (number)
+	[2 (number)] = 4588 (number)
+
+	Damage taken by sources: Dictionary = table: 4e0cac2f, count = 1
+	[2 (number)] = 13774.376 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 4f70d016, count = 9
+	[9003 (number)] = 793 (number)
+	[3004 (number)] = 793 (number)
+	[6006 (number)] = 662 (number)
+	[5004 (number)] = 662 (number)
+	[8004 (number)] = 2294 (number)
+	[2004 (number)] = 2294 (number)
+	[7004 (number)] = 331 (number)
+	[1004 (number)] = 496 (number)
+	[4004 (number)] = 0 (number)
+
+	Damage taken history: Dictionary = table: 7226d745, count = 6
+	[7001 (number)] = 2523.752 (number)
+	[5001 (number)] = 2523.752 (number)
+	[5003 (number)] = 1222.368 (number)
+	[6004 (number)] = 2457 (number)
+	[10001 (number)] = 2523.752 (number)
+	[2001 (number)] = 2523.752 (number)
+
+	Stat changer buff created history: Dictionary = table: 6c4b2b2, count = 1
+	[1 (number)] = 852 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 4614, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2d821b91, count = 1
+	[2 (number)] = 4614 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 64bb9e57, count = 1
+	[6004 (number)] = 4614 (number)
+
+	Stat changer debuff created history: Dictionary = table: 20e3f17a, count = 1
+	[4 (number)] = 120 (number)
+
+[Dark Mage 60016 (TEAM 1, FRONT, POS 2)] DamageDeal = 5735, DamageTaken = 12472.992, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 31196f6, count = 2
+	[1 (number)] = 3441 (number)
+	[2 (number)] = 2294 (number)
+
+	Damage taken by sources: Dictionary = table: 3ef25b96, count = 1
+	[2 (number)] = 12472.992 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6032339, count = 8
+	[3003 (number)] = 331 (number)
+	[2003 (number)] = 993 (number)
+	[1003 (number)] = 0 (number)
+	[8003 (number)] = 662 (number)
+	[7003 (number)] = 0 (number)
+	[6003 (number)] = 793 (number)
+	[5003 (number)] = 2294 (number)
+	[4003 (number)] = 662 (number)
+
+	Damage taken history: Dictionary = table: 39d46aa2, count = 6
+	[2002 (number)] = 2523.752 (number)
+	[2004 (number)] = 1222.368 (number)
+	[7002 (number)] = 2523.752 (number)
+	[8004 (number)] = 1222.368 (number)
+	[5002 (number)] = 2523.752 (number)
+	[6005 (number)] = 2457 (number)
+
+	Stat changer buff created history: Dictionary = table: 36fdfd48, count = 1
+	[1 (number)] = 426 (number)
+
+[DarkArcher 60021 (TEAM 2, FRONT, POS 1)] DamageDeal = 39978, DamageTaken = 43145.13, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 1aff3eea, count = 2
+	[1 (number)] = 19674 (number)
+	[2 (number)] = 20304 (number)
+
+	Damage taken by sources: Dictionary = table: 5facc67, count = 2
+	[1 (number)] = 26847 (number)
+	[2 (number)] = 16298.128 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 1f613700, count = 13
+	[3002 (number)] = 2459 (number)
+	[6002 (number)] = 2459 (number)
+	[9002 (number)] = 2459 (number)
+	[12002 (number)] = 2341 (number)
+	[5002 (number)] = 6144 (number)
+	[8002 (number)] = 2459 (number)
+	[2002 (number)] = 4739 (number)
+	[11003 (number)] = 3936 (number)
+	[11004 (number)] = 984 (number)
+	[4002 (number)] = 2459 (number)
+	[7002 (number)] = 4739 (number)
+	[1002 (number)] = 2459 (number)
+	[10002 (number)] = 2341 (number)
+
+	Damage taken history: Dictionary = table: 46af9e19, count = 22
+	[4001 (number)] = 2651 (number)
+	[8001 (number)] = 2651 (number)
+	[4003 (number)] = 714 (number)
+	[12001 (number)] = 2523.752 (number)
+	[8003 (number)] = 714 (number)
+	[1001 (number)] = 2651 (number)
+	[5001 (number)] = 2523.752 (number)
+	[1003 (number)] = 714 (number)
+	[9001 (number)] = 2651 (number)
+	[5003 (number)] = 1222.368 (number)
+	[2001 (number)] = 2523.752 (number)
+	[6001 (number)] = 2651 (number)
+	[2003 (number)] = 1071 (number)
+	[10001 (number)] = 2523.752 (number)
+	[6003 (number)] = 856 (number)
+	[6004 (number)] = 2457 (number)
+	[3001 (number)] = 2651 (number)
+	[7001 (number)] = 2523.752 (number)
+	[3003 (number)] = 714 (number)
+	[11001 (number)] = 4241.6 (number)
+	[7003 (number)] = 856 (number)
+	[11002 (number)] = 1060.4 (number)
+
+	Effect created history: Dictionary = table: 2544e048, count = 1
+	[40 (number)] = 3 (number)
+
+
+<> WINNER: 2

@@ -1,0 +1,3424 @@
+
+<> SEED = 920268507
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 126
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 2385
+defense = 310
+hp = 33285/33285
+speed = 55
+critRate = 0.1
+critDamage = 1.5
+accuracy = 998
+dodge = 898
+pureDamage = 0
+skillDamage = 0.47
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 2b12053a, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 2384644a, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 45ba7bd5, type = 401, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3ceda340, type = 431, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 19dc0e4c, type = 403, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 2385
+defense = 310
+hp = 33285/33285
+speed = 55
+critRate = 0.1
+critDamage = 1.5
+accuracy = 998
+dodge = 898
+pureDamage = 0
+skillDamage = 0.47
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 7cbc8a1, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 11b96f5e, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 401f298a, type = 401, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2dced761, type = 431, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 76d4a32, type = 403, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 3036
+defense = 310
+hp = 26628/26628
+speed = 55
+critRate = 0.1
+critDamage = 1.5
+accuracy = 998
+dodge = 898
+pureDamage = 0
+skillDamage = 0.47
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 4c44598b, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 740068ee, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 5c5f0703, type = 401, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1cfb4971, type = 431, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 176ae1d8, type = 401, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 2385
+defense = 310
+hp = 33285/33285
+speed = 55
+critRate = 0.1
+critDamage = 1.5
+accuracy = 998
+dodge = 898
+pureDamage = 0
+skillDamage = 0.47
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 21eeea78, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 67189ff5, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 7b826681, type = 401, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1250c8ba, type = 431, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 52d82c1, type = 403, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 2385
+defense = 310
+hp = 33285/33285
+speed = 55
+critRate = 0.1
+critDamage = 1.5
+accuracy = 998
+dodge = 898
+pureDamage = 0
+skillDamage = 0.47
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: fa141e7, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 1b204db1, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 5e8453a, type = 401, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1e23a84d, type = 431, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 67ff85f7, type = 403, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 2385
+defense = 310
+hp = 33285/33285
+speed = 55
+critRate = 0.1
+critDamage = 1.5
+accuracy = 998
+dodge = 898
+pureDamage = 0
+skillDamage = 0.47
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 25cf712, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 45dab3f6, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 46b80ac0, type = 401, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1e88bec4, type = 431, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 1b887c17, type = 403, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 0.933), TAKE 2220 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.933, power = 0.6
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0.933), TAKE 2220 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.933, power = 0.6
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.933, power = 1
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.933, power = 0.6
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 0.867), TAKE 2220 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.933, power = 1
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.933, power = 0.6
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.933, power = 1
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.867, power = 0.7
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 0.782), TAKE 2826 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.16
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.933, power = 1
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.867, power = 0.7
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.933, power = 1
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.782, power = 0.8
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 5 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0.867), TAKE 2220 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.933, power = 1
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.782, power = 0.8
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.867, power = 1
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.782, power = 1
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 6 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0.8), TAKE 2220 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.867, power = 1
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.782, power = 1
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.8, power = 1
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.782, power = 1
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 0.602), TAKE 5972 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.88), TAKE 3981 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.4
+
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.88), TAKE 3981 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+[RESIST_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0.8), effectType = 200
+
+
+[RESIST_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0.8), effectType = 200
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.8, power = 1
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.782, power = 1
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.8, power = 0
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.602, power = 1
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.88, power = 1
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.88, power = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 0.423), TAKE 5972 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.761), TAKE 3981 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.761), TAKE 3981 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+[RESIST_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 1), effectType = 200
+
+
+[RESIST_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 1), effectType = 200
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.8, power = 0
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.602, power = 1
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.88, power = 1
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.88, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.8, power = 0
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.423, power = 1
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.761, power = 1
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.761, power = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0.68), TAKE 3981 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 0.88), TAKE 3981 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 0.85), TAKE 3981 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[RESIST_EFFECT] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.761), effectType = 200
+
+
+[RESIST_EFFECT] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.761), effectType = 200
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.8, power = 0
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.423, power = 1
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.761, power = 1
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.761, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.68, power = 0.1
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.88, power = 0.1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.85, power = 1
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.423, power = 1
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.761, power = 0
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.761, power = 1
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0.561), TAKE 3981 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 0.761), TAKE 3981 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 0.731), TAKE 3184 damage, initiatorPower = 0, targetPower = 1
+[Skishil 60014 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[RESIST_EFFECT] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 0.423), effectType = 200
+
+
+[RESIST_EFFECT] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 0.423), effectType = 200
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.68, power = 0.1
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.88, power = 0.1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.85, power = 1
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.423, power = 1
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.761, power = 0
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.761, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 0.2
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.761, power = 0.2
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.731, power = 1
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.423, power = 0
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.761, power = 0
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.761, power = 1
+
+
+TURN 5 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 0.271), TAKE 5067 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.5
+
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.609), TAKE 5067 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.52
+
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.609), TAKE 5067 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.54
+
+
+[RESIST_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 0.731), effectType = 200
+
+
+[RESIST_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 0.731), effectType = 200
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 0.2
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.761, power = 0.2
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.731, power = 1
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.423, power = 0
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.761, power = 0
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.761, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 0.2
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.761, power = 0.2
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.731, power = 0
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.271, power = 0.1
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.609, power = 0.1
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.609, power = 1
+
+
+TURN 6 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0.441), TAKE 3981 damage, initiatorPower = 0, targetPower = 0.3
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 0.641), TAKE 3981 damage, initiatorPower = 0, targetPower = 0.3
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 0.611), TAKE 3184 damage, initiatorPower = 0, targetPower = 0.1
+[Skishil 60014 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[RESIST_EFFECT] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.609), effectType = 200
+
+
+[RESIST_EFFECT] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.609), effectType = 200
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 0.2
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.761, power = 0.2
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.731, power = 0
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.271, power = 0.1
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.609, power = 0.1
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.609, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.441, power = 0.3
+- EFFECTS:
+id = table: 6bc1a32c, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.3
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 0.1
+- EFFECTS:
+id = table: 74999cb9, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.271, power = 0.1
+- EFFECTS:
+id = table: 729dd364, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.609, power = 0.1
+- EFFECTS:
+id = table: 44bb5da2, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.609, power = 0
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0.441), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 0.611), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 0.271), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.609), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 0.204), TAKE 2220 damage, initiatorPower = 0.8, targetPower = 0.2
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.64
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.441, power = 0.3
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.3
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 0.1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.271, power = 0.1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.609, power = 0.1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.609, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.441, power = 0.8
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.3
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 0.1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.204, power = 0.2
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.609, power = 0.1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.609, power = 0
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0.374), TAKE 2220 damage, initiatorPower = 0.7, targetPower = 0.9
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.441, power = 0.8
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.3
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 0.1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.204, power = 0.2
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.609, power = 0.1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.609, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.374, power = 0.9
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.3
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 0.1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.204, power = 0.7
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.609, power = 0.1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.609, power = 0
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0.308), TAKE 2220 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.76
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0.308), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.374, power = 0.9
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.3
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 0.1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.204, power = 0.7
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.609, power = 0.1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.609, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.308, power = 1
+- EFFECTS:
+id = table: 7b092e60, type = 1, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.3
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 0.1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.204, power = 0.7
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.609, power = 0.6
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.609, power = 0
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 0.119), TAKE 2826 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.78
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.308, power = 1
+- EFFECTS:
+id = table: 7b092e60, type = 1, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.3
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 0.1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.204, power = 0.7
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.609, power = 0.6
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.609, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.308, power = 1
+- EFFECTS:
+id = table: 7b092e60, type = 1, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.3
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 0.6
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.119, power = 0.8
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.609, power = 0.6
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.609, power = 0
+
+
+TURN 5 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 0.052), TAKE 2220 damage, initiatorPower = 0.8, targetPower = 0.9
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.88
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.8
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.308, power = 1
+- EFFECTS:
+id = table: 7b092e60, type = 1, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.3
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 0.6
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.119, power = 0.8
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.609, power = 0.6
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.609, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.308, power = 1
+- EFFECTS:
+id = table: 7b092e60, type = 1, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.8
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 0.6
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.052, power = 0.9
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.609, power = 0.6
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.609, power = 0
+
+
+TURN 6 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0.208), TAKE 3330 damage, initiatorPower = 0.5, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.9
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.9
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.308, power = 1
+- EFFECTS:
+id = table: 7b092e60, type = 1, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.8
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 0.6
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.052, power = 0.9
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.609, power = 0.6
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.609, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.208, power = 1
+- EFFECTS:
+id = table: 7b092e60, type = 1, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.8
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 0.6
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.052, power = 0.9
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.609, power = 0.6
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.609, power = 0.5
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 2220 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.92
+
+
+[DEAD_FOR_DISPLAY] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.208, power = 1
+- EFFECTS:
+id = table: 7b092e60, type = 1, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.8
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 0.6
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0.052, power = 0.9
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.609, power = 0.6
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.609, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.208, power = 1
+- EFFECTS:
+id = table: 7b092e60, type = 1, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 0.6
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.92
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.609, power = 0.6
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.609, power = 0.5
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.54), TAKE 2287 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.94
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.54), TAKE 2287 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.96
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.54), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.54), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.208, power = 1
+- EFFECTS:
+id = table: 7b092e60, type = 1, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 0.6
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.92
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.609, power = 0.6
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.609, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.208, power = 1
+- EFFECTS:
+id = table: 7b092e60, type = 1, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 0.6
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.54, power = 0.7
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.54, power = 0.6
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.455), TAKE 2826 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.208, power = 1
+- EFFECTS:
+id = table: 7b092e60, type = 1, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 0.6
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.54, power = 0.7
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.54, power = 0.6
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.208, power = 1
+- EFFECTS:
+id = table: 7b092e60, type = 1, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.455, power = 0.8
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.54, power = 0.6
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0.108), TAKE 3330 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.208, power = 1
+- EFFECTS:
+id = table: 7b092e60, type = 1, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.455, power = 0.8
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.54, power = 0.6
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.108, power = 1
+- EFFECTS:
+id = table: 7b092e60, type = 1, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.455, power = 1
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.54, power = 0.6
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0.039), TAKE 2287 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 0.572), TAKE 2287 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 0.482), TAKE 3431 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.18
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0.039), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 0.572), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 0.482), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.108, power = 1
+- EFFECTS:
+id = table: 7b092e60, type = 1, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.611, power = 1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.455, power = 1
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.54, power = 0.6
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.039, power = 1
+- EFFECTS:
+id = table: 7b092e60, type = 1, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 361173b9, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.572, power = 1
+- EFFECTS:
+id = table: 4d92135, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.482, power = 1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: c32058d, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.455, power = 1
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.54, power = 0.6
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 6 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 2220 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[DEAD_FOR_DISPLAY] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0.039, power = 1
+- EFFECTS:
+id = table: 7b092e60, type = 1, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 361173b9, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.572, power = 1
+- EFFECTS:
+id = table: 4d92135, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.482, power = 1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: c32058d, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.455, power = 1
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.54, power = 0.6
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.572, power = 1
+- EFFECTS:
+id = table: 4d92135, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.482, power = 1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: c32058d, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.455, power = 1
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.54, power = 1
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.335), TAKE 3981 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.42), TAKE 3981 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.335), type = 200, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.42), type = 200, persistentType = 1, isBuff = false
+
+
+[BOND_CREATED] bondType = 3, remainingRound = 2, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], ([Skishil 60014 (TEAM 2, FRONT, POS 2)] - [Skishil 60014 (TEAM 2, FRONT, POS 3)])
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.572, power = 1
+- EFFECTS:
+id = table: 4d92135, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.482, power = 1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: c32058d, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.455, power = 1
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.54, power = 1
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.572, power = 0
+- EFFECTS:
+id = table: 4d92135, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.482, power = 1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: c32058d, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.335, power = 1
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 45bdf478, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.42, power = 1
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 788cdbcd, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 0.453), TAKE 3981 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 0.333), TAKE 3981 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 0.453), type = 200, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 0.333), type = 200, persistentType = 1, isBuff = false
+
+
+[BOND_CREATED] bondType = 3, remainingRound = 2, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], ([Skishil 60014 (TEAM 1, FRONT, POS 2)] - [Skishil 60014 (TEAM 1, BACK, POS 1)])
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.572, power = 0
+- EFFECTS:
+id = table: 4d92135, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.482, power = 1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: c32058d, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.335, power = 1
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 45bdf478, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.42, power = 1
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 788cdbcd, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.453, power = 0.1
+- EFFECTS:
+id = table: 4d92135, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 35118d60, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.333, power = 1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: c32058d, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 2913f822, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.335, power = 0
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 45bdf478, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.42, power = 1
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 788cdbcd, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.259), TAKE 2533 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.16
+
+
+[BOND_SHARE_DAMAGE] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.344), TAKE 2533 damage (bondType = 3)
+
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.268), TAKE 2533 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.18
+
+
+[BOND_SHARE_DAMAGE] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.183), TAKE 2533 damage (bondType = 3)
+
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.183), type = 200, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.268), type = 200, persistentType = 1, isBuff = false
+
+
+[BOND_CREATED] bondType = 3, remainingRound = 2, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], ([Skishil 60014 (TEAM 2, FRONT, POS 2)] - [Skishil 60014 (TEAM 2, FRONT, POS 3)])
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.453, power = 0.1
+- EFFECTS:
+id = table: 4d92135, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 35118d60, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.333, power = 1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: c32058d, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 2913f822, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.335, power = 0
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 45bdf478, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.42, power = 1
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 788cdbcd, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.453, power = 0.1
+- EFFECTS:
+id = table: 4d92135, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 35118d60, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.333, power = 0
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: c32058d, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 2913f822, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.183, power = 0.1
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 45bdf478, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+id = table: 327d74c, type = 200, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.268, power = 1
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 788cdbcd, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+id = table: 1d6b3656, type = 200, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+TURN 4 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 0.393), TAKE 1990 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[BOND_SHARE_DAMAGE] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 0.258), TAKE 1990 damage (bondType = 3)
+
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 0.146), TAKE 2986 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[BOND_SHARE_DAMAGE] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 0.303), TAKE 2986 damage (bondType = 3)
+
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 0.303), type = 200, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 0.146), type = 200, persistentType = 1, isBuff = false
+
+
+[BOND_CREATED] bondType = 3, remainingRound = 2, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 3)], ([Skishil 60014 (TEAM 1, FRONT, POS 2)] - [Skishil 60014 (TEAM 1, BACK, POS 1)])
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.453, power = 0.1
+- EFFECTS:
+id = table: 4d92135, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 35118d60, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.333, power = 0
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: c32058d, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 2913f822, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.183, power = 0.1
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 45bdf478, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+id = table: 327d74c, type = 200, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.268, power = 1
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 788cdbcd, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+id = table: 1d6b3656, type = 200, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.303, power = 0.2
+- EFFECTS:
+id = table: 4d92135, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 35118d60, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+id = table: 24a8c216, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.146, power = 0.1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: c32058d, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 2913f822, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+id = table: 12ccec49, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.183, power = 0.1
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 45bdf478, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+id = table: 327d74c, type = 200, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.268, power = 0
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 788cdbcd, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+id = table: 1d6b3656, type = 200, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.166), TAKE 555 damage, initiatorPower = 0.7, targetPower = 0.2
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.2
+
+
+[BOND_SHARE_DAMAGE] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.235), TAKE 1110 damage (bondType = 3)
+
+
+[BOND_SHARE_DAMAGE] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.218), TAKE 555 damage (bondType = 3)
+
+
+[ADD_EFFECT] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.166), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.303, power = 0.2
+- EFFECTS:
+id = table: 4d92135, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 35118d60, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 24a8c216, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.146, power = 0.1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: c32058d, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 2913f822, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 12ccec49, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.183, power = 0.1
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 45bdf478, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 327d74c, type = 200, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.268, power = 0
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 788cdbcd, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1d6b3656, type = 200, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.303, power = 0.7
+- EFFECTS:
+id = table: 4d92135, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 35118d60, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 24a8c216, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.146, power = 0.1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: c32058d, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 2913f822, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 12ccec49, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.2
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.166, power = 0.2
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 45bdf478, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 327d74c, type = 200, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 2f6cc4eb, type = 1, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.218, power = 0
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 788cdbcd, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1d6b3656, type = 200, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.145), TAKE 706 damage, initiatorPower = 0.6, targetPower = 0.3
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[BOND_SHARE_DAMAGE] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.176), TAKE 1413 damage (bondType = 3)
+
+
+[BOND_SHARE_DAMAGE] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.154), TAKE 706 damage (bondType = 3)
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.303, power = 0.7
+- EFFECTS:
+id = table: 4d92135, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 35118d60, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 24a8c216, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.146, power = 0.1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: c32058d, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 2913f822, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 12ccec49, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.2
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.166, power = 0.2
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 45bdf478, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 327d74c, type = 200, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 2f6cc4eb, type = 1, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.218, power = 0
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 788cdbcd, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1d6b3656, type = 200, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.303, power = 0.7
+- EFFECTS:
+id = table: 4d92135, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 35118d60, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 24a8c216, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.146, power = 0.6
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: c32058d, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 2913f822, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 12ccec49, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.145, power = 0.3
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 45bdf478, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 327d74c, type = 200, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 2f6cc4eb, type = 1, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.154, power = 0
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 788cdbcd, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1d6b3656, type = 200, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 0.278), TAKE 832 damage, initiatorPower = 0.5, targetPower = 0.8 (CRIT)
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+[BOND_SHARE_DAMAGE] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 0.084), TAKE 1665 damage (bondType = 3)
+
+
+[BOND_SHARE_DAMAGE] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 0.052), TAKE 832 damage (bondType = 3)
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.303, power = 0.7
+- EFFECTS:
+id = table: 4d92135, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 35118d60, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 24a8c216, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.146, power = 0.6
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: c32058d, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 2913f822, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 12ccec49, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.145, power = 0.3
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 45bdf478, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 327d74c, type = 200, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 2f6cc4eb, type = 1, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.154, power = 0
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 788cdbcd, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1d6b3656, type = 200, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.278, power = 0.8
+- EFFECTS:
+id = table: 4d92135, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 35118d60, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 24a8c216, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.052, power = 0.6
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: c32058d, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 2913f822, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 12ccec49, type = 200, initiator = [Skishil 60014 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.145, power = 0.3
+- EFFECTS:
+id = table: 6b5c77f4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 45bdf478, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 327d74c, type = 200, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 2f6cc4eb, type = 1, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.154, power = 0.5
+- EFFECTS:
+id = table: 6db48e55, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 788cdbcd, type = 200, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1d6b3656, type = 200, initiator = [Skishil 60014 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+---------- AFTER ROUND 6 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 0.278), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 0.278), type = 200, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 0.278), type = 200, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 0.052), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 0.052), type = 200, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 1, BACK, POS 1)] (hp = 0.052), type = 200, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.145), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.145), type = 200, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.145), type = 200, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.154), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.154), type = 200, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.154), type = 200, persistentType = 1, isBuff = false
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0.079), TAKE 2220 damage, initiatorPower = 1, targetPower = 0.4
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.6
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.278, power = 0.8
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.052, power = 0.6
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.145, power = 0.3
+- EFFECTS:
+id = table: 2f6cc4eb, type = 1, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.154, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.278, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.052, power = 0.6
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 0.4
+- EFFECTS:
+id = table: 2f6cc4eb, type = 1, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.154, power = 0.5
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0), TAKE 2826 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.7
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[DEAD_FOR_DISPLAY] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 1
+
+
+[DEAD] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.278, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.052, power = 0.6
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0.079, power = 0.4
+- EFFECTS:
+id = table: 2f6cc4eb, type = 1, initiator = [Skishil 60014 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.154, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.278, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.052, power = 1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.154, power = 0.5
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [Skishil 60014 (TEAM 1, FRONT, POS 2)] (hp = 0.212), TAKE 2220 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.72
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.278, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.052, power = 1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.154, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.212, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.052, power = 1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.154, power = 1
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 1, FRONT, POS 2)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0.035), TAKE 3981 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.212, power = 1
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.052, power = 1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.154, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.212, power = 0
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.052, power = 1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.035, power = 1
+
+
+TURN 2 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skishil 60014 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0), TAKE 5067 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Skishil 60014 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.5
+
+
+[DEAD_FOR_DISPLAY] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0), reason = 2
+
+
+[DEAD] [Skishil 60014 (TEAM 1, BACK, POS 1)] => [Skishil 60014 (TEAM 2, FRONT, POS 3)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.212, power = 0
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.052, power = 1
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0.035, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.212, power = 0
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.052, power = 0
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 1, FRONT, POS 2)] hp = 0.212, power = 0
+
+> [Skishil 60014 (TEAM 1, BACK, POS 1)] hp = 0.052, power = 0
+- EFFECTS:
+id = table: 2e00deeb, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Skishil 60014 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+<> STATISTICS:
+[SummonerMage (TEAM 2)] DamageDeal = 8005, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 6bf19ed6, count = 1
+	[2 (number)] = 8005 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 9ab59cc, count = 1
+	[4005 (number)] = 8005 (number)
+
+	Effect created history: Dictionary = table: 7c704214, count = 1
+	[501 (number)] = 4 (number)
+
+	Stat changer debuff created history: Dictionary = table: 35728aed, count = 1
+	[4 (number)] = 180 (number)
+
+[Skishil 60014 (TEAM 2, FRONT, POS 1)] DamageDeal = 15586, DamageTaken = 36269.46, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5292b5bb, count = 2
+	[1 (number)] = 4440 (number)
+	[2 (number)] = 11146 (number)
+
+	Damage taken by sources: Dictionary = table: 124e31c, count = 2
+	[1 (number)] = 17997 (number)
+	[2 (number)] = 18272.463 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 7f3a71ce, count = 3
+	[2004 (number)] = 11146 (number)
+	[1005 (number)] = 2220 (number)
+	[3002 (number)] = 2220 (number)
+
+	Damage taken history: Dictionary = table: 5e3ea926, count = 10
+	[3001 (number)] = 2385 (number)
+	[3004 (number)] = 3036 (number)
+	[3005 (number)] = 2385 (number)
+	[2001 (number)] = 6414.457 (number)
+	[2002 (number)] = 6414.457 (number)
+	[2005 (number)] = 5443.548 (number)
+	[1001 (number)] = 2385 (number)
+	[4001 (number)] = 2385 (number)
+	[1003 (number)] = 2385 (number)
+	[1004 (number)] = 3036 (number)
+
+[Skishil 60014 (TEAM 1, BACK, POS 1)] DamageDeal = 44529, DamageTaken = 27205.178, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 19c6e037, count = 3
+	[1 (number)] = 12010 (number)
+	[2 (number)] = 25334 (number)
+	[32 (number)] = 7185 (number)
+
+	Damage taken by sources: Dictionary = table: 3f5cdc10, count = 1
+	[2 (number)] = 27205.178 (number)
+
+	NumberKill = 2, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 13c47e34, count = 8
+	[3004 (number)] = 2826 (number)
+	[8002 (number)] = 5067 (number)
+	[7002 (number)] = 2826 (number)
+	[1004 (number)] = 2826 (number)
+	[2005 (number)] = 15201 (number)
+	[6002 (number)] = 2825 (number)
+	[5003 (number)] = 10132 (number)
+	[4003 (number)] = 2826 (number)
+
+	Damage taken history: Dictionary = table: 389882f3, count = 6
+	[2003 (number)] = 4276.305 (number)
+	[4005 (number)] = 3685.5 (number)
+	[2004 (number)] = 4276.305 (number)
+	[2006 (number)] = 4276.305 (number)
+	[5002 (number)] = 4276.305 (number)
+	[5004 (number)] = 6414.457 (number)
+
+	Effect created history: Dictionary = table: 16710a8f, count = 1
+	[200 (number)] = 4 (number)
+
+[Skishil 60014 (TEAM 2, FRONT, POS 3)] DamageDeal = 34417, DamageTaken = 35892.863, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4f94f80d, count = 3
+	[1 (number)] = 10822 (number)
+	[2 (number)] = 16122 (number)
+	[32 (number)] = 7473 (number)
+
+	Damage taken by sources: Dictionary = table: 7f110a15, count = 1
+	[2 (number)] = 35892.863 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 3e2901e, count = 7
+	[4006 (number)] = 2220 (number)
+	[3006 (number)] = 3330 (number)
+	[7003 (number)] = 2220 (number)
+	[2006 (number)] = 11146 (number)
+	[6003 (number)] = 3329 (number)
+	[1006 (number)] = 2220 (number)
+	[5004 (number)] = 9952 (number)
+
+	Damage taken history: Dictionary = table: 1dd9c79f, count = 8
+	[2002 (number)] = 4276.305 (number)
+	[8001 (number)] = 4276.305 (number)
+	[8002 (number)] = 5443.548 (number)
+	[2005 (number)] = 5443.548 (number)
+	[5001 (number)] = 4276.305 (number)
+	[4002 (number)] = 2457 (number)
+	[5003 (number)] = 5443.548 (number)
+	[2001 (number)] = 4276.305 (number)
+
+	Effect created history: Dictionary = table: 75e500b9, count = 1
+	[200 (number)] = 4 (number)
+
+[Skishil 60014 (TEAM 1, FRONT, POS 2)] DamageDeal = 36977, DamageTaken = 29801.025, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 253edb2, count = 3
+	[1 (number)] = 9435 (number)
+	[2 (number)] = 25877 (number)
+	[32 (number)] = 1665 (number)
+
+	Damage taken by sources: Dictionary = table: 1526ff86, count = 2
+	[1 (number)] = 5962.5 (number)
+	[2 (number)] = 23838.525 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 46103782, count = 8
+	[2002 (number)] = 13934 (number)
+	[8001 (number)] = 3981 (number)
+	[7001 (number)] = 2220 (number)
+	[3005 (number)] = 2220 (number)
+	[1003 (number)] = 2220 (number)
+	[6001 (number)] = 2220 (number)
+	[5001 (number)] = 7962 (number)
+	[4001 (number)] = 2220 (number)
+
+	Damage taken history: Dictionary = table: 1bad1731, count = 8
+	[2003 (number)] = 4276.305 (number)
+	[4005 (number)] = 2457 (number)
+	[2004 (number)] = 4276.305 (number)
+	[7003 (number)] = 2385 (number)
+	[2006 (number)] = 4276.305 (number)
+	[5002 (number)] = 4276.305 (number)
+	[6003 (number)] = 3577.5 (number)
+	[5004 (number)] = 4276.305 (number)
+
+	Effect created history: Dictionary = table: 68e578b, count = 2
+	[200 (number)] = 4 (number)
+	[1 (number)] = 2 (number)
+
+[Skishil 60014 (TEAM 2, FRONT, POS 2)] DamageDeal = 27675, DamageTaken = 40051.01, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 24f64213, count = 2
+	[1 (number)] = 7770 (number)
+	[2 (number)] = 19905 (number)
+
+	Damage taken by sources: Dictionary = table: 639ddd28, count = 2
+	[1 (number)] = 13878 (number)
+	[2 (number)] = 26173.012 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 10fa5af5, count = 5
+	[4004 (number)] = 3330 (number)
+	[3003 (number)] = 2220 (number)
+	[2003 (number)] = 11943 (number)
+	[1002 (number)] = 2220 (number)
+	[5002 (number)] = 7962 (number)
+
+	Damage taken history: Dictionary = table: 64bc656e, count = 11
+	[6001 (number)] = 2385 (number)
+	[6002 (number)] = 3036 (number)
+	[2001 (number)] = 4276.305 (number)
+	[5001 (number)] = 4276.305 (number)
+	[2002 (number)] = 4276.305 (number)
+	[5003 (number)] = 5443.548 (number)
+	[2005 (number)] = 5443.548 (number)
+	[7001 (number)] = 2385 (number)
+	[4002 (number)] = 2457 (number)
+	[7002 (number)] = 3036 (number)
+	[4003 (number)] = 3036 (number)
+
+	Effect created history: Dictionary = table: 724c5530, count = 2
+	[1 (number)] = 2 (number)
+	[200 (number)] = 4 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 4574, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 7fb5b2cc, count = 1
+	[2 (number)] = 4574 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 3d5a723d, count = 1
+	[4002 (number)] = 4574 (number)
+
+	Effect created history: Dictionary = table: 3a4af7ed, count = 2
+	[501 (number)] = 4 (number)
+	[112 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: 2abfd041, count = 1
+	[4 (number)] = 120 (number)
+
+[Skishil 60014 (TEAM 1, FRONT, POS 1)] DamageDeal = 18374, DamageTaken = 36750.914, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 78ce3408, count = 2
+	[1 (number)] = 4440 (number)
+	[2 (number)] = 13934 (number)
+
+	Damage taken by sources: Dictionary = table: 16eb7ab6, count = 2
+	[1 (number)] = 21465 (number)
+	[2 (number)] = 15285.915 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 7bf31219, count = 3
+	[2001 (number)] = 13934 (number)
+	[3001 (number)] = 2220 (number)
+	[1001 (number)] = 2220 (number)
+
+	Damage taken history: Dictionary = table: 2f9ae8fe, count = 12
+	[1005 (number)] = 2385 (number)
+	[4005 (number)] = 2457 (number)
+	[1006 (number)] = 2385 (number)
+	[4006 (number)] = 2385 (number)
+	[3002 (number)] = 2385 (number)
+	[3003 (number)] = 2385 (number)
+	[3006 (number)] = 3577.5 (number)
+	[2003 (number)] = 4276.305 (number)
+	[2004 (number)] = 4276.305 (number)
+	[2006 (number)] = 4276.305 (number)
+	[1002 (number)] = 2385 (number)
+	[4004 (number)] = 3577.5 (number)
+
+
+<> WINNER: 1

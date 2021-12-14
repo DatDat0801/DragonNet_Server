@@ -1,0 +1,1522 @@
+
+<> SEED = 749530028
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 41
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 4
+attack = 3102
+defense = 403
+hp = 43270/43270
+speed = 61
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1098
+dodge = 988
+pureDamage = 0
+skillDamage = 0.47
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 5f9bb737, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 21f43d47, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 147dad0c, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3902babe, type = 431, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 456d17fa, type = 403, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 2
+attack = 4765
+defense = 524
+hp = 45001/45001
+speed = 87
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1087
+pureDamage = 0.15
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 42504326, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6e2bc698, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 41a3dc4b, type = 430, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1e2490f3, type = 404, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 3bbc9c90, type = 401, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 4
+attack = 3102
+defense = 403
+hp = 43270/43270
+speed = 61
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1098
+dodge = 988
+pureDamage = 0
+skillDamage = 0.47
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 5e2db962, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 311c6336, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: b05deee, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 38509045, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 43702f05, type = 431, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 6e02bb39, type = 403, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 1
+attack = 1247
+defense = 165
+hp = 14422/14422
+speed = 57
+critRate = 0.2
+critDamage = 1.5
+accuracy = 1129
+dodge = 1063
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 1127f18e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 34f0afea, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 4ad4cd88, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6451fedd, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 556f9242, type = 402, initiator = [Cold Axe 10001 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 2b9311ed, type = 401, initiator = [Cold Axe 10001 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 4747319a, type = 410, initiator = [Cold Axe 10001 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 81ec389, type = 401, initiator = [Cold Axe 10001 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, BACK, POS 1)] => [Cold Axe 10001 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 1), type = 404, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Cold Axe 10001 (TEAM 2, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Cold Axe 10001 (TEAM 2, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Cold Axe 10001 (TEAM 2, BACK, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Cold Axe 10001 (TEAM 2, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, BACK, POS 1)] => [Cold Axe 10001 (TEAM 2, BACK, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, BACK, POS 1)] => [Cold Axe 10001 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, BACK, POS 1)] => [Cold Axe 10001 (TEAM 2, BACK, POS 1)] (hp = 1), type = 410, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Icarus 20001 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 1), TAKE 0 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[MAGIC_SHIELD] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 1), reason = 1, damage = 0
+
+
+[RESIST_EFFECT] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 1), effectType = 12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5e2db962, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1127f18e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 34f0afea, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.6
+- EFFECTS:
+id = table: 5e2db962, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1127f18e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 34f0afea, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Yang 40005 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 1), TAKE 0 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[MAGIC_SHIELD] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 1), reason = 1, damage = 0
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 1), power = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.6
+- EFFECTS:
+id = table: 5e2db962, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1127f18e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 34f0afea, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.7
+- EFFECTS:
+id = table: 5e2db962, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1127f18e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 34f0afea, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Yang 40005 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 1), TAKE 0 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[MAGIC_SHIELD] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 1), reason = 1, damage = 0
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 1), power = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.7
+- EFFECTS:
+id = table: 5e2db962, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1127f18e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 34f0afea, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5e2db962, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1127f18e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 34f0afea, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Cold Axe 10001 (TEAM 2, BACK, POS 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 1), TAKE 0 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[MAGIC_SHIELD] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, BACK, POS 1)] (hp = 1), reason = 1, damage = 0
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5e2db962, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1127f18e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 34f0afea, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5e2db962, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1127f18e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 34f0afea, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Icarus 20001 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 1), TAKE 0 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[MAGIC_SHIELD] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 1), reason = 2, damage = 0
+
+
+[>>> ACTIVE_SKILL <<<] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Cold Axe 10001 (TEAM 2, BACK, POS 1)] (hp = 0.566), TAKE 6262 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[RESIST_EFFECT] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 1), effectType = 20
+
+
+[RESIST_EFFECT] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 1), effectType = 12
+
+
+[RESIST_EFFECT] [Cold Axe 10001 (TEAM 2, BACK, POS 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 1), effectType = 20
+
+
+[RESIST_EFFECT] [Cold Axe 10001 (TEAM 2, BACK, POS 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 1), effectType = 12
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, BACK, POS 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 0.914), TAKE 3882 damage
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, BACK, POS 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 0.914), type = 2, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 51, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5e2db962, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1127f18e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 34f0afea, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.03, changerType = 3, multiplier = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.914, power = 0
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 55ff2e8, type = 2, initiator = [Cold Axe 10001 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 498.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5e2db962, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 367087d7, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.03, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0.566, power = 1
+- EFFECTS:
+id = table: 1127f18e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 34f0afea, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Yang 40005 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.84), TAKE 6914 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, BACK, POS 1)] (hp = 0), TAKE 8491 damage, initiatorPower = 0, targetPower = 0 (CRIT)
+[Cold Axe 10001 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[DEAD_FOR_DISPLAY] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, BACK, POS 1)] (hp = 0), reason = 2
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, BACK, POS 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 1), TAKE 0 damage
+
+
+[MAGIC_SHIELD] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, BACK, POS 1)] (hp = 0), reason = 21, damage = 0
+
+
+[HEAL] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 1), HEAL 1593 hp, reason = 1
+
+
+[ADD_EFFECT] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 510, persistentType = 1, isBuff = true
+
+
+[DEAD] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, BACK, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.03, changerType = 3, multiplier = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.914, power = 0
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 55ff2e8, type = 2, initiator = [Cold Axe 10001 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 498.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5e2db962, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 367087d7, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.03, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0.566, power = 1
+- EFFECTS:
+id = table: 1127f18e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 34f0afea, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.06, changerType = 3, multiplier = 1
+id = table: 4845bb62, type = 510, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, HEAL_AMOUNT = 1593
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.914, power = 0
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 55ff2e8, type = 2, initiator = [Cold Axe 10001 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 498.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 0.84, power = 1
+- EFFECTS:
+id = table: 5e2db962, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 367087d7, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.06, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 1127f18e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Yang 40005 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 0.836), TAKE 7099 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 0.767), TAKE 5614 damage, initiatorPower = 0, targetPower = 0.1
+[Icarus 20001 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[BREAK_FREEZE] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 0.767), TAKE 997 damage
+
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 2, BACK, POS 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 0.767), type = 2, persistentType = 1, isBuff = false
+
+
+[HEAL] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.878), HEAL 1635 hp, reason = 1
+
+
+[ADD_EFFECT] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.878), type = 510, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.06, changerType = 3, multiplier = 1
+id = table: 4845bb62, type = 510, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, HEAL_AMOUNT = 1593
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.914, power = 0
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 55ff2e8, type = 2, initiator = [Cold Axe 10001 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 498.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 0.84, power = 1
+- EFFECTS:
+id = table: 5e2db962, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 367087d7, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.06, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 1127f18e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 0.836, power = 0.1
+- EFFECTS:
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+id = table: 4845bb62, type = 510, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, HEAL_AMOUNT = 1593
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.767, power = 0.1
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 0.878, power = 0
+- EFFECTS:
+id = table: 5e2db962, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 367087d7, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+id = table: 38fbac83, type = 510, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, HEAL_AMOUNT = 1635.5
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 1127f18e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.878), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 3 ----------
+
+[HEAL] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 0.873), HEAL 1593 hp, reason = 2
+
+
+[HEAL] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.916), HEAL 1635 hp, reason = 2
+
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Icarus 20001 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.767), TAKE 6430 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[ADD_EFFECT] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.767), type = 12, persistentType = 1, isBuff = false
+
+
+[BURN_EFFECT] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.731), TAKE 1572 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 0.873, power = 0.1
+- EFFECTS:
+id = table: 4845bb62, type = 510, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, HEAL_AMOUNT = 1593
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.767, power = 0.1
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 0.916, power = 0
+- EFFECTS:
+id = table: 38fbac83, type = 510, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, HEAL_AMOUNT = 1635.5
+id = table: 367087d7, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 0.873, power = 0.1
+- EFFECTS:
+id = table: 4845bb62, type = 510, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, HEAL_AMOUNT = 1593
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.767, power = 0.6
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 0.731, power = 0.1
+- EFFECTS:
+id = table: 38fbac83, type = 510, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, HEAL_AMOUNT = 1635.5
+id = table: 367087d7, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+id = table: 4249c1c6, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.15
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Yang 40005 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.659), TAKE 3096 damage, initiatorPower = 0.6, targetPower = 0.2
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 0.873), power = 0.7
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 0.873, power = 0.1
+- EFFECTS:
+id = table: 4845bb62, type = 510, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, HEAL_AMOUNT = 1593
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.767, power = 0.6
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 0.731, power = 0.1
+- EFFECTS:
+id = table: 38fbac83, type = 510, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, HEAL_AMOUNT = 1635.5
+id = table: 367087d7, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+id = table: 4249c1c6, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.15
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 0.873, power = 0.7
+- EFFECTS:
+id = table: 4845bb62, type = 510, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, HEAL_AMOUNT = 1593
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.767, power = 0.6
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 0.659, power = 0.2
+- EFFECTS:
+id = table: 38fbac83, type = 510, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, HEAL_AMOUNT = 1635.5
+id = table: 367087d7, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+id = table: 4249c1c6, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.15
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Yang 40005 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 0.801), TAKE 3096 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.659), power = 0.8
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 0.873, power = 0.7
+- EFFECTS:
+id = table: 4845bb62, type = 510, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, HEAL_AMOUNT = 1593
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.767, power = 0.6
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 0.659, power = 0.2
+- EFFECTS:
+id = table: 38fbac83, type = 510, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, HEAL_AMOUNT = 1635.5
+id = table: 367087d7, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+id = table: 4249c1c6, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.15
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 0.801, power = 0.8
+- EFFECTS:
+id = table: 4845bb62, type = 510, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, HEAL_AMOUNT = 1593
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.767, power = 0.6
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 0.659, power = 0.8
+- EFFECTS:
+id = table: 38fbac83, type = 510, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, HEAL_AMOUNT = 1635.5
+id = table: 367087d7, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+id = table: 4249c1c6, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.15
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 3 ----------
+
+[REMOVE_EFFECT] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 0.801), type = 510, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.659), type = 510, persistentType = 1, isBuff = true
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 4 ----------
+
+[BURN_EFFECT] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.617), TAKE 1829 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Icarus 20001 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.429), TAKE 8145 damage, initiatorPower = 1, targetPower = 0.9
+
+
+[CHANGE_POWER] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.6
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+[ADD_EFFECT] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.429), type = 12, persistentType = 1, isBuff = false
+
+
+[BURN_EFFECT] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.387), TAKE 1829 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 0.801, power = 0.8
+- EFFECTS:
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.767, power = 0.6
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 0.617, power = 0.8
+- EFFECTS:
+id = table: 4249c1c6, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 367087d7, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 0.801, power = 0.8
+- EFFECTS:
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.767, power = 1
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 0.387, power = 0.9
+- EFFECTS:
+id = table: 4249c1c6, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 367087d7, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+id = table: 7035a867, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.15
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Yang 40005 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.315), TAKE 3096 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.7
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.5
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 0.801), power = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 0.801, power = 0.8
+- EFFECTS:
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.767, power = 1
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 0.387, power = 0.9
+- EFFECTS:
+id = table: 4249c1c6, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 367087d7, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+id = table: 7035a867, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.15
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 0.801, power = 1
+- EFFECTS:
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.767, power = 1
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 0.315, power = 1
+- EFFECTS:
+id = table: 4249c1c6, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 367087d7, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+id = table: 7035a867, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.15
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Yang 40005 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Yang 40005 (TEAM 1, FRONT, POS 1)] (hp = 0.633), TAKE 7281 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.72
+
+
+[>>> ACTIVE_SKILL <<<] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Icarus 20001 (TEAM 1, BACK, POS 1)] (hp = 0.607), TAKE 7198 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.74
+
+
+[HEAL] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.354), HEAL 1677 hp, reason = 1
+
+
+[ADD_EFFECT] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.354), type = 510, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 0.801, power = 1
+- EFFECTS:
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.767, power = 1
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 0.315, power = 1
+- EFFECTS:
+id = table: 4249c1c6, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 367087d7, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.09, changerType = 3, multiplier = 1
+id = table: 7035a867, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.15
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 0.633, power = 1
+- EFFECTS:
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.12, changerType = 3, multiplier = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.607, power = 1
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 0.354, power = 0
+- EFFECTS:
+id = table: 4249c1c6, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 367087d7, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.12, changerType = 3, multiplier = 1
+id = table: 7035a867, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 15ce83a8, type = 510, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, HEAL_AMOUNT = 1677.5
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 5 ----------
+
+[BURN_EFFECT] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.311), TAKE 1829 damage, remainingRound = 1
+
+
+[BURN_EFFECT] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.269), TAKE 1829 damage, remainingRound = 2
+
+
+[HEAL] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.308), HEAL 1677 hp, reason = 2
+
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Icarus 20001 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.08), TAKE 9877 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Yang 40005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.52
+
+
+[ADD_EFFECT] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.08), type = 404, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0.08), type = 12, persistentType = 1, isBuff = false
+
+
+[BURN_EFFECT] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 4058 damage, remainingRound = 4
+
+
+[DEAD_FOR_DISPLAY] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 14
+
+
+[DEAD] [Icarus 20001 (TEAM 1, BACK, POS 1)] => [Yang 40005 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 0.633, power = 1
+- EFFECTS:
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.12, changerType = 3, multiplier = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.607, power = 1
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 0.308, power = 0
+- EFFECTS:
+id = table: 4249c1c6, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 7035a867, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 15ce83a8, type = 510, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, HEAL_AMOUNT = 1677.5
+id = table: 367087d7, type = 401, initiator = [Yang 40005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.12, changerType = 3, multiplier = 1
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 0.633, power = 1
+- EFFECTS:
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.607, power = 0
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7034ba26, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.45
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Yang 40005 (TEAM 1, FRONT, POS 1)] hp = 0.633, power = 1
+- EFFECTS:
+id = table: 2c8b98b9, type = 401, initiator = [Yang 40005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Icarus 20001 (TEAM 1, BACK, POS 1)] hp = 0.607, power = 0
+- EFFECTS:
+id = table: 3ba280a6, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Yang 40005 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7034ba26, type = 12, initiator = [Icarus 20001 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.45
+
+> [Cold Axe 10001 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+<> STATISTICS:
+[Yang 40005 (TEAM 2, FRONT, POS 1)] DamageDeal = 30288, DamageTaken = 64700.066, HpHeal = 6624, HpHealTaken = 6624
+	Damage dealt by sources: Dictionary = table: 7cff1217, count = 2
+	[1 (number)] = 3096 (number)
+	[2 (number)] = 27192 (number)
+
+	Damage taken by sources: Dictionary = table: 21d4fb7f, count = 3
+	[1 (number)] = 30253.85 (number)
+	[2 (number)] = 25061.55 (number)
+	[14 (number)] = 9384.668 (number)
+
+	Hp heal by sources: Dictionary = table: 40e6ef2e, count = 2
+	[1 (number)] = 3312 (number)
+	[2 (number)] = 3312 (number)
+
+	Hp heal taken by sources: Dictionary = table: 1556989e, count = 2
+	[1 (number)] = 3312 (number)
+	[2 (number)] = 3312 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 11bd4f89, count = 4
+	[3003 (number)] = 3096 (number)
+	[1003 (number)] = 0 (number)
+	[4003 (number)] = 14479 (number)
+	[2003 (number)] = 12713 (number)
+
+	Damage taken history: Dictionary = table: 173441c2, count = 11
+	[3001 (number)] = 7123.675 (number)
+	[3002 (number)] = 3355 (number)
+	[5000 (number)] = 2415.855 (number)
+	[2001 (number)] = 7638.295 (number)
+	[5001 (number)] = 13553.566 (number)
+	[2002 (number)] = 7493.472 (number)
+	[4000 (number)] = 1207.9275 (number)
+	[4001 (number)] = 9260.777 (number)
+	[1001 (number)] = 6194.5 (number)
+	[1002 (number)] = 3102 (number)
+	[4002 (number)] = 3355 (number)
+
+	Hp heal history: Dictionary = table: 605c5395, count = 4
+	[3000 (number)] = 1635 (number)
+	[4003 (number)] = 1677 (number)
+	[2003 (number)] = 1635 (number)
+	[5000 (number)] = 1677 (number)
+
+	Hp heal taken history: Dictionary = table: 41efa568, count = 4
+	[3000 (number)] = 1635 (number)
+	[4003 (number)] = 1677 (number)
+	[2003 (number)] = 1635 (number)
+	[5000 (number)] = 1677 (number)
+
+	Effect created history: Dictionary = table: 3ad56bdb, count = 1
+	[510 (number)] = 4 (number)
+
+	Stat changer buff created history: Dictionary = table: fda1712, count = 1
+	[1 (number)] = 0 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: d983d87, count = 1
+	[112 (number)] = 0 (number)
+
+[Cold Axe 10001 (TEAM 2, BACK, POS 1)] DamageDeal = 4879, DamageTaken = 17115.453, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 31601db9, count = 3
+	[1 (number)] = 0 (number)
+	[21 (number)] = 3882 (number)
+	[11 (number)] = 997 (number)
+
+	Damage taken by sources: Dictionary = table: 20fa23fd, count = 1
+	[2 (number)] = 17115.453 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 7fc7c277, count = 4
+	[2001 (number)] = 3882 (number)
+	[2002 (number)] = 0 (number)
+	[1004 (number)] = 0 (number)
+	[2003 (number)] = 997 (number)
+
+	Damage taken history: Dictionary = table: 337fbc0d, count = 2
+	[2001 (number)] = 5875.245 (number)
+	[2002 (number)] = 11240.208 (number)
+
+	Effect created history: Dictionary = table: 2c3f20e, count = 1
+	[2 (number)] = 2 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: 73d7cc60, count = 2
+	[501 (number)] = 4 (number)
+	[112 (number)] = 0 (number)
+
+[Yang 40005 (TEAM 1, FRONT, POS 1)] DamageDeal = 21597, DamageTaken = 23288.352, HpHeal = 3186, HpHealTaken = 3186
+	Damage dealt by sources: Dictionary = table: 32426c17, count = 2
+	[1 (number)] = 6192 (number)
+	[2 (number)] = 15405 (number)
+
+	Damage taken by sources: Dictionary = table: 7c932186, count = 2
+	[1 (number)] = 7704 (number)
+	[2 (number)] = 15584.352 (number)
+
+	Hp heal by sources: Dictionary = table: 615dff98, count = 2
+	[1 (number)] = 1593 (number)
+	[2 (number)] = 1593 (number)
+
+	Hp heal taken by sources: Dictionary = table: 2c249b1f, count = 2
+	[1 (number)] = 1593 (number)
+	[2 (number)] = 1593 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: d276858, count = 4
+	[1002 (number)] = 0 (number)
+	[4002 (number)] = 3096 (number)
+	[2002 (number)] = 15405 (number)
+	[3002 (number)] = 3096 (number)
+
+	Damage taken history: Dictionary = table: 685de76b, count = 5
+	[3003 (number)] = 3355 (number)
+	[2003 (number)] = 7693.392 (number)
+	[1003 (number)] = 3102 (number)
+	[1004 (number)] = 1247 (number)
+	[4003 (number)] = 7890.96 (number)
+
+	Hp heal history: Dictionary = table: 66f264c7, count = 2
+	[2002 (number)] = 1593 (number)
+	[3000 (number)] = 1593 (number)
+
+	Hp heal taken history: Dictionary = table: 6e06e765, count = 2
+	[2002 (number)] = 1593 (number)
+	[3000 (number)] = 1593 (number)
+
+	Effect created history: Dictionary = table: 58553755, count = 1
+	[510 (number)] = 2 (number)
+
+	Stat changer buff created history: Dictionary = table: 5f34f58b, count = 1
+	[1 (number)] = 0 (number)
+
+[Icarus 20001 (TEAM 1, BACK, POS 1)] DamageDeal = 43660, DamageTaken = 15584.352, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2a9566f6, count = 3
+	[1 (number)] = 14575 (number)
+	[2 (number)] = 16139 (number)
+	[14 (number)] = 12946 (number)
+
+	Damage taken by sources: Dictionary = table: 7371810e, count = 1
+	[2 (number)] = 15584.352 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 2efffaa, count = 7
+	[1001 (number)] = 0 (number)
+	[5000 (number)] = 3658 (number)
+	[4000 (number)] = 1829 (number)
+	[5001 (number)] = 13935 (number)
+	[4001 (number)] = 9974 (number)
+	[3001 (number)] = 8002 (number)
+	[2001 (number)] = 6262 (number)
+
+	Damage taken history: Dictionary = table: 7a0fcad1, count = 2
+	[2003 (number)] = 7693.392 (number)
+	[4003 (number)] = 7890.96 (number)
+
+	Effect created history: Dictionary = table: 7bacb1b0, count = 1
+	[12 (number)] = 10 (number)
+
+	Stat changer debuff created history: Dictionary = table: 42a363a, count = 1
+	[4 (number)] = 80 (number)
+
+
+<> WINNER: 1

@@ -1,0 +1,2594 @@
+
+<> SEED = 265523978
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 105
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 2746
+defense = 276
+hp = 29368/29368
+speed = 67
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1098
+dodge = 1098
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0.2
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 2c29036e, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 4635417e, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 4cb63faa, type = 401, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 71c51df5, type = 432, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 256305ac, type = 403, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 2746
+defense = 276
+hp = 29368/29368
+speed = 67
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1098
+dodge = 1098
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0.2
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 7941dfad, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 4f7e440, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 5d847b9e, type = 401, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 520ea72c, type = 432, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 159352d0, type = 403, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 3433
+defense = 276
+hp = 23495/23495
+speed = 67
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1098
+dodge = 1098
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0.2
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 600d43ab, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 479daf41, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 4f635fcb, type = 401, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: d913d07, type = 432, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 1e2b837b, type = 401, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 2746
+defense = 276
+hp = 29368/29368
+speed = 67
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1098
+dodge = 1098
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0.2
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 2d466702, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 788ee866, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 7cf38b75, type = 401, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 229ea8e1, type = 432, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 70b2705, type = 403, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 2746
+defense = 276
+hp = 29368/29368
+speed = 67
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1098
+dodge = 1098
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0.2
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 333ca7f6, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 53f43ac7, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 47a59f8, type = 401, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 4d63143d, type = 432, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 3c7eb5c7, type = 403, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 2746
+defense = 276
+hp = 29368/29368
+speed = 67
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1098
+dodge = 1098
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0.2
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 69662ad3, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 3f850b9e, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 6a1232af, type = 401, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 41c4cb14, type = 432, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 1b360970, type = 403, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [Murath 60015 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [Murath 60015 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, BACK, POS 1)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 3)] => [Murath 60015 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Murath 60015 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Murath 60015 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Murath 60015 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Murath 60015 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [Murath 60015 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [Murath 60015 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 432, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [Murath 60015 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [Murath 60015 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 432, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, BACK, POS 1)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, BACK, POS 1)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 1), type = 432, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Murath 60015 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Murath 60015 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 432, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 432, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 3)] => [Murath 60015 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 3)] => [Murath 60015 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 432, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 0.912), TAKE 2578 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.912, power = 0.6
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 0.868), TAKE 3095 damage, initiatorPower = 1, targetPower = 0.6 (CRIT)
+[Murath 60015 (TEAM 1, BACK, POS 1)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.912, power = 0.6
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.868, power = 0.6
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.912, power = 0.6
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Murath 60015 (TEAM 1, BACK, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 0.802), TAKE 3223 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.868, power = 0.6
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.912, power = 0.6
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.868, power = 1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.802, power = 0.7
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Murath 60015 (TEAM 2, FRONT, POS 1)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 0.781), TAKE 2062 damage, initiatorPower = 1, targetPower = 1
+[Murath 60015 (TEAM 1, BACK, POS 1)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.868, power = 1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.802, power = 0.7
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.781, power = 1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.802, power = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 5 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 0.671), TAKE 3868 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 0.671), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 0.644), TAKE 773 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.781, power = 1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.802, power = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.781, power = 1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.644, power = 1
+- EFFECTS:
+id = table: 19ac514d, type = 11, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 6 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Murath 60015 (TEAM 2, FRONT, POS 3)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 0.693), TAKE 2062 damage, initiatorPower = 1, targetPower = 1
+[Murath 60015 (TEAM 1, BACK, POS 1)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.781, power = 1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.644, power = 1
+- EFFECTS:
+id = table: 19ac514d, type = 11, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.644, power = 1
+- EFFECTS:
+id = table: 19ac514d, type = 11, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 2 ----------
+
+[BLEED] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 0.618), TAKE 773 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 0.799), TAKE 5905 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+[>>> ACTIVE_SKILL <<<] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 3)] (hp = 0.799), TAKE 5905 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.4
+
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 0.799), type = 402, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 3)] (hp = 0.799), type = 402, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.618, power = 1
+- EFFECTS:
+id = table: 19ac514d, type = 11, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.618, power = 1
+- EFFECTS:
+id = table: 19ac514d, type = 11, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 1
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.799, power = 1
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 0.317), TAKE 8858 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+[>>> ACTIVE_SKILL <<<] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [Murath 60015 (TEAM 2, FRONT, POS 3)] (hp = 0.497), TAKE 8879 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 0.317), type = 402, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [Murath 60015 (TEAM 2, FRONT, POS 3)] (hp = 0.497), type = 402, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.618, power = 1
+- EFFECTS:
+id = table: 19ac514d, type = 11, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 1
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.799, power = 1
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.317, power = 1
+- EFFECTS:
+id = table: 19ac514d, type = 11, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 126545e8, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 1
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.497, power = 1
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Murath 60015 (TEAM 1, BACK, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 0.065), TAKE 7399 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[>>> ACTIVE_SKILL <<<] [Murath 60015 (TEAM 1, BACK, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 3)] (hp = 0.244), TAKE 7416 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, BACK, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 0.065), type = 402, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, BACK, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 3)] (hp = 0.244), type = 402, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.693, power = 1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.317, power = 1
+- EFFECTS:
+id = table: 19ac514d, type = 11, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 126545e8, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 1
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.497, power = 1
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.693, power = 0
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.065, power = 1
+- EFFECTS:
+id = table: 19ac514d, type = 11, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 126545e8, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7447af72, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 1
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.244, power = 1
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 743852d2, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [Murath 60015 (TEAM 1, FRONT, POS 1)] (hp = 0.799), TAKE 5905 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[>>> ACTIVE_SKILL <<<] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [Murath 60015 (TEAM 1, FRONT, POS 2)] (hp = 0.799), TAKE 5905 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+[ADD_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [Murath 60015 (TEAM 1, FRONT, POS 1)] (hp = 0.799), type = 402, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [Murath 60015 (TEAM 1, FRONT, POS 2)] (hp = 0.799), type = 402, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.693, power = 0
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.065, power = 1
+- EFFECTS:
+id = table: 19ac514d, type = 11, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 126545e8, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7447af72, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 1
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.244, power = 1
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 743852d2, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.799, power = 0.1
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.799, power = 0.1
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.693, power = 0
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.065, power = 1
+- EFFECTS:
+id = table: 19ac514d, type = 11, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 126545e8, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7447af72, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 0
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.244, power = 1
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 743852d2, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Murath 60015 (TEAM 2, FRONT, POS 1)] => [Murath 60015 (TEAM 1, FRONT, POS 2)] (hp = 0.597), TAKE 5919 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[>>> ACTIVE_SKILL <<<] [Murath 60015 (TEAM 2, FRONT, POS 1)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 0.492), TAKE 4724 damage, initiatorPower = 0, targetPower = 0.1
+[Murath 60015 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+[ADD_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 1)] => [Murath 60015 (TEAM 1, FRONT, POS 2)] (hp = 0.597), type = 402, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 1)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 0.492), type = 402, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.799, power = 0.1
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.799, power = 0.1
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.693, power = 0
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.065, power = 1
+- EFFECTS:
+id = table: 19ac514d, type = 11, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 126545e8, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7447af72, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 0
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.244, power = 1
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 743852d2, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.799, power = 0.1
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.597, power = 0.2
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.492, power = 0.1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.065, power = 0
+- EFFECTS:
+id = table: 19ac514d, type = 11, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 126545e8, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7447af72, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 0
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.244, power = 1
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 743852d2, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 6 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Murath 60015 (TEAM 2, FRONT, POS 3)] => [Murath 60015 (TEAM 1, FRONT, POS 1)] (hp = 0.597), TAKE 5919 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+[>>> ACTIVE_SKILL <<<] [Murath 60015 (TEAM 2, FRONT, POS 3)] => [Murath 60015 (TEAM 1, FRONT, POS 2)] (hp = 0.395), TAKE 5931 damage, initiatorPower = 0, targetPower = 0.3
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[ADD_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 3)] => [Murath 60015 (TEAM 1, FRONT, POS 1)] (hp = 0.597), type = 402, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 3)] => [Murath 60015 (TEAM 1, FRONT, POS 2)] (hp = 0.395), type = 402, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.799, power = 0.1
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.597, power = 0.2
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.492, power = 0.1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.065, power = 0
+- EFFECTS:
+id = table: 19ac514d, type = 11, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 126545e8, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7447af72, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 0
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.244, power = 1
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 743852d2, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 0.2
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0.3
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.492, power = 0.1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.065, power = 0
+- EFFECTS:
+id = table: 19ac514d, type = 11, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 126545e8, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7447af72, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 0
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.244, power = 0
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 743852d2, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 3 ----------
+
+[BLEED] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 0.038), TAKE 776 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 2590 damage, initiatorPower = 0.7, targetPower = 0
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.58
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.5
+
+
+[DEAD_FOR_DISPLAY] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 0.2
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0.3
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.492, power = 0.1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0.038, power = 0
+- EFFECTS:
+id = table: 19ac514d, type = 11, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 126545e8, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7447af72, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 0
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.244, power = 0
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 743852d2, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 0.7
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0.3
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.492, power = 0.1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 0
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.244, power = 0
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 743852d2, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [Murath 60015 (TEAM 2, FRONT, POS 3)] (hp = 0.156), TAKE 2595 damage, initiatorPower = 0.8, targetPower = 0.1
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.52
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 0.7
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0.3
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.492, power = 0.1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 0
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.244, power = 0
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 743852d2, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 0.7
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0.8
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.492, power = 0.1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 0
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.156, power = 0.1
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 743852d2, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Murath 60015 (TEAM 1, BACK, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 3)] (hp = 0.045), TAKE 3244 damage, initiatorPower = 0.6, targetPower = 0.2
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.54
+
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, BACK, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 3)] (hp = 0.045), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Murath 60015 (TEAM 1, BACK, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 3)] (hp = 0.012), TAKE 973 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 0.7
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0.8
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.492, power = 0.1
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 0
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.156, power = 0.1
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 743852d2, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 0.7
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0.8
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.492, power = 0.6
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 0
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.012, power = 0.2
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 743852d2, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6550a9a2, type = 11, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 0.382), TAKE 2584 damage, initiatorPower = 0.5, targetPower = 0.7
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.64
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[ADD_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 0.382), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 0.349), TAKE 774 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 0.7
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0.8
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.492, power = 0.6
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 0
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.012, power = 0.2
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 743852d2, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6550a9a2, type = 11, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 0.7
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0.8
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.349, power = 0.7
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.64
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 0.5
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.012, power = 0.2
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 743852d2, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6550a9a2, type = 11, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+TURN 5 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Murath 60015 (TEAM 2, FRONT, POS 3)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 0.239), TAKE 2584 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.74
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 0.7
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0.8
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.349, power = 0.7
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.64
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 0.5
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.012, power = 0.2
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 743852d2, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6550a9a2, type = 11, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 0.7
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0.8
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.239, power = 0.8
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 0.5
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0.012, power = 0.7
+- EFFECTS:
+id = table: 751ebc34, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 69b848d0, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 743852d2, type = 402, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6550a9a2, type = 11, initiator = [Murath 60015 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 4 ----------
+
+[BLEED] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 0.206), TAKE 774 damage, remainingRound = 2
+
+
+[BLEED] [Murath 60015 (TEAM 1, BACK, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 3)] (hp = 0), TAKE 973 damage, remainingRound = 2
+
+
+[DEAD_FOR_DISPLAY] [Murath 60015 (TEAM 1, BACK, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 3)] (hp = 0), reason = 13
+
+
+[DEAD] [Murath 60015 (TEAM 1, BACK, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 3)] (hp = 0), reason = 13
+
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 0.711), TAKE 2584 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.92
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.76
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 0.7
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0.8
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0.8
+- EFFECTS:
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.799, power = 0.5
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 1
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0.8
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0.8
+- EFFECTS:
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.711, power = 0.6
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 0.623), TAKE 2584 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.78
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 1
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0.8
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0.8
+- EFFECTS:
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.711, power = 0.6
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 1
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 1
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0.8
+- EFFECTS:
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.623, power = 0.7
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 0.545), TAKE 2301 damage, initiatorPower = 0, targetPower = 0.8
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.8
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 0.545), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 1
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 1
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0.8
+- EFFECTS:
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.623, power = 0.7
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 1
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 1
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0.8
+- EFFECTS:
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.545, power = 0.8
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2560e73d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Murath 60015 (TEAM 1, BACK, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 0.435), TAKE 3231 damage, initiatorPower = 1, targetPower = 0.9
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 1
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 1
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0.8
+- EFFECTS:
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.545, power = 0.8
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2560e73d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 1
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 1
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 1
+- EFFECTS:
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.435, power = 0.9
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2560e73d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+
+TURN 5 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 0.074), TAKE 3101 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+[Murath 60015 (TEAM 1, BACK, POS 1)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.92
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 1
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 1
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 1
+- EFFECTS:
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.435, power = 0.9
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2560e73d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 1
+- EFFECTS:
+id = table: 4cca13b8, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4b9cd3f, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 1
+- EFFECTS:
+id = table: 679f3c39, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2e6a3387, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1a595765, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.074, power = 1
+- EFFECTS:
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 18724a5a, type = 402, initiator = [Murath 60015 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.92
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.435, power = 1
+- EFFECTS:
+id = table: e62601d, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2560e73d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 4 ----------
+
+[REMOVE_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [Murath 60015 (TEAM 1, FRONT, POS 1)] (hp = 0.597), type = 402, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 3)] => [Murath 60015 (TEAM 1, FRONT, POS 1)] (hp = 0.597), type = 402, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [Murath 60015 (TEAM 1, FRONT, POS 2)] (hp = 0.395), type = 402, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 1)] => [Murath 60015 (TEAM 1, FRONT, POS 2)] (hp = 0.395), type = 402, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 3)] => [Murath 60015 (TEAM 1, FRONT, POS 2)] (hp = 0.395), type = 402, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 1)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 0.074), type = 402, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 0.435), type = 402, persistentType = 1, isBuff = false
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 5 ----------
+
+[BLEED] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 0.041), TAKE 773 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 0.234), TAKE 5905 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.94
+
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, FRONT, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 0.234), type = 402, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 1
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.041, power = 1
+- EFFECTS:
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.92
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.435, power = 1
+- EFFECTS:
+id = table: 2560e73d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 0
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.041, power = 1
+- EFFECTS:
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.94
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.234, power = 1
+- EFFECTS:
+id = table: 2560e73d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 75527e8b, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 0.032), TAKE 5919 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.96
+
+
+[ADD_EFFECT] [Murath 60015 (TEAM 1, FRONT, POS 2)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 0.032), type = 402, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 0
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 1
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.041, power = 1
+- EFFECTS:
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.94
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.234, power = 1
+- EFFECTS:
+id = table: 2560e73d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 75527e8b, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 0
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.041, power = 1
+- EFFECTS:
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.032, power = 1
+- EFFECTS:
+id = table: 2560e73d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 75527e8b, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 152fc43a, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Murath 60015 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Murath 60015 (TEAM 1, BACK, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 0), TAKE 7416 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+[DEAD_FOR_DISPLAY] [Murath 60015 (TEAM 1, BACK, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 2
+
+
+[DEAD] [Murath 60015 (TEAM 1, BACK, POS 1)] => [Murath 60015 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 0
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.041, power = 1
+- EFFECTS:
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0.032, power = 1
+- EFFECTS:
+id = table: 2560e73d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 75527e8b, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 152fc43a, type = 402, initiator = [Murath 60015 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 0
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.041, power = 0
+- EFFECTS:
+id = table: 6ffa0fc8, type = 11, initiator = [Murath 60015 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 5 ----------
+
+[REMOVE_EFFECT] [Murath 60015 (TEAM 2, FRONT, POS 2)] => [Murath 60015 (TEAM 1, BACK, POS 1)] (hp = 0.041), type = 11, persistentType = 1, isBuff = false
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Murath 60015 (TEAM 1, FRONT, POS 1)] hp = 0.597, power = 0
+
+> [Murath 60015 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0
+
+> [Murath 60015 (TEAM 1, BACK, POS 1)] hp = 0.041, power = 0
+- EFFECTS:
+id = table: 2545b677, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Murath 60015 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Murath 60015 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+<> STATISTICS:
+[Murath 60015 (TEAM 2, FRONT, POS 3)] DamageDeal = 16496, DamageTaken = 31821.22, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2a141d18, count = 2
+	[1 (number)] = 4646 (number)
+	[2 (number)] = 11850 (number)
+
+	Damage taken by sources: Dictionary = table: 86f4e68, count = 3
+	[1 (number)] = 6179 (number)
+	[2 (number)] = 23582.42 (number)
+	[13 (number)] = 2059.8 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6eafcfc8, count = 3
+	[1006 (number)] = 2062 (number)
+	[2006 (number)] = 11850 (number)
+	[3005 (number)] = 2584 (number)
+
+	Damage taken history: Dictionary = table: 54ad833, count = 6
+	[2002 (number)] = 9432.51 (number)
+	[3003 (number)] = 4462.9 (number)
+	[2003 (number)] = 7861.57 (number)
+	[4000 (number)] = 1029.9 (number)
+	[3002 (number)] = 2746 (number)
+	[2001 (number)] = 6288.34 (number)
+
+	Stat changer debuff created history: Dictionary = table: f3ce95f, count = 1
+	[2 (number)] = 165 (number)
+
+[Murath 60015 (TEAM 1, FRONT, POS 1)] DamageDeal = 25467, DamageTaken = 12576.68, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 7d52fade, count = 2
+	[1 (number)] = 7752 (number)
+	[2 (number)] = 17715 (number)
+
+	Damage taken by sources: Dictionary = table: 6d93ab33, count = 1
+	[2 (number)] = 12576.68 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 3ecb6df2, count = 5
+	[1001 (number)] = 2578 (number)
+	[5001 (number)] = 5905 (number)
+	[4001 (number)] = 2584 (number)
+	[3001 (number)] = 2590 (number)
+	[2001 (number)] = 11810 (number)
+
+	Damage taken history: Dictionary = table: 56551d65, count = 2
+	[2004 (number)] = 6288.34 (number)
+	[2006 (number)] = 6288.34 (number)
+
+	Stat changer debuff created history: Dictionary = table: 3c3b997b, count = 1
+	[2 (number)] = 252 (number)
+
+[Murath 60015 (TEAM 1, BACK, POS 1)] DamageDeal = 33875, DamageTaken = 27981.74, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4c0177fc, count = 3
+	[1 (number)] = 9698 (number)
+	[2 (number)] = 22231 (number)
+	[13 (number)] = 1946 (number)
+
+	Damage taken by sources: Dictionary = table: 29402773, count = 3
+	[1 (number)] = 19222 (number)
+	[2 (number)] = 6288.34 (number)
+	[13 (number)] = 2471.4 (number)
+
+	NumberKill = 2, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 5700b90b, count = 6
+	[3003 (number)] = 4217 (number)
+	[4004 (number)] = 3231 (number)
+	[2003 (number)] = 14815 (number)
+	[1003 (number)] = 3223 (number)
+	[4000 (number)] = 973 (number)
+	[5003 (number)] = 7416 (number)
+
+	Damage taken history: Dictionary = table: 379002d1, count = 9
+	[4005 (number)] = 4119 (number)
+	[1006 (number)] = 2746 (number)
+	[3004 (number)] = 3569.8 (number)
+	[3005 (number)] = 2746 (number)
+	[5000 (number)] = 823.8 (number)
+	[4000 (number)] = 823.8 (number)
+	[2005 (number)] = 6288.34 (number)
+	[1002 (number)] = 4119 (number)
+	[1004 (number)] = 2746 (number)
+
+	Effect created history: Dictionary = table: 70692d48, count = 1
+	[11 (number)] = 3 (number)
+
+	Stat changer debuff created history: Dictionary = table: 58bae789, count = 1
+	[2 (number)] = 165 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 2301, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: a20d574, count = 1
+	[2 (number)] = 2301 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 3d11c86b, count = 1
+	[4003 (number)] = 2301 (number)
+
+	Effect created history: Dictionary = table: 42ba1ec, count = 1
+	[112 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: ba2884f, count = 1
+	[4 (number)] = 60 (number)
+
+[Murath 60015 (TEAM 1, FRONT, POS 2)] DamageDeal = 35025, DamageTaken = 18865.02, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 7a5773a, count = 3
+	[1 (number)] = 9047 (number)
+	[2 (number)] = 23656 (number)
+	[13 (number)] = 2322 (number)
+
+	Damage taken by sources: Dictionary = table: 3444a535, count = 1
+	[2 (number)] = 18865.02 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6d394690, count = 7
+	[2002 (number)] = 17737 (number)
+	[3000 (number)] = 776 (number)
+	[1005 (number)] = 4641 (number)
+	[5002 (number)] = 5919 (number)
+	[2000 (number)] = 773 (number)
+	[4002 (number)] = 2584 (number)
+	[3002 (number)] = 2595 (number)
+
+	Damage taken history: Dictionary = table: 72c65b88, count = 3
+	[2004 (number)] = 6288.34 (number)
+	[2005 (number)] = 6288.34 (number)
+	[2006 (number)] = 6288.34 (number)
+
+	Effect created history: Dictionary = table: 5e76ee4d, count = 1
+	[11 (number)] = 3 (number)
+
+	Stat changer debuff created history: Dictionary = table: 4f0a95bb, count = 1
+	[2 (number)] = 252 (number)
+
+[Murath 60015 (TEAM 2, FRONT, POS 2)] DamageDeal = 22911, DamageTaken = 38108.59, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 68a0470c, count = 3
+	[1 (number)] = 8780 (number)
+	[2 (number)] = 11810 (number)
+	[13 (number)] = 2321 (number)
+
+	Damage taken by sources: Dictionary = table: 28fa4b8b, count = 2
+	[1 (number)] = 8925 (number)
+	[2 (number)] = 29183.59 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 4197cc5f, count = 6
+	[3004 (number)] = 3358 (number)
+	[1002 (number)] = 3095 (number)
+	[4005 (number)] = 3101 (number)
+	[2004 (number)] = 11810 (number)
+	[5000 (number)] = 773 (number)
+	[4000 (number)] = 774 (number)
+
+	Damage taken history: Dictionary = table: 5aab2e9b, count = 8
+	[4004 (number)] = 3433 (number)
+	[5001 (number)] = 6288.34 (number)
+	[4001 (number)] = 2746 (number)
+	[5002 (number)] = 6288.34 (number)
+	[4002 (number)] = 2746 (number)
+	[5003 (number)] = 7861.57 (number)
+	[4003 (number)] = 2457 (number)
+	[2001 (number)] = 6288.34 (number)
+
+	Effect created history: Dictionary = table: 30598ae5, count = 1
+	[11 (number)] = 3 (number)
+
+	Stat changer debuff created history: Dictionary = table: 4a052976, count = 1
+	[2 (number)] = 168 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+[Murath 60015 (TEAM 2, FRONT, POS 1)] DamageDeal = 12705, DamageTaken = 32809.48, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 350fe15d, count = 2
+	[1 (number)] = 2062 (number)
+	[2 (number)] = 10643 (number)
+
+	Damage taken by sources: Dictionary = table: 3653de91, count = 3
+	[1 (number)] = 13044 (number)
+	[2 (number)] = 17294.08 (number)
+	[13 (number)] = 2471.4 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 4a21741c, count = 2
+	[1004 (number)] = 2062 (number)
+	[2005 (number)] = 10643 (number)
+
+	Damage taken history: Dictionary = table: 290caab7, count = 8
+	[1001 (number)] = 2746 (number)
+	[2002 (number)] = 9432.51 (number)
+	[2003 (number)] = 7861.57 (number)
+	[1003 (number)] = 3433 (number)
+	[1005 (number)] = 4942.8 (number)
+	[3000 (number)] = 823.8 (number)
+	[2000 (number)] = 823.8 (number)
+	[3001 (number)] = 2746 (number)
+
+	Stat changer debuff created history: Dictionary = table: 63c3a3c2, count = 1
+	[2 (number)] = 168 (number)
+
+
+<> WINNER: 1

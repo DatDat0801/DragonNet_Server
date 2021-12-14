@@ -1,0 +1,3895 @@
+
+<> SEED = 225931200
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 162
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerNovice (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 0
+faction = 7
+attack = 700
+critRate = 0.1
+critDamage = 1.5
+accuracy = 799
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+
+
+> [SummonerNovice (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 0
+faction = 7
+attack = 700
+critRate = 0.1
+critDamage = 1.5
+accuracy = 799
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 0
+faction = 7
+attack = 700
+critRate = 0.1
+critDamage = 1.5
+accuracy = 799
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 4
+attack = 1527
+defense = 317
+hp = 33832/33832
+speed = 45
+critRate = 0.1
+critDamage = 1.5
+accuracy = 771
+dodge = 726
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 6d3f5c62, type = 402, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 584ea55d, type = 403, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2a04ae7, type = 403, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 4
+attack = 1527
+defense = 317
+hp = 33832/33832
+speed = 45
+critRate = 0.1
+critDamage = 1.5
+accuracy = 771
+dodge = 726
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 3612c3bb, type = 402, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 21d94557, type = 403, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 36e550f2, type = 403, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 0
+faction = 7
+attack = 700
+critRate = 0.1
+critDamage = 1.5
+accuracy = 799
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 4
+attack = 1527
+defense = 317
+hp = 33832/33832
+speed = 45
+critRate = 0.1
+critDamage = 1.5
+accuracy = 771
+dodge = 726
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 106ecbdc, type = 402, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 3041dd71, type = 403, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: c90787c, type = 403, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 4
+attack = 1527
+defense = 317
+hp = 33832/33832
+speed = 45
+critRate = 0.1
+critDamage = 1.5
+accuracy = 771
+dodge = 726
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 5485154c, type = 402, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 32d3042b, type = 403, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 5bd9d5d3, type = 403, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.934), TAKE 2220 damage, initiatorPower = 1, targetPower = 0.6 (CRIT)
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.02
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.934, power = 0.6
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.956), TAKE 1480 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.02
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.934, power = 0.6
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.12
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.956, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.12
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.934, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.891), TAKE 1480 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.12
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.956, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.12
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.934, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.22
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.956, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.14
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.891, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.891), TAKE 2220 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.24
+
+
+[COUNTER_ATTACK] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.978), TAKE 740 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.22
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.956, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.14
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.891, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.24
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.891, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.24
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.891, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.978, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.832), TAKE 1998 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.939), TAKE 1332 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.891), type = 401, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.24
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.891, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.24
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.891, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.978, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.24
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.891, power = 0
+- EFFECTS:
+id = table: c47fd55, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 19a5c643, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.28
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.832, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.939, power = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.851), TAKE 1332 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.961), TAKE 1332 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.832), type = 401, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.939), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.24
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.891, power = 0
+- EFFECTS:
+id = table: c47fd55, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 19a5c643, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.28
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.832, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.939, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.28
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.851, power = 0.1
+- EFFECTS:
+id = table: c47fd55, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.961, power = 1
+- EFFECTS:
+id = table: 19a5c643, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.28
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.832, power = 0
+- EFFECTS:
+id = table: 65f68f4e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.939, power = 1
+- EFFECTS:
+id = table: 4fae3d87, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.786), TAKE 1531 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.894), TAKE 1531 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.32
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.851), type = 401, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.961), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.28
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.851, power = 0.1
+- EFFECTS:
+id = table: c47fd55, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.961, power = 1
+- EFFECTS:
+id = table: 19a5c643, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.28
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.832, power = 0
+- EFFECTS:
+id = table: 65f68f4e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.939, power = 1
+- EFFECTS:
+id = table: 4fae3d87, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.28
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.851, power = 0.1
+- EFFECTS:
+id = table: c47fd55, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7c30cc72, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.961, power = 0
+- EFFECTS:
+id = table: 19a5c643, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 4b108a69, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.32
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.786, power = 0.1
+- EFFECTS:
+id = table: 65f68f4e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 1
+- EFFECTS:
+id = table: 4fae3d87, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.806), TAKE 1531 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.915), TAKE 1531 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.32
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.786), type = 401, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.894), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.28
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.851, power = 0.1
+- EFFECTS:
+id = table: c47fd55, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7c30cc72, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.961, power = 0
+- EFFECTS:
+id = table: 19a5c643, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 4b108a69, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.32
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.786, power = 0.1
+- EFFECTS:
+id = table: 65f68f4e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 1
+- EFFECTS:
+id = table: 4fae3d87, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.32
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.806, power = 0.2
+- EFFECTS:
+id = table: c47fd55, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7c30cc72, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.915, power = 0.1
+- EFFECTS:
+id = table: 19a5c643, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 4b108a69, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.32
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.786, power = 0.1
+- EFFECTS:
+id = table: 65f68f4e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1acde0ba, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 0
+- EFFECTS:
+id = table: 4fae3d87, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 24b1b461, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.729), TAKE 1924 damage, initiatorPower = 0.7, targetPower = 0.2
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.34
+
+
+[COUNTER_ATTACK] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.778), TAKE 962 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.32
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.806, power = 0.2
+- EFFECTS:
+id = table: c47fd55, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7c30cc72, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.915, power = 0.1
+- EFFECTS:
+id = table: 19a5c643, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 4b108a69, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.32
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.786, power = 0.1
+- EFFECTS:
+id = table: 65f68f4e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1acde0ba, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 0
+- EFFECTS:
+id = table: 4fae3d87, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 24b1b461, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.42
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.778, power = 0.7
+- EFFECTS:
+id = table: c47fd55, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7c30cc72, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.915, power = 0.1
+- EFFECTS:
+id = table: 19a5c643, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 4b108a69, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.34
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.729, power = 0.2
+- EFFECTS:
+id = table: 65f68f4e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1acde0ba, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 0
+- EFFECTS:
+id = table: 4fae3d87, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 24b1b461, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.721), TAKE 1924 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.44
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.44
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.42
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.778, power = 0.7
+- EFFECTS:
+id = table: c47fd55, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7c30cc72, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.915, power = 0.1
+- EFFECTS:
+id = table: 19a5c643, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 4b108a69, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.34
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.729, power = 0.2
+- EFFECTS:
+id = table: 65f68f4e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1acde0ba, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 0
+- EFFECTS:
+id = table: 4fae3d87, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 24b1b461, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.44
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.721, power = 0.8
+- EFFECTS:
+id = table: c47fd55, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7c30cc72, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.915, power = 0.1
+- EFFECTS:
+id = table: 19a5c643, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 4b108a69, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.44
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.729, power = 0.7
+- EFFECTS:
+id = table: 65f68f4e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1acde0ba, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 0
+- EFFECTS:
+id = table: 4fae3d87, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 24b1b461, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.673), TAKE 1924 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.54
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.46
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.44
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.721, power = 0.8
+- EFFECTS:
+id = table: c47fd55, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7c30cc72, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.915, power = 0.1
+- EFFECTS:
+id = table: 19a5c643, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 4b108a69, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.44
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.729, power = 0.7
+- EFFECTS:
+id = table: 65f68f4e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1acde0ba, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 0
+- EFFECTS:
+id = table: 4fae3d87, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 24b1b461, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.54
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.721, power = 0.8
+- EFFECTS:
+id = table: c47fd55, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7c30cc72, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.915, power = 0.6
+- EFFECTS:
+id = table: 19a5c643, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 4b108a69, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.46
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.673, power = 0.8
+- EFFECTS:
+id = table: 65f68f4e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1acde0ba, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 0
+- EFFECTS:
+id = table: 4fae3d87, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 24b1b461, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.664), TAKE 1924 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.56
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.54
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.721, power = 0.8
+- EFFECTS:
+id = table: c47fd55, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7c30cc72, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.915, power = 0.6
+- EFFECTS:
+id = table: 19a5c643, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 4b108a69, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.46
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.673, power = 0.8
+- EFFECTS:
+id = table: 65f68f4e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1acde0ba, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 0
+- EFFECTS:
+id = table: 4fae3d87, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 24b1b461, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.56
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.664, power = 0.9
+- EFFECTS:
+id = table: c47fd55, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7c30cc72, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.915, power = 0.6
+- EFFECTS:
+id = table: 19a5c643, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 4b108a69, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.56
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.673, power = 0.8
+- EFFECTS:
+id = table: 65f68f4e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1acde0ba, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 0.5
+- EFFECTS:
+id = table: 4fae3d87, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 24b1b461, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 3 ----------
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.664), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.664), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.915), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.915), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.673), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.673), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.894), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.894), type = 401, persistentType = 1, isBuff = true
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.629), TAKE 1480 damage, initiatorPower = 1, targetPower = 0.9
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.58
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.56
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.664, power = 0.9
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.915, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.56
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.673, power = 0.8
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.66
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.664, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.915, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.58
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.629, power = 0.9
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 0.5
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.585), TAKE 1480 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.76
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.6
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.66
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.664, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.915, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.58
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.629, power = 0.9
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.76
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.664, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.915, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.6
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.585, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 0.5
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.624), TAKE 1332 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.78
+
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.876), TAKE 1332 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.8
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.585), type = 401, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.894), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.76
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.664, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.915, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.6
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.585, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.8
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.624, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.876, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.6
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.585, power = 0
+- EFFECTS:
+id = table: 5e18afd9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 0.5
+- EFFECTS:
+id = table: 111425b1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.574), TAKE 1702 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.7
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.82
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.8
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.624, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.876, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.6
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.585, power = 0
+- EFFECTS:
+id = table: 5e18afd9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 0.5
+- EFFECTS:
+id = table: 111425b1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.82
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.574, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.876, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.7
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.585, power = 0
+- EFFECTS:
+id = table: 5e18afd9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 1
+- EFFECTS:
+id = table: 111425b1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.526), TAKE 1998 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.72
+
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.854), TAKE 1332 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.74
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.574), type = 401, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.876), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.82
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.574, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.876, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.7
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.585, power = 0
+- EFFECTS:
+id = table: 5e18afd9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.894, power = 1
+- EFFECTS:
+id = table: 111425b1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.82
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.574, power = 0
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.876, power = 1
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.74
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.526, power = 0.1
+- EFFECTS:
+id = table: 5e18afd9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.854, power = 1
+- EFFECTS:
+id = table: 111425b1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.524), TAKE 1702 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.84
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.84
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.82
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.574, power = 0
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.876, power = 1
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.74
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.526, power = 0.1
+- EFFECTS:
+id = table: 5e18afd9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.854, power = 1
+- EFFECTS:
+id = table: 111425b1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.84
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.524, power = 0.1
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.876, power = 1
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.84
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.526, power = 0.6
+- EFFECTS:
+id = table: 5e18afd9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.854, power = 1
+- EFFECTS:
+id = table: 111425b1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.481), TAKE 1531 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.86
+
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.809), TAKE 1531 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.88
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.524), type = 401, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.876), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.84
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.524, power = 0.1
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.876, power = 1
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.84
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.526, power = 0.6
+- EFFECTS:
+id = table: 5e18afd9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.854, power = 1
+- EFFECTS:
+id = table: 111425b1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.84
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.524, power = 0.1
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 56ef755d, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.876, power = 0
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6666eb9c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.88
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.481, power = 0.7
+- EFFECTS:
+id = table: 5e18afd9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 1
+- EFFECTS:
+id = table: 111425b1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.479), TAKE 1531 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.86
+
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.831), TAKE 1531 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.88
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.481), type = 401, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.809), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.84
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.524, power = 0.1
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 56ef755d, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.876, power = 0
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6666eb9c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.88
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.481, power = 0.7
+- EFFECTS:
+id = table: 5e18afd9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 1
+- EFFECTS:
+id = table: 111425b1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.88
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.479, power = 0.2
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 56ef755d, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.831, power = 0.1
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6666eb9c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.88
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.481, power = 0.7
+- EFFECTS:
+id = table: 5e18afd9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 4c1d315e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 0
+- EFFECTS:
+id = table: 111425b1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 123b25f9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 5 ----------
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.481), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.809), type = 401, persistentType = 1, isBuff = true
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.424), TAKE 1924 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.98
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.9
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.88
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.479, power = 0.2
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 56ef755d, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.831, power = 0.1
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6666eb9c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.88
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.481, power = 0.7
+- EFFECTS:
+id = table: 4c1d315e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 0
+- EFFECTS:
+id = table: 123b25f9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.98
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.479, power = 0.7
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 56ef755d, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.831, power = 0.1
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6666eb9c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.9
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.424, power = 0.8
+- EFFECTS:
+id = table: 4c1d315e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 0
+- EFFECTS:
+id = table: 123b25f9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.428), TAKE 1702 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.98
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.479, power = 0.7
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 56ef755d, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.831, power = 0.1
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6666eb9c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.9
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.424, power = 0.8
+- EFFECTS:
+id = table: 4c1d315e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 0
+- EFFECTS:
+id = table: 123b25f9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.428, power = 0.8
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 56ef755d, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.831, power = 0.1
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6666eb9c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.424, power = 1
+- EFFECTS:
+id = table: 4c1d315e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 0
+- EFFECTS:
+id = table: 123b25f9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerNovice (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerNovice (TEAM 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.408), TAKE 542 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 1
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerNovice (TEAM 1)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.793), TAKE 542 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.428, power = 0.8
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 56ef755d, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.831, power = 0.1
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6666eb9c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.424, power = 1
+- EFFECTS:
+id = table: 4c1d315e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.809, power = 0
+- EFFECTS:
+id = table: 123b25f9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.428, power = 0.8
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 56ef755d, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.831, power = 0.1
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6666eb9c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.408, power = 1
+- EFFECTS:
+id = table: 4c1d315e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0.1
+- EFFECTS:
+id = table: 123b25f9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerNovice (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerNovice (TEAM 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.412), TAKE 542 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.02
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerNovice (TEAM 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.815), TAKE 542 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.04
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.428, power = 0.8
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 56ef755d, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.831, power = 0.1
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6666eb9c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.408, power = 1
+- EFFECTS:
+id = table: 4c1d315e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0.1
+- EFFECTS:
+id = table: 123b25f9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.04
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.412, power = 0.9
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 56ef755d, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.815, power = 0.2
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6666eb9c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.408, power = 1
+- EFFECTS:
+id = table: 4c1d315e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0.1
+- EFFECTS:
+id = table: 123b25f9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.351), TAKE 1924 damage, initiatorPower = 0.7, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.04
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.412, power = 0.9
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 56ef755d, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.815, power = 0.2
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6666eb9c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.408, power = 1
+- EFFECTS:
+id = table: 4c1d315e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0.1
+- EFFECTS:
+id = table: 123b25f9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.14
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.412, power = 0.9
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 56ef755d, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.815, power = 0.7
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6666eb9c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.02
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.351, power = 1
+- EFFECTS:
+id = table: 4c1d315e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0.1
+- EFFECTS:
+id = table: 123b25f9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 6 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.362), TAKE 1702 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.16
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.14
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.412, power = 0.9
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 56ef755d, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.815, power = 0.7
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6666eb9c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.02
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.351, power = 1
+- EFFECTS:
+id = table: 4c1d315e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0.1
+- EFFECTS:
+id = table: 123b25f9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.16
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.362, power = 1
+- EFFECTS:
+id = table: 6429df19, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 56ef755d, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.815, power = 0.7
+- EFFECTS:
+id = table: 4d126d41, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6666eb9c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.12
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.351, power = 1
+- EFFECTS:
+id = table: 4c1d315e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0.6
+- EFFECTS:
+id = table: 123b25f9, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 6 ----------
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.362), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.362), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.815), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.815), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.351), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.793), type = 401, persistentType = 1, isBuff = true
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.312), TAKE 1332 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.14
+
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.753), TAKE 1332 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.16
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.362), type = 401, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.815), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.16
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.362, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.815, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.12
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.351, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.793, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.16
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.362, power = 0
+- EFFECTS:
+id = table: 3f53ff7e, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.815, power = 0.7
+- EFFECTS:
+id = table: 6eb8c903, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.16
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.312, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.753, power = 0.7
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.261), TAKE 1702 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.26
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.18
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.16
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.362, power = 0
+- EFFECTS:
+id = table: 3f53ff7e, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.815, power = 0.7
+- EFFECTS:
+id = table: 6eb8c903, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.16
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.312, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.753, power = 0.7
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.26
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.362, power = 0
+- EFFECTS:
+id = table: 3f53ff7e, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.815, power = 1
+- EFFECTS:
+id = table: 6eb8c903, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.18
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.261, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.753, power = 0.7
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.323), TAKE 1332 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.28
+
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.775), TAKE 1332 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.3
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.261), type = 401, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.753), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.26
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.362, power = 0
+- EFFECTS:
+id = table: 3f53ff7e, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.815, power = 1
+- EFFECTS:
+id = table: 6eb8c903, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.18
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.261, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.753, power = 0.7
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.3
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.323, power = 0.1
+- EFFECTS:
+id = table: 3f53ff7e, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.775, power = 1
+- EFFECTS:
+id = table: 6eb8c903, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.18
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.261, power = 0
+- EFFECTS:
+id = table: 4b8a824b, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.753, power = 0.7
+- EFFECTS:
+id = table: 55722e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.272), TAKE 1702 damage, initiatorPower = 1, targetPower = 0.2
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.28
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.32
+
+
+[COUNTER_ATTACK] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.728), TAKE 851 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.3
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.323, power = 0.1
+- EFFECTS:
+id = table: 3f53ff7e, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.775, power = 1
+- EFFECTS:
+id = table: 6eb8c903, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.18
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.261, power = 0
+- EFFECTS:
+id = table: 4b8a824b, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.753, power = 0.7
+- EFFECTS:
+id = table: 55722e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.32
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.272, power = 0.2
+- EFFECTS:
+id = table: 3f53ff7e, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.775, power = 1
+- EFFECTS:
+id = table: 6eb8c903, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.28
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.261, power = 0
+- EFFECTS:
+id = table: 4b8a824b, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.728, power = 1
+- EFFECTS:
+id = table: 55722e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.211), TAKE 1702 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.32
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.272, power = 0.2
+- EFFECTS:
+id = table: 3f53ff7e, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.775, power = 1
+- EFFECTS:
+id = table: 6eb8c903, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.28
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.261, power = 0
+- EFFECTS:
+id = table: 4b8a824b, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.728, power = 1
+- EFFECTS:
+id = table: 55722e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.42
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.272, power = 0.7
+- EFFECTS:
+id = table: 3f53ff7e, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.775, power = 1
+- EFFECTS:
+id = table: 6eb8c903, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.3
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.211, power = 0.1
+- EFFECTS:
+id = table: 4b8a824b, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.728, power = 1
+- EFFECTS:
+id = table: 55722e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.222), TAKE 1702 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.4
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.44
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.42
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.272, power = 0.7
+- EFFECTS:
+id = table: 3f53ff7e, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.775, power = 1
+- EFFECTS:
+id = table: 6eb8c903, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.3
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.211, power = 0.1
+- EFFECTS:
+id = table: 4b8a824b, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.728, power = 1
+- EFFECTS:
+id = table: 55722e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.44
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.222, power = 0.8
+- EFFECTS:
+id = table: 3f53ff7e, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.775, power = 1
+- EFFECTS:
+id = table: 6eb8c903, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.4
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.211, power = 0.6
+- EFFECTS:
+id = table: 4b8a824b, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.728, power = 1
+- EFFECTS:
+id = table: 55722e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.143), TAKE 2297 damage, initiatorPower = 0, targetPower = 0.7 (CRIT)
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.42
+
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.683), TAKE 1531 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.44
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.222), type = 401, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.775), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.44
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.222, power = 0.8
+- EFFECTS:
+id = table: 3f53ff7e, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.775, power = 1
+- EFFECTS:
+id = table: 6eb8c903, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.4
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.211, power = 0.6
+- EFFECTS:
+id = table: 4b8a824b, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.728, power = 1
+- EFFECTS:
+id = table: 55722e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.44
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.222, power = 0.8
+- EFFECTS:
+id = table: 3f53ff7e, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 205dc555, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.775, power = 0
+- EFFECTS:
+id = table: 6eb8c903, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 885e08c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.44
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.143, power = 0.7
+- EFFECTS:
+id = table: 4b8a824b, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.683, power = 1
+- EFFECTS:
+id = table: 55722e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.177), TAKE 1531 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.46
+
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.73), TAKE 1531 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.48
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.143), type = 401, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.683), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.44
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.222, power = 0.8
+- EFFECTS:
+id = table: 3f53ff7e, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 205dc555, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.775, power = 0
+- EFFECTS:
+id = table: 6eb8c903, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 885e08c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.44
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.143, power = 0.7
+- EFFECTS:
+id = table: 4b8a824b, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.683, power = 1
+- EFFECTS:
+id = table: 55722e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.48
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.177, power = 0.9
+- EFFECTS:
+id = table: 3f53ff7e, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 205dc555, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.73, power = 0.1
+- EFFECTS:
+id = table: 6eb8c903, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 885e08c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.44
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.143, power = 0.7
+- EFFECTS:
+id = table: 4b8a824b, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1702a30d, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.683, power = 0
+- EFFECTS:
+id = table: 55722e, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 3ced67c1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 8 ----------
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.177), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.73), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.143), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.683), type = 401, persistentType = 1, isBuff = true
+
+
+ROUND 9
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.093), TAKE 1702 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.58
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.46
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.48
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.177, power = 0.9
+- EFFECTS:
+id = table: 205dc555, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.73, power = 0.1
+- EFFECTS:
+id = table: 885e08c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.44
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.143, power = 0.7
+- EFFECTS:
+id = table: 1702a30d, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.683, power = 0
+- EFFECTS:
+id = table: 3ced67c1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.58
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.177, power = 1
+- EFFECTS:
+id = table: 205dc555, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.73, power = 0.1
+- EFFECTS:
+id = table: 885e08c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.46
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.093, power = 0.8
+- EFFECTS:
+id = table: 1702a30d, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.683, power = 0
+- EFFECTS:
+id = table: 3ced67c1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.043), TAKE 1702 damage, initiatorPower = 0.6, targetPower = 0.9
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.68
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.48
+
+
+[COUNTER_ATTACK] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.705), TAKE 851 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.58
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.177, power = 1
+- EFFECTS:
+id = table: 205dc555, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.73, power = 0.1
+- EFFECTS:
+id = table: 885e08c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.46
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.093, power = 0.8
+- EFFECTS:
+id = table: 1702a30d, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.683, power = 0
+- EFFECTS:
+id = table: 3ced67c1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.68
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.177, power = 1
+- EFFECTS:
+id = table: 205dc555, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.705, power = 0.6
+- EFFECTS:
+id = table: 885e08c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.48
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.043, power = 0.9
+- EFFECTS:
+id = table: 1702a30d, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.683, power = 0
+- EFFECTS:
+id = table: 3ced67c1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.126), TAKE 1702 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.58
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.7
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.68
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.177, power = 1
+- EFFECTS:
+id = table: 205dc555, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.705, power = 0.6
+- EFFECTS:
+id = table: 885e08c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.48
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.043, power = 0.9
+- EFFECTS:
+id = table: 1702a30d, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.683, power = 0
+- EFFECTS:
+id = table: 3ced67c1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.7
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.126, power = 1
+- EFFECTS:
+id = table: 205dc555, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.705, power = 0.6
+- EFFECTS:
+id = table: 885e08c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.58
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.043, power = 1
+- EFFECTS:
+id = table: 1702a30d, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.683, power = 0
+- EFFECTS:
+id = table: 3ced67c1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.076), TAKE 1702 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.68
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.72
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.7
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.126, power = 1
+- EFFECTS:
+id = table: 205dc555, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.705, power = 0.6
+- EFFECTS:
+id = table: 885e08c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.58
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.043, power = 1
+- EFFECTS:
+id = table: 1702a30d, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.683, power = 0
+- EFFECTS:
+id = table: 3ced67c1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.72
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.076, power = 1
+- EFFECTS:
+id = table: 205dc555, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.705, power = 0.6
+- EFFECTS:
+id = table: 885e08c, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.68
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.043, power = 1
+- EFFECTS:
+id = table: 1702a30d, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.683, power = 0.5
+- EFFECTS:
+id = table: 3ced67c1, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 9 ----------
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.076), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.705), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.043), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.683), type = 401, persistentType = 1, isBuff = true
+
+
+ROUND 10
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0.003), TAKE 1332 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.7
+
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.644), TAKE 1332 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.72
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.076), type = 401, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.705), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.72
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.076, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.705, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.68
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.043, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.683, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.72
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.076, power = 0
+- EFFECTS:
+id = table: 72547a64, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.705, power = 0.6
+- EFFECTS:
+id = table: 55f26522, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.72
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.003, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.644, power = 0.6
+
+
+TURN 2 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 1702 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.82
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.74
+
+
+[DEAD_FOR_DISPLAY] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.72
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.076, power = 0
+- EFFECTS:
+id = table: 72547a64, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.705, power = 0.6
+- EFFECTS:
+id = table: 55f26522, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.72
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0.003, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.644, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.82
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.076, power = 0
+- EFFECTS:
+id = table: 72547a64, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.705, power = 1
+- EFFECTS:
+id = table: 55f26522, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.74
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.644, power = 0.6
+
+
+TURN 3 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.01), TAKE 2220 damage, initiatorPower = 1, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.84
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.84
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.82
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.076, power = 0
+- EFFECTS:
+id = table: 72547a64, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.705, power = 1
+- EFFECTS:
+id = table: 55f26522, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.74
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.644, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.84
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.01, power = 0.1
+- EFFECTS:
+id = table: 72547a64, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.705, power = 1
+- EFFECTS:
+id = table: 55f26522, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.84
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.644, power = 1
+
+
+ROUND 11
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.593), TAKE 1702 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.94
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.86
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.84
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.01, power = 0.1
+- EFFECTS:
+id = table: 72547a64, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.705, power = 1
+- EFFECTS:
+id = table: 55f26522, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.84
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.644, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.94
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.01, power = 0.6
+- EFFECTS:
+id = table: 72547a64, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.705, power = 1
+- EFFECTS:
+id = table: 55f26522, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.86
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.593, power = 1
+
+
+TURN 2 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.548), TAKE 1531 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.88
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0.01), type = 401, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.705), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.94
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.01, power = 0.6
+- EFFECTS:
+id = table: 72547a64, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.705, power = 1
+- EFFECTS:
+id = table: 55f26522, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.86
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.593, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.94
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.01, power = 0.6
+- EFFECTS:
+id = table: 72547a64, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 57eaae5a, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.705, power = 0
+- EFFECTS:
+id = table: 55f26522, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6e0809, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.88
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.548, power = 1
+
+
+TURN 3 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 1332 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.96
+
+
+[DEAD_FOR_DISPLAY] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.666), TAKE 1332 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.98
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.548), type = 401, persistentType = 1, isBuff = true
+
+
+[DEAD] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.94
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0.01, power = 0.6
+- EFFECTS:
+id = table: 72547a64, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 57eaae5a, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.705, power = 0
+- EFFECTS:
+id = table: 55f26522, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6e0809, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.88
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.548, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.98
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.666, power = 0.1
+- EFFECTS:
+id = table: 55f26522, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6e0809, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.88
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.548, power = 0
+- EFFECTS:
+id = table: 51b8c53a, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 11 ----------
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 1)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.666), type = 401, persistentType = 1, isBuff = true
+
+
+ROUND 12
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.498), TAKE 1702 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.9
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.98
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.666, power = 0.1
+- EFFECTS:
+id = table: 6e0809, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.88
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.548, power = 0
+- EFFECTS:
+id = table: 51b8c53a, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.666, power = 0.6
+- EFFECTS:
+id = table: 6e0809, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.9
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.498, power = 0.1
+- EFFECTS:
+id = table: 51b8c53a, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerNovice (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerNovice (TEAM 1)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.482), TAKE 542 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.92
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 1
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.666, power = 0.6
+- EFFECTS:
+id = table: 6e0809, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.9
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.498, power = 0.1
+- EFFECTS:
+id = table: 51b8c53a, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.666, power = 0.6
+- EFFECTS:
+id = table: 6e0809, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.92
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.482, power = 0.2
+- EFFECTS:
+id = table: 51b8c53a, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.615), TAKE 1702 damage, initiatorPower = 0.7, targetPower = 0.7
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.666, power = 0.6
+- EFFECTS:
+id = table: 6e0809, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.92
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.482, power = 0.2
+- EFFECTS:
+id = table: 51b8c53a, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.02
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.615, power = 0.7
+- EFFECTS:
+id = table: 6e0809, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.482, power = 0.7
+- EFFECTS:
+id = table: 51b8c53a, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerNovice (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerNovice (TEAM 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.599), TAKE 542 damage, initiatorPower = 0, targetPower = 0.8
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.04
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.02
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.615, power = 0.7
+- EFFECTS:
+id = table: 6e0809, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 1
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.482, power = 0.7
+- EFFECTS:
+id = table: 51b8c53a, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.04
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.599, power = 0.8
+- EFFECTS:
+id = table: 6e0809, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.482, power = 0.7
+- EFFECTS:
+id = table: 51b8c53a, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 12 ----------
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.599), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.482), type = 401, persistentType = 1, isBuff = true
+
+
+ROUND 13
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 13)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.438), TAKE 1480 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.02
+
+
+[COUNTER_ATTACK] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.577), TAKE 740 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.04
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.599, power = 0.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.482, power = 0.7
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.14
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.577, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.02
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.438, power = 0.8
+
+
+TURN 2 (ROUND 13)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.512), TAKE 2220 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.16
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.14
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.577, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.02
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.438, power = 0.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.16
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.512, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.12
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.438, power = 1
+
+
+ROUND 14
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 14)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.399), TAKE 1332 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.14
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.512), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.16
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.512, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.12
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.438, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.16
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.512, power = 0
+- EFFECTS:
+id = table: 1725715a, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.14
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.399, power = 1
+
+
+TURN 2 (ROUND 14)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.472), TAKE 1332 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.18
+
+
+[ADD_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.399), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.16
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.512, power = 0
+- EFFECTS:
+id = table: 1725715a, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.14
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.399, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.18
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.472, power = 0.1
+- EFFECTS:
+id = table: 1725715a, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.14
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.399, power = 0
+- EFFECTS:
+id = table: 153f859a, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+ROUND 15
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 15)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.348), TAKE 1702 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.28
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.16
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.18
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.472, power = 0.1
+- EFFECTS:
+id = table: 1725715a, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.14
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.399, power = 0
+- EFFECTS:
+id = table: 153f859a, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.28
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.472, power = 0.6
+- EFFECTS:
+id = table: 1725715a, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.16
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.348, power = 0.1
+- EFFECTS:
+id = table: 153f859a, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 15)
+--------------------------------------------------------------------------------
+<> INITIATOR [Titi 40021 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.422), TAKE 1702 damage, initiatorPower = 0.6, targetPower = 0.7
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.26
+
+
+[CHANGE_POWER] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.3
+
+
+[COUNTER_ATTACK] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.323), TAKE 851 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.28
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.472, power = 0.6
+- EFFECTS:
+id = table: 1725715a, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.16
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.348, power = 0.1
+- EFFECTS:
+id = table: 153f859a, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.3
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.422, power = 0.7
+- EFFECTS:
+id = table: 1725715a, type = 401, initiator = [Titi 40021 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.26
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.323, power = 0.6
+- EFFECTS:
+id = table: 153f859a, type = 401, initiator = [Titi 40021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 15 ----------
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 1, FRONT, POS 2)] => [Titi 40021 (TEAM 1, FRONT, POS 2)] (hp = 0.422), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Titi 40021 (TEAM 2, FRONT, POS 2)] => [Titi 40021 (TEAM 2, FRONT, POS 2)] (hp = 0.323), type = 401, persistentType = 1, isBuff = true
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.3
+
+> [Titi 40021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 1, FRONT, POS 2)] hp = 0.422, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.26
+
+> [Titi 40021 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Titi 40021 (TEAM 2, FRONT, POS 2)] hp = 0.323, power = 0.6
+
+<> STATISTICS:
+[Titi 40021 (TEAM 1, FRONT, POS 1)] DamageDeal = 26233, DamageTaken = 35916.9, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 65e1e974, count = 3
+	[1 (number)] = 12654 (number)
+	[2 (number)] = 11988 (number)
+	[3 (number)] = 1591 (number)
+
+	Damage taken by sources: Dictionary = table: 726771e7, count = 3
+	[1 (number)] = 24126 (number)
+	[2 (number)] = 10798.4 (number)
+	[3 (number)] = 992.5 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 4e746150, count = 13
+	[3001 (number)] = 1924 (number)
+	[6001 (number)] = 1924 (number)
+	[9001 (number)] = 1702 (number)
+	[2001 (number)] = 3330 (number)
+	[5001 (number)] = 3330 (number)
+	[8001 (number)] = 1702 (number)
+	[11001 (number)] = 1702 (number)
+	[4001 (number)] = 1480 (number)
+	[7001 (number)] = 2664 (number)
+	[1001 (number)] = 2220 (number)
+	[10001 (number)] = 2664 (number)
+	[1004 (number)] = 740 (number)
+	[7004 (number)] = 851 (number)
+
+	Damage taken history: Dictionary = table: 278e2e51, count = 22
+	[4003 (number)] = 1374.3 (number)
+	[8002 (number)] = 1756 (number)
+	[4004 (number)] = 1756 (number)
+	[8004 (number)] = 1580.4 (number)
+	[1002 (number)] = 1527 (number)
+	[5002 (number)] = 1756 (number)
+	[1004 (number)] = 2290.5 (number)
+	[5004 (number)] = 1580.4 (number)
+	[9003 (number)] = 1756 (number)
+	[9004 (number)] = 1756 (number)
+	[2002 (number)] = 1374.3 (number)
+	[6002 (number)] = 1756 (number)
+	[2004 (number)] = 1580.4 (number)
+	[6004 (number)] = 560 (number)
+	[10003 (number)] = 2290.5 (number)
+	[6006 (number)] = 1756 (number)
+	[3001 (number)] = 992.5 (number)
+	[3002 (number)] = 1985 (number)
+	[7003 (number)] = 1374.3 (number)
+	[3004 (number)] = 1985 (number)
+	[7004 (number)] = 1756 (number)
+	[11003 (number)] = 1374.3 (number)
+
+	Stat changer buff created history: Dictionary = table: 4dced99d, count = 1
+	[1 (number)] = 3664 (number)
+
+[SummonerNovice (TEAM 1)] DamageDeal = 1626, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4ef718a, count = 1
+	[2 (number)] = 1626 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 697cfea6, count = 2
+	[6003 (number)] = 1084 (number)
+	[12002 (number)] = 542 (number)
+
+[Titi 40021 (TEAM 1, FRONT, POS 2)] DamageDeal = 30464, DamageTaken = 20176.7, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 3f56a97e, count = 3
+	[1 (number)] = 16798 (number)
+	[2 (number)] = 12815 (number)
+	[3 (number)] = 851 (number)
+
+	Damage taken by sources: Dictionary = table: 46f8d38, count = 3
+	[1 (number)] = 5802.5 (number)
+	[2 (number)] = 12732.7 (number)
+	[3 (number)] = 1641.5 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 7bf3df1e, count = 16
+	[12001 (number)] = 1702 (number)
+	[15001 (number)] = 1702 (number)
+	[9002 (number)] = 1702 (number)
+	[15002 (number)] = 851 (number)
+	[3003 (number)] = 1924 (number)
+	[6005 (number)] = 1924 (number)
+	[14001 (number)] = 1332 (number)
+	[11002 (number)] = 1531 (number)
+	[5003 (number)] = 3062 (number)
+	[8003 (number)] = 3828 (number)
+	[2003 (number)] = 3062 (number)
+	[13001 (number)] = 1480 (number)
+	[4002 (number)] = 1480 (number)
+	[7002 (number)] = 1702 (number)
+	[10002 (number)] = 1702 (number)
+	[1003 (number)] = 1480 (number)
+
+	Damage taken history: Dictionary = table: 75f49708, count = 15
+	[9002 (number)] = 878 (number)
+	[15002 (number)] = 1756 (number)
+	[12003 (number)] = 1756 (number)
+	[6004 (number)] = 560 (number)
+	[12004 (number)] = 560 (number)
+	[2002 (number)] = 1374.3 (number)
+	[14002 (number)] = 1374.3 (number)
+	[11003 (number)] = 1374.3 (number)
+	[5004 (number)] = 1580.4 (number)
+	[8004 (number)] = 1580.4 (number)
+	[2004 (number)] = 1580.4 (number)
+	[13001 (number)] = 763.5 (number)
+	[13002 (number)] = 2290.5 (number)
+	[4003 (number)] = 1374.3 (number)
+	[7003 (number)] = 1374.3 (number)
+
+	Stat changer buff created history: Dictionary = table: 7fe3cd91, count = 1
+	[1 (number)] = 4122 (number)
+
+[Titi 40021 (TEAM 2, FRONT, POS 1)] DamageDeal = 20017, DamageTaken = 36554.4, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 71d9918, count = 3
+	[1 (number)] = 10212 (number)
+	[2 (number)] = 7992 (number)
+	[3 (number)] = 1813 (number)
+
+	Damage taken by sources: Dictionary = table: 62f3bdca, count = 2
+	[1 (number)] = 23591.5 (number)
+	[2 (number)] = 12962.9 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 33ee3a4b, count = 11
+	[3001 (number)] = 962 (number)
+	[3002 (number)] = 1924 (number)
+	[6002 (number)] = 1702 (number)
+	[9002 (number)] = 851 (number)
+	[9003 (number)] = 1702 (number)
+	[5002 (number)] = 1702 (number)
+	[2002 (number)] = 2664 (number)
+	[8002 (number)] = 1702 (number)
+	[1002 (number)] = 1480 (number)
+	[4003 (number)] = 2664 (number)
+	[7003 (number)] = 2664 (number)
+
+	Damage taken history: Dictionary = table: 5280e6e2, count = 21
+	[4001 (number)] = 1527 (number)
+	[4002 (number)] = 1527 (number)
+	[8001 (number)] = 1756 (number)
+	[8003 (number)] = 2370.6 (number)
+	[1001 (number)] = 2290.5 (number)
+	[5001 (number)] = 2061.45 (number)
+	[1003 (number)] = 1527 (number)
+	[9001 (number)] = 1756 (number)
+	[5003 (number)] = 1580.4 (number)
+	[9002 (number)] = 1756 (number)
+	[2001 (number)] = 2061.45 (number)
+	[6001 (number)] = 1985 (number)
+	[2003 (number)] = 1580.4 (number)
+	[10001 (number)] = 1374.3 (number)
+	[6003 (number)] = 560 (number)
+	[10002 (number)] = 1756 (number)
+	[6005 (number)] = 1985 (number)
+	[3001 (number)] = 1985 (number)
+	[7001 (number)] = 1374.3 (number)
+	[7002 (number)] = 1756 (number)
+	[3003 (number)] = 1985 (number)
+
+	Stat changer buff created history: Dictionary = table: 39be60f3, count = 1
+	[1 (number)] = 2748 (number)
+
+[SummonerNovice (TEAM 2)] DamageDeal = 1626, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 46dc87e3, count = 1
+	[2 (number)] = 1626 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 422c111, count = 2
+	[6004 (number)] = 1084 (number)
+	[12004 (number)] = 542 (number)
+
+[Titi 40021 (TEAM 2, FRONT, POS 2)] DamageDeal = 32718, DamageTaken = 23627.6, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 51c08081, count = 3
+	[1 (number)] = 18796 (number)
+	[2 (number)] = 13182 (number)
+	[3 (number)] = 740 (number)
+
+	Damage taken by sources: Dictionary = table: 1b33cbb2, count = 3
+	[1 (number)] = 6795 (number)
+	[2 (number)] = 14313.1 (number)
+	[3 (number)] = 2519.5 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 39f2b4a8, count = 16
+	[15002 (number)] = 1702 (number)
+	[12003 (number)] = 1702 (number)
+	[3004 (number)] = 1924 (number)
+	[9004 (number)] = 1702 (number)
+	[6006 (number)] = 1702 (number)
+	[14002 (number)] = 1332 (number)
+	[11003 (number)] = 2664 (number)
+	[5004 (number)] = 3062 (number)
+	[8004 (number)] = 3062 (number)
+	[2004 (number)] = 3062 (number)
+	[13001 (number)] = 740 (number)
+	[13002 (number)] = 2220 (number)
+	[10003 (number)] = 2220 (number)
+	[7004 (number)] = 1702 (number)
+	[1004 (number)] = 2220 (number)
+	[4004 (number)] = 1702 (number)
+
+	Damage taken history: Dictionary = table: 2bcad0ce, count = 18
+	[12001 (number)] = 1756 (number)
+	[8003 (number)] = 1580.4 (number)
+	[12002 (number)] = 560 (number)
+	[5001 (number)] = 1374.3 (number)
+	[1004 (number)] = 763.5 (number)
+	[13001 (number)] = 1527 (number)
+	[5003 (number)] = 1580.4 (number)
+	[2001 (number)] = 1374.3 (number)
+	[10001 (number)] = 1374.3 (number)
+	[2003 (number)] = 1580.4 (number)
+	[14001 (number)] = 1374.3 (number)
+	[6003 (number)] = 560 (number)
+	[7001 (number)] = 1374.3 (number)
+	[11001 (number)] = 1756 (number)
+	[11002 (number)] = 1580.4 (number)
+	[15001 (number)] = 1756 (number)
+	[7004 (number)] = 878 (number)
+	[15002 (number)] = 878 (number)
+
+	Stat changer buff created history: Dictionary = table: 7e5b99be, count = 1
+	[1 (number)] = 3664 (number)
+
+
+<> WINNER: 2

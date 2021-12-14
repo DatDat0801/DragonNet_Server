@@ -1,0 +1,2667 @@
+
+<> SEED = 517675181
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 125
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 2385
+defense = 310
+hp = 33285/33285
+speed = 55
+critRate = 0.1
+critDamage = 1.5
+accuracy = 998
+dodge = 898
+pureDamage = 0
+skillDamage = 0.47
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 7c8358cc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 70964f4, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 3909e629, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 5f2a8cfc, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4ff101c8, type = 431, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: da3bd0c, type = 403, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 2385
+defense = 310
+hp = 33285/33285
+speed = 55
+critRate = 0.1
+critDamage = 1.5
+accuracy = 998
+dodge = 898
+pureDamage = 0
+skillDamage = 0.47
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 393e206, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 7e9b4bc8, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 39a3fa92, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 25bcbc72, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3b58aeda, type = 431, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 755d74f3, type = 403, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 2385
+defense = 310
+hp = 33285/33285
+speed = 55
+critRate = 0.1
+critDamage = 1.5
+accuracy = 998
+dodge = 898
+pureDamage = 0
+skillDamage = 0.47
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 1f396772, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 79771d0e, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 7a75284, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 53f1a7f5, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 29280fe7, type = 431, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 39e8696d, type = 403, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 2385
+defense = 310
+hp = 33285/33285
+speed = 55
+critRate = 0.1
+critDamage = 1.5
+accuracy = 998
+dodge = 898
+pureDamage = 0
+skillDamage = 0.47
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 68f6f8a1, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: be87f0c, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 62d60ea1, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 3d3ad1aa, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 2df070b8, type = 431, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 55f8b449, type = 403, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0.933), TAKE 2220 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 7c8358cc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 393e206, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1f396772, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 68f6f8a1, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 7c8358cc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 393e206, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.933, power = 0.6
+- EFFECTS:
+id = table: 1f396772, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 68f6f8a1, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0.867), TAKE 2220 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[RESIST_EFFECT] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 1), effectType = 10
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 7c8358cc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 393e206, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.933, power = 0.6
+- EFFECTS:
+id = table: 1f396772, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 68f6f8a1, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 7c8358cc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 393e206, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.867, power = 0.7
+- EFFECTS:
+id = table: 1f396772, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 68f6f8a1, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0.933), TAKE 2220 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[RESIST_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0.867), effectType = 10
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 7c8358cc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 393e206, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.867, power = 0.7
+- EFFECTS:
+id = table: 1f396772, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 68f6f8a1, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.933, power = 1
+- EFFECTS:
+id = table: 7c8358cc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 393e206, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.867, power = 1
+- EFFECTS:
+id = table: 1f396772, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 68f6f8a1, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0.867), TAKE 2220 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[RESIST_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 1), effectType = 10
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.933, power = 1
+- EFFECTS:
+id = table: 7c8358cc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 393e206, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.867, power = 1
+- EFFECTS:
+id = table: 1f396772, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 68f6f8a1, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.867, power = 1
+- EFFECTS:
+id = table: 7c8358cc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 393e206, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.867, power = 1
+- EFFECTS:
+id = table: 1f396772, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 68f6f8a1, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0.711), TAKE 5189 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.896), TAKE 3459 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.867, power = 1
+- EFFECTS:
+id = table: 7c8358cc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 393e206, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.867, power = 1
+- EFFECTS:
+id = table: 1f396772, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 68f6f8a1, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.867, power = 0
+- EFFECTS:
+id = table: 7c8358cc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 393e206, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.711, power = 1
+- EFFECTS:
+id = table: 1f396772, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.896, power = 1
+- EFFECTS:
+id = table: 68f6f8a1, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0.607), TAKE 3459 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.792), TAKE 3459 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[RESIST_EFFECT] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 1), effectType = 20
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.867, power = 0
+- EFFECTS:
+id = table: 7c8358cc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 393e206, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.711, power = 1
+- EFFECTS:
+id = table: 1f396772, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.896, power = 1
+- EFFECTS:
+id = table: 68f6f8a1, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.867, power = 0
+- EFFECTS:
+id = table: 7c8358cc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 393e206, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.607, power = 1
+- EFFECTS:
+id = table: 1f396772, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 1
+- EFFECTS:
+id = table: 68f6f8a1, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0.763), TAKE 3459 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 0.896), TAKE 3459 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.867, power = 0
+- EFFECTS:
+id = table: 7c8358cc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 393e206, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.607, power = 1
+- EFFECTS:
+id = table: 1f396772, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 1
+- EFFECTS:
+id = table: 68f6f8a1, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.763, power = 0.1
+- EFFECTS:
+id = table: 7c8358cc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.896, power = 0.1
+- EFFECTS:
+id = table: 393e206, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.607, power = 0
+- EFFECTS:
+id = table: 1f396772, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 1
+- EFFECTS:
+id = table: 68f6f8a1, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0.659), TAKE 3459 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 0.792), TAKE 3459 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[RESIST_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.792), effectType = 20
+
+
+[RESIST_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.792), effectType = 20
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.763, power = 0.1
+- EFFECTS:
+id = table: 7c8358cc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.896, power = 0.1
+- EFFECTS:
+id = table: 393e206, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.607, power = 0
+- EFFECTS:
+id = table: 1f396772, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 1
+- EFFECTS:
+id = table: 68f6f8a1, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.659, power = 0.2
+- EFFECTS:
+id = table: 7c8358cc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 0.2
+- EFFECTS:
+id = table: 393e206, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.607, power = 0
+- EFFECTS:
+id = table: 1f396772, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 0
+- EFFECTS:
+id = table: 68f6f8a1, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0.659), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 0.792), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0.607), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.792), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0.54), TAKE 2220 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.659, power = 0.2
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.607, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.659, power = 0.7
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.54, power = 0.1
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 0
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0.473), TAKE 2220 damage, initiatorPower = 0.7, targetPower = 0.2
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.659, power = 0.7
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.54, power = 0.1
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.659, power = 0.7
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.473, power = 0.2
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 0
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0.592), TAKE 2220 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.659, power = 0.7
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.473, power = 0.2
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.592, power = 0.8
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.473, power = 0.7
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 0
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0.492), TAKE 3330 damage, initiatorPower = 0.5, targetPower = 0.9 (CRIT)
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.592, power = 0.8
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.473, power = 0.7
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.492, power = 0.9
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.473, power = 0.7
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 0.5
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0.407), TAKE 2220 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.492, power = 0.9
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.473, power = 0.7
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.492, power = 1
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.407, power = 0.8
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 0.5
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0.425), TAKE 2220 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0.425), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0.409), TAKE 532 damage, remainingRound = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.492, power = 1
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.407, power = 0.8
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.409, power = 1
+- EFFECTS:
+id = table: 65286a15, type = 10, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.407, power = 1
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 0.5
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0.34), TAKE 2220 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0.34), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0.324), TAKE 532 damage, remainingRound = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.409, power = 1
+- EFFECTS:
+id = table: 65286a15, type = 10, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.407, power = 1
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.409, power = 1
+- EFFECTS:
+id = table: 65286a15, type = 10, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.324, power = 1
+- EFFECTS:
+id = table: 37d9c317, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 0.5
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0.343), TAKE 2220 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.8
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.409, power = 1
+- EFFECTS:
+id = table: 65286a15, type = 10, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.324, power = 1
+- EFFECTS:
+id = table: 37d9c317, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.343, power = 1
+- EFFECTS:
+id = table: 65286a15, type = 10, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.324, power = 1
+- EFFECTS:
+id = table: 37d9c317, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 1
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 5 ----------
+
+[POISON_EFFECT] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0.327), TAKE 532 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0.308), TAKE 532 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0.204), TAKE 3459 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.688), TAKE 3459 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0.204), type = 401, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.327, power = 1
+- EFFECTS:
+id = table: 65286a15, type = 10, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.308, power = 1
+- EFFECTS:
+id = table: 37d9c317, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.792, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.327, power = 0
+- EFFECTS:
+id = table: 65286a15, type = 10, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.204, power = 1
+- EFFECTS:
+id = table: 37d9c317, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 5c85f3c7, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.688, power = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0.242), TAKE 2831 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 0.707), TAKE 2831 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.84
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.327, power = 0
+- EFFECTS:
+id = table: 65286a15, type = 10, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.204, power = 1
+- EFFECTS:
+id = table: 37d9c317, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 5c85f3c7, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.688, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.242, power = 0.1
+- EFFECTS:
+id = table: 65286a15, type = 10, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.707, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.204, power = 0
+- EFFECTS:
+id = table: 37d9c317, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 5c85f3c7, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.688, power = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0.048), TAKE 5189 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.584), TAKE 3459 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.88
+
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0.048), type = 401, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.584), type = 401, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.242, power = 0.1
+- EFFECTS:
+id = table: 65286a15, type = 10, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.707, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.204, power = 0
+- EFFECTS:
+id = table: 37d9c317, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 5c85f3c7, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.688, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.242, power = 0.1
+- EFFECTS:
+id = table: 65286a15, type = 10, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.707, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.048, power = 0.1
+- EFFECTS:
+id = table: 37d9c317, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 5c85f3c7, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 72de2d5f, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.584, power = 1
+- EFFECTS:
+id = table: 548089d3, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0.114), TAKE 4247 damage, initiatorPower = 0, targetPower = 0.2 (CRIT)
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.86
+
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 0.622), TAKE 2831 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.88
+
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0.114), type = 401, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 0.622), type = 401, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.242, power = 0.1
+- EFFECTS:
+id = table: 65286a15, type = 10, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.707, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.048, power = 0.1
+- EFFECTS:
+id = table: 37d9c317, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 5c85f3c7, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 72de2d5f, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.584, power = 1
+- EFFECTS:
+id = table: 548089d3, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.114, power = 0.2
+- EFFECTS:
+id = table: 65286a15, type = 10, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 2db8292f, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.622, power = 0.1
+- EFFECTS:
+id = table: 5e50fc94, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.048, power = 0.1
+- EFFECTS:
+id = table: 37d9c317, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 5c85f3c7, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 72de2d5f, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.584, power = 0
+- EFFECTS:
+id = table: 548089d3, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 5 ----------
+
+[REMOVE_EFFECT] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0.114), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0.048), type = 10, persistentType = 1, isBuff = false
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 1817 damage, initiatorPower = 0.7, targetPower = 0
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.98
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.9
+
+
+[DEAD_FOR_DISPLAY] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.114, power = 0.2
+- EFFECTS:
+id = table: 2db8292f, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.622, power = 0.1
+- EFFECTS:
+id = table: 5e50fc94, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0.048, power = 0.1
+- EFFECTS:
+id = table: 5c85f3c7, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 72de2d5f, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.584, power = 0
+- EFFECTS:
+id = table: 548089d3, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.114, power = 0.7
+- EFFECTS:
+id = table: 2db8292f, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.622, power = 0.1
+- EFFECTS:
+id = table: 5e50fc94, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.584, power = 0
+- EFFECTS:
+id = table: 548089d3, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.53), TAKE 1817 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.92
+
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.53), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.517), TAKE 435 damage, remainingRound = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.114, power = 0.7
+- EFFECTS:
+id = table: 2db8292f, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.622, power = 0.1
+- EFFECTS:
+id = table: 5e50fc94, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.584, power = 0
+- EFFECTS:
+id = table: 548089d3, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.114, power = 0.7
+- EFFECTS:
+id = table: 2db8292f, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.622, power = 0.6
+- EFFECTS:
+id = table: 5e50fc94, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.92
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.517, power = 0.1
+- EFFECTS:
+id = table: 548089d3, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 5de786d4, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.448), TAKE 2287 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.94
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.448), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.114, power = 0.7
+- EFFECTS:
+id = table: 2db8292f, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.622, power = 0.6
+- EFFECTS:
+id = table: 5e50fc94, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.92
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.517, power = 0.1
+- EFFECTS:
+id = table: 548089d3, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 5de786d4, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.114, power = 0.7
+- EFFECTS:
+id = table: 2db8292f, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.622, power = 0.6
+- EFFECTS:
+id = table: 5e50fc94, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.94
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.448, power = 0.2
+- EFFECTS:
+id = table: 548089d3, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 5de786d4, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: df942aa, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0.059), TAKE 1817 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.114, power = 0.7
+- EFFECTS:
+id = table: 2db8292f, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.622, power = 0.6
+- EFFECTS:
+id = table: 5e50fc94, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.94
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.448, power = 0.2
+- EFFECTS:
+id = table: 548089d3, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 5de786d4, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: df942aa, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.059, power = 0.8
+- EFFECTS:
+id = table: 2db8292f, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.622, power = 0.6
+- EFFECTS:
+id = table: 5e50fc94, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.448, power = 0.7
+- EFFECTS:
+id = table: 548089d3, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 5de786d4, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: df942aa, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 2287 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.04
+
+
+[DEAD_FOR_DISPLAY] [SummonerMage (TEAM 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 0.553), TAKE 2287 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.06
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 0.553), type = 404, persistentType = 52, isBuff = false
+
+
+[DEAD] [SummonerMage (TEAM 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0.059, power = 0.8
+- EFFECTS:
+id = table: 2db8292f, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.622, power = 0.6
+- EFFECTS:
+id = table: 5e50fc94, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.448, power = 0.7
+- EFFECTS:
+id = table: 548089d3, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 5de786d4, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: df942aa, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.06
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.553, power = 0.7
+- EFFECTS:
+id = table: 5e50fc94, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 61e4e36b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.448, power = 0.7
+- EFFECTS:
+id = table: 548089d3, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 5de786d4, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: df942aa, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 7 ----------
+
+[POISON_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.435), TAKE 435 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.38), TAKE 1817 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.06
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.553, power = 0.7
+- EFFECTS:
+id = table: 5e50fc94, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 61e4e36b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.435, power = 0.7
+- EFFECTS:
+id = table: 5de786d4, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 548089d3, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: df942aa, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.553, power = 1
+- EFFECTS:
+id = table: 5e50fc94, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 61e4e36b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.38, power = 0.8
+- EFFECTS:
+id = table: 5de786d4, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 548089d3, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: df942aa, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 0.499), TAKE 1817 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.18
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.553, power = 1
+- EFFECTS:
+id = table: 5e50fc94, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 61e4e36b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.38, power = 0.8
+- EFFECTS:
+id = table: 5de786d4, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 548089d3, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: df942aa, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.499, power = 1
+- EFFECTS:
+id = table: 5e50fc94, type = 401, initiator = [Ghunon 60026 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 61e4e36b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.38, power = 1
+- EFFECTS:
+id = table: 5de786d4, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 548089d3, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: df942aa, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 7 ----------
+
+[REMOVE_EFFECT] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 0.499), type = 401, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.38), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.38), type = 401, persistentType = 1, isBuff = false
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.276), TAKE 3459 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.499, power = 1
+- EFFECTS:
+id = table: 61e4e36b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.38, power = 1
+- EFFECTS:
+id = table: df942aa, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.499, power = 0
+- EFFECTS:
+id = table: 61e4e36b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.276, power = 1
+- EFFECTS:
+id = table: df942aa, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 0.395), TAKE 3459 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.499, power = 0
+- EFFECTS:
+id = table: 61e4e36b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.276, power = 1
+- EFFECTS:
+id = table: df942aa, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0.1
+- EFFECTS:
+id = table: 61e4e36b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.276, power = 0
+- EFFECTS:
+id = table: df942aa, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 8 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 0.395), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.276), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 9
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.21), TAKE 2220 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.16
+
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.21), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.194), TAKE 532 damage, remainingRound = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.276, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.194, power = 0.1
+- EFFECTS:
+id = table: 3809179f, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+TURN 2 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 0.328), TAKE 2220 damage, initiatorPower = 0.6, targetPower = 0.7
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.395, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.194, power = 0.1
+- EFFECTS:
+id = table: 3809179f, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.328, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.194, power = 0.6
+- EFFECTS:
+id = table: 3809179f, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+ROUND 10
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 10 ----------
+
+[POISON_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.178), TAKE 532 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.111), TAKE 2220 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.328, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.178, power = 0.6
+- EFFECTS:
+id = table: 3809179f, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.328, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.111, power = 0.7
+- EFFECTS:
+id = table: 3809179f, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+TURN 2 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 0.261), TAKE 2220 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.328, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.111, power = 0.7
+- EFFECTS:
+id = table: 3809179f, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.261, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.111, power = 1
+- EFFECTS:
+id = table: 3809179f, type = 10, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+---------- AFTER ROUND 10 ----------
+
+[REMOVE_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.111), type = 10, persistentType = 1, isBuff = false
+
+
+ROUND 11
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.007), TAKE 3459 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.4
+
+
+[ADD_EFFECT] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0.007), type = 401, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.261, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.111, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.261, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.007, power = 1
+- EFFECTS:
+id = table: 5939f76c, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [Ghunon 60026 (TEAM 1, FRONT, POS 2)] (hp = 0.176), TAKE 2831 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.261, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.007, power = 1
+- EFFECTS:
+id = table: 5939f76c, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.176, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.007, power = 0
+- EFFECTS:
+id = table: 5939f76c, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+ROUND 12
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ghunon 60026 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0), TAKE 2220 damage, initiatorPower = 0.6, targetPower = 0
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Ghunon 60026 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+[DEAD_FOR_DISPLAY] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 1
+
+
+[DEAD] [Ghunon 60026 (TEAM 1, FRONT, POS 2)] => [Ghunon 60026 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.176, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0.007, power = 0
+- EFFECTS:
+id = table: 5939f76c, type = 401, initiator = [Ghunon 60026 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.176, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 1, FRONT, POS 2)] hp = 0.176, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ghunon 60026 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+<> STATISTICS:
+[SummonerMage (TEAM 2)] DamageDeal = 4574, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 1e1202f3, count = 1
+	[2 (number)] = 4574 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 582b55e1, count = 1
+	[6005 (number)] = 4574 (number)
+
+	Effect created history: Dictionary = table: 286e0494, count = 1
+	[501 (number)] = 4 (number)
+
+	Stat changer debuff created history: Dictionary = table: 3e7a0462, count = 1
+	[4 (number)] = 60 (number)
+
+[Ghunon 60026 (TEAM 2, FRONT, POS 1)] DamageDeal = 20304, DamageTaken = 36272.15, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 30719cc4, count = 3
+	[1 (number)] = 6660 (number)
+	[2 (number)] = 12580 (number)
+	[12 (number)] = 1064 (number)
+
+	Damage taken by sources: Dictionary = table: 32f74376, count = 3
+	[1 (number)] = 16262 (number)
+	[2 (number)] = 18579.15 (number)
+	[12 (number)] = 1431 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6a65ab18, count = 6
+	[3003 (number)] = 2220 (number)
+	[2003 (number)] = 6918 (number)
+	[1003 (number)] = 2220 (number)
+	[5000 (number)] = 532 (number)
+	[5002 (number)] = 5662 (number)
+	[4002 (number)] = 2752 (number)
+
+	Damage taken history: Dictionary = table: 4d2fb22, count = 12
+	[3001 (number)] = 2385 (number)
+	[6001 (number)] = 1952 (number)
+	[3002 (number)] = 2385 (number)
+	[5000 (number)] = 715.5 (number)
+	[2001 (number)] = 5573.745 (number)
+	[5001 (number)] = 3715.83 (number)
+	[2002 (number)] = 3715.83 (number)
+	[5003 (number)] = 5573.745 (number)
+	[4001 (number)] = 2385 (number)
+	[1001 (number)] = 2385 (number)
+	[1002 (number)] = 2385 (number)
+	[4003 (number)] = 3100.5 (number)
+
+	Effect created history: Dictionary = table: 38f9d0c0, count = 1
+	[10 (number)] = 2 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 2287, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 309dd85a, count = 1
+	[2 (number)] = 2287 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 7767883a, count = 1
+	[6003 (number)] = 2287 (number)
+
+	Effect created history: Dictionary = table: 64ff761f, count = 1
+	[501 (number)] = 4 (number)
+
+	Stat changer debuff created history: Dictionary = table: 12f6d590, count = 1
+	[4 (number)] = 60 (number)
+
+[Ghunon 60026 (TEAM 2, FRONT, POS 2)] DamageDeal = 36130, DamageTaken = 38413.18, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4c77809c, count = 2
+	[1 (number)] = 15844 (number)
+	[2 (number)] = 20286 (number)
+
+	Damage taken by sources: Dictionary = table: 79ae770, count = 3
+	[1 (number)] = 11059 (number)
+	[2 (number)] = 24751.98 (number)
+	[12 (number)] = 2602.2 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 184a2612, count = 11
+	[9002 (number)] = 2220 (number)
+	[6004 (number)] = 1817 (number)
+	[3004 (number)] = 3330 (number)
+	[8002 (number)] = 3459 (number)
+	[11002 (number)] = 2831 (number)
+	[5004 (number)] = 7078 (number)
+	[2004 (number)] = 6918 (number)
+	[7002 (number)] = 1817 (number)
+	[10002 (number)] = 2220 (number)
+	[1004 (number)] = 2220 (number)
+	[4004 (number)] = 2220 (number)
+
+	Damage taken history: Dictionary = table: 3cb43ade, count = 14
+	[9001 (number)] = 3100.5 (number)
+	[12001 (number)] = 2385 (number)
+	[6002 (number)] = 2537.6 (number)
+	[6003 (number)] = 2457 (number)
+	[2001 (number)] = 3715.83 (number)
+	[5001 (number)] = 3715.83 (number)
+	[8001 (number)] = 3715.83 (number)
+	[11001 (number)] = 3715.83 (number)
+	[2002 (number)] = 3715.83 (number)
+	[5003 (number)] = 3715.83 (number)
+	[7000 (number)] = 585.6 (number)
+	[10000 (number)] = 715.5 (number)
+	[7001 (number)] = 1952 (number)
+	[10001 (number)] = 2385 (number)
+
+	Stat changer debuff created history: Dictionary = table: 4cb72eb4, count = 1
+	[1 (number)] = 2598 (number)
+
+[Ghunon 60026 (TEAM 1, FRONT, POS 2)] DamageDeal = 42436, DamageTaken = 29450.139, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 1cc6e135, count = 3
+	[1 (number)] = 16954 (number)
+	[2 (number)] = 22484 (number)
+	[12 (number)] = 2998 (number)
+
+	Damage taken by sources: Dictionary = table: 55753e09, count = 2
+	[1 (number)] = 6722 (number)
+	[2 (number)] = 22728.139 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 488a9cb3, count = 15
+	[9001 (number)] = 2752 (number)
+	[12001 (number)] = 2220 (number)
+	[3002 (number)] = 2220 (number)
+	[6002 (number)] = 2252 (number)
+	[5000 (number)] = 532 (number)
+	[8001 (number)] = 3459 (number)
+	[11001 (number)] = 3459 (number)
+	[2002 (number)] = 6918 (number)
+	[5003 (number)] = 8648 (number)
+	[7000 (number)] = 435 (number)
+	[10000 (number)] = 532 (number)
+	[7001 (number)] = 1817 (number)
+	[10001 (number)] = 2220 (number)
+	[1002 (number)] = 2220 (number)
+	[4003 (number)] = 2752 (number)
+
+	Damage taken history: Dictionary = table: 3dbdc998, count = 10
+	[9002 (number)] = 2385 (number)
+	[6005 (number)] = 2457 (number)
+	[5002 (number)] = 3041.216 (number)
+	[8002 (number)] = 3715.83 (number)
+	[11002 (number)] = 3041.216 (number)
+	[2003 (number)] = 3715.83 (number)
+	[5004 (number)] = 3041.216 (number)
+	[2004 (number)] = 3715.83 (number)
+	[7002 (number)] = 1952 (number)
+	[10002 (number)] = 2385 (number)
+
+	Effect created history: Dictionary = table: 16d94853, count = 1
+	[10 (number)] = 6 (number)
+
+	Stat changer debuff created history: Dictionary = table: 6aa0a9f7, count = 1
+	[1 (number)] = 3900 (number)
+
+[Ghunon 60026 (TEAM 1, FRONT, POS 1)] DamageDeal = 24043, DamageTaken = 36377.2, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 7653cf14, count = 2
+	[1 (number)] = 8477 (number)
+	[2 (number)] = 15566 (number)
+
+	Damage taken by sources: Dictionary = table: 2571294f, count = 3
+	[1 (number)] = 17454.5 (number)
+	[2 (number)] = 17491.7 (number)
+	[12 (number)] = 1431 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 79b66662, count = 6
+	[1001 (number)] = 2220 (number)
+	[6001 (number)] = 1817 (number)
+	[5001 (number)] = 6918 (number)
+	[4001 (number)] = 2220 (number)
+	[3001 (number)] = 2220 (number)
+	[2001 (number)] = 8648 (number)
+
+	Damage taken history: Dictionary = table: 163697b2, count = 13
+	[3003 (number)] = 2385 (number)
+	[3004 (number)] = 3577.5 (number)
+	[6004 (number)] = 1952 (number)
+	[5000 (number)] = 715.5 (number)
+	[6005 (number)] = 2457 (number)
+	[5002 (number)] = 3041.216 (number)
+	[2003 (number)] = 3715.83 (number)
+	[2004 (number)] = 3715.83 (number)
+	[5004 (number)] = 4561.824 (number)
+	[4002 (number)] = 3100.5 (number)
+	[1003 (number)] = 2385 (number)
+	[1004 (number)] = 2385 (number)
+	[4004 (number)] = 2385 (number)
+
+	Stat changer debuff created history: Dictionary = table: 7e75d10f, count = 1
+	[1 (number)] = 1299 (number)
+
+
+<> WINNER: 1

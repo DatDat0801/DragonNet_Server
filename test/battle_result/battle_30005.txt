@@ -1,0 +1,2106 @@
+
+<> SEED = 503115495
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 55
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 3
+attack = 968
+defense = 128
+hp = 10946/10946
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1329
+dodge = 1196
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.19
+power = 50/100
+
+- EFFECTS:
+id = table: 5093b560, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 286633c6, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 28610f9a, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 65148743, type = 402, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 40bed86e, type = 441, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 6b29c4d3, type = 403, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 3
+attack = 1258
+defense = 128
+hp = 8757/8757
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1329
+dodge = 1196
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.19
+power = 50/100
+
+- EFFECTS:
+id = table: 595f3bbc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: ec69ef5, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 2e64c64a, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 40fec526, type = 402, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 12406d47, type = 441, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 388d4c22, type = 401, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 3
+attack = 968
+defense = 128
+hp = 10946/10946
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1329
+dodge = 1196
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.19
+power = 50/100
+
+- EFFECTS:
+id = table: 284b78cc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 16f49bc8, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 74ff604, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 74316339, type = 402, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 794165c3, type = 441, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2015ad19, type = 403, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 3
+attack = 1258
+defense = 128
+hp = 8757/8757
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1329
+dodge = 1196
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.19
+power = 50/100
+
+- EFFECTS:
+id = table: 4b598bf8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 3e142587, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 39156ff6, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 7f57df26, type = 402, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7a2e420a, type = 441, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 4c892ea8, type = 401, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jormungand 30005 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.929), TAKE 773 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[>>> BASIC_ATTACK <<<] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.912), TAKE 773 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.929), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.919), TAKE 115 damage, roundRemaining = 1
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.989), TAKE 115 damage, roundRemaining = 2
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.912), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.899), TAKE 115 damage, roundRemaining = 1
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.989), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.976), TAKE 150 damage, roundRemaining = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5093b560, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 595f3bbc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 284b78cc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 4b598bf8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.976, power = 1
+- EFFECTS:
+id = table: 5093b560, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 658978d5, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7771c14d, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 595f3bbc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.919, power = 0.6
+- EFFECTS:
+id = table: 284b78cc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 361e9e6a, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.899, power = 0.6
+- EFFECTS:
+id = table: 4b598bf8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3ea8b4b1, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jormungand 30005 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.905), TAKE 773 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+[>>> BASIC_ATTACK <<<] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.929), TAKE 618 damage, initiatorPower = 1, targetPower = 0.6
+[Jormungand 30005 (TEAM 1, BACK, POS 1)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.905), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.895), TAKE 115 damage, roundRemaining = 1
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.919), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.908), TAKE 115 damage, roundRemaining = 2
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.929), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.916), TAKE 115 damage, roundRemaining = 1
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.908), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.895), TAKE 150 damage, roundRemaining = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.976, power = 1
+- EFFECTS:
+id = table: 5093b560, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 658978d5, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7771c14d, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 595f3bbc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.919, power = 0.6
+- EFFECTS:
+id = table: 284b78cc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 361e9e6a, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.899, power = 0.6
+- EFFECTS:
+id = table: 4b598bf8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3ea8b4b1, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.895, power = 1
+- EFFECTS:
+id = table: 5093b560, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 658978d5, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7771c14d, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 10c93c61, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0.916, power = 0.6
+- EFFECTS:
+id = table: 595f3bbc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 69cbfc9c, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.895, power = 1
+- EFFECTS:
+id = table: 284b78cc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 361e9e6a, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 2be4c201, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5012f6f0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.899, power = 0.6
+- EFFECTS:
+id = table: 4b598bf8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3ea8b4b1, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jormungand 30005 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.803), TAKE 1006 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.16
+
+
+[>>> BASIC_ATTACK <<<] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.784), TAKE 1006 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.18
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.803), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.789), TAKE 150 damage, roundRemaining = 1
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.916), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.903), TAKE 115 damage, roundRemaining = 2
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.784), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.767), TAKE 150 damage, roundRemaining = 1
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.903), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.886), TAKE 150 damage, roundRemaining = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.895, power = 1
+- EFFECTS:
+id = table: 5093b560, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 658978d5, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7771c14d, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 10c93c61, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0.916, power = 0.6
+- EFFECTS:
+id = table: 595f3bbc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 69cbfc9c, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.895, power = 1
+- EFFECTS:
+id = table: 284b78cc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 361e9e6a, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 2be4c201, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5012f6f0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.899, power = 0.6
+- EFFECTS:
+id = table: 4b598bf8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3ea8b4b1, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.895, power = 1
+- EFFECTS:
+id = table: 5093b560, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 658978d5, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7771c14d, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 10c93c61, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 1
+- EFFECTS:
+id = table: 595f3bbc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 69cbfc9c, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 9e1f2a7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 3f78c01b, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.789, power = 1
+- EFFECTS:
+id = table: 284b78cc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 361e9e6a, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 2be4c201, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5012f6f0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 3281e93f, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.767, power = 0.7
+- EFFECTS:
+id = table: 4b598bf8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3ea8b4b1, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 75632ce9, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jormungand 30005 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.803), TAKE 1006 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[>>> BASIC_ATTACK <<<] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.794), TAKE 804 damage, initiatorPower = 1, targetPower = 1
+[Jormungand 30005 (TEAM 1, BACK, POS 1)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.803), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.789), TAKE 150 damage, roundRemaining = 1
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.767), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.753), TAKE 115 damage, roundRemaining = 2
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.794), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.777), TAKE 150 damage, roundRemaining = 1
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.753), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.736), TAKE 150 damage, roundRemaining = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.895, power = 1
+- EFFECTS:
+id = table: 5093b560, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 658978d5, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7771c14d, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 10c93c61, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 1
+- EFFECTS:
+id = table: 595f3bbc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 69cbfc9c, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 9e1f2a7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 3f78c01b, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.789, power = 1
+- EFFECTS:
+id = table: 284b78cc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 361e9e6a, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 2be4c201, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5012f6f0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 3281e93f, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.767, power = 0.7
+- EFFECTS:
+id = table: 4b598bf8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3ea8b4b1, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 75632ce9, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.789, power = 1
+- EFFECTS:
+id = table: 5093b560, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 658978d5, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7771c14d, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 10c93c61, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 73118c28, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0.777, power = 1
+- EFFECTS:
+id = table: 595f3bbc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 69cbfc9c, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 9e1f2a7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 3f78c01b, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: a10f249, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.789, power = 1
+- EFFECTS:
+id = table: 284b78cc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 361e9e6a, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 2be4c201, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5012f6f0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 3281e93f, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.736, power = 1
+- EFFECTS:
+id = table: 4b598bf8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3ea8b4b1, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 75632ce9, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 37653a25, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5b8d5c44, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+---------- AFTER ROUND 1 ----------
+
+[REMOVE_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.789), type = 110, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.789), type = 110, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.777), type = 110, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.777), type = 110, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.789), type = 110, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.789), type = 110, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.736), type = 110, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.736), type = 110, persistentType = 52, isBuff = false
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 2 ----------
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.779), TAKE 115 damage, roundRemaining = 1
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.765), TAKE 150 damage, roundRemaining = 1
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.764), TAKE 115 damage, roundRemaining = 1
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.747), TAKE 150 damage, roundRemaining = 1
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.779), TAKE 115 damage, roundRemaining = 1
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.765), TAKE 150 damage, roundRemaining = 1
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.723), TAKE 115 damage, roundRemaining = 1
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.706), TAKE 150 damage, roundRemaining = 1
+
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jormungand 30005 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.658), TAKE 1166 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.506), TAKE 1749 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.658), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.648), TAKE 115 damage, roundRemaining = 3
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.648), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.637), TAKE 115 damage, roundRemaining = 3
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.765), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.754), TAKE 115 damage, roundRemaining = 2
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.506), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.493), TAKE 115 damage, roundRemaining = 3
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.493), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.48), TAKE 115 damage, roundRemaining = 3
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.754), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.741), TAKE 150 damage, roundRemaining = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.765, power = 1
+- EFFECTS:
+id = table: 5093b560, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 658978d5, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7771c14d, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0.747, power = 1
+- EFFECTS:
+id = table: 595f3bbc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 9e1f2a7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 3f78c01b, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.765, power = 1
+- EFFECTS:
+id = table: 284b78cc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2be4c201, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5012f6f0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.706, power = 1
+- EFFECTS:
+id = table: 4b598bf8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 37653a25, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5b8d5c44, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.741, power = 0
+- EFFECTS:
+id = table: 5093b560, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 658978d5, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7771c14d, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 2482fbd1, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 290dd7b2, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0.747, power = 1
+- EFFECTS:
+id = table: 595f3bbc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 9e1f2a7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 3f78c01b, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.637, power = 1
+- EFFECTS:
+id = table: 284b78cc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2be4c201, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5012f6f0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 37a764a4, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6796168, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.48, power = 1
+- EFFECTS:
+id = table: 4b598bf8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 37653a25, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5b8d5c44, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 35964e05, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 72e1af42, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jormungand 30005 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.43), TAKE 2273 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[>>> ACTIVE_SKILL <<<] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.307), TAKE 1515 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.43), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.416), TAKE 150 damage, roundRemaining = 3
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.416), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.402), TAKE 150 damage, roundRemaining = 3
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.747), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.734), TAKE 115 damage, roundRemaining = 2
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.307), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.29), TAKE 150 damage, roundRemaining = 3
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.29), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.273), TAKE 150 damage, roundRemaining = 3
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.734), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.717), TAKE 150 damage, roundRemaining = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.741, power = 0
+- EFFECTS:
+id = table: 5093b560, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 658978d5, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7771c14d, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 2482fbd1, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 290dd7b2, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0.747, power = 1
+- EFFECTS:
+id = table: 595f3bbc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 9e1f2a7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 3f78c01b, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.637, power = 1
+- EFFECTS:
+id = table: 284b78cc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2be4c201, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5012f6f0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 37a764a4, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6796168, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.48, power = 1
+- EFFECTS:
+id = table: 4b598bf8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 37653a25, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5b8d5c44, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 35964e05, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 72e1af42, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.741, power = 0
+- EFFECTS:
+id = table: 5093b560, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 658978d5, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7771c14d, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 2482fbd1, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 290dd7b2, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0.717, power = 0
+- EFFECTS:
+id = table: 595f3bbc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 9e1f2a7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 3f78c01b, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7eef67fe, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 33502b6a, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.402, power = 1
+- EFFECTS:
+id = table: 284b78cc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2be4c201, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5012f6f0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 37a764a4, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6796168, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 34b1ad63, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4b558f08, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.273, power = 1
+- EFFECTS:
+id = table: 4b598bf8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 37653a25, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5b8d5c44, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 35964e05, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 72e1af42, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4e00c10b, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7cb9a8da, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jormungand 30005 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.634), TAKE 1166 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.517), TAKE 1749 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.634), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.624), TAKE 115 damage, roundRemaining = 3
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.624), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.613), TAKE 115 damage, roundRemaining = 3
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.402), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.392), TAKE 115 damage, roundRemaining = 2
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.517), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.504), TAKE 115 damage, roundRemaining = 3
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.504), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.491), TAKE 115 damage, roundRemaining = 3
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.392), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.378), TAKE 150 damage, roundRemaining = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.741, power = 0
+- EFFECTS:
+id = table: 5093b560, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 658978d5, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7771c14d, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 2482fbd1, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 290dd7b2, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0.717, power = 0
+- EFFECTS:
+id = table: 595f3bbc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 9e1f2a7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 3f78c01b, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7eef67fe, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 33502b6a, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.402, power = 1
+- EFFECTS:
+id = table: 284b78cc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2be4c201, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5012f6f0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 37a764a4, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6796168, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 34b1ad63, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4b558f08, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.273, power = 1
+- EFFECTS:
+id = table: 4b598bf8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 37653a25, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5b8d5c44, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 35964e05, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 72e1af42, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4e00c10b, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7cb9a8da, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.613, power = 0.1
+- EFFECTS:
+id = table: 5093b560, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 658978d5, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7771c14d, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 2482fbd1, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 290dd7b2, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 45dac89b, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 221032e7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0.491, power = 0.1
+- EFFECTS:
+id = table: 595f3bbc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 9e1f2a7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 3f78c01b, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7eef67fe, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 33502b6a, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6ad0a737, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5b9e3dcf, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.378, power = 0
+- EFFECTS:
+id = table: 284b78cc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2be4c201, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5012f6f0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 37a764a4, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6796168, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 34b1ad63, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4b558f08, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4813b837, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6b373cd8, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.273, power = 1
+- EFFECTS:
+id = table: 4b598bf8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 37653a25, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5b8d5c44, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 35964e05, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 72e1af42, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4e00c10b, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7cb9a8da, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jormungand 30005 (TEAM 2, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.475), TAKE 1515 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+[>>> ACTIVE_SKILL <<<] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.283), TAKE 1818 damage, initiatorPower = 0, targetPower = 0.2 (CRIT)
+[Jormungand 30005 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.475), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.461), TAKE 150 damage, roundRemaining = 3
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.461), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.447), TAKE 150 damage, roundRemaining = 3
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.273), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.26), TAKE 115 damage, roundRemaining = 2
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.283), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.266), TAKE 150 damage, roundRemaining = 3
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.266), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.249), TAKE 150 damage, roundRemaining = 3
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.26), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.243), TAKE 150 damage, roundRemaining = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.613, power = 0.1
+- EFFECTS:
+id = table: 5093b560, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 658978d5, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7771c14d, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 2482fbd1, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 290dd7b2, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 45dac89b, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 221032e7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0.491, power = 0.1
+- EFFECTS:
+id = table: 595f3bbc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 9e1f2a7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 3f78c01b, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7eef67fe, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 33502b6a, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6ad0a737, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5b9e3dcf, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.378, power = 0
+- EFFECTS:
+id = table: 284b78cc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2be4c201, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5012f6f0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 37a764a4, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6796168, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 34b1ad63, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4b558f08, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4813b837, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6b373cd8, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.273, power = 1
+- EFFECTS:
+id = table: 4b598bf8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 37653a25, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5b8d5c44, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 35964e05, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 72e1af42, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4e00c10b, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7cb9a8da, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.447, power = 0.2
+- EFFECTS:
+id = table: 5093b560, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 658978d5, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7771c14d, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 2482fbd1, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 290dd7b2, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 45dac89b, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 221032e7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4b1d796, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 2e6bf28a, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0.249, power = 0.2
+- EFFECTS:
+id = table: 595f3bbc, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 9e1f2a7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 3f78c01b, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7eef67fe, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 33502b6a, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6ad0a737, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5b9e3dcf, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7b6c2570, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 29ef1739, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.378, power = 0
+- EFFECTS:
+id = table: 284b78cc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2be4c201, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5012f6f0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 37a764a4, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6796168, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 34b1ad63, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4b558f08, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4813b837, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6b373cd8, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.243, power = 0
+- EFFECTS:
+id = table: 4b598bf8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 37653a25, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5b8d5c44, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 35964e05, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 72e1af42, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4e00c10b, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7cb9a8da, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 23e868f5, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 526621a0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.447), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.447), type = 110, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.447), type = 110, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.249), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.249), type = 110, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.249), type = 110, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.378), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.378), type = 110, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.378), type = 110, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.243), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.243), type = 110, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.243), type = 110, persistentType = 52, isBuff = false
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 3 ----------
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.437), TAKE 115 damage, roundRemaining = 1
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.423), TAKE 150 damage, roundRemaining = 1
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.413), TAKE 115 damage, roundRemaining = 2
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.402), TAKE 115 damage, roundRemaining = 2
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.388), TAKE 150 damage, roundRemaining = 2
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.375), TAKE 150 damage, roundRemaining = 2
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.236), TAKE 115 damage, roundRemaining = 1
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.218), TAKE 150 damage, roundRemaining = 1
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.205), TAKE 115 damage, roundRemaining = 2
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.192), TAKE 115 damage, roundRemaining = 2
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.175), TAKE 150 damage, roundRemaining = 2
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.158), TAKE 150 damage, roundRemaining = 2
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.368), TAKE 115 damage, roundRemaining = 2
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.357), TAKE 115 damage, roundRemaining = 2
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.343), TAKE 150 damage, roundRemaining = 2
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.33), TAKE 150 damage, roundRemaining = 2
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.319), TAKE 115 damage, roundRemaining = 1
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.305), TAKE 150 damage, roundRemaining = 1
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.229), TAKE 115 damage, roundRemaining = 2
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.216), TAKE 115 damage, roundRemaining = 2
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.199), TAKE 150 damage, roundRemaining = 2
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.182), TAKE 150 damage, roundRemaining = 2
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.169), TAKE 115 damage, roundRemaining = 1
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.152), TAKE 150 damage, roundRemaining = 1
+
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jormungand 30005 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.235), TAKE 773 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+[>>> BASIC_ATTACK <<<] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.019), TAKE 1160 damage, initiatorPower = 0.7, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.4
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.235), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.224), TAKE 115 damage, roundRemaining = 1
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.375), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.364), TAKE 115 damage, roundRemaining = 2
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.019), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0.006), TAKE 115 damage, roundRemaining = 1
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.364), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.35), TAKE 150 damage, roundRemaining = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.375, power = 0.2
+- EFFECTS:
+id = table: 2482fbd1, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 290dd7b2, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 45dac89b, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 221032e7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4b1d796, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 2e6bf28a, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0.158, power = 0.2
+- EFFECTS:
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7eef67fe, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 33502b6a, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6ad0a737, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5b9e3dcf, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7b6c2570, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 29ef1739, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.305, power = 0
+- EFFECTS:
+id = table: 37a764a4, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6796168, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 34b1ad63, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4b558f08, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4813b837, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6b373cd8, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.152, power = 0
+- EFFECTS:
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 35964e05, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 72e1af42, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4e00c10b, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7cb9a8da, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 23e868f5, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 526621a0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.35, power = 0.7
+- EFFECTS:
+id = table: 2482fbd1, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 290dd7b2, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 45dac89b, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 221032e7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4b1d796, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 2e6bf28a, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 48bbd939, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 193c59c8, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0.158, power = 0.2
+- EFFECTS:
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7eef67fe, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 33502b6a, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6ad0a737, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5b9e3dcf, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7b6c2570, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 29ef1739, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.224, power = 0.1
+- EFFECTS:
+id = table: 37a764a4, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6796168, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 34b1ad63, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4b558f08, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4813b837, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6b373cd8, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 797325da, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.006, power = 0.1
+- EFFECTS:
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 35964e05, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 72e1af42, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4e00c10b, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7cb9a8da, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 23e868f5, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 526621a0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 1afb6075, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jormungand 30005 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.28), TAKE 773 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.5
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[>>> BASIC_ATTACK <<<] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.07), TAKE 773 damage, initiatorPower = 0.6, targetPower = 0.3
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.28), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0.269), TAKE 115 damage, roundRemaining = 1
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.224), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.214), TAKE 115 damage, roundRemaining = 2
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.07), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.057), TAKE 115 damage, roundRemaining = 1
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.214), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.2), TAKE 150 damage, roundRemaining = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.35, power = 0.7
+- EFFECTS:
+id = table: 2482fbd1, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 290dd7b2, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 45dac89b, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 221032e7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4b1d796, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 2e6bf28a, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 48bbd939, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 193c59c8, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0.158, power = 0.2
+- EFFECTS:
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7eef67fe, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 33502b6a, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6ad0a737, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5b9e3dcf, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7b6c2570, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 29ef1739, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.224, power = 0.1
+- EFFECTS:
+id = table: 37a764a4, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6796168, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 34b1ad63, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4b558f08, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4813b837, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6b373cd8, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 797325da, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.006, power = 0.1
+- EFFECTS:
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 35964e05, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 72e1af42, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4e00c10b, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7cb9a8da, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 23e868f5, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 526621a0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 1afb6075, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.269, power = 0.8
+- EFFECTS:
+id = table: 2482fbd1, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 290dd7b2, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 45dac89b, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 221032e7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4b1d796, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 2e6bf28a, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 48bbd939, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 193c59c8, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: c1f1002, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0.057, power = 0.3
+- EFFECTS:
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7eef67fe, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 33502b6a, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6ad0a737, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5b9e3dcf, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7b6c2570, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 29ef1739, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7796fa50, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.2, power = 0.6
+- EFFECTS:
+id = table: 37a764a4, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6796168, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 34b1ad63, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4b558f08, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4813b837, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6b373cd8, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 797325da, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 172b5c8d, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 56927ed5, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.006, power = 0.1
+- EFFECTS:
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 35964e05, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 72e1af42, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4e00c10b, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7cb9a8da, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 23e868f5, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 526621a0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 1afb6075, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jormungand 30005 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.108), TAKE 1006 damage, initiatorPower = 0.8, targetPower = 0.7
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.6
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.52
+
+
+[>>> BASIC_ATTACK <<<] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0), TAKE 1207 damage, initiatorPower = 0.8, targetPower = 0 (CRIT)
+[Jormungand 30005 (TEAM 2, BACK, POS 1)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.54
+
+
+[DEAD_FOR_DISPLAY] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0), reason = 1
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.108), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0.094), TAKE 150 damage, roundRemaining = 1
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.057), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, FRONT, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.043), TAKE 115 damage, roundRemaining = 2
+
+
+[ADD_EFFECT] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.043), type = 110, persistentType = 52, isBuff = false
+
+
+[VENOM_STACK] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0.026), TAKE 150 damage, roundRemaining = 2
+
+
+[DEAD] [Jormungand 30005 (TEAM 1, BACK, POS 1)] => [Jormungand 30005 (TEAM 2, BACK, POS 1)] (hp = 0), reason = 1
+
+
+[SUB_ACTIVE_SKILL] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 3721 damage (name = Jormungand_Passive3)
+
+
+[DEAD_FOR_DISPLAY] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 4
+
+
+[SUB_ACTIVE_SKILL] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0), TAKE 3721 damage (name = Jormungand_Passive3)
+
+
+[DEAD_FOR_DISPLAY] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0), reason = 4
+
+
+[DEAD] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 4
+
+
+[SUB_ACTIVE_SKILL] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 3181 damage (name = Jormungand_Passive3)
+
+
+[DEAD_FOR_DISPLAY] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 4
+
+
+[DEAD] [Jormungand 30005 (TEAM 2, BACK, POS 1)] => [Jormungand 30005 (TEAM 1, BACK, POS 1)] (hp = 0), reason = 4
+
+
+[DEAD] [Jormungand 30005 (TEAM 1, FRONT, POS 1)] => [Jormungand 30005 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0.269, power = 0.8
+- EFFECTS:
+id = table: 2482fbd1, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 290dd7b2, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 45dac89b, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 221032e7, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4b1d796, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 2e6bf28a, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 48bbd939, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 193c59c8, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: c1f1002, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0.057, power = 0.3
+- EFFECTS:
+id = table: 7962e2d2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7eef67fe, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 33502b6a, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6ad0a737, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 5b9e3dcf, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7b6c2570, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 29ef1739, type = 110, initiator = [Jormungand 30005 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7796fa50, type = 110, initiator = [Jormungand 30005 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0.2, power = 0.6
+- EFFECTS:
+id = table: 37a764a4, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6796168, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 34b1ad63, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4b558f08, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4813b837, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 6b373cd8, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 797325da, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 172b5c8d, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 56927ed5, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0.006, power = 0.1
+- EFFECTS:
+id = table: 33debb41, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 35964e05, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 72e1af42, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 4e00c10b, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 7cb9a8da, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 23e868f5, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 526621a0, type = 110, initiator = [Jormungand 30005 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+id = table: 1afb6075, type = 110, initiator = [Jormungand 30005 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 52, DOT_AMOUNT = 0.15
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Jormungand 30005 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jormungand 30005 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Jormungand 30005 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jormungand 30005 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+<> STATISTICS:
+[Jormungand 30005 (TEAM 1, BACK, POS 1)] DamageDeal = 11013, DamageTaken = 16363.415, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 22f9fb05, count = 3
+	[1 (number)] = 4225 (number)
+	[2 (number)] = 3788 (number)
+	[111 (number)] = 3000 (number)
+
+	Damage taken by sources: Dictionary = table: 627dc170, count = 4
+	[1 (number)] = 3194 (number)
+	[2 (number)] = 5031.873 (number)
+	[111 (number)] = 3484.2 (number)
+	[4 (number)] = 4653.342 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 2f7f2686, count = 10
+	[3000 (number)] = 900 (number)
+	[3002 (number)] = 150 (number)
+	[3003 (number)] = 2363 (number)
+	[2000 (number)] = 300 (number)
+	[2002 (number)] = 4388 (number)
+	[2003 (number)] = 150 (number)
+	[2004 (number)] = 150 (number)
+	[1002 (number)] = 150 (number)
+	[1003 (number)] = 2312 (number)
+	[1004 (number)] = 150 (number)
+
+	Damage taken history: Dictionary = table: 6a5e916a, count = 10
+	[3000 (number)] = 1001.7 (number)
+	[3002 (number)] = 1113.2 (number)
+	[3003 (number)] = 4987.242 (number)
+	[2000 (number)] = 333.9 (number)
+	[2002 (number)] = 333.9 (number)
+	[2003 (number)] = 2478.564 (number)
+	[2004 (number)] = 3221.109 (number)
+	[1002 (number)] = 1113.2 (number)
+	[1003 (number)] = 333.9 (number)
+	[1004 (number)] = 1446.7 (number)
+
+	Effect created history: Dictionary = table: 7926ef7, count = 1
+	[110 (number)] = 25 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: be84934, count = 2
+	[501 (number)] = 4 (number)
+	[112 (number)] = 0 (number)
+
+[Jormungand 30005 (TEAM 2, FRONT, POS 1)] DamageDeal = 8382, DamageTaken = 16405.865, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5d7505d9, count = 3
+	[1 (number)] = 2937 (number)
+	[2 (number)] = 2915 (number)
+	[111 (number)] = 2530 (number)
+
+	Damage taken by sources: Dictionary = table: 433e1adc, count = 4
+	[1 (number)] = 4452 (number)
+	[2 (number)] = 4302.485 (number)
+	[111 (number)] = 3672.9 (number)
+	[4 (number)] = 3978.48 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 57cf319a, count = 11
+	[3000 (number)] = 690 (number)
+	[3001 (number)] = 115 (number)
+	[3002 (number)] = 1776 (number)
+	[3003 (number)] = 115 (number)
+	[2000 (number)] = 230 (number)
+	[2001 (number)] = 115 (number)
+	[2002 (number)] = 115 (number)
+	[2003 (number)] = 3375 (number)
+	[1001 (number)] = 115 (number)
+	[1002 (number)] = 1621 (number)
+	[1003 (number)] = 115 (number)
+
+	Damage taken history: Dictionary = table: 1ea763be, count = 11
+	[3000 (number)] = 1001.7 (number)
+	[3001 (number)] = 1113.2 (number)
+	[3002 (number)] = 333.9 (number)
+	[3003 (number)] = 5425.18 (number)
+	[2000 (number)] = 333.9 (number)
+	[2001 (number)] = 1749.176 (number)
+	[2002 (number)] = 3221.109 (number)
+	[2003 (number)] = 333.9 (number)
+	[1001 (number)] = 1113.2 (number)
+	[1002 (number)] = 333.9 (number)
+	[1003 (number)] = 1446.7 (number)
+
+	Effect created history: Dictionary = table: 6b09f67e, count = 1
+	[110 (number)] = 28 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: 58d2f939, count = 2
+	[501 (number)] = 4 (number)
+	[112 (number)] = 0 (number)
+
+[Jormungand 30005 (TEAM 1, FRONT, POS 1)] DamageDeal = 11990, DamageTaken = 14686.124, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 763f4058, count = 4
+	[1 (number)] = 3479 (number)
+	[2 (number)] = 2915 (number)
+	[111 (number)] = 2415 (number)
+	[4 (number)] = 3181 (number)
+
+	Damage taken by sources: Dictionary = table: 53a067b2, count = 4
+	[1 (number)] = 3194 (number)
+	[2 (number)] = 3354.582 (number)
+	[4 (number)] = 4653.342 (number)
+	[111 (number)] = 3484.2 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 77bed1be, count = 11
+	[3000 (number)] = 690 (number)
+	[3001 (number)] = 2163 (number)
+	[3002 (number)] = 115 (number)
+	[3003 (number)] = 3181 (number)
+	[2000 (number)] = 230 (number)
+	[2001 (number)] = 3375 (number)
+	[2003 (number)] = 115 (number)
+	[2004 (number)] = 115 (number)
+	[1001 (number)] = 1776 (number)
+	[1002 (number)] = 115 (number)
+	[1004 (number)] = 115 (number)
+
+	Damage taken history: Dictionary = table: 38eae541, count = 11
+	[3000 (number)] = 1001.7 (number)
+	[3001 (number)] = 333.9 (number)
+	[3002 (number)] = 1113.2 (number)
+	[3003 (number)] = 4653.342 (number)
+	[2000 (number)] = 333.9 (number)
+	[2001 (number)] = 333.9 (number)
+	[2003 (number)] = 1749.176 (number)
+	[2004 (number)] = 2273.206 (number)
+	[1001 (number)] = 333.9 (number)
+	[1002 (number)] = 1113.2 (number)
+	[1004 (number)] = 1446.7 (number)
+
+	Effect created history: Dictionary = table: 345b4f84, count = 1
+	[110 (number)] = 26 (number)
+
+[Jormungand 30005 (TEAM 2, BACK, POS 1)] DamageDeal = 15585, DamageTaken = 12799.27, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 6496234a, count = 4
+	[1 (number)] = 1810 (number)
+	[2 (number)] = 3333 (number)
+	[4 (number)] = 7442 (number)
+	[111 (number)] = 3000 (number)
+
+	Damage taken by sources: Dictionary = table: 65a43d47, count = 3
+	[1 (number)] = 5565 (number)
+	[2 (number)] = 4083.97 (number)
+	[111 (number)] = 3150.3 (number)
+
+	NumberKill = 2, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: a8b1c5f, count = 10
+	[3000 (number)] = 900 (number)
+	[3001 (number)] = 150 (number)
+	[3003 (number)] = 7592 (number)
+	[2000 (number)] = 300 (number)
+	[2001 (number)] = 150 (number)
+	[2002 (number)] = 150 (number)
+	[2004 (number)] = 3933 (number)
+	[1001 (number)] = 150 (number)
+	[1003 (number)] = 150 (number)
+	[1004 (number)] = 2110 (number)
+
+	Damage taken history: Dictionary = table: 644245e5, count = 10
+	[3000 (number)] = 1001.7 (number)
+	[3001 (number)] = 1597.2 (number)
+	[3003 (number)] = 1887 (number)
+	[2000 (number)] = 333.9 (number)
+	[2001 (number)] = 2478.564 (number)
+	[2002 (number)] = 2273.206 (number)
+	[2004 (number)] = 333.9 (number)
+	[1001 (number)] = 1113.2 (number)
+	[1003 (number)] = 1446.7 (number)
+	[1004 (number)] = 333.9 (number)
+
+	Effect created history: Dictionary = table: 311bb654, count = 1
+	[110 (number)] = 26 (number)
+
+
+<> WINNER: 1

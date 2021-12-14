@@ -1,0 +1,2300 @@
+
+<> SEED = 892346744
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 138
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 4
+attack = 3273
+defense = 358
+hp = 38178/38178
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1389.2
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 71b72c77, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 4529ae51, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 501759a6, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 180b0347, type = 401, initiator = [Sylph 40009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3addfeec, type = 421, initiator = [Sylph 40009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2aa10aa0, type = 403, initiator = [Sylph 40009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 4
+attack = 4166
+defense = 358
+hp = 30543/30543
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1389.2
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 328e84c0, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 4d90a75a, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: b7e92ac, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 2263f65c, type = 401, initiator = [Sylph 40009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 42ed240d, type = 421, initiator = [Sylph 40009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 186f1025, type = 401, initiator = [Sylph 40009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 4
+attack = 3273
+defense = 358
+hp = 38178/38178
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1389.2
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: a0ff17d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 4877209b, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6391a8d4, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 166039c2, type = 401, initiator = [Sylph 40009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 3c1a1295, type = 421, initiator = [Sylph 40009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 759be962, type = 403, initiator = [Sylph 40009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 4
+attack = 4166
+defense = 358
+hp = 30543/30543
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1389.2
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 4d988e75, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 58fae929, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 51983f65, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 7850dcc4, type = 401, initiator = [Sylph 40009 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: a6664a8, type = 421, initiator = [Sylph 40009 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 3418cb85, type = 401, initiator = [Sylph 40009 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Sylph 40009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Sylph 40009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Sylph 40009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Sylph 40009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 1), type = 421, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.976), TAKE 909 damage, initiatorPower = 0.5, targetPower = 0.5
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.944), TAKE 1212 damage, initiatorPower = 0.5, targetPower = 0.5
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.905), TAKE 1515 damage, initiatorPower = 0.5, targetPower = 0.5
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 71b72c77, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 328e84c0, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: a0ff17d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 4d988e75, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 71b72c77, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 328e84c0, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.905, power = 0.6
+- EFFECTS:
+id = table: a0ff17d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 4d988e75, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.976), TAKE 909 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.944), TAKE 1212 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.915) (GLANCING), TAKE 1137 damage, initiatorPower = 0.6, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 71b72c77, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 328e84c0, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.905, power = 0.6
+- EFFECTS:
+id = table: a0ff17d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 4d988e75, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.915, power = 1
+- EFFECTS:
+id = table: 71b72c77, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 328e84c0, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.905, power = 1
+- EFFECTS:
+id = table: a0ff17d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 4d988e75, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.89) (GLANCING), TAKE 578 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.849), TAKE 1543 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.824) (GLANCING), TAKE 965 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.915, power = 1
+- EFFECTS:
+id = table: 71b72c77, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 328e84c0, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.905, power = 1
+- EFFECTS:
+id = table: a0ff17d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 4d988e75, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.915, power = 1
+- EFFECTS:
+id = table: 71b72c77, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 328e84c0, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.824, power = 1
+- EFFECTS:
+id = table: a0ff17d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 4d988e75, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.9) (GLANCING), TAKE 578 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.859), TAKE 1543 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.809), TAKE 1930 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.915, power = 1
+- EFFECTS:
+id = table: 71b72c77, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 328e84c0, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.824, power = 1
+- EFFECTS:
+id = table: a0ff17d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 4d988e75, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 1
+- EFFECTS:
+id = table: 71b72c77, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 328e84c0, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.824, power = 1
+- EFFECTS:
+id = table: a0ff17d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 4d988e75, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0.854), TAKE 4465 damage, initiatorPower = 0, targetPower = 1
+[Sylph 40009 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.809), type = 116, persistentType = 52, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 1
+- EFFECTS:
+id = table: 71b72c77, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 328e84c0, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.824, power = 1
+- EFFECTS:
+id = table: a0ff17d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 4d988e75, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 0
+- EFFECTS:
+id = table: 71b72c77, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 5da676c, type = 116, initiator = [Sylph 40009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 328e84c0, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.824, power = 1
+- EFFECTS:
+id = table: a0ff17d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.854, power = 1
+- EFFECTS:
+id = table: 4d988e75, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0.668), TAKE 5683 damage, initiatorPower = 0, targetPower = 1
+[Sylph 40009 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 116, persistentType = 52, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 0
+- EFFECTS:
+id = table: 71b72c77, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 5da676c, type = 116, initiator = [Sylph 40009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 328e84c0, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.824, power = 1
+- EFFECTS:
+id = table: a0ff17d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.854, power = 1
+- EFFECTS:
+id = table: 4d988e75, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 0
+- EFFECTS:
+id = table: 71b72c77, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 5da676c, type = 116, initiator = [Sylph 40009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 328e84c0, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 152903a5, type = 116, initiator = [Sylph 40009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.824, power = 1
+- EFFECTS:
+id = table: a0ff17d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 1
+- EFFECTS:
+id = table: 4d988e75, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 2, FRONT, POS 1)], actionType = 3
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.824), type = 116, persistentType = 52, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 0
+- EFFECTS:
+id = table: 71b72c77, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 5da676c, type = 116, initiator = [Sylph 40009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 328e84c0, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 152903a5, type = 116, initiator = [Sylph 40009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.824, power = 1
+- EFFECTS:
+id = table: a0ff17d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 1
+- EFFECTS:
+id = table: 4d988e75, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 0
+- EFFECTS:
+id = table: 71b72c77, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 5da676c, type = 116, initiator = [Sylph 40009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 328e84c0, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 152903a5, type = 116, initiator = [Sylph 40009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.824, power = 1
+- EFFECTS:
+id = table: a0ff17d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 6be14b38, type = 116, initiator = [Sylph 40009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 1
+- EFFECTS:
+id = table: 4d988e75, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 2, BACK, POS 1)], actionType = 3
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0.668), type = 116, persistentType = 52, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 0
+- EFFECTS:
+id = table: 71b72c77, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 5da676c, type = 116, initiator = [Sylph 40009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 328e84c0, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 152903a5, type = 116, initiator = [Sylph 40009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.824, power = 1
+- EFFECTS:
+id = table: a0ff17d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 6be14b38, type = 116, initiator = [Sylph 40009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 1
+- EFFECTS:
+id = table: 4d988e75, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 0
+- EFFECTS:
+id = table: 71b72c77, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 5da676c, type = 116, initiator = [Sylph 40009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 328e84c0, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 152903a5, type = 116, initiator = [Sylph 40009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.824, power = 1
+- EFFECTS:
+id = table: a0ff17d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 6be14b38, type = 116, initiator = [Sylph 40009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 1
+- EFFECTS:
+id = table: 4d988e75, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 521b21c8, type = 116, initiator = [Sylph 40009 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.809), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.809), type = 116, persistentType = 52, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Sylph 40009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 116, persistentType = 52, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.824), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.824), type = 116, persistentType = 52, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0.668), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0.668), type = 116, persistentType = 52, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.8), TAKE 909 damage, initiatorPower = 0, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.768), TAKE 1212 damage, initiatorPower = 0, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.729), TAKE 1515 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 0
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.824, power = 1
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 1
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 0.5
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.729, power = 1
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 1
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.698), TAKE 1157 damage, initiatorPower = 0, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.658), TAKE 1543 damage, initiatorPower = 0, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.582), TAKE 2895 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 0.5
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.729, power = 1
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 1
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 0.5
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.582, power = 1
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 1
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, BACK, POS 1)] (hp = 0.726), TAKE 8372 damage, initiatorPower = 0, targetPower = 0.6 (CRIT)
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.582), type = 116, persistentType = 52, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 0.5
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.582, power = 1
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 1
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 0.5
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.726, power = 0.6
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.582, power = 0
+- EFFECTS:
+id = table: 4acdde0, type = 116, initiator = [Sylph 40009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 1
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 2, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 1, BACK, POS 1)] (hp = 0.447), TAKE 8524 damage, initiatorPower = 0, targetPower = 0.7 (CRIT)
+[Sylph 40009 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0.668), type = 116, persistentType = 52, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 0.5
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.726, power = 0.6
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.582, power = 0
+- EFFECTS:
+id = table: 4acdde0, type = 116, initiator = [Sylph 40009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 1
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 0.5
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0.7
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.582, power = 0
+- EFFECTS:
+id = table: 4acdde0, type = 116, initiator = [Sylph 40009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 0
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 59c5d2fb, type = 116, initiator = [Sylph 40009 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+
+---------- AFTER ROUND 3 ----------
+
+[REMOVE_EFFECT] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.582), type = 116, persistentType = 52, isBuff = true
+
+
+[REMOVE_EFFECT] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0.668), type = 116, persistentType = 52, isBuff = true
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.558), TAKE 909 damage, initiatorPower = 0.5, targetPower = 0
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.527), TAKE 1212 damage, initiatorPower = 0.5, targetPower = 0
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.487), TAKE 1515 damage, initiatorPower = 0.5, targetPower = 0
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.58
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 0.5
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0.7
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.582, power = 0
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 0
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 1
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0.7
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.487, power = 0.1
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 0
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.773), TAKE 1364 damage, initiatorPower = 0.1, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.741), TAKE 1212 damage, initiatorPower = 0.1, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.721) (GLANCING), TAKE 757 damage, initiatorPower = 0.1, targetPower = 1
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.6
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.809, power = 1
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0.7
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.487, power = 0.1
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 0
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.721, power = 1
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0.7
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.487, power = 0.6
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 0
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.441), TAKE 1736 damage, initiatorPower = 0.7, targetPower = 0.6
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.401), TAKE 1543 damage, initiatorPower = 0.7, targetPower = 0.6
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.325), TAKE 2895 damage, initiatorPower = 0.7, targetPower = 0.6 (CRIT)
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.7
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.721, power = 1
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0.7
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.487, power = 0.6
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 0
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.721, power = 1
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 1
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.325, power = 0.7
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 0
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.653), TAKE 2605 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.592), TAKE 2316 damage, initiatorPower = 0, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.542), TAKE 1930 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.72
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.721, power = 1
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 1
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.325, power = 0.7
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 0
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.542, power = 1
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 1
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.325, power = 0.7
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 0.5
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0.485), TAKE 5581 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.542), type = 116, persistentType = 52, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.542, power = 1
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 1
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.325, power = 0.7
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.668, power = 0.5
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.542, power = 0
+- EFFECTS:
+id = table: 381cfa70, type = 116, initiator = [Sylph 40009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 1
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.325, power = 0.7
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.485, power = 0.6
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0.299), TAKE 5683 damage, initiatorPower = 0, targetPower = 0.7
+[Sylph 40009 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.6
+
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 1, BACK, POS 1)] (hp = 0.447), type = 116, persistentType = 52, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.542, power = 0
+- EFFECTS:
+id = table: 381cfa70, type = 116, initiator = [Sylph 40009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 1
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.325, power = 0.7
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.485, power = 0.6
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.542, power = 0
+- EFFECTS:
+id = table: 381cfa70, type = 116, initiator = [Sylph 40009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 330299da, type = 116, initiator = [Sylph 40009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.325, power = 0.7
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.299, power = 0.7
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 2, FRONT, POS 1)], actionType = 3
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.542, power = 0
+- EFFECTS:
+id = table: 381cfa70, type = 116, initiator = [Sylph 40009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 330299da, type = 116, initiator = [Sylph 40009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.325, power = 0.7
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.299, power = 0.7
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.542, power = 0
+- EFFECTS:
+id = table: 381cfa70, type = 116, initiator = [Sylph 40009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 330299da, type = 116, initiator = [Sylph 40009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.325, power = 0.7
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.299, power = 0.7
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 2, BACK, POS 1)], actionType = 3
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.542, power = 0
+- EFFECTS:
+id = table: 381cfa70, type = 116, initiator = [Sylph 40009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 330299da, type = 116, initiator = [Sylph 40009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.325, power = 0.7
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.299, power = 0.7
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.542, power = 0
+- EFFECTS:
+id = table: 381cfa70, type = 116, initiator = [Sylph 40009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 330299da, type = 116, initiator = [Sylph 40009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.325, power = 0.7
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.299, power = 0.7
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+---------- AFTER ROUND 5 ----------
+
+[REMOVE_EFFECT] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.542), type = 116, persistentType = 52, isBuff = true
+
+
+[REMOVE_EFFECT] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 1, BACK, POS 1)] (hp = 0.447), type = 116, persistentType = 52, isBuff = true
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.313) (GLANCING), TAKE 454 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.282), TAKE 1212 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.242), TAKE 1515 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.62
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.542, power = 0
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.325, power = 0.7
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.299, power = 0.7
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.542, power = 0.5
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.62
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.242, power = 0.8
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.299, power = 0.7
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.518), TAKE 909 damage, initiatorPower = 0.8, targetPower = 0.5
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.486), TAKE 1212 damage, initiatorPower = 0.8, targetPower = 0.5
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.447), TAKE 1515 damage, initiatorPower = 0.8, targetPower = 0.5
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.84
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.542, power = 0.5
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.62
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.242, power = 0.8
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.299, power = 0.7
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.447, power = 0.6
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.242, power = 1
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.299, power = 0.7
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.196), TAKE 1736 damage, initiatorPower = 0, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.166) (GLANCING), TAKE 1158 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.052), TAKE 4343 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.94
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.74
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.447, power = 0.6
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.242, power = 1
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.299, power = 0.7
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.447, power = 0.6
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0.5
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.052, power = 1
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.299, power = 0.7
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.401), TAKE 1736 damage, initiatorPower = 0.7, targetPower = 0.6 (CRIT)
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.34), TAKE 2316 damage, initiatorPower = 0.7, targetPower = 0.6
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.303) (GLANCING), TAKE 1447 damage, initiatorPower = 0.7, targetPower = 0.6 (CRIT)
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.96
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.447, power = 0.6
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0.5
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.052, power = 1
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.299, power = 0.7
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.303, power = 0.7
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0.5
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.052, power = 1
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.299, power = 1
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0.028), TAKE 909 damage, initiatorPower = 0.7, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 1212 damage, initiatorPower = 0.7, targetPower = 0
+
+
+[DEAD_FOR_DISPLAY] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[DEAD] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.303, power = 0.7
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0.5
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0.052, power = 1
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.299, power = 1
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.303, power = 1
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0.5
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.299, power = 1
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0.239), TAKE 1821 damage, initiatorPower = 0, targetPower = 1
+[Sylph 40009 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0.239), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.303, power = 1
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0.5
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.299, power = 1
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.303, power = 1
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0.5
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.239, power = 1
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 51a31187, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0.182), TAKE 1736 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0.122), TAKE 1853 damage, initiatorPower = 0.5, targetPower = 1 (CRIT)
+[Sylph 40009 (TEAM 2, BACK, POS 1)] BLOCK BONUS_ATTACK
+
+
+[>>> BONUS_ATTACK <<<] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0.046), TAKE 2316 damage, initiatorPower = 0.5, targetPower = 1
+[Sylph 40009 (TEAM 2, BACK, POS 1)] BLOCK BONUS_ATTACK
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.88
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.303, power = 1
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 0.5
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.239, power = 1
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 51a31187, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.303, power = 1
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 1
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.046, power = 1
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 51a31187, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 2, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 1, BACK, POS 1)] (hp = 0.261), TAKE 5683 damage, initiatorPower = 0, targetPower = 1
+[Sylph 40009 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0.046), type = 116, persistentType = 52, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.303, power = 1
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 1
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.046, power = 1
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 51a31187, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.303, power = 1
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.261, power = 1
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.046, power = 0
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 51a31187, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 26064342, type = 116, initiator = [Sylph 40009 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+
+---------- AFTER ROUND 7 ----------
+
+[REMOVE_EFFECT] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0.046), type = 116, persistentType = 52, isBuff = true
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sylph 40009 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0), TAKE 4465 damage, initiatorPower = 0, targetPower = 0
+[Sylph 40009 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Sylph 40009 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.9
+
+
+[DEAD_FOR_DISPLAY] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0), reason = 2
+
+
+[ADD_EFFECT] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.303), type = 116, persistentType = 52, isBuff = true
+
+
+[DEAD] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 2, BACK, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.303, power = 1
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.261, power = 1
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0.046, power = 0
+- EFFECTS:
+id = table: 23a1581a, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 51a31187, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.303, power = 0
+- EFFECTS:
+id = table: 7996e288, type = 116, initiator = [Sylph 40009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.261, power = 1
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 8 ----------
+
+[REMOVE_EFFECT] [Sylph 40009 (TEAM 1, FRONT, POS 1)] => [Sylph 40009 (TEAM 1, FRONT, POS 1)] (hp = 0.303), type = 116, persistentType = 52, isBuff = true
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Sylph 40009 (TEAM 1, FRONT, POS 1)] hp = 0.303, power = 0
+
+> [Sylph 40009 (TEAM 1, BACK, POS 1)] hp = 0.261, power = 1
+- EFFECTS:
+id = table: 583e315e, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Sylph 40009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sylph 40009 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+<> STATISTICS:
+[Sylph 40009 (TEAM 2, BACK, POS 1)] DamageDeal = 30608, DamageTaken = 43353.64, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5efd7829, count = 2
+	[1 (number)] = 16401 (number)
+	[2 (number)] = 14207 (number)
+
+	Damage taken by sources: Dictionary = table: 179b7558, count = 2
+	[1 (number)] = 7498.8 (number)
+	[2 (number)] = 35854.84 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 31338ba, count = 5
+	[4004 (number)] = 6851 (number)
+	[3004 (number)] = 8524 (number)
+	[1004 (number)] = 4051 (number)
+	[7004 (number)] = 5683 (number)
+	[6004 (number)] = 5499 (number)
+
+	Damage taken history: Dictionary = table: 4ddf08f2, count = 7
+	[2002 (number)] = 7665.44 (number)
+	[8001 (number)] = 6022.32 (number)
+	[7002 (number)] = 2457 (number)
+	[5001 (number)] = 6022.32 (number)
+	[7003 (number)] = 7498.8 (number)
+	[5002 (number)] = 7665.44 (number)
+	[2001 (number)] = 6022.32 (number)
+
+	Effect created history: Dictionary = table: 78561d50, count = 1
+	[116 (number)] = 3 (number)
+
+[Sylph 40009 (TEAM 1, FRONT, POS 1)] DamageDeal = 30721, DamageTaken = 32984.65, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 34ab96b7, count = 2
+	[1 (number)] = 16210 (number)
+	[2 (number)] = 14511 (number)
+
+	Damage taken by sources: Dictionary = table: 2e67be70, count = 1
+	[1 (number)] = 32984.65 (number)
+
+	NumberKill = 2, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 1bcaabd6, count = 8
+	[1001 (number)] = 3636 (number)
+	[8001 (number)] = 4465 (number)
+	[7001 (number)] = 2121 (number)
+	[6001 (number)] = 3181 (number)
+	[5001 (number)] = 5581 (number)
+	[4001 (number)] = 3636 (number)
+	[3001 (number)] = 3636 (number)
+	[2001 (number)] = 4465 (number)
+
+	Damage taken history: Dictionary = table: 53be9962, count = 6
+	[4004 (number)] = 7394.65 (number)
+	[1002 (number)] = 4745.85 (number)
+	[1004 (number)] = 4999.2 (number)
+	[6002 (number)] = 3927.6 (number)
+	[4002 (number)] = 4418.55 (number)
+	[6004 (number)] = 7498.8 (number)
+
+	Effect created history: Dictionary = table: 3b48a38c, count = 1
+	[116 (number)] = 3 (number)
+
+[Sylph 40009 (TEAM 1, BACK, POS 1)] DamageDeal = 39363, DamageTaken = 28197.08, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 284f1eab, count = 2
+	[1 (number)] = 27997 (number)
+	[2 (number)] = 11366 (number)
+
+	Damage taken by sources: Dictionary = table: 6615946f, count = 1
+	[2 (number)] = 28197.08 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 41c77446, count = 7
+	[2002 (number)] = 5683 (number)
+	[1003 (number)] = 3086 (number)
+	[7003 (number)] = 5905 (number)
+	[5002 (number)] = 5683 (number)
+	[6003 (number)] = 7237 (number)
+	[3002 (number)] = 5595 (number)
+	[4003 (number)] = 6174 (number)
+
+	Damage taken history: Dictionary = table: 3f6deb31, count = 3
+	[3003 (number)] = 9033.48 (number)
+	[3004 (number)] = 11498.16 (number)
+	[7004 (number)] = 7665.44 (number)
+
+	Effect created history: Dictionary = table: 6f870031, count = 1
+	[116 (number)] = 2 (number)
+
+[Sylph 40009 (TEAM 2, FRONT, POS 1)] DamageDeal = 18599, DamageTaken = 44768.05, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 257b4742, count = 2
+	[1 (number)] = 10227 (number)
+	[2 (number)] = 8372 (number)
+
+	Damage taken by sources: Dictionary = table: 5f6472ef, count = 1
+	[1 (number)] = 44768.05 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: f803e51, count = 4
+	[3003 (number)] = 8372 (number)
+	[1002 (number)] = 3258 (number)
+	[4002 (number)] = 3333 (number)
+	[6002 (number)] = 3636 (number)
+
+	Damage taken history: Dictionary = table: 58d13118, count = 9
+	[3001 (number)] = 3927.6 (number)
+	[6001 (number)] = 3927.6 (number)
+	[3002 (number)] = 6040.7 (number)
+	[6003 (number)] = 9061.05 (number)
+	[4001 (number)] = 3927.6 (number)
+	[1001 (number)] = 3927.6 (number)
+	[7001 (number)] = 2291.1 (number)
+	[4003 (number)] = 6665.6 (number)
+	[1003 (number)] = 4999.2 (number)
+
+	Effect created history: Dictionary = table: 27ef3c17, count = 1
+	[116 (number)] = 2 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 1821, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5be0d10f, count = 1
+	[2 (number)] = 1821 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 559c1e94, count = 1
+	[7002 (number)] = 1821 (number)
+
+	Effect created history: Dictionary = table: 494bcce, count = 2
+	[501 (number)] = 4 (number)
+	[112 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: 5a4537cf, count = 1
+	[4 (number)] = 60 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: 770ed21, count = 2
+	[501 (number)] = 4 (number)
+	[112 (number)] = 0 (number)
+
+
+<> WINNER: 1

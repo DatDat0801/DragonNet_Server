@@ -1,0 +1,3347 @@
+
+<> SEED = 929260646
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 185
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 3
+attack = 2663
+defense = 358
+hp = 55996/55996
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1076
+dodge = 1043
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 3d619dfa, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 15016937, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2f60e892, type = 403, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 3
+attack = 2663
+defense = 358
+hp = 55996/55996
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1076
+dodge = 1043
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 1974a79d, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 28cb7704, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 31f8fd48, type = 403, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 3
+attack = 2663
+defense = 358
+hp = 55996/55996
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1076
+dodge = 1043
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 407942dd, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 7c0d4d00, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 369dfbfb, type = 403, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 3
+attack = 2663
+defense = 358
+hp = 55996/55996
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1076
+dodge = 1043
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 569616fb, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 5c73c95e, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: f8d66d2, type = 403, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.956), TAKE 2467 damage, initiatorPower = 0.5, targetPower = 0.5
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.943), TAKE 740 damage, initiatorPower = 0.5, targetPower = 0.5
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.93), TAKE 740 damage, initiatorPower = 0.5, targetPower = 0.5
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.943), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.943, power = 0.6
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.899), TAKE 2467 damage, initiatorPower = 0.5, targetPower = 0.6
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.885), TAKE 740 damage, initiatorPower = 0.5, targetPower = 0.6
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.872), TAKE 740 damage, initiatorPower = 0.5, targetPower = 0.6
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.885), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.943, power = 0.6
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.885, power = 0.7
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.956), TAKE 2467 damage, initiatorPower = 0.7, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.943), TAKE 740 damage, initiatorPower = 0.7, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.93), TAKE 740 damage, initiatorPower = 0.7, targetPower = 1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.943), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.885, power = 0.7
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.943, power = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.885, power = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.877), TAKE 3701 damage, initiatorPower = 0.5, targetPower = 1 (CRIT)
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.863), TAKE 740 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.844), TAKE 1109 damage, initiatorPower = 0.5, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.863), HEAL 1110 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.943, power = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.885, power = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.863, power = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.885, power = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.81), TAKE 4230 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.95), TAKE 2820 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.81), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.76), TAKE 2799 damage, remainingRound = 2
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.783), HEAL 1269 hp, reason = 1
+
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.95), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.9), TAKE 2799 damage, remainingRound = 2
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.915), HEAL 846 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.863, power = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.885, power = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.863, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.783, power = 1
+- EFFECTS:
+id = table: 4a00ea9d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 1
+- EFFECTS:
+id = table: 2e5faef9, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.707), TAKE 4230 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.864), TAKE 2820 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.73), HEAL 1269 hp, reason = 1
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.88), HEAL 846 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.863, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.783, power = 1
+- EFFECTS:
+id = table: 4a00ea9d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.915, power = 1
+- EFFECTS:
+id = table: 2e5faef9, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.863, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.73, power = 1
+- EFFECTS:
+id = table: 4a00ea9d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.88, power = 1
+- EFFECTS:
+id = table: 2e5faef9, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.788), TAKE 4230 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.95), TAKE 2820 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.788), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.738), TAKE 2799 damage, remainingRound = 2
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.761), HEAL 1269 hp, reason = 1
+
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.95), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.9), TAKE 2799 damage, remainingRound = 2
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.915), HEAL 846 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.863, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.73, power = 1
+- EFFECTS:
+id = table: 4a00ea9d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.88, power = 1
+- EFFECTS:
+id = table: 2e5faef9, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.761, power = 0.1
+- EFFECTS:
+id = table: 48185407, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.915, power = 0.1
+- EFFECTS:
+id = table: ae34d63, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.73, power = 0
+- EFFECTS:
+id = table: 4a00ea9d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.88, power = 1
+- EFFECTS:
+id = table: 2e5faef9, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.71), TAKE 2820 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.839), TAKE 4230 damage, initiatorPower = 0, targetPower = 0.2 (CRIT)
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.725), HEAL 846 hp, reason = 1
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.862), HEAL 1269 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.761, power = 0.1
+- EFFECTS:
+id = table: 48185407, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.915, power = 0.1
+- EFFECTS:
+id = table: ae34d63, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.73, power = 0
+- EFFECTS:
+id = table: 4a00ea9d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.88, power = 1
+- EFFECTS:
+id = table: 2e5faef9, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.725, power = 0.2
+- EFFECTS:
+id = table: 48185407, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.862, power = 0.2
+- EFFECTS:
+id = table: ae34d63, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.73, power = 0
+- EFFECTS:
+id = table: 4a00ea9d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.88, power = 0
+- EFFECTS:
+id = table: 2e5faef9, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 3 ----------
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.675), TAKE 2799 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.812), TAKE 2799 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.68), TAKE 2799 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.83), TAKE 2799 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.636), TAKE 2467 damage, initiatorPower = 0.2, targetPower = 0
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.622), TAKE 740 damage, initiatorPower = 0.2, targetPower = 0
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.609), TAKE 740 damage, initiatorPower = 0.2, targetPower = 0
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.622), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.675, power = 0.2
+- EFFECTS:
+id = table: 48185407, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 0.2
+- EFFECTS:
+id = table: ae34d63, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.68, power = 0
+- EFFECTS:
+id = table: 4a00ea9d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.83, power = 0
+- EFFECTS:
+id = table: 2e5faef9, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.675, power = 0.7
+- EFFECTS:
+id = table: 48185407, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 0.2
+- EFFECTS:
+id = table: ae34d63, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.622, power = 0.1
+- EFFECTS:
+id = table: 4a00ea9d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.83, power = 0
+- EFFECTS:
+id = table: 2e5faef9, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.578), TAKE 2467 damage, initiatorPower = 0.2, targetPower = 0.1
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.565), TAKE 740 damage, initiatorPower = 0.2, targetPower = 0.1
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.552), TAKE 740 damage, initiatorPower = 0.2, targetPower = 0.1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.565), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.675, power = 0.7
+- EFFECTS:
+id = table: 48185407, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 0.2
+- EFFECTS:
+id = table: ae34d63, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.622, power = 0.1
+- EFFECTS:
+id = table: 4a00ea9d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.83, power = 0
+- EFFECTS:
+id = table: 2e5faef9, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.675, power = 0.7
+- EFFECTS:
+id = table: 48185407, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 0.7
+- EFFECTS:
+id = table: ae34d63, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.565, power = 0.2
+- EFFECTS:
+id = table: 4a00ea9d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.83, power = 0
+- EFFECTS:
+id = table: 2e5faef9, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.631), TAKE 2467 damage, initiatorPower = 0.2, targetPower = 0.7
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.618), TAKE 740 damage, initiatorPower = 0.2, targetPower = 0.7
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.605), TAKE 740 damage, initiatorPower = 0.2, targetPower = 0.7
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.618), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.675, power = 0.7
+- EFFECTS:
+id = table: 48185407, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 0.7
+- EFFECTS:
+id = table: ae34d63, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.565, power = 0.2
+- EFFECTS:
+id = table: 4a00ea9d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.83, power = 0
+- EFFECTS:
+id = table: 2e5faef9, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.618, power = 0.8
+- EFFECTS:
+id = table: 48185407, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 0.7
+- EFFECTS:
+id = table: ae34d63, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.565, power = 0.7
+- EFFECTS:
+id = table: 4a00ea9d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.83, power = 0
+- EFFECTS:
+id = table: 2e5faef9, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.574), TAKE 2467 damage, initiatorPower = 0, targetPower = 0.8
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.561), TAKE 740 damage, initiatorPower = 0, targetPower = 0.8
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.541), TAKE 1109 damage, initiatorPower = 0, targetPower = 0.8 (CRIT)
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.554), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.618, power = 0.8
+- EFFECTS:
+id = table: 48185407, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 0.7
+- EFFECTS:
+id = table: ae34d63, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.565, power = 0.7
+- EFFECTS:
+id = table: 4a00ea9d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.83, power = 0
+- EFFECTS:
+id = table: 2e5faef9, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.554, power = 0.9
+- EFFECTS:
+id = table: 48185407, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 0.7
+- EFFECTS:
+id = table: ae34d63, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.565, power = 0.7
+- EFFECTS:
+id = table: 4a00ea9d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.83, power = 0.5
+- EFFECTS:
+id = table: 2e5faef9, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+---------- AFTER ROUND 3 ----------
+
+[REMOVE_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.554), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.812), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.565), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.83), type = 10, persistentType = 1, isBuff = false
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.521), TAKE 2467 damage, initiatorPower = 0.9, targetPower = 0.7
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.508), TAKE 740 damage, initiatorPower = 0.9, targetPower = 0.7
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.495), TAKE 740 damage, initiatorPower = 0.9, targetPower = 0.7
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.508), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.554, power = 0.9
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.565, power = 0.7
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.83, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.554, power = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.508, power = 0.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.83, power = 0.5
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.464), TAKE 2467 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.451), TAKE 740 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.437), TAKE 740 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.76
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.6
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.451), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.554, power = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.508, power = 0.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.83, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.554, power = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.451, power = 0.9
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.83, power = 0.5
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.51), TAKE 2467 damage, initiatorPower = 0.9, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.497), TAKE 740 damage, initiatorPower = 0.9, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.484), TAKE 740 damage, initiatorPower = 0.9, targetPower = 1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.497), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.554, power = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.451, power = 0.9
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.83, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.497, power = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.451, power = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.83, power = 0.5
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.453), TAKE 2467 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.44), TAKE 740 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.426), TAKE 740 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.8
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.44), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.497, power = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.451, power = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.83, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.44, power = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.451, power = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.83, power = 1
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.4), TAKE 2820 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.779), TAKE 2820 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.4), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.35), TAKE 2799 damage, remainingRound = 2
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.365), HEAL 846 hp, reason = 1
+
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.779), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.729), TAKE 2799 damage, remainingRound = 2
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.744), HEAL 846 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.44, power = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.451, power = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.83, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.44, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.365, power = 1
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.744, power = 1
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.389), TAKE 2820 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.762), TAKE 2820 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.84
+
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.389), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.339), TAKE 2799 damage, remainingRound = 2
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.354), HEAL 846 hp, reason = 1
+
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.762), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.712), TAKE 2799 damage, remainingRound = 2
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.727), HEAL 846 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.44, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.365, power = 1
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.744, power = 1
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.354, power = 0.1
+- EFFECTS:
+id = table: 1e338a3b, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.727, power = 1
+- EFFECTS:
+id = table: eab54cb, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.365, power = 0
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.744, power = 1
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.315), TAKE 2820 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.694), TAKE 2820 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.88
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.33), HEAL 846 hp, reason = 1
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.709), HEAL 846 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.354, power = 0.1
+- EFFECTS:
+id = table: 1e338a3b, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.727, power = 1
+- EFFECTS:
+id = table: eab54cb, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.365, power = 0
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.744, power = 1
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.354, power = 0.1
+- EFFECTS:
+id = table: 1e338a3b, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.727, power = 0
+- EFFECTS:
+id = table: eab54cb, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.33, power = 0.1
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.709, power = 1
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+TURN 4 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.304), TAKE 2820 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.86
+
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.676), TAKE 2820 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.88
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.319), HEAL 846 hp, reason = 1
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.691), HEAL 846 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.354, power = 0.1
+- EFFECTS:
+id = table: 1e338a3b, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.727, power = 0
+- EFFECTS:
+id = table: eab54cb, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.33, power = 0.1
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.709, power = 1
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.319, power = 0.2
+- EFFECTS:
+id = table: 1e338a3b, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.691, power = 0.1
+- EFFECTS:
+id = table: eab54cb, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.33, power = 0.1
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.709, power = 0
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 6 ----------
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.269), TAKE 2799 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.641), TAKE 2799 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.28), TAKE 2799 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.659), TAKE 2799 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.236), TAKE 2467 damage, initiatorPower = 0.2, targetPower = 0.1
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.223), TAKE 740 damage, initiatorPower = 0.2, targetPower = 0.1
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.21), TAKE 740 damage, initiatorPower = 0.2, targetPower = 0.1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.98
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.9
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.223), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.269, power = 0.2
+- EFFECTS:
+id = table: 1e338a3b, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.1
+- EFFECTS:
+id = table: eab54cb, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.28, power = 0.1
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.659, power = 0
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.269, power = 0.7
+- EFFECTS:
+id = table: 1e338a3b, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.1
+- EFFECTS:
+id = table: eab54cb, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.223, power = 0.2
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.659, power = 0
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.225), TAKE 2467 damage, initiatorPower = 0.2, targetPower = 0.7
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.212), TAKE 740 damage, initiatorPower = 0.2, targetPower = 0.7
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.199), TAKE 740 damage, initiatorPower = 0.2, targetPower = 0.7
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.212), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.269, power = 0.7
+- EFFECTS:
+id = table: 1e338a3b, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.1
+- EFFECTS:
+id = table: eab54cb, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.223, power = 0.2
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.659, power = 0
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.212, power = 0.8
+- EFFECTS:
+id = table: 1e338a3b, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.1
+- EFFECTS:
+id = table: eab54cb, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.223, power = 0.7
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.659, power = 0
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.182), TAKE 2277 damage, initiatorPower = 0, targetPower = 0.8
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.618), TAKE 2277 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.182), type = 404, persistentType = 52, isBuff = false
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.194), HEAL 683 hp, reason = 1
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.618), type = 404, persistentType = 52, isBuff = false
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.631), HEAL 683 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.212, power = 0.8
+- EFFECTS:
+id = table: 1e338a3b, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.1
+- EFFECTS:
+id = table: eab54cb, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.223, power = 0.7
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.659, power = 0
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.212, power = 0.8
+- EFFECTS:
+id = table: 1e338a3b, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.1
+- EFFECTS:
+id = table: eab54cb, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.194, power = 0.8
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 191360a4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.631, power = 0.1
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.171), TAKE 2277 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.02
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.601), TAKE 2277 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.04
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.171), type = 404, persistentType = 52, isBuff = false
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.183), HEAL 683 hp, reason = 1
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.601), type = 404, persistentType = 52, isBuff = false
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.613), HEAL 683 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.212, power = 0.8
+- EFFECTS:
+id = table: 1e338a3b, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.641, power = 0.1
+- EFFECTS:
+id = table: eab54cb, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.194, power = 0.8
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 191360a4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.631, power = 0.1
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.04
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.183, power = 0.9
+- EFFECTS:
+id = table: 1e338a3b, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 58a689e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.613, power = 0.2
+- EFFECTS:
+id = table: eab54cb, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 51d369e8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.194, power = 0.8
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 191360a4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.631, power = 0.1
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.15), TAKE 2467 damage, initiatorPower = 0.2, targetPower = 0.8
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.137), TAKE 740 damage, initiatorPower = 0.2, targetPower = 0.8
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.124), TAKE 740 damage, initiatorPower = 0.2, targetPower = 0.8
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.137), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.04
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.183, power = 0.9
+- EFFECTS:
+id = table: 1e338a3b, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 58a689e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.613, power = 0.2
+- EFFECTS:
+id = table: eab54cb, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 51d369e8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.194, power = 0.8
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 191360a4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.631, power = 0.1
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.183, power = 0.9
+- EFFECTS:
+id = table: 1e338a3b, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 58a689e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.613, power = 0.7
+- EFFECTS:
+id = table: eab54cb, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 51d369e8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.137, power = 0.9
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 191360a4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.631, power = 0.1
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 6 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.139), TAKE 2467 damage, initiatorPower = 0.1, targetPower = 0.9
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.126), TAKE 740 damage, initiatorPower = 0.1, targetPower = 0.9
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.113), TAKE 740 damage, initiatorPower = 0.1, targetPower = 0.9
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.126), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.183, power = 0.9
+- EFFECTS:
+id = table: 1e338a3b, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 58a689e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.613, power = 0.7
+- EFFECTS:
+id = table: eab54cb, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 51d369e8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.137, power = 0.9
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 191360a4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.631, power = 0.1
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.126, power = 1
+- EFFECTS:
+id = table: 1e338a3b, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 58a689e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.613, power = 0.7
+- EFFECTS:
+id = table: eab54cb, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 51d369e8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.137, power = 0.9
+- EFFECTS:
+id = table: 47fa1aa0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 191360a4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.631, power = 0.6
+- EFFECTS:
+id = table: 14815cc0, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 6 ----------
+
+[REMOVE_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.126), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.613), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.137), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.631), type = 10, persistentType = 1, isBuff = false
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.087), TAKE 2820 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.58), TAKE 2820 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.16
+
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.087), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.037), TAKE 2799 damage, remainingRound = 2
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.052), HEAL 846 hp, reason = 1
+
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.58), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.53), TAKE 2799 damage, remainingRound = 2
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.545), HEAL 846 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.126, power = 1
+- EFFECTS:
+id = table: 58a689e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.613, power = 0.7
+- EFFECTS:
+id = table: 51d369e8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.137, power = 0.9
+- EFFECTS:
+id = table: 191360a4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.631, power = 0.6
+- EFFECTS:
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.126, power = 0
+- EFFECTS:
+id = table: 58a689e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.613, power = 0.7
+- EFFECTS:
+id = table: 51d369e8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.052, power = 1
+- EFFECTS:
+id = table: 191360a4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 53c73536, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.545, power = 0.7
+- EFFECTS:
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6388dcc, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0.008), TAKE 2467 damage, initiatorPower = 0.7, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 740 damage, initiatorPower = 0.7, targetPower = 0
+
+
+[DEAD_FOR_DISPLAY] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[DEAD] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.545), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.495), TAKE 2799 damage, remainingRound = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.126, power = 0
+- EFFECTS:
+id = table: 58a689e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.613, power = 0.7
+- EFFECTS:
+id = table: 51d369e8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0.052, power = 1
+- EFFECTS:
+id = table: 191360a4, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 53c73536, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.545, power = 0.7
+- EFFECTS:
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6388dcc, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.126, power = 0
+- EFFECTS:
+id = table: 58a689e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.613, power = 1
+- EFFECTS:
+id = table: 51d369e8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.495, power = 0.7
+- EFFECTS:
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6388dcc, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 50a0cb0d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.082), TAKE 2467 damage, initiatorPower = 0.7, targetPower = 0
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.069), TAKE 740 damage, initiatorPower = 0.7, targetPower = 0
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.056), TAKE 740 damage, initiatorPower = 0.7, targetPower = 0
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.069), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.126, power = 0
+- EFFECTS:
+id = table: 58a689e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.613, power = 1
+- EFFECTS:
+id = table: 51d369e8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.495, power = 0.7
+- EFFECTS:
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6388dcc, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 50a0cb0d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.069, power = 0.1
+- EFFECTS:
+id = table: 58a689e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.613, power = 1
+- EFFECTS:
+id = table: 51d369e8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.495, power = 1
+- EFFECTS:
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6388dcc, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 50a0cb0d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 8 ----------
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.445), TAKE 2799 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.395), TAKE 2799 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.329), TAKE 3701 damage, initiatorPower = 0.1, targetPower = 1 (CRIT)
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.316), TAKE 740 damage, initiatorPower = 0.1, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.303), TAKE 740 damage, initiatorPower = 0.1, targetPower = 1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.323), HEAL 1110 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.069, power = 0.1
+- EFFECTS:
+id = table: 58a689e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.613, power = 1
+- EFFECTS:
+id = table: 51d369e8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.395, power = 1
+- EFFECTS:
+id = table: 6388dcc, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 50a0cb0d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.069, power = 0.6
+- EFFECTS:
+id = table: 58a689e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.613, power = 1
+- EFFECTS:
+id = table: 51d369e8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.323, power = 1
+- EFFECTS:
+id = table: 6388dcc, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 50a0cb0d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.272), TAKE 2820 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.287), HEAL 846 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.069, power = 0.6
+- EFFECTS:
+id = table: 58a689e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.613, power = 1
+- EFFECTS:
+id = table: 51d369e8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.323, power = 1
+- EFFECTS:
+id = table: 6388dcc, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 50a0cb0d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.069, power = 0.6
+- EFFECTS:
+id = table: 58a689e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.613, power = 0
+- EFFECTS:
+id = table: 51d369e8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.287, power = 1
+- EFFECTS:
+id = table: 6388dcc, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 50a0cb0d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.019), TAKE 2820 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.563), TAKE 2820 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0.019), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 2799 damage, remainingRound = 2
+
+
+[DEAD_FOR_DISPLAY] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 12
+
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.563), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.513), TAKE 2799 damage, remainingRound = 2
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.528), HEAL 846 hp, reason = 1
+
+
+[DEAD] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 12
+
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.528), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.478), TAKE 2799 damage, remainingRound = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0.069, power = 0.6
+- EFFECTS:
+id = table: 58a689e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.613, power = 0
+- EFFECTS:
+id = table: 51d369e8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.287, power = 1
+- EFFECTS:
+id = table: 6388dcc, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 50a0cb0d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 1af664d8, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.478, power = 0.1
+- EFFECTS:
+id = table: 51d369e8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 70f28c35, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 32e6390a, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.287, power = 0
+- EFFECTS:
+id = table: 6388dcc, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 50a0cb0d, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 76a481a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 8 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.478), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.287), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.287), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.287), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 9
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 9 ----------
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.428), TAKE 2799 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.378), TAKE 2799 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.243), TAKE 2467 damage, initiatorPower = 0.1, targetPower = 0
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.23), TAKE 740 damage, initiatorPower = 0.1, targetPower = 0
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.217), TAKE 740 damage, initiatorPower = 0.1, targetPower = 0
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.23), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 1af664d8, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.378, power = 0.1
+- EFFECTS:
+id = table: 70f28c35, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 32e6390a, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.287, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 1af664d8, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.378, power = 0.6
+- EFFECTS:
+id = table: 70f28c35, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 32e6390a, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.23, power = 0.1
+
+
+TURN 2 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.334), TAKE 2467 damage, initiatorPower = 0.1, targetPower = 0.6
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.32), TAKE 740 damage, initiatorPower = 0.1, targetPower = 0.6
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.307), TAKE 740 damage, initiatorPower = 0.1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.32), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 1af664d8, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.378, power = 0.6
+- EFFECTS:
+id = table: 70f28c35, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 32e6390a, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.23, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 1af664d8, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.32, power = 0.7
+- EFFECTS:
+id = table: 70f28c35, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+id = table: 32e6390a, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.23, power = 0.6
+
+
+---------- AFTER ROUND 9 ----------
+
+[REMOVE_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.32), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.32), type = 10, persistentType = 1, isBuff = false
+
+
+ROUND 10
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.186), TAKE 2467 damage, initiatorPower = 0.7, targetPower = 0.6
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.173), TAKE 740 damage, initiatorPower = 0.7, targetPower = 0.6
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.16), TAKE 740 damage, initiatorPower = 0.7, targetPower = 0.6
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.64
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.173), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.32, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.23, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.32, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.173, power = 0.7
+
+
+TURN 2 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.276), TAKE 2467 damage, initiatorPower = 0.7, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.263), TAKE 740 damage, initiatorPower = 0.7, targetPower = 1
+
+
+[>>> BONUS_ATTACK <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.25), TAKE 740 damage, initiatorPower = 0.7, targetPower = 1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.54
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.263), HEAL 740 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.32, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.173, power = 0.7
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.263, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.173, power = 1
+
+
+ROUND 11
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.123), TAKE 2820 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.123), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.073), TAKE 2799 damage, remainingRound = 2
+
+
+[HEAL] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.088), HEAL 846 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.263, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.173, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.263, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.088, power = 1
+- EFFECTS:
+id = table: 64c864f8, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+TURN 2 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.213), TAKE 2820 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+[ADD_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.213), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.163), TAKE 2799 damage, remainingRound = 2
+
+
+[HEAL] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.178), HEAL 846 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.263, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.088, power = 1
+- EFFECTS:
+id = table: 64c864f8, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.178, power = 0.1
+- EFFECTS:
+id = table: 4db10c1d, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.088, power = 0
+- EFFECTS:
+id = table: 64c864f8, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+ROUND 12
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 12 ----------
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.128), TAKE 2799 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0.038), TAKE 2799 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Skaven 30011 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0), TAKE 3701 damage, initiatorPower = 0.1, targetPower = 0 (CRIT)
+
+
+[DEAD_FOR_DISPLAY] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 1
+
+
+[CHANGE_POWER] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[DEAD] [Skaven 30011 (TEAM 1, FRONT, POS 2)] => [Skaven 30011 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.128, power = 0.1
+- EFFECTS:
+id = table: 4db10c1d, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0.038, power = 0
+- EFFECTS:
+id = table: 64c864f8, type = 10, initiator = [Skaven 30011 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.128, power = 0.6
+- EFFECTS:
+id = table: 4db10c1d, type = 10, initiator = [Skaven 30011 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 2799.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 12 ----------
+
+[REMOVE_EFFECT] [Skaven 30011 (TEAM 2, FRONT, POS 2)] => [Skaven 30011 (TEAM 1, FRONT, POS 2)] (hp = 0.128), type = 10, persistentType = 1, isBuff = false
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 1, FRONT, POS 2)] hp = 0.128, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Skaven 30011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+<> STATISTICS:
+[Skaven 30011 (TEAM 1, FRONT, POS 1)] DamageDeal = 70088, DamageTaken = 59675.55, HpHeal = 11520, HpHealTaken = 11520
+	Damage dealt by sources: Dictionary = table: 29c6b2ba, count = 3
+	[1 (number)] = 20969 (number)
+	[2 (number)] = 18330 (number)
+	[12 (number)] = 30789 (number)
+
+	Damage taken by sources: Dictionary = table: 2aebe0e1, count = 2
+	[1 (number)] = 40477.6 (number)
+	[2 (number)] = 19197.95 (number)
+
+	Hp heal by sources: Dictionary = table: da3bee0, count = 1
+	[1 (number)] = 11520 (number)
+
+	Hp heal taken by sources: Dictionary = table: 48b78aad, count = 1
+	[1 (number)] = 11520 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 5478a263, count = 11
+	[3000 (number)] = 5598 (number)
+	[6000 (number)] = 5598 (number)
+	[3001 (number)] = 3947 (number)
+	[6001 (number)] = 3947 (number)
+	[8000 (number)] = 2799 (number)
+	[2001 (number)] = 12648 (number)
+	[5001 (number)] = 11238 (number)
+	[8001 (number)] = 5181 (number)
+	[4001 (number)] = 3947 (number)
+	[1001 (number)] = 3947 (number)
+	[7001 (number)] = 11238 (number)
+
+	Damage taken history: Dictionary = table: 2161ace5, count = 15
+	[6002 (number)] = 4260.8 (number)
+	[3003 (number)] = 4260.8 (number)
+	[3004 (number)] = 4660.25 (number)
+	[6004 (number)] = 2457 (number)
+	[6006 (number)] = 4260.8 (number)
+	[5002 (number)] = 3043.809 (number)
+	[2003 (number)] = 4565.714 (number)
+	[8003 (number)] = 3043.809 (number)
+	[2004 (number)] = 3043.809 (number)
+	[5004 (number)] = 3043.809 (number)
+	[4003 (number)] = 4260.8 (number)
+	[1003 (number)] = 4260.8 (number)
+	[7003 (number)] = 4260.8 (number)
+	[1004 (number)] = 5991.75 (number)
+	[4004 (number)] = 4260.8 (number)
+
+	Hp heal history: Dictionary = table: 31255297, count = 14
+	[6002 (number)] = 740 (number)
+	[3003 (number)] = 740 (number)
+	[3004 (number)] = 740 (number)
+	[6004 (number)] = 683 (number)
+	[6006 (number)] = 740 (number)
+	[5002 (number)] = 846 (number)
+	[2003 (number)] = 1269 (number)
+	[2004 (number)] = 846 (number)
+	[5004 (number)] = 846 (number)
+	[4003 (number)] = 740 (number)
+	[1003 (number)] = 740 (number)
+	[7003 (number)] = 740 (number)
+	[1004 (number)] = 1110 (number)
+	[4004 (number)] = 740 (number)
+
+	Hp heal taken history: Dictionary = table: 45b344fc, count = 14
+	[6002 (number)] = 740 (number)
+	[3003 (number)] = 740 (number)
+	[3004 (number)] = 740 (number)
+	[6004 (number)] = 683 (number)
+	[6006 (number)] = 740 (number)
+	[5002 (number)] = 846 (number)
+	[2003 (number)] = 1269 (number)
+	[2004 (number)] = 846 (number)
+	[5004 (number)] = 846 (number)
+	[4003 (number)] = 740 (number)
+	[1003 (number)] = 740 (number)
+	[7003 (number)] = 740 (number)
+	[1004 (number)] = 1110 (number)
+	[4004 (number)] = 740 (number)
+
+	Effect created history: Dictionary = table: 54498d93, count = 1
+	[10 (number)] = 12 (number)
+
+[Skaven 30011 (TEAM 2, FRONT, POS 2)] DamageDeal = 70344, DamageTaken = 41872.062, HpHeal = 9195, HpHealTaken = 9195
+	Damage dealt by sources: Dictionary = table: 78e3057b, count = 3
+	[1 (number)] = 29601 (number)
+	[2 (number)] = 21150 (number)
+	[12 (number)] = 19593 (number)
+
+	Damage taken by sources: Dictionary = table: 63c9411a, count = 2
+	[1 (number)] = 18108.4 (number)
+	[2 (number)] = 23763.662 (number)
+
+	Hp heal by sources: Dictionary = table: 3c027d3b, count = 1
+	[1 (number)] = 9195 (number)
+
+	Hp heal taken by sources: Dictionary = table: 243f4a3d, count = 1
+	[1 (number)] = 9195 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 44175b1c, count = 13
+	[9000 (number)] = 5598 (number)
+	[12000 (number)] = 2799 (number)
+	[9002 (number)] = 3947 (number)
+	[3004 (number)] = 4316 (number)
+	[6006 (number)] = 3947 (number)
+	[11002 (number)] = 5619 (number)
+	[8003 (number)] = 14037 (number)
+	[5004 (number)] = 5640 (number)
+	[2004 (number)] = 7050 (number)
+	[10002 (number)] = 3947 (number)
+	[7003 (number)] = 3947 (number)
+	[1004 (number)] = 5550 (number)
+	[4004 (number)] = 3947 (number)
+
+	Damage taken history: Dictionary = table: 6dff1315, count = 12
+	[9001 (number)] = 4260.8 (number)
+	[12001 (number)] = 3994.5 (number)
+	[6003 (number)] = 2457 (number)
+	[2001 (number)] = 3043.809 (number)
+	[5001 (number)] = 3043.809 (number)
+	[8001 (number)] = 5592.3 (number)
+	[11001 (number)] = 3043.809 (number)
+	[8002 (number)] = 3043.809 (number)
+	[2002 (number)] = 3043.809 (number)
+	[5003 (number)] = 3043.809 (number)
+	[7001 (number)] = 3043.809 (number)
+	[10001 (number)] = 4260.8 (number)
+
+	Hp heal history: Dictionary = table: 423b4034, count = 11
+	[9001 (number)] = 740 (number)
+	[6003 (number)] = 683 (number)
+	[2001 (number)] = 846 (number)
+	[5001 (number)] = 846 (number)
+	[8001 (number)] = 1110 (number)
+	[11001 (number)] = 846 (number)
+	[8002 (number)] = 846 (number)
+	[2002 (number)] = 846 (number)
+	[5003 (number)] = 846 (number)
+	[7001 (number)] = 846 (number)
+	[10001 (number)] = 740 (number)
+
+	Hp heal taken history: Dictionary = table: 1c8b94ec, count = 11
+	[9001 (number)] = 740 (number)
+	[6003 (number)] = 683 (number)
+	[2001 (number)] = 846 (number)
+	[5001 (number)] = 846 (number)
+	[8001 (number)] = 1110 (number)
+	[11001 (number)] = 846 (number)
+	[8002 (number)] = 846 (number)
+	[2002 (number)] = 846 (number)
+	[5003 (number)] = 846 (number)
+	[7001 (number)] = 846 (number)
+	[10001 (number)] = 740 (number)
+
+	Effect created history: Dictionary = table: 623ae3da, count = 1
+	[10 (number)] = 8 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 4554, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 77483333, count = 1
+	[2 (number)] = 4554 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6f6ae70e, count = 1
+	[6004 (number)] = 4554 (number)
+
+	Stat changer debuff created history: Dictionary = table: 2f0632fb, count = 1
+	[4 (number)] = 120 (number)
+
+[Skaven 30011 (TEAM 2, FRONT, POS 1)] DamageDeal = 50870, DamageTaken = 58268.156, HpHeal = 11679, HpHealTaken = 11679
+	Damage dealt by sources: Dictionary = table: 1a9720f2, count = 3
+	[1 (number)] = 15788 (number)
+	[2 (number)] = 12690 (number)
+	[12 (number)] = 22392 (number)
+
+	Damage taken by sources: Dictionary = table: 2c704938, count = 2
+	[1 (number)] = 37548.3 (number)
+	[2 (number)] = 20719.855 (number)
+
+	Hp heal by sources: Dictionary = table: 141a992f, count = 1
+	[1 (number)] = 11679 (number)
+
+	Hp heal taken by sources: Dictionary = table: a95f0bd, count = 1
+	[1 (number)] = 11679 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 2926c1ad, count = 8
+	[3003 (number)] = 3947 (number)
+	[2003 (number)] = 12648 (number)
+	[6000 (number)] = 5598 (number)
+	[1003 (number)] = 3947 (number)
+	[6002 (number)] = 3947 (number)
+	[3000 (number)] = 5598 (number)
+	[5002 (number)] = 11238 (number)
+	[4003 (number)] = 3947 (number)
+
+	Damage taken history: Dictionary = table: 7316438, count = 15
+	[3001 (number)] = 4260.8 (number)
+	[6001 (number)] = 4260.8 (number)
+	[3002 (number)] = 4260.8 (number)
+	[6003 (number)] = 2457 (number)
+	[6005 (number)] = 4260.8 (number)
+	[2001 (number)] = 4565.714 (number)
+	[5001 (number)] = 3043.809 (number)
+	[2002 (number)] = 4565.714 (number)
+	[5003 (number)] = 3043.809 (number)
+	[4001 (number)] = 4260.8 (number)
+	[1001 (number)] = 4260.8 (number)
+	[7001 (number)] = 3043.809 (number)
+	[4002 (number)] = 4260.8 (number)
+	[1002 (number)] = 4260.8 (number)
+	[7002 (number)] = 3461.9 (number)
+
+	Hp heal history: Dictionary = table: 47a24610, count = 14
+	[3001 (number)] = 740 (number)
+	[6001 (number)] = 740 (number)
+	[3002 (number)] = 740 (number)
+	[6003 (number)] = 683 (number)
+	[6005 (number)] = 740 (number)
+	[2001 (number)] = 1269 (number)
+	[5001 (number)] = 846 (number)
+	[2002 (number)] = 1269 (number)
+	[5003 (number)] = 846 (number)
+	[4001 (number)] = 740 (number)
+	[1001 (number)] = 740 (number)
+	[7001 (number)] = 846 (number)
+	[4002 (number)] = 740 (number)
+	[1002 (number)] = 740 (number)
+
+	Hp heal taken history: Dictionary = table: 62975641, count = 14
+	[3001 (number)] = 740 (number)
+	[6001 (number)] = 740 (number)
+	[3002 (number)] = 740 (number)
+	[6003 (number)] = 683 (number)
+	[6005 (number)] = 740 (number)
+	[2001 (number)] = 1269 (number)
+	[5001 (number)] = 846 (number)
+	[2002 (number)] = 1269 (number)
+	[5003 (number)] = 846 (number)
+	[4001 (number)] = 740 (number)
+	[1001 (number)] = 740 (number)
+	[7001 (number)] = 846 (number)
+	[4002 (number)] = 740 (number)
+	[1002 (number)] = 740 (number)
+
+	Effect created history: Dictionary = table: 7d23c817, count = 1
+	[10 (number)] = 8 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 4554, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 713f732f, count = 1
+	[2 (number)] = 4554 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 247829de, count = 1
+	[6003 (number)] = 4554 (number)
+
+	Stat changer debuff created history: Dictionary = table: 7c05464e, count = 1
+	[4 (number)] = 120 (number)
+
+[Skaven 30011 (TEAM 1, FRONT, POS 2)] DamageDeal = 60116, DamageTaken = 30763.36, HpHeal = 7662, HpHealTaken = 7662
+	Damage dealt by sources: Dictionary = table: 1f054aa9, count = 3
+	[1 (number)] = 30590 (number)
+	[2 (number)] = 18330 (number)
+	[12 (number)] = 11196 (number)
+
+	Damage taken by sources: Dictionary = table: 1529f46d, count = 2
+	[1 (number)] = 8521.6 (number)
+	[2 (number)] = 22241.76 (number)
+
+	Hp heal by sources: Dictionary = table: 707a19cf, count = 1
+	[1 (number)] = 7662 (number)
+
+	Hp heal taken by sources: Dictionary = table: 269b16b8, count = 1
+	[1 (number)] = 7662 (number)
+
+	NumberKill = 2, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 137e50c0, count = 14
+	[12000 (number)] = 2799 (number)
+	[9001 (number)] = 3947 (number)
+	[12001 (number)] = 3701 (number)
+	[3002 (number)] = 3947 (number)
+	[8000 (number)] = 2799 (number)
+	[6005 (number)] = 3947 (number)
+	[11001 (number)] = 5619 (number)
+	[2002 (number)] = 7050 (number)
+	[8002 (number)] = 2820 (number)
+	[5003 (number)] = 5640 (number)
+	[10001 (number)] = 3947 (number)
+	[4002 (number)] = 3947 (number)
+	[7002 (number)] = 6006 (number)
+	[1002 (number)] = 3947 (number)
+
+	Damage taken history: Dictionary = table: 49ae445e, count = 9
+	[9002 (number)] = 4260.8 (number)
+	[6004 (number)] = 2457 (number)
+	[5002 (number)] = 3043.809 (number)
+	[11002 (number)] = 3043.809 (number)
+	[8003 (number)] = 3043.809 (number)
+	[2003 (number)] = 3043.809 (number)
+	[5004 (number)] = 3043.809 (number)
+	[2004 (number)] = 4565.714 (number)
+	[10002 (number)] = 4260.8 (number)
+
+	Hp heal history: Dictionary = table: 69ba98c5, count = 9
+	[9002 (number)] = 740 (number)
+	[6004 (number)] = 683 (number)
+	[5002 (number)] = 846 (number)
+	[11002 (number)] = 846 (number)
+	[8003 (number)] = 846 (number)
+	[2003 (number)] = 846 (number)
+	[5004 (number)] = 846 (number)
+	[2004 (number)] = 1269 (number)
+	[10002 (number)] = 740 (number)
+
+	Hp heal taken history: Dictionary = table: 17ea7d9c, count = 9
+	[9002 (number)] = 740 (number)
+	[6004 (number)] = 683 (number)
+	[5002 (number)] = 846 (number)
+	[11002 (number)] = 846 (number)
+	[8003 (number)] = 846 (number)
+	[2003 (number)] = 846 (number)
+	[5004 (number)] = 846 (number)
+	[2004 (number)] = 1269 (number)
+	[10002 (number)] = 740 (number)
+
+	Effect created history: Dictionary = table: 76f3c7f1, count = 1
+	[10 (number)] = 4 (number)
+
+
+<> WINNER: 1

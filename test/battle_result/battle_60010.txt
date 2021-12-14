@@ -1,0 +1,3012 @@
+
+<> SEED = 559870395
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 102
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)]
+star = 2
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 6
+attack = 757
+defense = 108
+hp = 11611/11611
+speed = 35
+critRate = 0.1
+critDamage = 1.5
+accuracy = 886
+dodge = 797
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 38e86edc, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 592f8261, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 507af6ef, type = 403, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 6
+attack = 4033
+defense = 576
+hp = 61876/61876
+speed = 67
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1087
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 6914aed6, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 1271a3a6, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 6e5ee07c, type = 403, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 6
+attack = 5242
+defense = 576
+hp = 49501/49501
+speed = 67
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1087
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 6202258f, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 7df1d6fa, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2e2c5c82, type = 401, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)]
+star = 1
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 6
+attack = 475
+defense = 68
+hp = 7278/7278
+speed = 29
+critRate = 0.1
+critDamage = 1.5
+accuracy = 805
+dodge = 725
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 46d213cc, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 358f68c4, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: a569648, type = 403, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 6
+attack = 4033
+defense = 576
+hp = 61876/61876
+speed = 67
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1087
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 78e014c0, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 2e7a3463, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 46ba2e89, type = 403, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 6
+attack = 4033
+defense = 576
+hp = 61876/61876
+speed = 67
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1087
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 77a414d0, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: f1a58f0, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 60fdb020, type = 403, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 1)] => [Diadora 60010 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Diadora 60010 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Diadora 60010 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 1)] (hp = 0.472), TAKE 3844 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0.472, power = 0.6
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 1)] (hp = 0.67), TAKE 3829 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0.472, power = 0.6
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0.67, power = 0.6
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0.472, power = 0.6
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 4997 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[DEAD_FOR_DISPLAY] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0.67, power = 0.6
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0.472, power = 0.6
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0.67, power = 0.6
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 1)] (hp = 0.34), TAKE 3829 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0.67, power = 0.6
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0.34, power = 0.7
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+TURN 5 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 1, FRONT, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.989), TAKE 686 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0.34, power = 0.7
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0.34, power = 1
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.989, power = 1
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.814), TAKE 10833 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[>>> ACTIVE_SKILL <<<] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.883), TAKE 7222 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.814), type = 402, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.814), type = 31, persistentType = 2, isBuff = false
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.883), type = 402, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.883), type = 31, persistentType = 2, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0.34, power = 1
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.989, power = 1
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0.34, power = 1
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.814, power = 1
+- EFFECTS:
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.883, power = 1
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 7557 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+[DEAD_FOR_DISPLAY] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.883), TAKE 7222 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[>>> ACTIVE_SKILL <<<] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.854), TAKE 7222 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.883), type = 402, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.883), type = 31, persistentType = 2, isBuff = false
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.854), type = 402, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.854), type = 31, persistentType = 2, isBuff = false
+
+
+[DEAD] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0.34, power = 1
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.814, power = 1
+- EFFECTS:
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.883, power = 1
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.883, power = 0.1
+- EFFECTS:
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.854, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.814, power = 0
+- EFFECTS:
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.883, power = 1
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.582), TAKE 14315 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[>>> ACTIVE_SKILL <<<] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.729), TAKE 9543 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.582), type = 402, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.582), type = 31, persistentType = 2, isBuff = false
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.729), type = 402, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.729), type = 31, persistentType = 2, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.883, power = 0.1
+- EFFECTS:
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.854, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.814, power = 0
+- EFFECTS:
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.883, power = 1
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.883, power = 0.1
+- EFFECTS:
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.854, power = 0
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.582, power = 0.1
+- EFFECTS:
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 2
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 1
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 2
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.765), TAKE 7342 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[>>> ACTIVE_SKILL <<<] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.735), TAKE 5873 damage, initiatorPower = 0, targetPower = 0.1
+[Diadora 60010 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.765), type = 402, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.765), type = 31, persistentType = 2, isBuff = false
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.735), type = 402, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.735), type = 31, persistentType = 2, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.883, power = 0.1
+- EFFECTS:
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.854, power = 0
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.582, power = 0.1
+- EFFECTS:
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 2
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 1
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.765, power = 0.2
+- EFFECTS:
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+id = table: 3bc4c105, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 194d5ffc, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 2
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 0.1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+id = table: 7288d563, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 56b1f2ea, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.582, power = 0.1
+- EFFECTS:
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 2
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 0
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 2
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.521), TAKE 3784 damage, initiatorPower = 0.7, targetPower = 0.2
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.521), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.491), TAKE 1892 damage, remainingRound = 4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.765, power = 0.2
+- EFFECTS:
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 3bc4c105, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 194d5ffc, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 0.1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 7288d563, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 56b1f2ea, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.582, power = 0.1
+- EFFECTS:
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 2
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 0
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.765, power = 0.7
+- EFFECTS:
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 3bc4c105, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 194d5ffc, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 0.1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 7288d563, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 56b1f2ea, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.491, power = 0.2
+- EFFECTS:
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 2
+id = table: 4b60cdd0, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 0
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 2
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.703), TAKE 3784 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.703), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.673), TAKE 1892 damage, remainingRound = 4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.765, power = 0.7
+- EFFECTS:
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 3bc4c105, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 194d5ffc, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 0.1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 7288d563, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 56b1f2ea, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.491, power = 0.2
+- EFFECTS:
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 2
+id = table: 4b60cdd0, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 0
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.673, power = 0.8
+- EFFECTS:
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 3bc4c105, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 194d5ffc, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 0.1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 7288d563, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 56b1f2ea, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.491, power = 0.7
+- EFFECTS:
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 2
+id = table: 4b60cdd0, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 0
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 2
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.411), TAKE 4919 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.411), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.372), TAKE 2459 damage, remainingRound = 4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.673, power = 0.8
+- EFFECTS:
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 3bc4c105, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 194d5ffc, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 0.1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 7288d563, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 56b1f2ea, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.491, power = 0.7
+- EFFECTS:
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 2
+id = table: 4b60cdd0, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 0
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.673, power = 0.8
+- EFFECTS:
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 3bc4c105, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 194d5ffc, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 0.6
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 7288d563, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 56b1f2ea, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.372, power = 0.8
+- EFFECTS:
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 2
+id = table: 4b60cdd0, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: c362045, type = 10, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 0
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 2
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.612), TAKE 3784 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.612), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.581), TAKE 1892 damage, remainingRound = 4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.673, power = 0.8
+- EFFECTS:
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 3bc4c105, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 194d5ffc, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 0.6
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 7288d563, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 56b1f2ea, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.372, power = 0.8
+- EFFECTS:
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 2
+id = table: 4b60cdd0, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: c362045, type = 10, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 0
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.581, power = 0.9
+- EFFECTS:
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 3bc4c105, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 194d5ffc, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 5549a58b, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 0.6
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 7288d563, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 56b1f2ea, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.372, power = 0.8
+- EFFECTS:
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 2
+id = table: 4b60cdd0, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: c362045, type = 10, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 0.5
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 2
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 4 ----------
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.551), TAKE 1892 damage, remainingRound = 3
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.52), TAKE 1892 damage, remainingRound = 3
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.341), TAKE 1892 damage, remainingRound = 3
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.301), TAKE 2459 damage, remainingRound = 3
+
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.24), TAKE 3784 damage, initiatorPower = 1, targetPower = 0.9
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.6
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.24), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.209), TAKE 1892 damage, remainingRound = 4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.52, power = 0.9
+- EFFECTS:
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 5549a58b, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 3bc4c105, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 194d5ffc, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 0.6
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 7288d563, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 56b1f2ea, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.301, power = 0.8
+- EFFECTS:
+id = table: 4b60cdd0, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: c362045, type = 10, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 2
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 0.5
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.52, power = 1
+- EFFECTS:
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 5549a58b, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 3bc4c105, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 194d5ffc, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 0.6
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 7288d563, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 56b1f2ea, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.209, power = 0.9
+- EFFECTS:
+id = table: 4b60cdd0, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: c362045, type = 10, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 2
+id = table: 188aecbf, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 0.5
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 2
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.459), TAKE 3784 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.459), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.428), TAKE 1892 damage, remainingRound = 4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.52, power = 1
+- EFFECTS:
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 5549a58b, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 3bc4c105, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 194d5ffc, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 0.6
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 7288d563, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 56b1f2ea, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.209, power = 0.9
+- EFFECTS:
+id = table: 4b60cdd0, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: c362045, type = 10, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 2
+id = table: 188aecbf, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 0.5
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.428, power = 1
+- EFFECTS:
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 5549a58b, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 3bc4c105, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 194d5ffc, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+id = table: 2e52b070, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 0.6
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 7288d563, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 56b1f2ea, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.209, power = 1
+- EFFECTS:
+id = table: 4b60cdd0, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: c362045, type = 10, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 2
+id = table: 188aecbf, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 0.5
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 2
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.13), TAKE 4919 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.9
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.13), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.09), TAKE 2459 damage, remainingRound = 4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.428, power = 1
+- EFFECTS:
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 5549a58b, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 3bc4c105, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 194d5ffc, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+id = table: 2e52b070, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 0.6
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 7288d563, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 56b1f2ea, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.209, power = 1
+- EFFECTS:
+id = table: 4b60cdd0, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: c362045, type = 10, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 2
+id = table: 188aecbf, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 0.5
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.428, power = 1
+- EFFECTS:
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 5549a58b, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 3bc4c105, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 194d5ffc, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+id = table: 2e52b070, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 7288d563, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 56b1f2ea, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.09, power = 1
+- EFFECTS:
+id = table: 4b60cdd0, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: c362045, type = 10, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 2
+id = table: 188aecbf, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 13db89f7, type = 10, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 0.5
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 2
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.367), TAKE 3784 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.92
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.367), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.337), TAKE 1892 damage, remainingRound = 4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.428, power = 1
+- EFFECTS:
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 5549a58b, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 3bc4c105, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 194d5ffc, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+id = table: 2e52b070, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 7288d563, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 56b1f2ea, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.09, power = 1
+- EFFECTS:
+id = table: 4b60cdd0, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: c362045, type = 10, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 2
+id = table: 188aecbf, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 13db89f7, type = 10, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 0.5
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.337, power = 1
+- EFFECTS:
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 5549a58b, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 6253ebae, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 747efa09, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 3bc4c105, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 194d5ffc, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+id = table: 2e52b070, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: ba603fa, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 193282e7, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 29203c83, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 7288d563, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 56b1f2ea, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0.09, power = 1
+- EFFECTS:
+id = table: 4b60cdd0, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: c362045, type = 10, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 703cac5c, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7dcd7ecb, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 54d3bc92, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 57feaab3, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 2
+id = table: 188aecbf, type = 10, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 13db89f7, type = 10, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 1
+- EFFECTS:
+id = table: 2a18e736, type = 402, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 7718f75d, type = 31, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 2
+id = table: 5a562f11, type = 402, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 723ac4fc, type = 31, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 2
+
+
+---------- AFTER ROUND 4 ----------
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.337), type = 402, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.337), type = 31, persistentType = 2, isBuff = false
+
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.337), type = 402, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.337), type = 31, persistentType = 2, isBuff = false
+
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.735), type = 402, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.735), type = 31, persistentType = 2, isBuff = false
+
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.735), type = 402, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.735), type = 31, persistentType = 2, isBuff = false
+
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.09), type = 402, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.09), type = 31, persistentType = 2, isBuff = false
+
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.09), type = 402, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.09), type = 31, persistentType = 2, isBuff = false
+
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.729), type = 402, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.729), type = 31, persistentType = 2, isBuff = false
+
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.729), type = 402, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.729), type = 31, persistentType = 2, isBuff = false
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 5 ----------
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.307), TAKE 1829 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.277), TAKE 1829 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.248), TAKE 1829 damage, remainingRound = 3
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.218), TAKE 1829 damage, remainingRound = 3
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.061), TAKE 1829 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0.022), TAKE 2378 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0), TAKE 1829 damage, remainingRound = 3
+
+
+[DEAD_FOR_DISPLAY] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 12
+
+
+[DEAD] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 12
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.218), type = 40, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.735), type = 40, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.729), type = 401, persistentType = 1, isBuff = true
+
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.67), TAKE 3660 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.218, power = 1
+- EFFECTS:
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 5549a58b, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 2e52b070, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: ba603fa, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 4486e925, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7fec00f5, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.729, power = 1
+- EFFECTS:
+id = table: 3037bace, type = 401, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.218, power = 1
+- EFFECTS:
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 5549a58b, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 2e52b070, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: ba603fa, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 4486e925, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7fec00f5, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 1
+- EFFECTS:
+id = table: 3037bace, type = 401, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.634), TAKE 2230 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.634), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.218, power = 1
+- EFFECTS:
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 5549a58b, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 2e52b070, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: ba603fa, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 4486e925, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7fec00f5, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 1
+- EFFECTS:
+id = table: 3037bace, type = 401, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.218, power = 1
+- EFFECTS:
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 5549a58b, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 2e52b070, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: ba603fa, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 4486e925, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7fec00f5, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.634, power = 1
+- EFFECTS:
+id = table: 3037bace, type = 401, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: b35c6e1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.557), TAKE 4757 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.88
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.218, power = 1
+- EFFECTS:
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 5549a58b, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 2e52b070, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: ba603fa, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 4486e925, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7fec00f5, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.634, power = 1
+- EFFECTS:
+id = table: 3037bace, type = 401, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: b35c6e1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.218, power = 1
+- EFFECTS:
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 5549a58b, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 2e52b070, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: ba603fa, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 4486e925, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7fec00f5, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.557, power = 1
+- EFFECTS:
+id = table: 3037bace, type = 401, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: b35c6e1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.043), TAKE 10832 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+[>>> ACTIVE_SKILL <<<] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.517), TAKE 10832 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.043), type = 402, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.043), type = 31, persistentType = 2, isBuff = false
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.517), type = 402, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.517), type = 31, persistentType = 2, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.218, power = 1
+- EFFECTS:
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 5549a58b, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 2e52b070, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: ba603fa, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 4486e925, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.735, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7fec00f5, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.557, power = 1
+- EFFECTS:
+id = table: 3037bace, type = 401, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: b35c6e1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0.043, power = 1
+- EFFECTS:
+id = table: 38a1d9ff, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 5549a58b, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 2e52b070, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: ba603fa, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 4486e925, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+id = table: 7889c963, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 67fd852f, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 2
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.517, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7fec00f5, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+id = table: 6a11b2d4, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 4fb663b9, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.557, power = 0
+- EFFECTS:
+id = table: 3037bace, type = 401, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: b35c6e1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 6 ----------
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0.013), TAKE 1860 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0), TAKE 2790 damage, remainingRound = 1
+
+
+[DEAD_FOR_DISPLAY] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0), reason = 12
+
+
+[DEAD] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0), reason = 12
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.557), type = 40, persistentType = 1, isBuff = false
+
+
+[RESIST_EFFECT] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 1, FRONT, POS 2)] (hp = 0), effectType = 20
+
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.48), TAKE 4757 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.9
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.517, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7fec00f5, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+id = table: 6a11b2d4, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 4fb663b9, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.557, power = 0
+- EFFECTS:
+id = table: 3037bace, type = 401, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: b35c6e1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 794279fd, type = 40, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.517, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7fec00f5, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+id = table: 6a11b2d4, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 4fb663b9, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.48, power = 0.1
+- EFFECTS:
+id = table: 3037bace, type = 401, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: b35c6e1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 794279fd, type = 40, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.404), TAKE 5581 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.404), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.348), TAKE 2790 damage, remainingRound = 4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.517, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7fec00f5, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+id = table: 6a11b2d4, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 4fb663b9, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.48, power = 0.1
+- EFFECTS:
+id = table: 3037bace, type = 401, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: b35c6e1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 794279fd, type = 40, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.348, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7fec00f5, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+id = table: 6a11b2d4, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 4fb663b9, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+id = table: 729d5f07, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.48, power = 0.6
+- EFFECTS:
+id = table: 3037bace, type = 401, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: b35c6e1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 794279fd, type = 40, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.302), TAKE 2266 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.302), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.348, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7fec00f5, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+id = table: 6a11b2d4, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 4fb663b9, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+id = table: 729d5f07, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.48, power = 0.6
+- EFFECTS:
+id = table: 3037bace, type = 401, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: b35c6e1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 794279fd, type = 40, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.302, power = 1
+- EFFECTS:
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7fec00f5, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+id = table: 6a11b2d4, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 4fb663b9, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 2
+id = table: 729d5f07, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 157dc492, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.48, power = 0.6
+- EFFECTS:
+id = table: 3037bace, type = 401, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: b35c6e1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 794279fd, type = 40, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 7 ----------
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.245), TAKE 2790 damage, remainingRound = 3
+
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.365), TAKE 7136 damage, initiatorPower = 1, targetPower = 0.7 (CRIT)
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.245, power = 1
+- EFFECTS:
+id = table: 729d5f07, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7fec00f5, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 6a11b2d4, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 4fb663b9, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+id = table: 157dc492, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.48, power = 0.6
+- EFFECTS:
+id = table: 3037bace, type = 401, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: b35c6e1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 794279fd, type = 40, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.245, power = 1
+- EFFECTS:
+id = table: 729d5f07, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7fec00f5, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 6a11b2d4, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 4fb663b9, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+id = table: 157dc492, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.365, power = 0.7
+- EFFECTS:
+id = table: 3037bace, type = 401, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: b35c6e1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 794279fd, type = 40, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Diadora 60010 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.076), TAKE 8373 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.076), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.02), TAKE 2790 damage, remainingRound = 4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.245, power = 1
+- EFFECTS:
+id = table: 729d5f07, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7fec00f5, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 6a11b2d4, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 4fb663b9, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+id = table: 157dc492, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.365, power = 0.7
+- EFFECTS:
+id = table: 3037bace, type = 401, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: b35c6e1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 794279fd, type = 40, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0.02, power = 1
+- EFFECTS:
+id = table: 729d5f07, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.5
+id = table: 37e81703, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7fec00f5, type = 40, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 6a11b2d4, type = 402, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 4fb663b9, type = 31, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 1, persistentType = 2
+id = table: 157dc492, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 692ac62f, type = 10, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 4, persistentType = 1, DOT_AMOUNT = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.365, power = 1
+- EFFECTS:
+id = table: 3037bace, type = 401, initiator = [Diadora 60010 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+id = table: b35c6e1, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 794279fd, type = 40, initiator = [Diadora 60010 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+---------- AFTER ROUND 7 ----------
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.02), type = 40, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.02), type = 402, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0.02), type = 31, persistentType = 2, isBuff = false
+
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.365), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.365), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 8 ----------
+
+[POISON_EFFECT] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0), TAKE 1829 damage, remainingRound = 2
+
+
+[DEAD_FOR_DISPLAY] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0), reason = 12
+
+
+[DEAD] [Diadora 60010 (TEAM 2, FRONT, POS 3)] => [Diadora 60010 (TEAM 1, BACK, POS 1)] (hp = 0), reason = 12
+
+
+[ADD_EFFECT] [Diadora 60010 (TEAM 1, BACK, POS 1)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.365), type = 40, persistentType = 1, isBuff = false
+
+
+---------- AFTER ROUND 8 ----------
+
+[REMOVE_EFFECT] [Diadora 60010 (TEAM 1, FRONT, POS 2)] => [Diadora 60010 (TEAM 2, FRONT, POS 3)] (hp = 0.365), type = 40, persistentType = 1, isBuff = false
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Diadora 60010 (TEAM 2, FRONT, POS 3)] hp = 0.365, power = 1
+- EFFECTS:
+id = table: 3cdc766, type = 40, initiator = [Diadora 60010 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+<> STATISTICS:
+[SummonerMage (TEAM 2)] DamageDeal = 2266, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 1b30d57f, count = 1
+	[2 (number)] = 2266 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6092dbdf, count = 1
+	[6003 (number)] = 2266 (number)
+
+	Stat changer debuff created history: Dictionary = table: 5f36625c, count = 1
+	[4 (number)] = 60 (number)
+
+[Diadora 60010 (TEAM 2, FRONT, POS 2)] DamageDeal = 44592, DamageTaken = 67322.86, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 322d682b, count = 3
+	[1 (number)] = 11397 (number)
+	[2 (number)] = 22001 (number)
+	[12 (number)] = 11194 (number)
+
+	Damage taken by sources: Dictionary = table: 2f2bc83c, count = 3
+	[1 (number)] = 19307 (number)
+	[2 (number)] = 27449.363 (number)
+	[12 (number)] = 20566.5 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 5911a225, count = 7
+	[2002 (number)] = 22001 (number)
+	[1002 (number)] = 3829 (number)
+	[6000 (number)] = 1860 (number)
+	[5000 (number)] = 3658 (number)
+	[4000 (number)] = 1892 (number)
+	[4002 (number)] = 5676 (number)
+	[3002 (number)] = 5676 (number)
+
+	Damage taken history: Dictionary = table: 35d90fd9, count = 9
+	[1005 (number)] = 757 (number)
+	[3001 (number)] = 6049.5 (number)
+	[3003 (number)] = 7863 (number)
+	[5000 (number)] = 6654 (number)
+	[2001 (number)] = 11935.664 (number)
+	[2003 (number)] = 15513.699 (number)
+	[4000 (number)] = 4637.5 (number)
+	[4001 (number)] = 6049.5 (number)
+	[4003 (number)] = 7863 (number)
+
+	Effect created history: Dictionary = table: 6c6c4579, count = 3
+	[10 (number)] = 8 (number)
+	[31 (number)] = 6 (number)
+	[40 (number)] = 6 (number)
+
+	Stat changer buff created history: Dictionary = table: 1d770ae0, count = 1
+	[1 (number)] = 6048 (number)
+
+	Stat changer debuff created history: Dictionary = table: 49a383e1, count = 1
+	[2 (number)] = 1038 (number)
+
+[Diadora 60010 (TEAM 2, FRONT, POS 1)] DamageDeal = 0, DamageTaken = 9275, HpHeal = 0, HpHealTaken = 0
+	Damage taken by sources: Dictionary = table: 3479facb, count = 1
+	[1 (number)] = 9275 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage taken history: Dictionary = table: 3a3026b0, count = 2
+	[1001 (number)] = 4033 (number)
+	[1003 (number)] = 5242 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 2230, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 1fb51b1c, count = 1
+	[2 (number)] = 2230 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 4adc2f80, count = 1
+	[5002 (number)] = 2230 (number)
+
+	Effect created history: Dictionary = table: 31083bb2, count = 1
+	[112 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: a368e85, count = 1
+	[4 (number)] = 60 (number)
+
+[Diadora 60010 (TEAM 1, FRONT, POS 2)] DamageDeal = 42461, DamageTaken = 69186.9, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 3dec0924, count = 3
+	[1 (number)] = 15072 (number)
+	[2 (number)] = 18055 (number)
+	[12 (number)] = 9334 (number)
+
+	Damage taken by sources: Dictionary = table: 16678136, count = 3
+	[1 (number)] = 16132 (number)
+	[2 (number)] = 27848.895 (number)
+	[12 (number)] = 25206 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6642fde3, count = 7
+	[1001 (number)] = 3844 (number)
+	[5000 (number)] = 3658 (number)
+	[4000 (number)] = 1892 (number)
+	[5001 (number)] = 3660 (number)
+	[4001 (number)] = 5676 (number)
+	[3001 (number)] = 5676 (number)
+	[2001 (number)] = 18055 (number)
+
+	Damage taken history: Dictionary = table: 583e0508, count = 10
+	[6000 (number)] = 5041 (number)
+	[3002 (number)] = 6049.5 (number)
+	[3004 (number)] = 6049.5 (number)
+	[5000 (number)] = 8066 (number)
+	[2002 (number)] = 7957.109 (number)
+	[2004 (number)] = 7957.109 (number)
+	[5004 (number)] = 11934.677 (number)
+	[4000 (number)] = 4033 (number)
+	[4002 (number)] = 6049.5 (number)
+	[4004 (number)] = 6049.5 (number)
+
+	Effect created history: Dictionary = table: 5c69202, count = 3
+	[10 (number)] = 8 (number)
+	[31 (number)] = 6 (number)
+	[40 (number)] = 3 (number)
+
+	Stat changer debuff created history: Dictionary = table: 2f82ddbd, count = 1
+	[2 (number)] = 1038 (number)
+
+[Diadora 60010 (TEAM 2, FRONT, POS 3)] DamageDeal = 82553, DamageTaken = 43136.574, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5ede804b, count = 3
+	[1 (number)] = 25351 (number)
+	[2 (number)] = 34879 (number)
+	[12 (number)] = 22323 (number)
+
+	Damage taken by sources: Dictionary = table: 76e0d8dd, count = 2
+	[1 (number)] = 22380 (number)
+	[2 (number)] = 20756.574 (number)
+
+	NumberKill = 2, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 47070281, count = 12
+	[6000 (number)] = 2790 (number)
+	[6002 (number)] = 8371 (number)
+	[3004 (number)] = 5676 (number)
+	[5000 (number)] = 3658 (number)
+	[8000 (number)] = 1829 (number)
+	[5004 (number)] = 21664 (number)
+	[2004 (number)] = 13215 (number)
+	[4000 (number)] = 1892 (number)
+	[7000 (number)] = 2790 (number)
+	[7002 (number)] = 11163 (number)
+	[1004 (number)] = 3829 (number)
+	[4004 (number)] = 5676 (number)
+
+	Damage taken history: Dictionary = table: 7ed140e9, count = 7
+	[2003 (number)] = 10342.466 (number)
+	[7001 (number)] = 7863 (number)
+	[6001 (number)] = 5242 (number)
+	[5001 (number)] = 4033 (number)
+	[5002 (number)] = 2457 (number)
+	[5003 (number)] = 5242 (number)
+	[2001 (number)] = 7957.109 (number)
+
+	Effect created history: Dictionary = table: 54a74ba0, count = 2
+	[31 (number)] = 12 (number)
+	[10 (number)] = 16 (number)
+
+	Stat changer debuff created history: Dictionary = table: 24f147d9, count = 1
+	[2 (number)] = 2076 (number)
+
+[Diadora 60010 (TEAM 1, BACK, POS 1)] DamageDeal = 65098, DamageTaken = 56518.395, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5b1d4acc, count = 3
+	[1 (number)] = 31485 (number)
+	[2 (number)] = 23858 (number)
+	[12 (number)] = 9755 (number)
+
+	Damage taken by sources: Dictionary = table: 2f3f9f4e, count = 3
+	[1 (number)] = 15122.5 (number)
+	[2 (number)] = 30305.895 (number)
+	[12 (number)] = 11090 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 412b3b42, count = 9
+	[6001 (number)] = 4757 (number)
+	[3003 (number)] = 7378 (number)
+	[5000 (number)] = 2378 (number)
+	[5003 (number)] = 4757 (number)
+	[2003 (number)] = 23858 (number)
+	[4000 (number)] = 2459 (number)
+	[7001 (number)] = 7136 (number)
+	[4003 (number)] = 7378 (number)
+	[1003 (number)] = 4997 (number)
+
+	Damage taken history: Dictionary = table: 6fca7331, count = 8
+	[2002 (number)] = 7957.109 (number)
+	[7000 (number)] = 3024.5 (number)
+	[2004 (number)] = 7957.109 (number)
+	[7002 (number)] = 12098 (number)
+	[6002 (number)] = 9073.5 (number)
+	[6003 (number)] = 2457 (number)
+	[5004 (number)] = 11934.677 (number)
+	[8000 (number)] = 2016.5 (number)
+
+	Effect created history: Dictionary = table: 5e301f2e, count = 3
+	[10 (number)] = 8 (number)
+	[31 (number)] = 6 (number)
+	[40 (number)] = 3 (number)
+
+	Stat changer debuff created history: Dictionary = table: da62e49, count = 1
+	[2 (number)] = 1038 (number)
+
+[Diadora 60010 (TEAM 1, FRONT, POS 1)] DamageDeal = 686, DamageTaken = 16023.109, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 154fe594, count = 1
+	[1 (number)] = 686 (number)
+
+	Damage taken by sources: Dictionary = table: 29205ff7, count = 2
+	[1 (number)] = 8066 (number)
+	[2 (number)] = 7957.109 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 77b7ec92, count = 1
+	[1005 (number)] = 686 (number)
+
+	Damage taken history: Dictionary = table: 4bdf404b, count = 3
+	[1002 (number)] = 4033 (number)
+	[2002 (number)] = 7957.109 (number)
+	[1004 (number)] = 4033 (number)
+
+
+<> WINNER: 2

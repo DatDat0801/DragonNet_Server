@@ -1,0 +1,1655 @@
+
+<> SEED = 846485533
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 68
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 5
+attack = 1018
+defense = 184
+hp = 20885/20885
+speed = 40
+critRate = 0.1
+critDamage = 1.5
+accuracy = 701
+dodge = 660
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 4036243b, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 33d9e350, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: f0fa663, type = 431, initiator = [Nun 50019 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2ed7296f, type = 403, initiator = [Nun 50019 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 5
+attack = 1018
+defense = 184
+hp = 20885/20885
+speed = 40
+critRate = 0.1
+critDamage = 1.5
+accuracy = 701
+dodge = 660
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 18847abc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 155d3f64, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6793af12, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 5c7968c6, type = 431, initiator = [Nun 50019 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 69e2826b, type = 403, initiator = [Nun 50019 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 5
+attack = 1018
+defense = 184
+hp = 20885/20885
+speed = 40
+critRate = 0.1
+critDamage = 1.5
+accuracy = 701
+dodge = 660
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 217558f8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 27be3a35, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 3096495c, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 3baf752e, type = 431, initiator = [Nun 50019 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 5dafe5ad, type = 403, initiator = [Nun 50019 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [Nun 50019 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [Nun 50019 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Nun 50019 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Nun 50019 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Nun 50019 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Nun 50019 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Nun 50019 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Nun 50019 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [Nun 50019 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [Nun 50019 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [Nun 50019 (TEAM 2, FRONT, POS 1)] (hp = 0.954), TAKE 959 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 18847abc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 217558f8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.954, power = 0.6
+- EFFECTS:
+id = table: 18847abc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 217558f8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.954), TAKE 959 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.954, power = 0.6
+- EFFECTS:
+id = table: 18847abc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 217558f8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.954, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.954, power = 1
+- EFFECTS:
+id = table: 18847abc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 217558f8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.908), TAKE 959 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.954, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.954, power = 1
+- EFFECTS:
+id = table: 18847abc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 217558f8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.908, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.954, power = 1
+- EFFECTS:
+id = table: 18847abc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 217558f8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [Nun 50019 (TEAM 2, FRONT, POS 1)] (hp = 0.885), TAKE 1445 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[>>> ACTIVE_SKILL <<<] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [Nun 50019 (TEAM 2, FRONT, POS 2)] (hp = 0.931), TAKE 1445 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[HEAL] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.937), HEAL 610 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.908, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.954, power = 1
+- EFFECTS:
+id = table: 18847abc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 217558f8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.937, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.885, power = 1
+- EFFECTS:
+id = table: 18847abc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.931, power = 1
+- EFFECTS:
+id = table: 217558f8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.868), TAKE 1445 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+[HEAL] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [Nun 50019 (TEAM 2, FRONT, POS 1)] (hp = 0.914), HEAL 610 hp, reason = 1
+
+
+[HEAL] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [Nun 50019 (TEAM 2, FRONT, POS 2)] (hp = 0.96), HEAL 610 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.937, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.885, power = 1
+- EFFECTS:
+id = table: 18847abc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.931, power = 1
+- EFFECTS:
+id = table: 217558f8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.868, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.914, power = 0
+- EFFECTS:
+id = table: 18847abc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.96, power = 1
+- EFFECTS:
+id = table: 217558f8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.799), TAKE 1445 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.18
+
+
+[HEAL] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [Nun 50019 (TEAM 2, FRONT, POS 1)] (hp = 0.943), HEAL 610 hp, reason = 1
+
+
+[HEAL] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [Nun 50019 (TEAM 2, FRONT, POS 2)] (hp = 0.989), HEAL 610 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.868, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.914, power = 0
+- EFFECTS:
+id = table: 18847abc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.96, power = 1
+- EFFECTS:
+id = table: 217558f8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.799, power = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.943, power = 0
+- EFFECTS:
+id = table: 18847abc, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.989, power = 0
+- EFFECTS:
+id = table: 217558f8, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Nun 50019 (TEAM 2, FRONT, POS 1)] (hp = 0.943), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Nun 50019 (TEAM 2, FRONT, POS 2)] (hp = 0.989), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [Nun 50019 (TEAM 2, FRONT, POS 1)] (hp = 0.897), TAKE 959 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.799, power = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.943, power = 0
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.989, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.799, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.897, power = 0.1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.989, power = 0
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.753), TAKE 959 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.799, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.897, power = 0.1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.989, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.753, power = 0.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.897, power = 0.6
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.989, power = 0
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.707), TAKE 959 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.753, power = 0.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.897, power = 0.6
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.989, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.707, power = 0.9
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.897, power = 0.6
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.989, power = 0.5
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [Nun 50019 (TEAM 2, FRONT, POS 1)] (hp = 0.851), TAKE 959 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.5
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.707, power = 0.9
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.897, power = 0.6
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.989, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.707, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.851, power = 0.7
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.989, power = 0.5
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.661), TAKE 959 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.6
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.707, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.851, power = 0.7
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.989, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.661, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.851, power = 1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.989, power = 0.5
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.615), TAKE 959 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.661, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.851, power = 1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.989, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.615, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.851, power = 1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.989, power = 1
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [Nun 50019 (TEAM 2, FRONT, POS 1)] (hp = 0.782), TAKE 1445 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+[>>> ACTIVE_SKILL <<<] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [Nun 50019 (TEAM 2, FRONT, POS 2)] (hp = 0.92), TAKE 1445 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.74
+
+
+[HEAL] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.645), HEAL 610 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.615, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.851, power = 1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.989, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.645, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.782, power = 1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.92, power = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.575), TAKE 1445 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[HEAL] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [Nun 50019 (TEAM 2, FRONT, POS 1)] (hp = 0.811), HEAL 610 hp, reason = 1
+
+
+[HEAL] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [Nun 50019 (TEAM 2, FRONT, POS 2)] (hp = 0.949), HEAL 610 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.645, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.782, power = 1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.92, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.575, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.811, power = 0
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.506), TAKE 1445 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.575, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.811, power = 0
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.506, power = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.811, power = 0
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 0
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [Nun 50019 (TEAM 2, FRONT, POS 1)] (hp = 0.766), TAKE 959 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.6
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.76
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.506, power = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.811, power = 0
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.506, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.766, power = 0.1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 0
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.46), TAKE 959 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.62
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.506, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.766, power = 0.1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.46, power = 0.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.766, power = 0.6
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 0
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.414), TAKE 959 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.96
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.64
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.46, power = 0.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.766, power = 0.6
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.414, power = 0.9
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.766, power = 0.6
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 0.5
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [Nun 50019 (TEAM 2, FRONT, POS 1)] (hp = 0.697), TAKE 1439 damage, initiatorPower = 1, targetPower = 0.7 (CRIT)
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.74
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.414, power = 0.9
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.766, power = 0.6
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.414, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.697, power = 0.7
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 0.5
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.368), TAKE 959 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.76
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.414, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.697, power = 0.7
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.368, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.697, power = 1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 0.5
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.258), TAKE 2315 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.258), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.368, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.697, power = 1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.258, power = 1
+- EFFECTS:
+id = table: 190f7d7b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.697, power = 1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 0.5
+
+
+TURN 4 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.189), TAKE 1439 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.258, power = 1
+- EFFECTS:
+id = table: 190f7d7b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.697, power = 1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.189, power = 1
+- EFFECTS:
+id = table: 190f7d7b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.697, power = 1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 1
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.119), TAKE 1445 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.189, power = 1
+- EFFECTS:
+id = table: 190f7d7b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.697, power = 1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.119, power = 1
+- EFFECTS:
+id = table: 190f7d7b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.697, power = 0
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 1
+
+
+TURN 2 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.05), TAKE 1445 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.84
+
+
+[HEAL] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [Nun 50019 (TEAM 2, FRONT, POS 1)] (hp = 0.726), HEAL 610 hp, reason = 1
+
+
+[HEAL] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [Nun 50019 (TEAM 2, FRONT, POS 2)] (hp = 0.978), HEAL 610 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.119, power = 1
+- EFFECTS:
+id = table: 190f7d7b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.697, power = 0
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.949, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.05, power = 1
+- EFFECTS:
+id = table: 190f7d7b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.726, power = 0
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.978, power = 0
+
+
+TURN 3 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [Nun 50019 (TEAM 2, FRONT, POS 1)] (hp = 0.657), TAKE 1445 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[>>> ACTIVE_SKILL <<<] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [Nun 50019 (TEAM 2, FRONT, POS 2)] (hp = 0.909), TAKE 1445 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.05, power = 1
+- EFFECTS:
+id = table: 190f7d7b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.726, power = 0
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.978, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.05, power = 0
+- EFFECTS:
+id = table: 190f7d7b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.657, power = 0.1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0.1
+
+
+ROUND 9
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0.004), TAKE 959 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.86
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.05, power = 0
+- EFFECTS:
+id = table: 190f7d7b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.657, power = 0.1
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.004, power = 0.1
+- EFFECTS:
+id = table: 190f7d7b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.657, power = 0.6
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0.1
+
+
+TURN 2 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nun 50019 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 959 damage, initiatorPower = 0.6, targetPower = 0
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[CHANGE_POWER] [Nun 50019 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.88
+
+
+[DEAD_FOR_DISPLAY] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Nun 50019 (TEAM 2, FRONT, POS 2)] => [Nun 50019 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0.004, power = 0.1
+- EFFECTS:
+id = table: 190f7d7b, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.657, power = 0.6
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.657, power = 0.6
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0.6
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Nun 50019 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Nun 50019 (TEAM 2, FRONT, POS 1)] hp = 0.657, power = 0.6
+
+> [Nun 50019 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0.6
+
+<> STATISTICS:
+[Nun 50019 (TEAM 2, FRONT, POS 2)] DamageDeal = 10569, DamageTaken = 4602.378, HpHeal = 2440, HpHealTaken = 2440
+	Damage dealt by sources: Dictionary = table: 4f3683fd, count = 2
+	[1 (number)] = 6234 (number)
+	[2 (number)] = 4335 (number)
+
+	Damage taken by sources: Dictionary = table: 4de8ffee, count = 1
+	[2 (number)] = 4602.378 (number)
+
+	Hp heal by sources: Dictionary = table: daef578, count = 1
+	[1 (number)] = 2440 (number)
+
+	Hp heal taken by sources: Dictionary = table: 6f28b513, count = 1
+	[1 (number)] = 2440 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 14fafa60, count = 9
+	[9002 (number)] = 959 (number)
+	[6003 (number)] = 959 (number)
+	[3003 (number)] = 959 (number)
+	[8002 (number)] = 1445 (number)
+	[5003 (number)] = 1445 (number)
+	[2003 (number)] = 1445 (number)
+	[4003 (number)] = 959 (number)
+	[1003 (number)] = 959 (number)
+	[7004 (number)] = 1439 (number)
+
+	Damage taken history: Dictionary = table: 1ee7709e, count = 3
+	[5001 (number)] = 1534.126 (number)
+	[2001 (number)] = 1534.126 (number)
+	[8003 (number)] = 1534.126 (number)
+
+	Hp heal history: Dictionary = table: 6498530f, count = 2
+	[2003 (number)] = 1220 (number)
+	[8002 (number)] = 1220 (number)
+
+	Hp heal taken history: Dictionary = table: 4e32e2a2, count = 4
+	[2002 (number)] = 610 (number)
+	[5002 (number)] = 610 (number)
+	[8002 (number)] = 610 (number)
+	[2003 (number)] = 610 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+[SummonerMage (TEAM 2)] DamageDeal = 2315, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: d5828fe, count = 1
+	[2 (number)] = 2315 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 289eda4b, count = 1
+	[7003 (number)] = 2315 (number)
+
+	Effect created history: Dictionary = table: eb8f47c, count = 1
+	[501 (number)] = 4 (number)
+
+	Stat changer debuff created history: Dictionary = table: 57c620fb, count = 1
+	[4 (number)] = 60 (number)
+
+[Nun 50019 (TEAM 1, FRONT, POS 1)] DamageDeal = 13945, DamageTaken = 24386.756, HpHeal = 1220, HpHealTaken = 1220
+	Damage dealt by sources: Dictionary = table: 1b95ed25, count = 2
+	[1 (number)] = 5275 (number)
+	[2 (number)] = 8670 (number)
+
+	Damage taken by sources: Dictionary = table: 4507209e, count = 2
+	[1 (number)] = 12725 (number)
+	[2 (number)] = 11661.756 (number)
+
+	Hp heal by sources: Dictionary = table: cd53756, count = 1
+	[1 (number)] = 1220 (number)
+
+	Hp heal taken by sources: Dictionary = table: 6a720fcf, count = 1
+	[1 (number)] = 1220 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 5e3a3b61, count = 8
+	[1001 (number)] = 959 (number)
+	[7001 (number)] = 1439 (number)
+	[6001 (number)] = 959 (number)
+	[8003 (number)] = 2890 (number)
+	[5001 (number)] = 2890 (number)
+	[4001 (number)] = 959 (number)
+	[3001 (number)] = 959 (number)
+	[2001 (number)] = 2890 (number)
+
+	Damage taken history: Dictionary = table: 22c5f3e8, count = 19
+	[4002 (number)] = 1018 (number)
+	[8001 (number)] = 1534.126 (number)
+	[4003 (number)] = 1018 (number)
+	[8002 (number)] = 1534.126 (number)
+	[1002 (number)] = 1018 (number)
+	[1003 (number)] = 1018 (number)
+	[5002 (number)] = 1534.126 (number)
+	[9001 (number)] = 1018 (number)
+	[5003 (number)] = 1534.126 (number)
+	[9002 (number)] = 1018 (number)
+	[2002 (number)] = 1534.126 (number)
+	[2003 (number)] = 1534.126 (number)
+	[6002 (number)] = 1018 (number)
+	[6003 (number)] = 1018 (number)
+	[3002 (number)] = 1018 (number)
+	[7002 (number)] = 1018 (number)
+	[3003 (number)] = 1018 (number)
+	[7003 (number)] = 2457 (number)
+	[7004 (number)] = 1527 (number)
+
+	Hp heal history: Dictionary = table: 70f1f61, count = 2
+	[2001 (number)] = 610 (number)
+	[5001 (number)] = 610 (number)
+
+	Hp heal taken history: Dictionary = table: 7df97438, count = 2
+	[2001 (number)] = 610 (number)
+	[5001 (number)] = 610 (number)
+
+[Nun 50019 (TEAM 2, FRONT, POS 1)] DamageDeal = 10089, DamageTaken = 10201.378, HpHeal = 2440, HpHealTaken = 2440
+	Damage dealt by sources: Dictionary = table: 7217a9d5, count = 2
+	[1 (number)] = 5754 (number)
+	[2 (number)] = 4335 (number)
+
+	Damage taken by sources: Dictionary = table: 7f404ecc, count = 2
+	[1 (number)] = 5599 (number)
+	[2 (number)] = 4602.378 (number)
+
+	Hp heal by sources: Dictionary = table: 4ba252, count = 1
+	[1 (number)] = 2440 (number)
+
+	Hp heal taken by sources: Dictionary = table: 36a55ed7, count = 1
+	[1 (number)] = 2440 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 793300d7, count = 9
+	[9001 (number)] = 959 (number)
+	[3002 (number)] = 959 (number)
+	[6002 (number)] = 959 (number)
+	[8001 (number)] = 1445 (number)
+	[5002 (number)] = 1445 (number)
+	[2002 (number)] = 1445 (number)
+	[4002 (number)] = 959 (number)
+	[7002 (number)] = 959 (number)
+	[1002 (number)] = 959 (number)
+
+	Damage taken history: Dictionary = table: 4780713, count = 8
+	[1001 (number)] = 1018 (number)
+	[7001 (number)] = 1527 (number)
+	[6001 (number)] = 1018 (number)
+	[8003 (number)] = 1534.126 (number)
+	[5001 (number)] = 1534.126 (number)
+	[4001 (number)] = 1018 (number)
+	[3001 (number)] = 1018 (number)
+	[2001 (number)] = 1534.126 (number)
+
+	Hp heal history: Dictionary = table: 59fc7cfc, count = 2
+	[2002 (number)] = 1220 (number)
+	[5002 (number)] = 1220 (number)
+
+	Hp heal taken history: Dictionary = table: 45b3c2f2, count = 4
+	[2002 (number)] = 610 (number)
+	[5002 (number)] = 610 (number)
+	[8002 (number)] = 610 (number)
+	[2003 (number)] = 610 (number)
+
+
+<> WINNER: 2

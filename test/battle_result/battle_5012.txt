@@ -1,0 +1,3377 @@
+
+<> SEED = 340611964
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 89
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: 5 same faction (id = 6)
+<> DEFENDER COMPANION BUFF: 5 same faction (id = 6)
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerRanger (TEAM 1)]
+star = 8
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 5
+faction = 7
+attack = 4400
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1369
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+
+
+> [SummonerRanger (TEAM 2)]
+star = 8
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 5
+faction = 7
+attack = 4400
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1369
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)]
+star = 8
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 5
+faction = 7
+attack = 4400
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1369
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)]
+star = 1
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 1
+attack = 598
+defense = 85
+hp = 9343/9343
+speed = 32
+critRate = 0.1
+critDamage = 1.5
+accuracy = 805
+dodge = 805
+pureDamage = 0.1
+skillDamage = 0
+armorBreak = 0.15
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 7d2c6f30, type = 432, initiator = [SummonerRanger (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 67f96b2a, type = 430, initiator = [SummonerRanger (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- COMPANION EFFECTS:
+id = table: 5a280ceb, type = 401, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 1b51997a, type = 403, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 68739681, type = 402, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 447a2611, type = 403, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)]
+star = 1
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 1
+attack = 437
+defense = 52
+hp = 5389/5389
+speed = 32
+critRate = 0.1
+critDamage = 1.5
+accuracy = 805
+dodge = 805
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0
+power = 50/100
+
+- COMPANION EFFECTS:
+id = table: 447f3e7, type = 401, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 1a8c59b0, type = 403, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 3680c1f0, type = 402, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 70f4b4e6, type = 403, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)]
+star = 1
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 1
+attack = 302
+defense = 41
+hp = 6081/6081
+speed = 25
+critRate = 0.1
+critDamage = 1.5
+accuracy = 652
+dodge = 632
+pureDamage = 0
+skillDamage = 0.2
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0.5
+damageReduction = 0
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 43b4d08f, type = 440, initiator = [SummonerRanger (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+- COMPANION EFFECTS:
+id = table: 58e50f1e, type = 401, initiator = [Oceanee 10013 (TEAM 1, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 20dc9c6b, type = 403, initiator = [Oceanee 10013 (TEAM 1, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 10e356c1, type = 402, initiator = [Oceanee 10013 (TEAM 1, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 63860042, type = 403, initiator = [Oceanee 10013 (TEAM 1, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)]
+star = 1
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 1
+attack = 175
+defense = 20
+hp = 1740/1740
+speed = 20
+critRate = 0.1
+critDamage = 1.5
+accuracy = 550
+dodge = 495
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0.5
+damageReduction = 0
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 66df2548, type = 440, initiator = [SummonerRanger (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+- COMPANION EFFECTS:
+id = table: 77a247dc, type = 401, initiator = [IceMaster 10014 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 7d7d52b7, type = 403, initiator = [IceMaster 10014 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 18a8c53f, type = 402, initiator = [IceMaster 10014 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 3359ba18, type = 401, initiator = [IceMaster 10014 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)]
+star = 1
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 1
+attack = 440
+defense = 51
+hp = 4607/4607
+speed = 27
+critRate = 0.1
+critDamage = 1.5
+accuracy = 666
+dodge = 666
+pureDamage = 0.1
+skillDamage = 0
+armorBreak = 0.15
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 666e5e22, type = 432, initiator = [SummonerRanger (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 3a6d9526, type = 430, initiator = [SummonerRanger (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- COMPANION EFFECTS:
+id = table: 14d900c1, type = 401, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 4a86be58, type = 403, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 55ec3725, type = 402, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 3a612e8, type = 401, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)]
+star = 8
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 5
+faction = 7
+attack = 4400
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1369
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)]
+star = 1
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 1
+attack = 598
+defense = 85
+hp = 9343/9343
+speed = 32
+critRate = 0.1
+critDamage = 1.5
+accuracy = 805
+dodge = 805
+pureDamage = 0.1
+skillDamage = 0
+armorBreak = 0.15
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 42cbba7b, type = 432, initiator = [SummonerRanger (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: dd5e17b, type = 430, initiator = [SummonerRanger (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- COMPANION EFFECTS:
+id = table: 7187cacb, type = 401, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 658c0597, type = 403, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 331e68a5, type = 402, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 45e6984d, type = 403, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)]
+star = 1
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 1
+attack = 437
+defense = 52
+hp = 5389/5389
+speed = 32
+critRate = 0.1
+critDamage = 1.5
+accuracy = 805
+dodge = 805
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0
+power = 50/100
+
+- COMPANION EFFECTS:
+id = table: 48ebe700, type = 401, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 576c8404, type = 403, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 751069ab, type = 402, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 870fdeb, type = 403, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)]
+star = 1
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 1
+attack = 302
+defense = 41
+hp = 6081/6081
+speed = 25
+critRate = 0.1
+critDamage = 1.5
+accuracy = 652
+dodge = 632
+pureDamage = 0
+skillDamage = 0.2
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0.5
+damageReduction = 0
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 5002fe85, type = 440, initiator = [SummonerRanger (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+- COMPANION EFFECTS:
+id = table: 6d4476e0, type = 401, initiator = [Oceanee 10013 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 5e3b83e8, type = 403, initiator = [Oceanee 10013 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 2810f4b5, type = 402, initiator = [Oceanee 10013 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 7a004d47, type = 403, initiator = [Oceanee 10013 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)]
+star = 1
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 1
+attack = 175
+defense = 20
+hp = 1740/1740
+speed = 20
+critRate = 0.1
+critDamage = 1.5
+accuracy = 550
+dodge = 495
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0.5
+damageReduction = 0
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 116099ca, type = 440, initiator = [SummonerRanger (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.5, changerType = 3, multiplier = 1
+- COMPANION EFFECTS:
+id = table: 1c1985ff, type = 401, initiator = [IceMaster 10014 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 33836f95, type = 403, initiator = [IceMaster 10014 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 74b249b6, type = 402, initiator = [IceMaster 10014 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 1e3f6113, type = 401, initiator = [IceMaster 10014 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)]
+star = 1
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 1
+attack = 440
+defense = 51
+hp = 4607/4607
+speed = 27
+critRate = 0.1
+critDamage = 1.5
+accuracy = 666
+dodge = 666
+pureDamage = 0.1
+skillDamage = 0
+armorBreak = 0.15
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 6d817b43, type = 432, initiator = [SummonerRanger (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: b366735, type = 430, initiator = [SummonerRanger (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- COMPANION EFFECTS:
+id = table: 6951f006, type = 401, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: fc8eb63, type = 403, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 1a739d99, type = 402, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 4186d064, type = 401, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Assassiren 10012 (TEAM 1, FRONT, POS 2)] => [Assassiren 10012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Assassiren 10012 (TEAM 1, FRONT, POS 2)] => [Assassiren 10012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Assassiren 10012 (TEAM 1, FRONT, POS 2)] => [Assassiren 10012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Assassiren 10012 (TEAM 1, FRONT, POS 2)] => [Assassiren 10012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Oceanee 10013 (TEAM 1, FRONT, POS 3)] => [Oceanee 10013 (TEAM 1, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Oceanee 10013 (TEAM 1, FRONT, POS 3)] => [Oceanee 10013 (TEAM 1, FRONT, POS 3)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Oceanee 10013 (TEAM 1, FRONT, POS 3)] => [Oceanee 10013 (TEAM 1, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Oceanee 10013 (TEAM 1, FRONT, POS 3)] => [Oceanee 10013 (TEAM 1, FRONT, POS 3)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [IceMaster 10014 (TEAM 1, BACK, POS 1)] => [IceMaster 10014 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [IceMaster 10014 (TEAM 1, BACK, POS 1)] => [IceMaster 10014 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [IceMaster 10014 (TEAM 1, BACK, POS 1)] => [IceMaster 10014 (TEAM 1, BACK, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [IceMaster 10014 (TEAM 1, BACK, POS 1)] => [IceMaster 10014 (TEAM 1, BACK, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 1, BACK, POS 2)] => [Aesa 10015 (TEAM 1, BACK, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 1, BACK, POS 2)] => [Aesa 10015 (TEAM 1, BACK, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 1, BACK, POS 2)] => [Aesa 10015 (TEAM 1, BACK, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 1, BACK, POS 2)] => [Aesa 10015 (TEAM 1, BACK, POS 2)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Assassiren 10012 (TEAM 2, FRONT, POS 2)] => [Assassiren 10012 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Assassiren 10012 (TEAM 2, FRONT, POS 2)] => [Assassiren 10012 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Assassiren 10012 (TEAM 2, FRONT, POS 2)] => [Assassiren 10012 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Assassiren 10012 (TEAM 2, FRONT, POS 2)] => [Assassiren 10012 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Oceanee 10013 (TEAM 2, FRONT, POS 3)] => [Oceanee 10013 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Oceanee 10013 (TEAM 2, FRONT, POS 3)] => [Oceanee 10013 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Oceanee 10013 (TEAM 2, FRONT, POS 3)] => [Oceanee 10013 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Oceanee 10013 (TEAM 2, FRONT, POS 3)] => [Oceanee 10013 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [IceMaster 10014 (TEAM 2, BACK, POS 1)] => [IceMaster 10014 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [IceMaster 10014 (TEAM 2, BACK, POS 1)] => [IceMaster 10014 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [IceMaster 10014 (TEAM 2, BACK, POS 1)] => [IceMaster 10014 (TEAM 2, BACK, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [IceMaster 10014 (TEAM 2, BACK, POS 1)] => [IceMaster 10014 (TEAM 2, BACK, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, BACK, POS 2)] => [Aesa 10015 (TEAM 2, BACK, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, BACK, POS 2)] => [Aesa 10015 (TEAM 2, BACK, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, BACK, POS 2)] => [Aesa 10015 (TEAM 2, BACK, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, BACK, POS 2)] => [Aesa 10015 (TEAM 2, BACK, POS 2)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerRanger (TEAM 1)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 432, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerRanger (TEAM 1)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerRanger (TEAM 1)] => [Aesa 10015 (TEAM 1, BACK, POS 2)] (hp = 1), type = 432, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerRanger (TEAM 1)] => [Aesa 10015 (TEAM 1, BACK, POS 2)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerRanger (TEAM 1)] => [Oceanee 10013 (TEAM 1, FRONT, POS 3)] (hp = 1), type = 440, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerRanger (TEAM 1)] => [IceMaster 10014 (TEAM 1, BACK, POS 1)] (hp = 1), type = 440, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerRanger (TEAM 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 432, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerRanger (TEAM 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerRanger (TEAM 2)] => [Aesa 10015 (TEAM 2, BACK, POS 2)] (hp = 1), type = 432, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerRanger (TEAM 2)] => [Aesa 10015 (TEAM 2, BACK, POS 2)] (hp = 1), type = 430, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerRanger (TEAM 2)] => [Oceanee 10013 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 440, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerRanger (TEAM 2)] => [IceMaster 10014 (TEAM 2, BACK, POS 1)] (hp = 1), type = 440, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 0.93), TAKE 652 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.1
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.02
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.93, power = 0.6
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 0.93), TAKE 652 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.1
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.02
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.93, power = 0.6
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.12
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.93, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.12
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.93, power = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Assassiren 10012 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Assassiren 10012 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 0.884), TAKE 433 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Assassiren 10012 (TEAM 1, FRONT, POS 2)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.12
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.93, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.12
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.93, power = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.22
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.93, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.14
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.884, power = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Assassiren 10012 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Assassiren 10012 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 0.884), TAKE 433 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Assassiren 10012 (TEAM 2, FRONT, POS 2)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.24
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.22
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.93, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.14
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.884, power = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.24
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.884, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.24
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.884, power = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+
+
+TURN 5 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 1, BACK, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 1, BACK, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 0.858) (GLANCING), TAKE 240 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, BACK, POS 2)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.34
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.26
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.24
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.884, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.24
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.884, power = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.34
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.884, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.26
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.858, power = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+
+
+TURN 6 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, BACK, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Aesa 10015 (TEAM 2, BACK, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 0.832), TAKE 480 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, BACK, POS 2)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.36
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.34
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.884, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.26
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.858, power = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.36
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.832, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.36
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.858, power = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+
+
+TURN 7 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Oceanee 10013 (TEAM 1, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Oceanee 10013 (TEAM 1, FRONT, POS 3)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 0.826), TAKE 299 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Oceanee 10013 (TEAM 1, FRONT, POS 3)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.38
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.36
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.832, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.36
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.858, power = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.46
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.832, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.38
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.826, power = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+
+
+TURN 8 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Oceanee 10013 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Oceanee 10013 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 0.817) (GLANCING), TAKE 149 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Oceanee 10013 (TEAM 2, FRONT, POS 3)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.48
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.46
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.832, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.38
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.826, power = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.48
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.817, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.48
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.826, power = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+
+
+TURN 9 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [IceMaster 10014 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [IceMaster 10014 (TEAM 1, BACK, POS 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 0.808), TAKE 173 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [IceMaster 10014 (TEAM 1, BACK, POS 1)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.58
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.5
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.48
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.817, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.48
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.826, power = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.58
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.817, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.5
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.808, power = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+
+
+TURN 10 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [IceMaster 10014 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [IceMaster 10014 (TEAM 2, BACK, POS 1)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 0.807) (GLANCING), TAKE 86 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [IceMaster 10014 (TEAM 2, BACK, POS 1)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.6
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.6
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.58
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.817, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.5
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.808, power = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.6
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.807, power = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.6
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.808, power = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 2 ----------
+
+[ADD_EFFECT] [SummonerRanger (TEAM 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 0.808), type = 441, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerRanger (TEAM 1)] => [Assassiren 10012 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerRanger (TEAM 1)] => [Oceanee 10013 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 441, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerRanger (TEAM 1)] => [IceMaster 10014 (TEAM 2, BACK, POS 1)] (hp = 1), type = 441, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerRanger (TEAM 1)] => [Aesa 10015 (TEAM 2, BACK, POS 2)] (hp = 1), type = 441, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerRanger (TEAM 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 0.807), type = 441, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerRanger (TEAM 2)] => [Assassiren 10012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerRanger (TEAM 2)] => [Oceanee 10013 (TEAM 1, FRONT, POS 3)] (hp = 1), type = 441, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerRanger (TEAM 2)] => [IceMaster 10014 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerRanger (TEAM 2)] => [Aesa 10015 (TEAM 1, BACK, POS 2)] (hp = 1), type = 441, persistentType = 52, isBuff = false
+
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [IceMaster 10014 (TEAM 2, BACK, POS 1)] (hp = 0.345), TAKE 1139 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [IceMaster 10014 (TEAM 2, BACK, POS 1)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.62
+
+
+[>>> ACTIVE_SKILL <<<] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [Aesa 10015 (TEAM 2, BACK, POS 2)] (hp = 0.753), TAKE 1136 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, BACK, POS 2)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.64
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.6
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.807, power = 1
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.6
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.808, power = 1
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 16d48dd3, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.6
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.807, power = 0
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.64
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.808, power = 1
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0.345, power = 1
+- EFFECTS:
+id = table: 16d48dd3, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.753, power = 1
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [IceMaster 10014 (TEAM 1, BACK, POS 1)] (hp = 0.345), TAKE 1139 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [IceMaster 10014 (TEAM 1, BACK, POS 1)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.62
+
+
+[>>> ACTIVE_SKILL <<<] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [Aesa 10015 (TEAM 1, BACK, POS 2)] (hp = 0.636), TAKE 1675 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, BACK, POS 2)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.64
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.6
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.807, power = 0
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.64
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.808, power = 1
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0.345, power = 1
+- EFFECTS:
+id = table: 16d48dd3, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.753, power = 1
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.64
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.807, power = 0
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.345, power = 1
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.636, power = 1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.64
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.808, power = 0
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0.345, power = 1
+- EFFECTS:
+id = table: 16d48dd3, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.753, power = 1
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Assassiren 10012 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Assassiren 10012 (TEAM 1, FRONT, POS 2)] => [Oceanee 10013 (TEAM 2, FRONT, POS 3)] (hp = 0.914), TAKE 522 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Oceanee 10013 (TEAM 2, FRONT, POS 3)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.66
+
+
+[ADD_EFFECT] [Assassiren 10012 (TEAM 1, FRONT, POS 2)] => [Oceanee 10013 (TEAM 2, FRONT, POS 3)] (hp = 0.914), type = 113, persistentType = 1, isBuff = false
+
+
+[DROWNING_MARK] [Assassiren 10012 (TEAM 1, FRONT, POS 2)] => [Oceanee 10013 (TEAM 2, FRONT, POS 3)] (hp = 0.914), remainingRound = 13, changeType = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.64
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.807, power = 0
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.345, power = 1
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.636, power = 1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.64
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.808, power = 0
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0.345, power = 1
+- EFFECTS:
+id = table: 16d48dd3, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.753, power = 1
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.64
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.807, power = 0
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.345, power = 1
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.636, power = 1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.66
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.808, power = 0
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.914, power = 1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0.345, power = 1
+- EFFECTS:
+id = table: 16d48dd3, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.753, power = 1
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Assassiren 10012 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Assassiren 10012 (TEAM 2, FRONT, POS 2)] => [Oceanee 10013 (TEAM 1, FRONT, POS 3)] (hp = 0.914), TAKE 522 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Oceanee 10013 (TEAM 1, FRONT, POS 3)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.66
+
+
+[ADD_EFFECT] [Assassiren 10012 (TEAM 2, FRONT, POS 2)] => [Oceanee 10013 (TEAM 1, FRONT, POS 3)] (hp = 0.914), type = 113, persistentType = 1, isBuff = false
+
+
+[DROWNING_MARK] [Assassiren 10012 (TEAM 2, FRONT, POS 2)] => [Oceanee 10013 (TEAM 1, FRONT, POS 3)] (hp = 0.914), remainingRound = 13, changeType = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.64
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.807, power = 0
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.345, power = 1
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.636, power = 1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.66
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.808, power = 0
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.914, power = 1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0.345, power = 1
+- EFFECTS:
+id = table: 16d48dd3, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.753, power = 1
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.66
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.807, power = 0
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.914, power = 1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.345, power = 1
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.636, power = 1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.66
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.808, power = 0
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.914, power = 1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0.345, power = 1
+- EFFECTS:
+id = table: 16d48dd3, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.753, power = 1
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 1, BACK, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 1, BACK, POS 2)] => [IceMaster 10014 (TEAM 2, BACK, POS 1)] (hp = 0.068), TAKE 483 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [IceMaster 10014 (TEAM 2, BACK, POS 1)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.68
+
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 1, BACK, POS 2)] => [Aesa 10015 (TEAM 2, BACK, POS 2)] (hp = 0.601), TAKE 701 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, BACK, POS 2)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.7
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 1, BACK, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 0.807), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 1, BACK, POS 2)] => [Assassiren 10012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 1, BACK, POS 2)] => [Oceanee 10013 (TEAM 1, FRONT, POS 3)] (hp = 0.914), type = 420, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.66
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.807, power = 0
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.914, power = 1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.345, power = 1
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.636, power = 1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.66
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.808, power = 0
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.914, power = 1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0.345, power = 1
+- EFFECTS:
+id = table: 16d48dd3, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.753, power = 1
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.66
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.807, power = 0
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.914, power = 1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.345, power = 1
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.636, power = 0
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.7
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.808, power = 0
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.914, power = 1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0.068, power = 1
+- EFFECTS:
+id = table: 16d48dd3, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.601, power = 1
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 6 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Aesa 10015 (TEAM 2, BACK, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 2, BACK, POS 2)] => [IceMaster 10014 (TEAM 1, BACK, POS 1)] (hp = 0.068), TAKE 483 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [IceMaster 10014 (TEAM 1, BACK, POS 1)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.68
+
+
+[>>> ACTIVE_SKILL <<<] [Aesa 10015 (TEAM 2, BACK, POS 2)] => [Aesa 10015 (TEAM 1, BACK, POS 2)] (hp = 0.532), TAKE 482 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 1, BACK, POS 2)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.7
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, BACK, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 0.808), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, BACK, POS 2)] => [Assassiren 10012 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 420, persistentType = 1, isBuff = true
+
+
+[ADD_EFFECT] [Aesa 10015 (TEAM 2, BACK, POS 2)] => [Oceanee 10013 (TEAM 2, FRONT, POS 3)] (hp = 0.914), type = 420, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.66
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.807, power = 0
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.914, power = 1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.345, power = 1
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.636, power = 0
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.7
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.808, power = 0
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.914, power = 1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0.068, power = 1
+- EFFECTS:
+id = table: 16d48dd3, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.601, power = 1
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.7
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.807, power = 0
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.914, power = 1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.068, power = 1
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.532, power = 0.1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.7
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.808, power = 0
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 34c9ce52, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1fdcbcba, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.914, power = 1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+id = table: 229bc740, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0.068, power = 1
+- EFFECTS:
+id = table: 16d48dd3, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.601, power = 0
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 7 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Oceanee 10013 (TEAM 1, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Oceanee 10013 (TEAM 1, FRONT, POS 3)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 0.762), TAKE 424 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.72
+
+
+[>>> ACTIVE_SKILL <<<] [Oceanee 10013 (TEAM 1, FRONT, POS 3)] => [IceMaster 10014 (TEAM 2, BACK, POS 1)] (hp = 0), TAKE 426 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [IceMaster 10014 (TEAM 2, BACK, POS 1)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.74
+
+
+[DEAD_FOR_DISPLAY] [Oceanee 10013 (TEAM 1, FRONT, POS 3)] => [IceMaster 10014 (TEAM 2, BACK, POS 1)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [Oceanee 10013 (TEAM 1, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, BACK, POS 2)] (hp = 0.509), TAKE 425 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, BACK, POS 2)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.76
+
+
+[HEAL] [Oceanee 10013 (TEAM 1, FRONT, POS 3)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 0.833), HEAL 241 hp, reason = 1
+
+
+[HEAL] [Oceanee 10013 (TEAM 1, FRONT, POS 3)] => [IceMaster 10014 (TEAM 1, BACK, POS 1)] (hp = 0.206), HEAL 241 hp, reason = 1
+
+
+[HEAL] [Oceanee 10013 (TEAM 1, FRONT, POS 3)] => [Aesa 10015 (TEAM 1, BACK, POS 2)] (hp = 0.584), HEAL 241 hp, reason = 1
+
+
+[DEAD] [Oceanee 10013 (TEAM 1, FRONT, POS 3)] => [IceMaster 10014 (TEAM 2, BACK, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.7
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.807, power = 0
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.914, power = 1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.068, power = 1
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.532, power = 0.1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.7
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.808, power = 0
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 34c9ce52, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1fdcbcba, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.914, power = 1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+id = table: 229bc740, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0.068, power = 1
+- EFFECTS:
+id = table: 16d48dd3, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.601, power = 0
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.7
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.833, power = 0
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.914, power = 0
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 1
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.584, power = 0.1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.76
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.762, power = 0.1
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 34c9ce52, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1fdcbcba, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.914, power = 1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+id = table: 229bc740, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.509, power = 0.1
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 8 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Oceanee 10013 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Oceanee 10013 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 0.788), TAKE 424 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.72
+
+
+[>>> ACTIVE_SKILL <<<] [Oceanee 10013 (TEAM 2, FRONT, POS 3)] => [Assassiren 10012 (TEAM 1, FRONT, POS 2)] (hp = 0.921), TAKE 425 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Assassiren 10012 (TEAM 1, FRONT, POS 2)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.74
+
+
+[>>> ACTIVE_SKILL <<<] [Oceanee 10013 (TEAM 2, FRONT, POS 3)] => [Oceanee 10013 (TEAM 1, FRONT, POS 3)] (hp = 0.844), TAKE 425 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Oceanee 10013 (TEAM 1, FRONT, POS 3)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.76
+
+
+[HEAL] [Oceanee 10013 (TEAM 2, FRONT, POS 3)] => [Assassiren 10012 (TEAM 2, FRONT, POS 2)] (hp = 1), HEAL 241 hp, reason = 1
+
+
+[HEAL] [Oceanee 10013 (TEAM 2, FRONT, POS 3)] => [Oceanee 10013 (TEAM 2, FRONT, POS 3)] (hp = 0.954), HEAL 241 hp, reason = 1
+
+
+[HEAL] [Oceanee 10013 (TEAM 2, FRONT, POS 3)] => [Aesa 10015 (TEAM 2, BACK, POS 2)] (hp = 0.561), HEAL 241 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.7
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.833, power = 0
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.914, power = 0
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 1
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.584, power = 0.1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.76
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.762, power = 0.1
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 34c9ce52, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1fdcbcba, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.914, power = 1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+id = table: 229bc740, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.509, power = 0.1
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.76
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.788, power = 0.1
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 0.921, power = 0.1
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.844, power = 0.1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 1
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.584, power = 0.1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.76
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.762, power = 0.1
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 34c9ce52, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1fdcbcba, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.954, power = 0
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+id = table: 229bc740, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.561, power = 0.1
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 9 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [IceMaster 10014 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [IceMaster 10014 (TEAM 1, BACK, POS 1)] => [Assassiren 10012 (TEAM 2, FRONT, POS 2)] (hp = 0.966), TAKE 181 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Assassiren 10012 (TEAM 2, FRONT, POS 2)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.78
+
+
+[>>> ACTIVE_SKILL <<<] [IceMaster 10014 (TEAM 1, BACK, POS 1)] => [Oceanee 10013 (TEAM 2, FRONT, POS 3)] (hp = 0.909), TAKE 271 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Oceanee 10013 (TEAM 2, FRONT, POS 3)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.8
+
+
+[>>> ACTIVE_SKILL <<<] [IceMaster 10014 (TEAM 1, BACK, POS 1)] => [Aesa 10015 (TEAM 2, BACK, POS 2)] (hp = 0.522), TAKE 181 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, BACK, POS 2)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.82
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.76
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.788, power = 0.1
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 0.921, power = 0.1
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.844, power = 0.1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 1
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.584, power = 0.1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.76
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.762, power = 0.1
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 34c9ce52, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1fdcbcba, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.954, power = 0
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+id = table: 229bc740, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.561, power = 0.1
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.76
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.788, power = 0.1
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 0.921, power = 0.1
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.844, power = 0.1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.584, power = 0.1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.82
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.762, power = 0.1
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 34c9ce52, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 0.966, power = 0.1
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1fdcbcba, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.909, power = 0.1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 13, persistentType = 1, DROWNING_MARK = 13
+id = table: 229bc740, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.522, power = 0.2
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 2 ----------
+
+[DROWNING_MARK] [Assassiren 10012 (TEAM 2, FRONT, POS 2)] => [Oceanee 10013 (TEAM 1, FRONT, POS 3)] (hp = 0.844), remainingRound = 12, changeType = 3
+
+
+[DROWNING_MARK] [Assassiren 10012 (TEAM 1, FRONT, POS 2)] => [Oceanee 10013 (TEAM 2, FRONT, POS 3)] (hp = 0.909), remainingRound = 12, changeType = 3
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 0.692), TAKE 652 damage, initiatorPower = 0.6, targetPower = 0.2
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.86
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.84
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.76
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.788, power = 0.1
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 0.921, power = 0.1
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.844, power = 0.1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.584, power = 0.1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.82
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.762, power = 0.1
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 34c9ce52, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 0.966, power = 0.1
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1fdcbcba, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.909, power = 0.1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 229bc740, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.522, power = 0.2
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.86
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.788, power = 0.6
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 0.921, power = 0.1
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.844, power = 0.1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.584, power = 0.1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.84
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.692, power = 0.2
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 34c9ce52, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 0.966, power = 0.1
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1fdcbcba, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.909, power = 0.1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 229bc740, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.522, power = 0.2
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Assassiren 10012 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Assassiren 10012 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 0.623), TAKE 649 damage, initiatorPower = 0.6, targetPower = 0.3 (CRIT)
+
+
+[CHANGE_POWER] [Assassiren 10012 (TEAM 1, FRONT, POS 2)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.96
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.86
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.86
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.788, power = 0.6
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 0.921, power = 0.1
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.844, power = 0.1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.584, power = 0.1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.84
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.692, power = 0.2
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 34c9ce52, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 0.966, power = 0.1
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1fdcbcba, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.909, power = 0.1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 229bc740, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.522, power = 0.2
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.96
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.788, power = 0.6
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 0.921, power = 0.6
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.844, power = 0.1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.584, power = 0.1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.86
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.623, power = 0.3
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 34c9ce52, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 0.966, power = 0.1
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1fdcbcba, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.909, power = 0.1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 229bc740, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.522, power = 0.2
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 0.718), TAKE 652 damage, initiatorPower = 0.8, targetPower = 0.7
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 0.96
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 0.98
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.96
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.788, power = 0.6
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 0.921, power = 0.6
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.844, power = 0.1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.584, power = 0.1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.86
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.623, power = 0.3
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 34c9ce52, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 0.966, power = 0.1
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1fdcbcba, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.909, power = 0.1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 229bc740, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.522, power = 0.2
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.98
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.718, power = 0.7
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 0.921, power = 0.6
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.844, power = 0.1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.584, power = 0.1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.96
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.623, power = 0.8
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 34c9ce52, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 0.966, power = 0.1
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1fdcbcba, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.909, power = 0.1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 229bc740, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.522, power = 0.2
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Assassiren 10012 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Assassiren 10012 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 0.649), TAKE 649 damage, initiatorPower = 0.6, targetPower = 0.8 (CRIT)
+
+
+[CHANGE_POWER] [Assassiren 10012 (TEAM 2, FRONT, POS 2)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [SummonerRanger (TEAM 1)] (hp = 1), power = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0.98
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.718, power = 0.7
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 0.921, power = 0.6
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.844, power = 0.1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.584, power = 0.1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 0.96
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.623, power = 0.8
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 34c9ce52, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 0.966, power = 0.1
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1fdcbcba, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.909, power = 0.1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 229bc740, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.522, power = 0.2
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 1
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.649, power = 0.8
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 0.921, power = 0.6
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.844, power = 0.1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.584, power = 0.1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.623, power = 0.8
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 34c9ce52, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 0.966, power = 0.6
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1fdcbcba, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.909, power = 0.1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 229bc740, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.522, power = 0.2
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerRanger (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerRanger (TEAM 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 6544 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 1
+
+
+[DEAD_FOR_DISPLAY] [SummonerRanger (TEAM 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerRanger (TEAM 1)] => [Assassiren 10012 (TEAM 2, FRONT, POS 2)] (hp = 0), TAKE 6565 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Assassiren 10012 (TEAM 2, FRONT, POS 2)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 1
+
+
+[DEAD_FOR_DISPLAY] [SummonerRanger (TEAM 1)] => [Assassiren 10012 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerRanger (TEAM 1)] => [Oceanee 10013 (TEAM 2, FRONT, POS 3)] (hp = 0), TAKE 6573 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Oceanee 10013 (TEAM 2, FRONT, POS 3)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 1
+
+
+[DROWNING_MARK] [Assassiren 10012 (TEAM 1, FRONT, POS 2)] => [Oceanee 10013 (TEAM 2, FRONT, POS 3)] (hp = 0), remainingRound = 12, changeType = 2
+
+
+[DEAD_FOR_DISPLAY] [SummonerRanger (TEAM 1)] => [Oceanee 10013 (TEAM 2, FRONT, POS 3)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerRanger (TEAM 1)] => [Aesa 10015 (TEAM 2, BACK, POS 2)] (hp = 0), TAKE 6566 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Aesa 10015 (TEAM 2, BACK, POS 2)] => [SummonerRanger (TEAM 2)] (hp = 1), power = 1
+
+
+[DEAD_FOR_DISPLAY] [SummonerRanger (TEAM 1)] => [Aesa 10015 (TEAM 2, BACK, POS 2)] (hp = 0), reason = 2
+
+
+[DEAD] [SummonerRanger (TEAM 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[DEAD] [SummonerRanger (TEAM 1)] => [Assassiren 10012 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 2
+
+
+[DEAD] [SummonerRanger (TEAM 1)] => [Oceanee 10013 (TEAM 2, FRONT, POS 3)] (hp = 0), reason = 2
+
+
+[DEAD] [SummonerRanger (TEAM 1)] => [Aesa 10015 (TEAM 2, BACK, POS 2)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 1
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.649, power = 0.8
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 0.921, power = 0.6
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.844, power = 0.1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.584, power = 0.1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.623, power = 0.8
+- EFFECTS:
+id = table: 53bae37a, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 34c9ce52, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 0.966, power = 0.6
+- EFFECTS:
+id = table: 3f3883e5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 1fdcbcba, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0.909, power = 0.1
+- EFFECTS:
+id = table: 55af21a5, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 69ad9340, type = 113, initiator = [Assassiren 10012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 229bc740, type = 420, initiator = [Aesa 10015 (TEAM 2, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0.522, power = 0.2
+- EFFECTS:
+id = table: 12711d40, type = 441, initiator = [SummonerRanger (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.649, power = 0.8
+- EFFECTS:
+id = table: 436d06c3, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 77ab82ab, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 0.921, power = 0.6
+- EFFECTS:
+id = table: 45f4d462, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6daa1a03, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.844, power = 0.1
+- EFFECTS:
+id = table: 23c9f4fc, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 12, persistentType = 1, DROWNING_MARK = 12
+id = table: 6818b365, type = 420, initiator = [Aesa 10015 (TEAM 1, BACK, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0
+- EFFECTS:
+id = table: 1b7e207f, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.584, power = 0.1
+- EFFECTS:
+id = table: 308e66cd, type = 441, initiator = [SummonerRanger (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 3 ----------
+
+[REMOVE_EFFECT] [SummonerRanger (TEAM 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 0.649), type = 441, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 1, BACK, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 0.649), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerRanger (TEAM 2)] => [Assassiren 10012 (TEAM 1, FRONT, POS 2)] (hp = 0.921), type = 441, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 1, BACK, POS 2)] => [Assassiren 10012 (TEAM 1, FRONT, POS 2)] (hp = 0.921), type = 420, persistentType = 1, isBuff = true
+
+
+[DROWNING_MARK] [Assassiren 10012 (TEAM 2, FRONT, POS 2)] => [Oceanee 10013 (TEAM 1, FRONT, POS 3)] (hp = 0.844), remainingRound = 11, changeType = 3
+
+
+[REMOVE_EFFECT] [SummonerRanger (TEAM 2)] => [Oceanee 10013 (TEAM 1, FRONT, POS 3)] (hp = 0.844), type = 441, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [Aesa 10015 (TEAM 1, BACK, POS 2)] => [Oceanee 10013 (TEAM 1, FRONT, POS 3)] (hp = 0.844), type = 420, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerRanger (TEAM 2)] => [IceMaster 10014 (TEAM 1, BACK, POS 1)] (hp = 0.206), type = 441, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerRanger (TEAM 2)] => [Aesa 10015 (TEAM 1, BACK, POS 2)] (hp = 0.584), type = 441, persistentType = 52, isBuff = false
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerRanger (TEAM 1)] hp = 1, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.649, power = 0.8
+
+> [Assassiren 10012 (TEAM 1, FRONT, POS 2)] hp = 0.921, power = 0.6
+
+> [Oceanee 10013 (TEAM 1, FRONT, POS 3)] hp = 0.844, power = 0.1
+- EFFECTS:
+id = table: 45a325d9, type = 113, initiator = [Assassiren 10012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 11, persistentType = 1, DROWNING_MARK = 11
+
+> [IceMaster 10014 (TEAM 1, BACK, POS 1)] hp = 0.206, power = 0
+
+> [Aesa 10015 (TEAM 1, BACK, POS 2)] hp = 0.584, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerRanger (TEAM 2)] hp = 1, power = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Assassiren 10012 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Oceanee 10013 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+> [IceMaster 10014 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+> [Aesa 10015 (TEAM 2, BACK, POS 2)] hp = 0, power = 0
+
+<> STATISTICS:
+[IceMaster 10014 (TEAM 2, BACK, POS 1)] DamageDeal = 86, DamageTaken = 1950.012, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: f35dbed, count = 1
+	[1 (number)] = 86 (number)
+
+	Damage taken by sources: Dictionary = table: 75743f07, count = 1
+	[2 (number)] = 1950.012 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: fb7747f, count = 1
+	[1010 (number)] = 86 (number)
+
+	Damage taken history: Dictionary = table: 73ea130e, count = 3
+	[2001 (number)] = 1082.38 (number)
+	[2007 (number)] = 427.632 (number)
+	[2005 (number)] = 440 (number)
+
+[Assassiren 10012 (TEAM 1, FRONT, POS 2)] DamageDeal = 1604, DamageTaken = 427.632, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 52a1542d, count = 2
+	[1 (number)] = 1082 (number)
+	[2 (number)] = 522 (number)
+
+	Damage taken by sources: Dictionary = table: 679d579, count = 1
+	[2 (number)] = 427.632 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 32d94d45, count = 3
+	[1003 (number)] = 433 (number)
+	[2003 (number)] = 522 (number)
+	[3002 (number)] = 649 (number)
+
+	Damage taken history: Dictionary = table: 11084a73, count = 1
+	[2008 (number)] = 427.632 (number)
+
+	Effect created history: Dictionary = table: 49507443, count = 1
+	[113 (number)] = 13 (number)
+
+[Oceanee 10013 (TEAM 1, FRONT, POS 3)] DamageDeal = 1574, DamageTaken = 952.032, HpHeal = 723, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 14ab20d, count = 2
+	[1 (number)] = 299 (number)
+	[2 (number)] = 1275 (number)
+
+	Damage taken by sources: Dictionary = table: 79817404, count = 1
+	[2 (number)] = 952.032 (number)
+
+	Hp heal by sources: Dictionary = table: 2a89e295, count = 1
+	[1 (number)] = 723 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 60b169eb, count = 2
+	[1007 (number)] = 299 (number)
+	[2007 (number)] = 1275 (number)
+
+	Damage taken history: Dictionary = table: 34bf652a, count = 2
+	[2004 (number)] = 524.4 (number)
+	[2008 (number)] = 427.632 (number)
+
+	Hp heal history: Dictionary = table: 466c06ed, count = 1
+	[2007 (number)] = 723 (number)
+
+[SummonerRanger (TEAM 1)] DamageDeal = 26248, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2314d9ff, count = 1
+	[2 (number)] = 26248 (number)
+
+	NumberKill = 4, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 48010247, count = 1
+	[3005 (number)] = 26248 (number)
+
+	Stat changer debuff created history: Dictionary = table: 7d8a858, count = 1
+	[41 (number)] = 0 (number)
+
+[Jeronim 10011 (TEAM 1, FRONT, POS 1)] DamageDeal = 3579, DamageTaken = 3633.132, HpHeal = 0, HpHealTaken = 241
+	Damage dealt by sources: Dictionary = table: 21a59d20, count = 2
+	[1 (number)] = 1304 (number)
+	[2 (number)] = 2275 (number)
+
+	Damage taken by sources: Dictionary = table: 247b63ca, count = 2
+	[1 (number)] = 3205.5 (number)
+	[2 (number)] = 427.632 (number)
+
+	Hp heal taken by sources: Dictionary = table: 64284e38, count = 1
+	[1 (number)] = 241 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 2670b08d, count = 3
+	[2001 (number)] = 2275 (number)
+	[3001 (number)] = 652 (number)
+	[1001 (number)] = 652 (number)
+
+	Damage taken history: Dictionary = table: 2b3175fe, count = 8
+	[1008 (number)] = 302 (number)
+	[3003 (number)] = 598 (number)
+	[1002 (number)] = 598 (number)
+	[3004 (number)] = 655.5 (number)
+	[1010 (number)] = 175 (number)
+	[1004 (number)] = 437 (number)
+	[1006 (number)] = 440 (number)
+	[2008 (number)] = 427.632 (number)
+
+	Hp heal taken history: Dictionary = table: 54ab3661, count = 1
+	[2007 (number)] = 241 (number)
+
+[Assassiren 10012 (TEAM 2, FRONT, POS 2)] DamageDeal = 1604, DamageTaken = 6782, HpHeal = 0, HpHealTaken = 241
+	Damage dealt by sources: Dictionary = table: 72d4eb42, count = 2
+	[1 (number)] = 1082 (number)
+	[2 (number)] = 522 (number)
+
+	Damage taken by sources: Dictionary = table: 5103c94d, count = 1
+	[2 (number)] = 6782 (number)
+
+	Hp heal taken by sources: Dictionary = table: 71bdd816, count = 1
+	[1 (number)] = 241 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 7ca8f07e, count = 3
+	[2004 (number)] = 522 (number)
+	[3004 (number)] = 649 (number)
+	[1004 (number)] = 433 (number)
+
+	Damage taken history: Dictionary = table: 29f38a52, count = 2
+	[2009 (number)] = 182 (number)
+	[3005 (number)] = 6600 (number)
+
+	Hp heal taken history: Dictionary = table: 66f57780, count = 1
+	[2008 (number)] = 241 (number)
+
+	Effect created history: Dictionary = table: 79177e20, count = 1
+	[113 (number)] = 13 (number)
+
+[Jeronim 10011 (TEAM 2, FRONT, POS 1)] DamageDeal = 4118, DamageTaken = 10233.132, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 42075a7c, count = 2
+	[1 (number)] = 1304 (number)
+	[2 (number)] = 2814 (number)
+
+	Damage taken by sources: Dictionary = table: 7793e974, count = 2
+	[1 (number)] = 3205.5 (number)
+	[2 (number)] = 7027.632 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 3a97d971, count = 3
+	[1002 (number)] = 652 (number)
+	[3003 (number)] = 652 (number)
+	[2002 (number)] = 2814 (number)
+
+	Damage taken history: Dictionary = table: 78b3467d, count = 9
+	[1005 (number)] = 440 (number)
+	[3001 (number)] = 598 (number)
+	[3002 (number)] = 655.5 (number)
+	[1007 (number)] = 302 (number)
+	[1009 (number)] = 175 (number)
+	[3005 (number)] = 6600 (number)
+	[1001 (number)] = 598 (number)
+	[2007 (number)] = 427.632 (number)
+	[1003 (number)] = 437 (number)
+
+[IceMaster 10014 (TEAM 1, BACK, POS 1)] DamageDeal = 806, DamageTaken = 1522.38, HpHeal = 0, HpHealTaken = 241
+	Damage dealt by sources: Dictionary = table: 1f37ad, count = 2
+	[1 (number)] = 173 (number)
+	[2 (number)] = 633 (number)
+
+	Damage taken by sources: Dictionary = table: 682fb693, count = 1
+	[2 (number)] = 1522.38 (number)
+
+	Hp heal taken by sources: Dictionary = table: 6cf7b6b6, count = 1
+	[1 (number)] = 241 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: e1585fb, count = 2
+	[1009 (number)] = 173 (number)
+	[2009 (number)] = 633 (number)
+
+	Damage taken history: Dictionary = table: 77ce69cb, count = 2
+	[2002 (number)] = 1082.38 (number)
+	[2006 (number)] = 440 (number)
+
+	Hp heal taken history: Dictionary = table: 6240c28f, count = 1
+	[2007 (number)] = 241 (number)
+
+[SummonerRanger (TEAM 2)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Stat changer debuff created history: Dictionary = table: 33539a77, count = 1
+	[41 (number)] = 0 (number)
+
+[Oceanee 10013 (TEAM 2, FRONT, POS 3)] DamageDeal = 1423, DamageTaken = 7397.4, HpHeal = 723, HpHealTaken = 241
+	Damage dealt by sources: Dictionary = table: 114bebbb, count = 2
+	[1 (number)] = 149 (number)
+	[2 (number)] = 1274 (number)
+
+	Damage taken by sources: Dictionary = table: 154f4868, count = 1
+	[2 (number)] = 7397.4 (number)
+
+	Hp heal by sources: Dictionary = table: 71ffa4f4, count = 1
+	[1 (number)] = 723 (number)
+
+	Hp heal taken by sources: Dictionary = table: 5e50189e, count = 1
+	[1 (number)] = 241 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 108826dc, count = 2
+	[1008 (number)] = 149 (number)
+	[2008 (number)] = 1274 (number)
+
+	Damage taken history: Dictionary = table: 7feb20ad, count = 3
+	[2009 (number)] = 273 (number)
+	[2003 (number)] = 524.4 (number)
+	[3005 (number)] = 6600 (number)
+
+	Hp heal history: Dictionary = table: 733ff3a0, count = 1
+	[2008 (number)] = 723 (number)
+
+	Hp heal taken history: Dictionary = table: 2df581b1, count = 1
+	[2008 (number)] = 241 (number)
+
+[Aesa 10015 (TEAM 2, BACK, POS 2)] DamageDeal = 1445, DamageTaken = 8952.012, HpHeal = 0, HpHealTaken = 241
+	Damage dealt by sources: Dictionary = table: 7c1afc15, count = 2
+	[1 (number)] = 480 (number)
+	[2 (number)] = 965 (number)
+
+	Damage taken by sources: Dictionary = table: 5ad25573, count = 1
+	[2 (number)] = 8952.012 (number)
+
+	Hp heal taken by sources: Dictionary = table: 56fc0f7a, count = 1
+	[1 (number)] = 241 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 5785e41d, count = 2
+	[1006 (number)] = 480 (number)
+	[2006 (number)] = 965 (number)
+
+	Damage taken history: Dictionary = table: 7cd440ac, count = 5
+	[2009 (number)] = 182 (number)
+	[3005 (number)] = 6600 (number)
+	[2005 (number)] = 660 (number)
+	[2007 (number)] = 427.632 (number)
+	[2001 (number)] = 1082.38 (number)
+
+	Hp heal taken history: Dictionary = table: 3465eb88, count = 1
+	[2008 (number)] = 241 (number)
+
+	Stat changer buff created history: Dictionary = table: 2d4b5a1, count = 1
+	[20 (number)] = 678.6 (number)
+
+[Aesa 10015 (TEAM 1, BACK, POS 2)] DamageDeal = 1424, DamageTaken = 2063.57, HpHeal = 0, HpHealTaken = 241
+	Damage dealt by sources: Dictionary = table: 7a091cea, count = 2
+	[1 (number)] = 240 (number)
+	[2 (number)] = 1184 (number)
+
+	Damage taken by sources: Dictionary = table: 2486e227, count = 1
+	[2 (number)] = 2063.57 (number)
+
+	Hp heal taken by sources: Dictionary = table: 3fa47494, count = 1
+	[1 (number)] = 241 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 187ab77c, count = 2
+	[1005 (number)] = 240 (number)
+	[2005 (number)] = 1184 (number)
+
+	Damage taken history: Dictionary = table: 2aa606d5, count = 2
+	[2002 (number)] = 1623.57 (number)
+	[2006 (number)] = 440 (number)
+
+	Hp heal taken history: Dictionary = table: 39225e7c, count = 1
+	[2007 (number)] = 241 (number)
+
+	Stat changer buff created history: Dictionary = table: 253e9d18, count = 1
+	[20 (number)] = 678.6 (number)
+
+
+<> WINNER: 1

@@ -1,0 +1,2177 @@
+
+<> SEED = 397546476
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 75
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerNovice (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 0
+faction = 7
+attack = 700
+critRate = 0.1
+critDamage = 1.5
+accuracy = 799
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+
+
+> [SummonerNovice (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 0
+faction = 7
+attack = 700
+critRate = 0.1
+critDamage = 1.5
+accuracy = 799
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 0
+faction = 7
+attack = 700
+critRate = 0.1
+critDamage = 1.5
+accuracy = 799
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 4
+attack = 2632
+defense = 276
+hp = 29368/29368
+speed = 67
+critRate = 0.1
+critDamage = 1.8
+accuracy = 1098
+dodge = 1098
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 1caf3903, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6e7156d0, type = 411, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 77085596, type = 403, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 4
+attack = 2632
+defense = 276
+hp = 29368/29368
+speed = 67
+critRate = 0.1
+critDamage = 1.8
+accuracy = 1098
+dodge = 1098
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 44e7ac6e, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 21e5f2d0, type = 411, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 7176f333, type = 403, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 0
+faction = 7
+attack = 700
+critRate = 0.1
+critDamage = 1.5
+accuracy = 799
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 4
+attack = 2632
+defense = 276
+hp = 29368/29368
+speed = 67
+critRate = 0.1
+critDamage = 1.8
+accuracy = 1098
+dodge = 1098
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 3ef6b1a, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7a9223d5, type = 411, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 4546f7ea, type = 403, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 4
+attack = 2632
+defense = 276
+hp = 29368/29368
+speed = 67
+critRate = 0.1
+critDamage = 1.8
+accuracy = 1098
+dodge = 1098
+pureDamage = 0
+skillDamage = 0
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 6646de5, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7e2b6188, type = 411, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 746f2d25, type = 403, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 411, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 411, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 411, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 411, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.843), TAKE 4610 damage, initiatorPower = 1, targetPower = 0.6 (CRIT)
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.02
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.843), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.826), TAKE 512 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.02
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.826, power = 0.6
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.669), TAKE 4610 damage, initiatorPower = 1, targetPower = 0.7 (CRIT)
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.04
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.02
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.826, power = 0.6
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.2
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.04
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.669, power = 0.7
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.913), TAKE 2561 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.22
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.913), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.895), TAKE 512 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.2
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.04
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.669, power = 0.7
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.22
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.895, power = 1
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.14
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.669, power = 1
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.808), TAKE 2561 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.24
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.808), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.791), TAKE 512 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.22
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.895, power = 1
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.14
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.669, power = 1
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.24
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.791, power = 1
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 3de92522, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.24
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.669, power = 1
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 2 ----------
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.773), TAKE 512 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.756), TAKE 512 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.651), TAKE 512 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.555), TAKE 2817 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.904), TAKE 2817 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.555), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.538), TAKE 512 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.904), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.887), TAKE 512 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.24
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.756, power = 1
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 3de92522, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.24
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.651, power = 1
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.24
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.756, power = 0
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 3de92522, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.28
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.538, power = 1
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 186b3436, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.887, power = 1
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.66), TAKE 2817 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.904), TAKE 2817 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.66), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.643), TAKE 512 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.904), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.887), TAKE 512 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.24
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.756, power = 0
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 3de92522, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.28
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.538, power = 1
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 186b3436, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.887, power = 1
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.28
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.643, power = 0.1
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 3de92522, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.887, power = 1
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.28
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.538, power = 0
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 186b3436, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.887, power = 1
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.442), TAKE 2817 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.791), TAKE 2817 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.32
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.442), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.424), TAKE 512 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.791), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.773), TAKE 512 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.28
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.643, power = 0.1
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 3de92522, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.887, power = 1
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.28
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.538, power = 0
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 186b3436, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.887, power = 1
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.28
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.643, power = 0.1
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 3de92522, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.887, power = 0
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.32
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.424, power = 0.1
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 186b3436, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7886510b, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.773, power = 1
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5c2d4bc8, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.547), TAKE 2817 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.791), TAKE 2817 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.32
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.547), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.529), TAKE 512 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.791), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.773), TAKE 512 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.28
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.643, power = 0.1
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 3de92522, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.887, power = 0
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.32
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.424, power = 0.1
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 186b3436, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7886510b, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.773, power = 1
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5c2d4bc8, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.32
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.529, power = 0.2
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 3de92522, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5eb77cd1, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.773, power = 0.1
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: f2f7647, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.32
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.424, power = 0.1
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 186b3436, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7886510b, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.773, power = 0
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5c2d4bc8, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 3 ----------
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.512), TAKE 512 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.494), TAKE 512 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.477), TAKE 512 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.459), TAKE 512 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.756), TAKE 512 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.738), TAKE 512 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.407), TAKE 512 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.39), TAKE 512 damage, remainingRound = 2
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.39), type = 401, persistentType = 52, isBuff = true
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.372), TAKE 512 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.756), TAKE 512 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.738), TAKE 512 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.285), TAKE 2561 damage, initiatorPower = 0.7, targetPower = 0.2
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.34
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.285), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.268), TAKE 512 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.32
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.459, power = 0.2
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 3de92522, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5eb77cd1, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.738, power = 0.1
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: f2f7647, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.32
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.372, power = 0.1
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 186b3436, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7886510b, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 456b60a0, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.738, power = 0
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5c2d4bc8, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.42
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.459, power = 0.7
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 3de92522, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5eb77cd1, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.738, power = 0.1
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: f2f7647, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.34
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.268, power = 0.2
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 186b3436, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7886510b, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 456b60a0, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: 73ae00ce, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.738, power = 0
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5c2d4bc8, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.342), TAKE 3451 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.44
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.44
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.342), type = 401, persistentType = 52, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.42
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.459, power = 0.7
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 3de92522, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5eb77cd1, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.738, power = 0.1
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: f2f7647, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.34
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.268, power = 0.2
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 186b3436, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7886510b, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 456b60a0, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: 73ae00ce, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.738, power = 0
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5c2d4bc8, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.44
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.342, power = 0.8
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 3de92522, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5eb77cd1, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 169aab9e, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.738, power = 0.1
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: f2f7647, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.44
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.268, power = 0.7
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 186b3436, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7886510b, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 456b60a0, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: 73ae00ce, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.738, power = 0
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5c2d4bc8, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.18), TAKE 2561 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.54
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.46
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.18), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.163), TAKE 512 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.44
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.342, power = 0.8
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 3de92522, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5eb77cd1, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 169aab9e, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.738, power = 0.1
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: f2f7647, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.44
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.268, power = 0.7
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 186b3436, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7886510b, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 456b60a0, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: 73ae00ce, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.738, power = 0
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5c2d4bc8, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.54
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.342, power = 0.8
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 3de92522, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5eb77cd1, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 169aab9e, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.738, power = 0.6
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: f2f7647, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.46
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.163, power = 0.8
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 186b3436, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7886510b, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 456b60a0, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: 73ae00ce, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 62f37a44, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.738, power = 0
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5c2d4bc8, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.255), TAKE 2561 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.56
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.255), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.237), TAKE 512 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.54
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.342, power = 0.8
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 3de92522, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5eb77cd1, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 169aab9e, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.738, power = 0.6
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: f2f7647, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.46
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.163, power = 0.8
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 186b3436, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7886510b, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 456b60a0, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: 73ae00ce, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 62f37a44, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.738, power = 0
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5c2d4bc8, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.56
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.237, power = 0.9
+- EFFECTS:
+id = table: 18c7789a, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 3de92522, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5eb77cd1, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 169aab9e, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: 7c0368da, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.738, power = 0.6
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: f2f7647, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.56
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.163, power = 0.8
+- EFFECTS:
+id = table: 154c7913, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 186b3436, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7886510b, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 456b60a0, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: 73ae00ce, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 62f37a44, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.738, power = 0.5
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5c2d4bc8, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+---------- AFTER ROUND 3 ----------
+
+[REMOVE_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.237), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.237), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.163), type = 10, persistentType = 1, isBuff = false
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 4 ----------
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.214), TAKE 690 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.196), TAKE 512 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.179), TAKE 512 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.715), TAKE 690 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.697), TAKE 512 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.139), TAKE 690 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.122), TAKE 512 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.098), TAKE 690 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0.081), TAKE 512 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.715), TAKE 690 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.697), TAKE 512 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 3451 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.58
+
+
+[DEAD_FOR_DISPLAY] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.56
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.179, power = 0.9
+- EFFECTS:
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5eb77cd1, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7c0368da, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 169aab9e, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.697, power = 0.6
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: f2f7647, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.56
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0.081, power = 0.8
+- EFFECTS:
+id = table: 186b3436, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7886510b, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 73ae00ce, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 62f37a44, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 456b60a0, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.697, power = 0.5
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5c2d4bc8, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.66
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.179, power = 1
+- EFFECTS:
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5eb77cd1, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7c0368da, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 169aab9e, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.697, power = 0.6
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: f2f7647, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.58
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.697, power = 0.5
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5c2d4bc8, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.61), TAKE 2561 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.76
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.6
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.66
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.179, power = 1
+- EFFECTS:
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5eb77cd1, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7c0368da, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 169aab9e, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.697, power = 0.6
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: f2f7647, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.58
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.697, power = 0.5
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5c2d4bc8, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.76
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.179, power = 1
+- EFFECTS:
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5eb77cd1, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7c0368da, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 169aab9e, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.697, power = 1
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: f2f7647, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.6
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.61, power = 0.6
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5c2d4bc8, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.092), TAKE 2561 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.7
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.78
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.092), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.074), TAKE 512 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.76
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.179, power = 1
+- EFFECTS:
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5eb77cd1, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7c0368da, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 169aab9e, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.697, power = 1
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: f2f7647, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.6
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.61, power = 0.6
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5c2d4bc8, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.78
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.074, power = 1
+- EFFECTS:
+id = table: 4d39f428, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5eb77cd1, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7c0368da, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 169aab9e, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: 7fa8bfe4, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.697, power = 1
+- EFFECTS:
+id = table: 390d1898, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: f2f7647, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.7
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.61, power = 1
+- EFFECTS:
+id = table: 6e9952c9, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 5c2d4bc8, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+---------- AFTER ROUND 4 ----------
+
+[REMOVE_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.074), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.074), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 1)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.697), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.697), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.61), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.61), type = 10, persistentType = 1, isBuff = false
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 5 ----------
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.057), TAKE 512 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0.039), TAKE 512 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.481), TAKE 3796 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.72
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.481), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.458), TAKE 690 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.78
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.039, power = 1
+- EFFECTS:
+id = table: 7c0368da, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7fa8bfe4, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 169aab9e, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.697, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.7
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.61, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.78
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.039, power = 0
+- EFFECTS:
+id = table: 7c0368da, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7fa8bfe4, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 169aab9e, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.697, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.72
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.458, power = 1
+- EFFECTS:
+id = table: 3cad2dd4, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.362), TAKE 2817 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.74
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.362), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.344), TAKE 512 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.344), type = 401, persistentType = 52, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.78
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.039, power = 0
+- EFFECTS:
+id = table: 7c0368da, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7fa8bfe4, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 169aab9e, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.697, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.72
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.458, power = 1
+- EFFECTS:
+id = table: 3cad2dd4, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.78
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.039, power = 0
+- EFFECTS:
+id = table: 7c0368da, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7fa8bfe4, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 169aab9e, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.697, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.74
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.344, power = 1
+- EFFECTS:
+id = table: 3cad2dd4, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 45f5415f, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: 22d7a483, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 3796 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.8
+
+
+[DEAD_FOR_DISPLAY] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.568), TAKE 3796 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.82
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.568), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.545), TAKE 690 damage, remainingRound = 3
+
+
+[DEAD] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.78
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0.039, power = 0
+- EFFECTS:
+id = table: 7c0368da, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 7fa8bfe4, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 169aab9e, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.697, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.74
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.344, power = 1
+- EFFECTS:
+id = table: 3cad2dd4, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 45f5415f, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: 22d7a483, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.82
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.545, power = 0.1
+- EFFECTS:
+id = table: 18ba78a2, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.74
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.344, power = 0
+- EFFECTS:
+id = table: 3cad2dd4, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 45f5415f, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: 22d7a483, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 6 ----------
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.521), TAKE 690 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.327), TAKE 512 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.309), TAKE 512 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.222), TAKE 2561 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.92
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.76
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.222), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.205), TAKE 512 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.82
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.521, power = 0.1
+- EFFECTS:
+id = table: 18ba78a2, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.74
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.309, power = 0
+- EFFECTS:
+id = table: 3cad2dd4, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 22d7a483, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 45f5415f, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.92
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.521, power = 0.6
+- EFFECTS:
+id = table: 18ba78a2, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.76
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.205, power = 0.1
+- EFFECTS:
+id = table: 3cad2dd4, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 22d7a483, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 45f5415f, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: 4dac25ec, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.404), TAKE 3451 damage, initiatorPower = 0.6, targetPower = 0.7
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.86
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 0.94
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.92
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.521, power = 0.6
+- EFFECTS:
+id = table: 18ba78a2, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.76
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.205, power = 0.1
+- EFFECTS:
+id = table: 3cad2dd4, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 22d7a483, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 45f5415f, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: 4dac25ec, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.94
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.404, power = 0.7
+- EFFECTS:
+id = table: 18ba78a2, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.86
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.205, power = 0.6
+- EFFECTS:
+id = table: 3cad2dd4, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 22d7a483, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 45f5415f, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+id = table: 4dac25ec, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.2
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 7 ----------
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.38), TAKE 690 damage, remainingRound = 1
+
+
+[ADD_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.38), type = 401, persistentType = 52, isBuff = true
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.187), TAKE 512 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.164), TAKE 690 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.14), TAKE 690 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Wugushi 40024 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0.023), TAKE 3451 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 1, FRONT, POS 2)] => [SummonerNovice (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.88
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0.94
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 0.7
+- EFFECTS:
+id = table: 18ba78a2, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 223c6abf, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.86
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.14, power = 0.6
+- EFFECTS:
+id = table: 3cad2dd4, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 22d7a483, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 4dac25ec, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 45f5415f, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 1
+- EFFECTS:
+id = table: 18ba78a2, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 223c6abf, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.88
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.023, power = 0.7
+- EFFECTS:
+id = table: 3cad2dd4, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 22d7a483, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 4dac25ec, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 45f5415f, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerNovice (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerNovice (TEAM 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0), TAKE 817 damage, initiatorPower = 0, targetPower = 0 (CRIT)
+
+
+[CHANGE_POWER] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [SummonerNovice (TEAM 2)] (hp = 1), power = 0.9
+
+
+[DEAD_FOR_DISPLAY] [SummonerNovice (TEAM 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 2
+
+
+[DEAD] [SummonerNovice (TEAM 1)] => [Wugushi 40024 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 1
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 1
+- EFFECTS:
+id = table: 18ba78a2, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 223c6abf, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.88
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0.023, power = 0.7
+- EFFECTS:
+id = table: 3cad2dd4, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 22d7a483, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 4dac25ec, type = 10, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 45f5415f, type = 401, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 1
+- EFFECTS:
+id = table: 18ba78a2, type = 10, initiator = [Wugushi 40024 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.2
+id = table: 223c6abf, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.9
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 7 ----------
+
+[REMOVE_EFFECT] [Wugushi 40024 (TEAM 2, FRONT, POS 2)] => [Wugushi 40024 (TEAM 1, FRONT, POS 2)] (hp = 0.38), type = 10, persistentType = 1, isBuff = false
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerNovice (TEAM 1)] hp = 1, power = 0
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 1, FRONT, POS 2)] hp = 0.38, power = 1
+- EFFECTS:
+id = table: 223c6abf, type = 401, initiator = [Wugushi 40024 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 52, calculationType = 1, amount = 0.4, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerNovice (TEAM 2)] hp = 1, power = 0.9
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Wugushi 40024 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+<> STATISTICS:
+[SummonerNovice (TEAM 2)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+[Wugushi 40024 (TEAM 1, FRONT, POS 1)] DamageDeal = 27932, DamageTaken = 32898.9, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 3dd021c7, count = 3
+	[1 (number)] = 10622 (number)
+	[2 (number)] = 9430 (number)
+	[12 (number)] = 7880 (number)
+
+	Damage taken by sources: Dictionary = table: 76e431b7, count = 3
+	[1 (number)] = 14075 (number)
+	[2 (number)] = 9692.1 (number)
+	[12 (number)] = 9131.8 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 5a4bf9c2, count = 10
+	[3000 (number)] = 1536 (number)
+	[6000 (number)] = 512 (number)
+	[3001 (number)] = 3073 (number)
+	[2000 (number)] = 512 (number)
+	[2001 (number)] = 6658 (number)
+	[5001 (number)] = 4486 (number)
+	[4000 (number)] = 2070 (number)
+	[7000 (number)] = 512 (number)
+	[4001 (number)] = 3451 (number)
+	[1001 (number)] = 5122 (number)
+
+	Damage taken history: Dictionary = table: 1be309a6, count = 12
+	[3000 (number)] = 2105.6 (number)
+	[3002 (number)] = 3547 (number)
+	[3004 (number)] = 3158.4 (number)
+	[2000 (number)] = 1052.8 (number)
+	[5000 (number)] = 1052.8 (number)
+	[2002 (number)] = 3421.6 (number)
+	[5003 (number)] = 3901.7 (number)
+	[2004 (number)] = 3421.6 (number)
+	[4000 (number)] = 1762.2 (number)
+	[1003 (number)] = 3158.4 (number)
+	[4003 (number)] = 3158.4 (number)
+	[1004 (number)] = 3158.4 (number)
+
+	Effect created history: Dictionary = table: 2781dd04, count = 1
+	[10 (number)] = 15 (number)
+
+	Stat changer buff created history: Dictionary = table: 70bf39ca, count = 1
+	[1 (number)] = 2745 (number)
+
+[Wugushi 40024 (TEAM 2, FRONT, POS 2)] DamageDeal = 33598, DamageTaken = 30339.9, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 753f5bf6, count = 3
+	[1 (number)] = 11134 (number)
+	[2 (number)] = 13226 (number)
+	[12 (number)] = 9238 (number)
+
+	Damage taken by sources: Dictionary = table: 7612c2ce, count = 3
+	[1 (number)] = 8811 (number)
+	[2 (number)] = 13427.3 (number)
+	[12 (number)] = 8101.6 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 5f5248f5, count = 12
+	[3000 (number)] = 1536 (number)
+	[6000 (number)] = 690 (number)
+	[6002 (number)] = 3451 (number)
+	[3004 (number)] = 3073 (number)
+	[2000 (number)] = 512 (number)
+	[5000 (number)] = 1024 (number)
+	[5003 (number)] = 8282 (number)
+	[2004 (number)] = 6658 (number)
+	[4000 (number)] = 1536 (number)
+	[7000 (number)] = 690 (number)
+	[4003 (number)] = 3073 (number)
+	[1004 (number)] = 3073 (number)
+
+	Damage taken history: Dictionary = table: 56aa4bbc, count = 12
+	[3000 (number)] = 1052.8 (number)
+	[6000 (number)] = 1052.8 (number)
+	[6001 (number)] = 3158.4 (number)
+	[2001 (number)] = 3421.6 (number)
+	[5001 (number)] = 4611.1 (number)
+	[5002 (number)] = 3421.6 (number)
+	[2003 (number)] = 3421.6 (number)
+	[4000 (number)] = 1235.8 (number)
+	[7000 (number)] = 1945.2 (number)
+	[7001 (number)] = 3547 (number)
+	[4002 (number)] = 2632 (number)
+	[7002 (number)] = 840 (number)
+
+	Effect created history: Dictionary = table: 59c54a74, count = 1
+	[10 (number)] = 18 (number)
+
+	Stat changer buff created history: Dictionary = table: 39a1e730, count = 1
+	[1 (number)] = 2745 (number)
+
+[Wugushi 40024 (TEAM 2, FRONT, POS 1)] DamageDeal = 16610, DamageTaken = 31285.8, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 74f90511, count = 3
+	[1 (number)] = 6012 (number)
+	[2 (number)] = 5634 (number)
+	[12 (number)] = 4964 (number)
+
+	Damage taken by sources: Dictionary = table: 700a4799, count = 3
+	[1 (number)] = 18286.2 (number)
+	[2 (number)] = 5790.4 (number)
+	[12 (number)] = 7209.2 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 36f2506, count = 6
+	[2002 (number)] = 6658 (number)
+	[1003 (number)] = 3073 (number)
+	[4000 (number)] = 1380 (number)
+	[3000 (number)] = 1536 (number)
+	[2000 (number)] = 512 (number)
+	[3002 (number)] = 3451 (number)
+
+	Damage taken history: Dictionary = table: 3541da3c, count = 10
+	[3000 (number)] = 1579.2 (number)
+	[3001 (number)] = 3158.4 (number)
+	[3003 (number)] = 3158.4 (number)
+	[2000 (number)] = 526.4 (number)
+	[2001 (number)] = 3421.6 (number)
+	[2003 (number)] = 3421.6 (number)
+	[4000 (number)] = 2471.6 (number)
+	[1001 (number)] = 5264 (number)
+	[4001 (number)] = 3547 (number)
+	[1002 (number)] = 4737.6 (number)
+
+	Effect created history: Dictionary = table: 9ac9008, count = 1
+	[10 (number)] = 9 (number)
+
+	Stat changer buff created history: Dictionary = table: 2b38382b, count = 1
+	[1 (number)] = 2745 (number)
+
+[SummonerNovice (TEAM 1)] DamageDeal = 817, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 51056f5f, count = 1
+	[2 (number)] = 817 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6a2ecf79, count = 1
+	[7002 (number)] = 817 (number)
+
+[Wugushi 40024 (TEAM 1, FRONT, POS 2)] DamageDeal = 31207, DamageTaken = 18708.7, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 7ef2ee4, count = 3
+	[1 (number)] = 15744 (number)
+	[2 (number)] = 8451 (number)
+	[12 (number)] = 7012 (number)
+
+	Damage taken by sources: Dictionary = table: 6dfcb752, count = 3
+	[1 (number)] = 3547 (number)
+	[2 (number)] = 9692.1 (number)
+	[12 (number)] = 5469.6 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 17f94225, count = 11
+	[3000 (number)] = 1024 (number)
+	[6000 (number)] = 512 (number)
+	[6001 (number)] = 3073 (number)
+	[3003 (number)] = 3073 (number)
+	[5002 (number)] = 3329 (number)
+	[2003 (number)] = 6658 (number)
+	[4000 (number)] = 1536 (number)
+	[7000 (number)] = 1380 (number)
+	[7001 (number)] = 3451 (number)
+	[4002 (number)] = 2561 (number)
+	[1002 (number)] = 4610 (number)
+
+	Damage taken history: Dictionary = table: b3002a4, count = 8
+	[2002 (number)] = 3421.6 (number)
+	[7000 (number)] = 709.4 (number)
+	[6000 (number)] = 709.4 (number)
+	[2004 (number)] = 3421.6 (number)
+	[4000 (number)] = 1235.8 (number)
+	[6002 (number)] = 3547 (number)
+	[3000 (number)] = 1052.8 (number)
+	[5003 (number)] = 4611.1 (number)
+
+	Effect created history: Dictionary = table: 75d69528, count = 1
+	[10 (number)] = 15 (number)
+
+	Stat changer buff created history: Dictionary = table: 7d98fae7, count = 1
+	[1 (number)] = 2745 (number)
+
+
+<> WINNER: 1

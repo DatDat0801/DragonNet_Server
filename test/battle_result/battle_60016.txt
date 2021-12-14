@@ -1,0 +1,3181 @@
+
+<> SEED = 819872275
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 105
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 714
+defense = 102
+hp = 11602/11602
+speed = 46
+critRate = 0.1
+critDamage = 1.5
+accuracy = 750
+dodge = 750
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 4d406d95, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: d2759bf, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 232ef0b5, type = 403, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 714
+defense = 102
+hp = 11602/11602
+speed = 46
+critRate = 0.1
+critDamage = 1.5
+accuracy = 750
+dodge = 750
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 2198b4c8, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6f7a59ab, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 75674989, type = 403, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 928
+defense = 102
+hp = 9282/9282
+speed = 46
+critRate = 0.1
+critDamage = 1.5
+accuracy = 750
+dodge = 750
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 7319e602, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 4e935ecb, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 17c33ec6, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 714
+defense = 102
+hp = 11602/11602
+speed = 46
+critRate = 0.1
+critDamage = 1.5
+accuracy = 750
+dodge = 750
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 20157b81, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 1c80a077, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2eae559c, type = 403, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 714
+defense = 102
+hp = 11602/11602
+speed = 46
+critRate = 0.1
+critDamage = 1.5
+accuracy = 750
+dodge = 750
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 14ef6e05, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 1fadc66a, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 4831d02a, type = 403, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 6
+attack = 714
+defense = 102
+hp = 11602/11602
+speed = 46
+critRate = 0.1
+critDamage = 1.5
+accuracy = 750
+dodge = 750
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 40c17e8c, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 2fb1afd7, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 6b75ef0, type = 403, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [Dark Mage 60016 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Dark Mage 60016 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Dark Mage 60016 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Dark Mage 60016 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] (hp = 0.942), TAKE 677 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.942, power = 0.6
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 0.942), TAKE 677 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.942, power = 0.6
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.942, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.942, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 0.883), TAKE 677 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.942, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.942, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.883, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.942, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] (hp = 0.866), TAKE 881 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.883, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.942, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.883, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.866, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 5 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] (hp = 0.807), TAKE 677 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.883, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.866, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.883, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.807, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 6 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 0.825), TAKE 677 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.883, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.807, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.825, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.807, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] (hp = 0.707), TAKE 1161 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.9), TAKE 1161 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.4
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 0.9), TAKE 1161 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 0.825), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.825, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.807, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.825, power = 0
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.707, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.9, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.9, power = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] (hp = 0.607), TAKE 1161 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.8), TAKE 1161 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 0.8), TAKE 1161 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.825, power = 0
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.707, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.9, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.9, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.825, power = 0
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.607, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.8, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.8, power = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 0.725), TAKE 1161 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.9), TAKE 1161 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, BACK, POS 1)] (hp = 0.9), TAKE 929 damage, initiatorPower = 0, targetPower = 1
+[Dark Mage 60016 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.8), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.825, power = 0
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.607, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.8, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.8, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.725, power = 0.1
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.9, power = 0.1
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.9, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.607, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.8, power = 0
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.8, power = 1
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] (hp = 0.477), TAKE 1509 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.5
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.67), TAKE 1509 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.52
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 0.67), TAKE 1509 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.54
+
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [Dark Mage 60016 (TEAM 1, BACK, POS 1)] (hp = 0.9), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.725, power = 0.1
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.9, power = 0.1
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.9, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.607, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.8, power = 0
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.8, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.725, power = 0.1
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.9, power = 0.1
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.9, power = 0
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.477, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0.1
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 1
+
+
+TURN 5 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 0.625), TAKE 1161 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.8), TAKE 1161 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 1, BACK, POS 1)] (hp = 0.775), TAKE 1161 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] (hp = 0.477), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.725, power = 0.1
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.9, power = 0.1
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.9, power = 0
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.477, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0.1
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.625, power = 0.2
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.8, power = 0.2
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.775, power = 0.1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.477, power = 0
+- EFFECTS:
+id = table: 20524ef4, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0.1
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 1
+
+
+TURN 6 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 0.525), TAKE 1161 damage, initiatorPower = 0, targetPower = 0.3
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.7), TAKE 1161 damage, initiatorPower = 0, targetPower = 0.3
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [Dark Mage 60016 (TEAM 1, BACK, POS 1)] (hp = 0.65), TAKE 1161 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 0.67), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.625, power = 0.2
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.8, power = 0.2
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.775, power = 0.1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.477, power = 0
+- EFFECTS:
+id = table: 20524ef4, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0.1
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.525, power = 0.3
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.3
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 0.2
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.477, power = 0
+- EFFECTS:
+id = table: 20524ef4, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0.1
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 0
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] (hp = 0.407), TAKE 813 damage, initiatorPower = 0.8, targetPower = 0.1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.64
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.525, power = 0.3
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.3
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 0.2
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.477, power = 0
+- EFFECTS:
+id = table: 20524ef4, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0.1
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 0
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.525, power = 0.8
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.3
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 0.2
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.407, power = 0.1
+- EFFECTS:
+id = table: 20524ef4, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0.1
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 0
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] (hp = 0.337), TAKE 813 damage, initiatorPower = 0.8, targetPower = 0.2
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.74
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.525, power = 0.8
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.3
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 0.2
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.407, power = 0.1
+- EFFECTS:
+id = table: 20524ef4, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0.1
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 0
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.525, power = 0.8
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.8
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 0.2
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.337, power = 0.2
+- EFFECTS:
+id = table: 20524ef4, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0.1
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 0
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 0.455), TAKE 813 damage, initiatorPower = 0.7, targetPower = 0.9
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.76
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.525, power = 0.8
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.8
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 0.2
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.337, power = 0.2
+- EFFECTS:
+id = table: 20524ef4, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0.1
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 0
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.455, power = 0.9
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.8
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 0.2
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.337, power = 0.7
+- EFFECTS:
+id = table: 20524ef4, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0.1
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 0
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 0.385), TAKE 813 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.78
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.455, power = 0.9
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.8
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 0.2
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.337, power = 0.7
+- EFFECTS:
+id = table: 20524ef4, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0.1
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 0
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.385, power = 1
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.8
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 0.2
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.337, power = 0.7
+- EFFECTS:
+id = table: 20524ef4, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0.6
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 0
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] (hp = 0.249), TAKE 1017 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.88
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.8
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.385, power = 1
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.8
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 0.2
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.337, power = 0.7
+- EFFECTS:
+id = table: 20524ef4, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0.6
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 0
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.385, power = 1
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.8
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 0.7
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.249, power = 0.8
+- EFFECTS:
+id = table: 20524ef4, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0.6
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 0
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 6 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 0.315), TAKE 813 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.9
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.9
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.385, power = 1
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.8
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 0.7
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.249, power = 0.8
+- EFFECTS:
+id = table: 20524ef4, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0.6
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 0
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.315, power = 1
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.8
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 0.7
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.249, power = 0.8
+- EFFECTS:
+id = table: 20524ef4, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0.6
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 0.5
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] (hp = 0.069), TAKE 2088 damage, initiatorPower = 0, targetPower = 0.9 (CRIT)
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.92
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.55), TAKE 1392 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.94
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 0.55), TAKE 1392 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.96
+
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 0.315), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.315, power = 1
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.8
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 0.7
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.249, power = 0.8
+- EFFECTS:
+id = table: 20524ef4, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0.6
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.67, power = 0.5
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.315, power = 0
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1a2817c8, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.8
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 0.7
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.069, power = 0.9
+- EFFECTS:
+id = table: 20524ef4, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.55, power = 0.7
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.55, power = 0.6
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 1017 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+[DEAD_FOR_DISPLAY] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.315, power = 0
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1a2817c8, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.8
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 0.7
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0.069, power = 0.9
+- EFFECTS:
+id = table: 20524ef4, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.55, power = 0.7
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.55, power = 0.6
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.315, power = 0
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1a2817c8, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.8
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.55, power = 0.7
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.55, power = 0.6
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.349), TAKE 2334 damage, initiatorPower = 0, targetPower = 0.8
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 0.349), TAKE 2334 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.349), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 0.349), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.315, power = 0
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1a2817c8, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.8
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.55, power = 0.7
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.55, power = 0.6
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.315, power = 0
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1a2817c8, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.8
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.349, power = 0.8
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1ff4286d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.349, power = 0.7
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 0.113), TAKE 2334 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.02
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.499), TAKE 2334 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.04
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Dark Mage 60016 (TEAM 1, BACK, POS 1)] (hp = 0.449), TAKE 1867 damage, initiatorPower = 0, targetPower = 1
+[Dark Mage 60016 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.06
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 0.113), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.499), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Dark Mage 60016 (TEAM 1, BACK, POS 1)] (hp = 0.449), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.315, power = 0
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1a2817c8, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.7, power = 0.8
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.65, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.349, power = 0.8
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1ff4286d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.349, power = 0.7
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.06
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.113, power = 0.1
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1a2817c8, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2fead0ba, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.499, power = 0.9
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.449, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.349, power = 0.8
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1ff4286d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.349, power = 0.7
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 0.043), TAKE 813 damage, initiatorPower = 1, targetPower = 0.2
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.08
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.06
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.113, power = 0.1
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1a2817c8, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2fead0ba, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.499, power = 0.9
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.449, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.349, power = 0.8
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1ff4286d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.349, power = 0.7
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.08
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.043, power = 0.2
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1a2817c8, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2fead0ba, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.499, power = 0.9
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.449, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.349, power = 1
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1ff4286d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.349, power = 0.7
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 6 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.279), TAKE 813 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.18
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.08
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.043, power = 0.2
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1a2817c8, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2fead0ba, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.499, power = 0.9
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.449, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.349, power = 1
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1ff4286d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.349, power = 0.7
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.043, power = 0.2
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1a2817c8, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2fead0ba, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.499, power = 1
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.449, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.279, power = 1
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1ff4286d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.349, power = 0.7
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 7 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 813 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[DEAD_FOR_DISPLAY] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0.043, power = 0.2
+- EFFECTS:
+id = table: 5e5eb2dd, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1a2817c8, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2fead0ba, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.499, power = 1
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.449, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.279, power = 1
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1ff4286d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.349, power = 0.7
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.499, power = 1
+- EFFECTS:
+id = table: 62223738, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.449, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: bb1cd05, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.279, power = 1
+- EFFECTS:
+id = table: 295c00ee, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1ff4286d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.349, power = 1
+- EFFECTS:
+id = table: 533a3631, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 4 ----------
+
+[REMOVE_EFFECT] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.499), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [Dark Mage 60016 (TEAM 1, BACK, POS 1)] (hp = 0.449), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.279), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 0.349), type = 401, persistentType = 1, isBuff = true
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.179), TAKE 1161 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 0.249), TAKE 1161 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.499), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.499, power = 1
+- EFFECTS:
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.449, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.279, power = 1
+- EFFECTS:
+id = table: 1ff4286d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.349, power = 1
+- EFFECTS:
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.499, power = 0
+- EFFECTS:
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79faab15, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.449, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.179, power = 1
+- EFFECTS:
+id = table: 1ff4286d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.249, power = 1
+- EFFECTS:
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.048), TAKE 1509 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 0.119), TAKE 1509 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [Dark Mage 60016 (TEAM 1, BACK, POS 1)] (hp = 0.449), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.499, power = 0
+- EFFECTS:
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79faab15, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.449, power = 1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.179, power = 1
+- EFFECTS:
+id = table: 1ff4286d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.249, power = 1
+- EFFECTS:
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.499, power = 0
+- EFFECTS:
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79faab15, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.449, power = 0
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6ccb90, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.048, power = 1
+- EFFECTS:
+id = table: 1ff4286d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.119, power = 1
+- EFFECTS:
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.399), TAKE 1161 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, BACK, POS 1)] (hp = 0.324), TAKE 1161 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0.048), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.499, power = 0
+- EFFECTS:
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79faab15, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.449, power = 0
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6ccb90, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.048, power = 1
+- EFFECTS:
+id = table: 1ff4286d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.119, power = 1
+- EFFECTS:
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.399, power = 0.1
+- EFFECTS:
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79faab15, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.324, power = 0.1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6ccb90, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.048, power = 0
+- EFFECTS:
+id = table: 1ff4286d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 45a91f81, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.119, power = 1
+- EFFECTS:
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.298), TAKE 1161 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [Dark Mage 60016 (TEAM 1, BACK, POS 1)] (hp = 0.198), TAKE 1161 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 0.119), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.399, power = 0.1
+- EFFECTS:
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79faab15, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.324, power = 0.1
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6ccb90, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.048, power = 0
+- EFFECTS:
+id = table: 1ff4286d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 45a91f81, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.119, power = 1
+- EFFECTS:
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.298, power = 0.2
+- EFFECTS:
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79faab15, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.198, power = 0.2
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6ccb90, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.048, power = 0
+- EFFECTS:
+id = table: 1ff4286d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 45a91f81, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.119, power = 0
+- EFFECTS:
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 71d83700, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 3, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0), TAKE 1220 damage, initiatorPower = 0.7, targetPower = 0 (CRIT)
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[DEAD_FOR_DISPLAY] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 1
+
+
+[DEAD] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.298, power = 0.2
+- EFFECTS:
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79faab15, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.198, power = 0.2
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6ccb90, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0.048, power = 0
+- EFFECTS:
+id = table: 1ff4286d, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 45a91f81, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.119, power = 0
+- EFFECTS:
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 71d83700, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.298, power = 0.7
+- EFFECTS:
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79faab15, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.198, power = 0.2
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6ccb90, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.119, power = 0
+- EFFECTS:
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 71d83700, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 0.031), TAKE 1017 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.298, power = 0.7
+- EFFECTS:
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79faab15, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.198, power = 0.2
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6ccb90, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.119, power = 0
+- EFFECTS:
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 71d83700, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.298, power = 0.7
+- EFFECTS:
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79faab15, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.198, power = 0.7
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6ccb90, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.031, power = 0.1
+- EFFECTS:
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 71d83700, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.228), TAKE 813 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.298, power = 0.7
+- EFFECTS:
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79faab15, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.198, power = 0.7
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6ccb90, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.031, power = 0.1
+- EFFECTS:
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 71d83700, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.228, power = 0.8
+- EFFECTS:
+id = table: 752604d8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 79faab15, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.198, power = 0.7
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4b2fed51, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 6ccb90, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.031, power = 0.6
+- EFFECTS:
+id = table: 2de3e089, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 71d83700, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 6 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.228), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Dark Mage 60016 (TEAM 1, BACK, POS 1)] (hp = 0.198), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 0.031), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 0), TAKE 813 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.6
+
+
+[CHANGE_POWER] [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[DEAD_FOR_DISPLAY] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 0), reason = 1
+
+
+[DEAD] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.228, power = 0.8
+- EFFECTS:
+id = table: 79faab15, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.198, power = 0.7
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6ccb90, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0.031, power = 0.6
+- EFFECTS:
+id = table: 71d83700, type = 401, initiator = [Dark Mage 60016 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.228, power = 1
+- EFFECTS:
+id = table: 79faab15, type = 401, initiator = [Dark Mage 60016 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.198, power = 0.7
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6ccb90, type = 401, initiator = [Dark Mage 60016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 7 ----------
+
+[REMOVE_EFFECT] [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] => [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] (hp = 0.228), type = 401, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Dark Mage 60016 (TEAM 1, BACK, POS 1)] => [Dark Mage 60016 (TEAM 1, BACK, POS 1)] (hp = 0.198), type = 401, persistentType = 1, isBuff = true
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 1, FRONT, POS 2)] hp = 0.228, power = 1
+
+> [Dark Mage 60016 (TEAM 1, BACK, POS 1)] hp = 0.198, power = 0.7
+- EFFECTS:
+id = table: 58a70f5a, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Dark Mage 60016 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+<> STATISTICS:
+[Dark Mage 60016 (TEAM 2, FRONT, POS 3)] DamageDeal = 8921, DamageTaken = 12694.048, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5dd6982d, count = 2
+	[1 (number)] = 3116 (number)
+	[2 (number)] = 5805 (number)
+
+	Damage taken by sources: Dictionary = table: 3b00f84c, count = 2
+	[1 (number)] = 1927 (number)
+	[2 (number)] = 10767.048 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 3658bdba, count = 6
+	[4007 (number)] = 813 (number)
+	[3006 (number)] = 813 (number)
+	[2006 (number)] = 3483 (number)
+	[6003 (number)] = 813 (number)
+	[1006 (number)] = 677 (number)
+	[5004 (number)] = 2322 (number)
+
+	Damage taken history: Dictionary = table: 688ec46, count = 9
+	[6002 (number)] = 1071 (number)
+	[2001 (number)] = 1222.368 (number)
+	[5001 (number)] = 1222.368 (number)
+	[5002 (number)] = 1588.736 (number)
+	[2002 (number)] = 1222.368 (number)
+	[2004 (number)] = 1588.736 (number)
+	[4001 (number)] = 1465.472 (number)
+	[7001 (number)] = 856 (number)
+	[4003 (number)] = 2457 (number)
+
+	Stat changer buff created history: Dictionary = table: 6ff61b4a, count = 1
+	[1 (number)] = 852 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 4668, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 53085c60, count = 1
+	[2 (number)] = 4668 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 204e9ed6, count = 1
+	[4003 (number)] = 4668 (number)
+
+	Effect created history: Dictionary = table: 6165ac45, count = 1
+	[112 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: 3e16d768, count = 1
+	[4 (number)] = 120 (number)
+
+[Dark Mage 60016 (TEAM 1, BACK, POS 1)] DamageDeal = 11477, DamageTaken = 8568.84, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2f6c7796, count = 2
+	[1 (number)] = 3932 (number)
+	[2 (number)] = 7545 (number)
+
+	Damage taken by sources: Dictionary = table: 7b80e483, count = 1
+	[2 (number)] = 8568.84 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 374b6832, count = 6
+	[3005 (number)] = 1017 (number)
+	[2004 (number)] = 4527 (number)
+	[1004 (number)] = 881 (number)
+	[6002 (number)] = 1017 (number)
+	[5002 (number)] = 3018 (number)
+	[4002 (number)] = 1017 (number)
+
+	Damage taken history: Dictionary = table: 3fee4424, count = 6
+	[4004 (number)] = 2457 (number)
+	[2003 (number)] = 1222.368 (number)
+	[2005 (number)] = 1222.368 (number)
+	[2006 (number)] = 1222.368 (number)
+	[5003 (number)] = 1222.368 (number)
+	[5004 (number)] = 1222.368 (number)
+
+	Stat changer buff created history: Dictionary = table: 73724488, count = 1
+	[1 (number)] = 858 (number)
+
+[Dark Mage 60016 (TEAM 1, FRONT, POS 1)] DamageDeal = 9845, DamageTaken = 12546.104, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: faa0299, count = 2
+	[1 (number)] = 1490 (number)
+	[2 (number)] = 8355 (number)
+
+	Damage taken by sources: Dictionary = table: 634ce1a6, count = 2
+	[1 (number)] = 6422 (number)
+	[2 (number)] = 6124.104 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 2e4e468f, count = 4
+	[2001 (number)] = 3483 (number)
+	[3001 (number)] = 813 (number)
+	[1001 (number)] = 677 (number)
+	[4001 (number)] = 4872 (number)
+
+	Damage taken history: Dictionary = table: 4f7901ca, count = 12
+	[4005 (number)] = 856 (number)
+	[1006 (number)] = 714 (number)
+	[4007 (number)] = 856 (number)
+	[3003 (number)] = 856 (number)
+	[3004 (number)] = 856 (number)
+	[3006 (number)] = 856 (number)
+	[2003 (number)] = 1222.368 (number)
+	[2005 (number)] = 1222.368 (number)
+	[2006 (number)] = 1222.368 (number)
+	[1002 (number)] = 714 (number)
+	[1003 (number)] = 714 (number)
+	[4004 (number)] = 2457 (number)
+
+	Stat changer buff created history: Dictionary = table: 10186c76, count = 1
+	[1 (number)] = 855 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 6535, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 145dfe02, count = 1
+	[2 (number)] = 6535 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 48fbb838, count = 1
+	[4004 (number)] = 6535 (number)
+
+	Stat changer debuff created history: Dictionary = table: 4f8b87bc, count = 1
+	[4 (number)] = 180 (number)
+
+[Dark Mage 60016 (TEAM 2, FRONT, POS 1)] DamageDeal = 4973, DamageTaken = 12441.68, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 1c2339e7, count = 2
+	[1 (number)] = 1490 (number)
+	[2 (number)] = 3483 (number)
+
+	Damage taken by sources: Dictionary = table: 6775798f, count = 2
+	[1 (number)] = 6210 (number)
+	[2 (number)] = 6231.68 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 725a2721, count = 3
+	[1002 (number)] = 677 (number)
+	[3003 (number)] = 813 (number)
+	[2005 (number)] = 3483 (number)
+
+	Damage taken history: Dictionary = table: 617fe8b1, count = 11
+	[1005 (number)] = 714 (number)
+	[3001 (number)] = 856 (number)
+	[3002 (number)] = 856 (number)
+	[3005 (number)] = 1071 (number)
+	[2001 (number)] = 1222.368 (number)
+	[2002 (number)] = 1222.368 (number)
+	[2004 (number)] = 1588.736 (number)
+	[1001 (number)] = 714 (number)
+	[4001 (number)] = 2198.208 (number)
+	[4002 (number)] = 1071 (number)
+	[1004 (number)] = 928 (number)
+
+	Stat changer buff created history: Dictionary = table: 64960978, count = 1
+	[1 (number)] = 426 (number)
+
+[Dark Mage 60016 (TEAM 2, FRONT, POS 2)] DamageDeal = 7876, DamageTaken = 12907.048, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2863bd64, count = 2
+	[1 (number)] = 2303 (number)
+	[2 (number)] = 5573 (number)
+
+	Damage taken by sources: Dictionary = table: b23f466, count = 2
+	[1 (number)] = 2140 (number)
+	[2 (number)] = 10767.048 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 1587afd3, count = 5
+	[2003 (number)] = 3251 (number)
+	[3004 (number)] = 813 (number)
+	[4005 (number)] = 813 (number)
+	[1003 (number)] = 677 (number)
+	[5003 (number)] = 2322 (number)
+
+	Damage taken history: Dictionary = table: 418ea9d2, count = 9
+	[4006 (number)] = 856 (number)
+	[6001 (number)] = 1284 (number)
+	[2001 (number)] = 1222.368 (number)
+	[5001 (number)] = 1222.368 (number)
+	[5002 (number)] = 1588.736 (number)
+	[2002 (number)] = 1222.368 (number)
+	[2004 (number)] = 1588.736 (number)
+	[4001 (number)] = 1465.472 (number)
+	[4003 (number)] = 2457 (number)
+
+	Stat changer buff created history: Dictionary = table: 7433b41a, count = 1
+	[1 (number)] = 852 (number)
+
+[Dark Mage 60016 (TEAM 1, FRONT, POS 2)] DamageDeal = 10141, DamageTaken = 9424.84, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 60a7fe3e, count = 2
+	[1 (number)] = 4336 (number)
+	[2 (number)] = 5805 (number)
+
+	Damage taken by sources: Dictionary = table: 48f63cce, count = 2
+	[1 (number)] = 856 (number)
+	[2 (number)] = 8568.84 (number)
+
+	NumberKill = 2, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 7c02dc3b, count = 7
+	[2002 (number)] = 3483 (number)
+	[7001 (number)] = 813 (number)
+	[4006 (number)] = 813 (number)
+	[6001 (number)] = 1220 (number)
+	[5001 (number)] = 2322 (number)
+	[1005 (number)] = 677 (number)
+	[3002 (number)] = 813 (number)
+
+	Damage taken history: Dictionary = table: 157834c5, count = 7
+	[4004 (number)] = 2457 (number)
+	[2003 (number)] = 1222.368 (number)
+	[2005 (number)] = 1222.368 (number)
+	[2006 (number)] = 1222.368 (number)
+	[6003 (number)] = 856 (number)
+	[5003 (number)] = 1222.368 (number)
+	[5004 (number)] = 1222.368 (number)
+
+	Stat changer buff created history: Dictionary = table: 4a716e5a, count = 1
+	[1 (number)] = 852 (number)
+
+
+<> WINNER: 1

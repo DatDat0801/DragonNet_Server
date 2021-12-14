@@ -1,0 +1,1776 @@
+
+<> SEED = 570403521
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 72
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)]
+star = 2
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 1
+attack = 529
+defense = 75
+hp = 8121/8121
+speed = 32
+critRate = 0.1
+critDamage = 1.5
+accuracy = 805
+dodge = 725
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 182da47c, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 766ce2f5, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 3f4b24d0, type = 403, initiator = [Lashna 10009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 1
+attack = 3242
+defense = 403
+hp = 43270/43270
+speed = 61
+critRate = 0.1
+critDamage = 1.65
+accuracy = 1098
+dodge = 988
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 50fab928, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 438a26b5, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 52600f7b, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 5756cfe6, type = 401, initiator = [Lashna 10009 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 6ac8943d, type = 411, initiator = [Lashna 10009 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 36716a43, type = 403, initiator = [Lashna 10009 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 1
+attack = 4089
+defense = 403
+hp = 34616/34616
+speed = 61
+critRate = 0.1
+critDamage = 1.65
+accuracy = 1098
+dodge = 988
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 78e5b85f, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 65a3a48e, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 30d1cf25, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 79ebb9d3, type = 401, initiator = [Lashna 10009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 172427fd, type = 411, initiator = [Lashna 10009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 4b64a8a3, type = 401, initiator = [Lashna 10009 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)]
+star = 1
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 1
+attack = 332
+defense = 47
+hp = 5091/5091
+speed = 26
+critRate = 0.1
+critDamage = 1.5
+accuracy = 732
+dodge = 659
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 51cd347a, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 75cc3ab1, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 6fdb6643, type = 403, initiator = [Lashna 10009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 1
+attack = 3242
+defense = 403
+hp = 43270/43270
+speed = 61
+critRate = 0.1
+critDamage = 1.65
+accuracy = 1098
+dodge = 988
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 77bc6f6b, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 4feafb02, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 5be749fc, type = 401, initiator = [Lashna 10009 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 174b028a, type = 411, initiator = [Lashna 10009 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 4361e03a, type = 403, initiator = [Lashna 10009 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 1
+attack = 3242
+defense = 403
+hp = 43270/43270
+speed = 61
+critRate = 0.1
+critDamage = 1.65
+accuracy = 1098
+dodge = 988
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 1b3229a5, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 7a7b3b96, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 356b3901, type = 401, initiator = [Lashna 10009 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 71b62e9b, type = 411, initiator = [Lashna 10009 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 398f03f, type = 403, initiator = [Lashna 10009 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Lashna 10009 (TEAM 1, FRONT, POS 1)] => [Lashna 10009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lashna 10009 (TEAM 2, FRONT, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lashna 10009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lashna 10009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 411, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 1), type = 411, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 411, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 411, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lashna 10009 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 1)] (hp = 0.392), TAKE 3096 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[BOUNCING] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0.945), TAKE 2383 damage, bouncingId = 1, numberBouncing = 1
+
+
+[BOUNCING] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 0.958), TAKE 1835 damage, bouncingId = 1, numberBouncing = 2
+
+
+[BOUNCING] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 1)] (hp = 0.114), TAKE 1413 damage, bouncingId = 1, numberBouncing = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 50fab928, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 78e5b85f, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 50fab928, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 78e5b85f, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0.114, power = 0.6
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.945, power = 0.5
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.958, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lashna 10009 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, FRONT, POS 1)] (hp = 0.372), TAKE 5096 damage, initiatorPower = 1, targetPower = 0.6 (CRIT)
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+[BOUNCING] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 0.909), TAKE 3923 damage, bouncingId = 1, numberBouncing = 1
+
+
+[BOUNCING] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 0.913), TAKE 3021 damage, bouncingId = 1, numberBouncing = 2
+
+
+[BOUNCING] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, FRONT, POS 1)] (hp = 0.086), TAKE 2326 damage, bouncingId = 1, numberBouncing = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 50fab928, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 78e5b85f, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0.114, power = 0.6
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.945, power = 0.5
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.958, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0.086, power = 0.6
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.909, power = 1
+- EFFECTS:
+id = table: 50fab928, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.913, power = 0.5
+- EFFECTS:
+id = table: 78e5b85f, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0.114, power = 0.6
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.945, power = 1
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.958, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lashna 10009 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 3906 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[DEAD_FOR_DISPLAY] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[BOUNCING] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0.875), TAKE 3007 damage, bouncingId = 1, numberBouncing = 1
+
+
+[BOUNCING] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 0.904), TAKE 2315 damage, bouncingId = 1, numberBouncing = 2
+
+
+[BOUNCING] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0.834), TAKE 1783 damage, bouncingId = 1, numberBouncing = 3
+
+
+[DEAD] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0.086, power = 0.6
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.909, power = 1
+- EFFECTS:
+id = table: 50fab928, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.913, power = 0.5
+- EFFECTS:
+id = table: 78e5b85f, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0.114, power = 0.6
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.945, power = 1
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.958, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0.086, power = 0.6
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.909, power = 1
+- EFFECTS:
+id = table: 50fab928, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.913, power = 1
+- EFFECTS:
+id = table: 78e5b85f, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.834, power = 1
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.904, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lashna 10009 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 3088 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[DEAD_FOR_DISPLAY] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[BOUNCING] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 0.854), TAKE 2377 damage, bouncingId = 1, numberBouncing = 1
+
+
+[BOUNCING] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 0.86), TAKE 1830 damage, bouncingId = 1, numberBouncing = 2
+
+
+[BOUNCING] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 0.822), TAKE 1409 damage, bouncingId = 1, numberBouncing = 3
+
+
+[DEAD] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0.086, power = 0.6
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.909, power = 1
+- EFFECTS:
+id = table: 50fab928, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.913, power = 1
+- EFFECTS:
+id = table: 78e5b85f, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.834, power = 1
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.904, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.822, power = 1
+- EFFECTS:
+id = table: 50fab928, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 78e5b85f, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.834, power = 1
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.904, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lashna 10009 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0.626), TAKE 9016 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 0.696), TAKE 9016 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0.626), type = 2, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.822, power = 1
+- EFFECTS:
+id = table: 50fab928, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 78e5b85f, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.834, power = 1
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.904, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.822, power = 0
+- EFFECTS:
+id = table: 50fab928, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 78e5b85f, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.626, power = 1
+- EFFECTS:
+id = table: 7bc34e09, type = 2, initiator = [Lashna 10009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 1296.8
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.696, power = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lashna 10009 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0.303), TAKE 11372 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[BREAK_FREEZE] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0.303), TAKE 2593 damage
+
+
+[REMOVE_EFFECT] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0.303), type = 2, persistentType = 1, isBuff = false
+
+
+[>>> ACTIVE_SKILL <<<] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 0.433), TAKE 11372 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.822, power = 0
+- EFFECTS:
+id = table: 50fab928, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.86, power = 1
+- EFFECTS:
+id = table: 78e5b85f, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.626, power = 1
+- EFFECTS:
+id = table: 7bc34e09, type = 2, initiator = [Lashna 10009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 1296.8
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.696, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.822, power = 0
+- EFFECTS:
+id = table: 50fab928, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 78e5b85f, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.303, power = 1
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.433, power = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lashna 10009 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 0.613), TAKE 9016 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 0.651), TAKE 7213 damage, initiatorPower = 0, targetPower = 0.1
+[Lashna 10009 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[RESIST_EFFECT] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0.303), effectType = 2
+
+
+[HEAL] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 0.793), HEAL 4906 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.822, power = 0
+- EFFECTS:
+id = table: 50fab928, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.86, power = 0
+- EFFECTS:
+id = table: 78e5b85f, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.303, power = 1
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.433, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.613, power = 0.1
+- EFFECTS:
+id = table: 50fab928, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.793, power = 0.1
+- EFFECTS:
+id = table: 78e5b85f, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.303, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.433, power = 1
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lashna 10009 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 0.405), TAKE 9016 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 0.533), TAKE 9016 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[RESIST_EFFECT] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 0.433), effectType = 2
+
+
+[HEAL] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 0.495), HEAL 3890 hp, reason = 1
+
+
+[RESIST_EFFECT] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 0.433), effectType = 2
+
+
+[HEAL] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 0.674), HEAL 4906 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.613, power = 0.1
+- EFFECTS:
+id = table: 50fab928, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.793, power = 0.1
+- EFFECTS:
+id = table: 78e5b85f, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.303, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.433, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.495, power = 0.2
+- EFFECTS:
+id = table: 50fab928, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.674, power = 0.2
+- EFFECTS:
+id = table: 78e5b85f, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.303, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.433, power = 0
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 0.495), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 0.674), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lashna 10009 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0.234), TAKE 2991 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[BOUNCING] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 0.38), TAKE 2303 damage, bouncingId = 2, numberBouncing = 1
+
+
+[BOUNCING] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0.193), TAKE 1773 damage, bouncingId = 2, numberBouncing = 2
+
+
+[BOUNCING] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 0.348), TAKE 1365 damage, bouncingId = 2, numberBouncing = 3
+
+
+[HEAL] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0.283), HEAL 3890 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.495, power = 0.2
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.674, power = 0.2
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.303, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.433, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.495, power = 0.7
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.674, power = 0.2
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.283, power = 0.1
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.348, power = 0
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lashna 10009 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 0.426), TAKE 2991 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+[BOUNCING] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 0.608), TAKE 2303 damage, bouncingId = 2, numberBouncing = 1
+
+
+[BOUNCING] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 0.385), TAKE 1773 damage, bouncingId = 2, numberBouncing = 2
+
+
+[BOUNCING] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 0.569), TAKE 1365 damage, bouncingId = 2, numberBouncing = 3
+
+
+[HEAL] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 0.475), HEAL 3890 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.495, power = 0.7
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.674, power = 0.2
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.283, power = 0.1
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.348, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.475, power = 0.8
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.569, power = 0.2
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.283, power = 0.6
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.348, power = 0
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lashna 10009 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0.196), TAKE 3772 damage, initiatorPower = 0.7, targetPower = 0.7
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[BOUNCING] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 0.281), TAKE 2904 damage, bouncingId = 2, numberBouncing = 1
+
+
+[BOUNCING] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0.144), TAKE 2236 damage, bouncingId = 2, numberBouncing = 2
+
+
+[BOUNCING] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 0.241), TAKE 1722 damage, bouncingId = 2, numberBouncing = 3
+
+
+[HEAL] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0.234), HEAL 3890 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.475, power = 0.8
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.569, power = 0.2
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.283, power = 0.6
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.348, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.475, power = 0.8
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.569, power = 0.7
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.234, power = 0.7
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.241, power = 0
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lashna 10009 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 0.406), TAKE 2991 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[BOUNCING] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 0.502), TAKE 2303 damage, bouncingId = 2, numberBouncing = 1
+
+
+[BOUNCING] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 0.365), TAKE 1773 damage, bouncingId = 2, numberBouncing = 2
+
+
+[BOUNCING] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 0.463), TAKE 1365 damage, bouncingId = 2, numberBouncing = 3
+
+
+[HEAL] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 0.455), HEAL 3890 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.475, power = 0.8
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.569, power = 0.7
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.234, power = 0.7
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.241, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.455, power = 0.9
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.463, power = 0.7
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.234, power = 0.7
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.241, power = 0.5
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lashna 10009 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0.165), TAKE 2991 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+[BOUNCING] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 0.188), TAKE 2303 damage, bouncingId = 3, numberBouncing = 1
+
+
+[BOUNCING] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0.124), TAKE 1773 damage, bouncingId = 3, numberBouncing = 2
+
+
+[BOUNCING] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 0.156), TAKE 1365 damage, bouncingId = 3, numberBouncing = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.455, power = 0.9
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.463, power = 0.7
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.234, power = 0.7
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.241, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.455, power = 1
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.463, power = 0.7
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.124, power = 0.8
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.156, power = 0.5
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lashna 10009 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 0.341), TAKE 4936 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+[BOUNCING] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 0.353), TAKE 3800 damage, bouncingId = 3, numberBouncing = 1
+
+
+[BOUNCING] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 0.273), TAKE 2926 damage, bouncingId = 3, numberBouncing = 2
+
+
+[BOUNCING] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 0.288), TAKE 2253 damage, bouncingId = 3, numberBouncing = 3
+
+
+[HEAL] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 0.363), HEAL 3890 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.455, power = 1
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.463, power = 0.7
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.124, power = 0.8
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.156, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.363, power = 1
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.288, power = 0.7
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.124, power = 1
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.156, power = 0.5
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lashna 10009 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0.037), TAKE 3772 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[BOUNCING] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 0.089), TAKE 2904 damage, bouncingId = 3, numberBouncing = 1
+
+
+[BOUNCING] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0), TAKE 2236 damage, bouncingId = 3, numberBouncing = 2
+
+
+[DEAD_FOR_DISPLAY] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 27
+
+
+[BOUNCING] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 0.05), TAKE 1722 damage, bouncingId = 3, numberBouncing = 3
+
+
+[DEAD] [Lashna 10009 (TEAM 1, BACK, POS 1)] => [Lashna 10009 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 27
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.363, power = 1
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.288, power = 0.7
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0.124, power = 1
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.156, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.363, power = 1
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.288, power = 1
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.05, power = 0.5
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lashna 10009 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 0.294), TAKE 2991 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.8
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[BOUNCING] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 0.221), TAKE 2303 damage, bouncingId = 3, numberBouncing = 1
+
+
+[BOUNCING] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 1, FRONT, POS 2)] (hp = 0.253), TAKE 1773 damage, bouncingId = 3, numberBouncing = 2
+
+
+[BOUNCING] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [Lashna 10009 (TEAM 1, BACK, POS 1)] (hp = 0.182), TAKE 1365 damage, bouncingId = 3, numberBouncing = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.363, power = 1
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.288, power = 1
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.05, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.253, power = 1
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.182, power = 1
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.05, power = 1
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lashna 10009 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 0), TAKE 14878 damage, initiatorPower = 0, targetPower = 0 (CRIT)
+
+
+[CHANGE_POWER] [Lashna 10009 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+[DEAD_FOR_DISPLAY] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 0), reason = 2
+
+
+[DEAD] [Lashna 10009 (TEAM 1, FRONT, POS 2)] => [Lashna 10009 (TEAM 2, FRONT, POS 3)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.253, power = 1
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.182, power = 1
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0.05, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.253, power = 0
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.182, power = 1
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 1, FRONT, POS 2)] hp = 0.253, power = 0
+
+> [Lashna 10009 (TEAM 1, BACK, POS 1)] hp = 0.182, power = 1
+- EFFECTS:
+id = table: 2aac7bef, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Lashna 10009 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+<> STATISTICS:
+[Lashna 10009 (TEAM 1, BACK, POS 1)] DamageDeal = 55023, DamageTaken = 19542.775, HpHeal = 9812, HpHealTaken = 9812
+	Damage dealt by sources: Dictionary = table: 58c77d6c, count = 3
+	[1 (number)] = 11450 (number)
+	[2 (number)] = 22744 (number)
+	[27 (number)] = 20829 (number)
+
+	Damage taken by sources: Dictionary = table: 3408e444, count = 1
+	[2 (number)] = 19542.775 (number)
+
+	Hp heal by sources: Dictionary = table: 748ad6a8, count = 1
+	[1 (number)] = 9812 (number)
+
+	Hp heal taken by sources: Dictionary = table: 15d86d36, count = 1
+	[1 (number)] = 9812 (number)
+
+	NumberKill = 2, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 76974efc, count = 4
+	[3003 (number)] = 10634 (number)
+	[2002 (number)] = 22744 (number)
+	[1003 (number)] = 11011 (number)
+	[4003 (number)] = 10634 (number)
+
+	Damage taken history: Dictionary = table: 5cebeae, count = 2
+	[2003 (number)] = 9771.388 (number)
+	[2004 (number)] = 9771.388 (number)
+
+	Hp heal history: Dictionary = table: 27d30729, count = 2
+	[2003 (number)] = 4906 (number)
+	[2004 (number)] = 4906 (number)
+
+	Hp heal taken history: Dictionary = table: 71347f38, count = 2
+	[2003 (number)] = 4906 (number)
+	[2004 (number)] = 4906 (number)
+
+[Lashna 10009 (TEAM 2, FRONT, POS 1)] DamageDeal = 0, DamageTaken = 7331, HpHeal = 0, HpHealTaken = 0
+	Damage taken by sources: Dictionary = table: 3d982f4c, count = 1
+	[1 (number)] = 7331 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage taken history: Dictionary = table: 4d53cd9f, count = 2
+	[1001 (number)] = 3242 (number)
+	[1003 (number)] = 4089 (number)
+
+[Lashna 10009 (TEAM 1, FRONT, POS 2)] DamageDeal = 61094, DamageTaken = 34618.074, HpHeal = 15560, HpHealTaken = 15560
+	Damage dealt by sources: Dictionary = table: 72866153, count = 4
+	[1 (number)] = 9078 (number)
+	[2 (number)] = 32910 (number)
+	[27 (number)] = 16513 (number)
+	[11 (number)] = 2593 (number)
+
+	Damage taken by sources: Dictionary = table: 20191d84, count = 2
+	[1 (number)] = 15075.3 (number)
+	[2 (number)] = 19542.775 (number)
+
+	Hp heal by sources: Dictionary = table: 5c87b484, count = 1
+	[1 (number)] = 15560 (number)
+
+	Hp heal taken by sources: Dictionary = table: f6bb5be, count = 1
+	[1 (number)] = 15560 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 4ea6d1f9, count = 6
+	[1001 (number)] = 8727 (number)
+	[2002 (number)] = 2593 (number)
+	[5001 (number)] = 14878 (number)
+	[4001 (number)] = 8432 (number)
+	[3001 (number)] = 8432 (number)
+	[2001 (number)] = 18032 (number)
+
+	Damage taken history: Dictionary = table: 26bb0094, count = 6
+	[4004 (number)] = 3242 (number)
+	[2003 (number)] = 9771.388 (number)
+	[3004 (number)] = 3242 (number)
+	[2004 (number)] = 9771.388 (number)
+	[4002 (number)] = 5349.3 (number)
+	[3002 (number)] = 3242 (number)
+
+	Hp heal history: Dictionary = table: 47f9b353, count = 4
+	[2004 (number)] = 3890 (number)
+	[4002 (number)] = 3890 (number)
+	[3004 (number)] = 3890 (number)
+	[3002 (number)] = 3890 (number)
+
+	Hp heal taken history: Dictionary = table: 15ed3857, count = 4
+	[2004 (number)] = 3890 (number)
+	[4002 (number)] = 3890 (number)
+	[3004 (number)] = 3890 (number)
+	[3002 (number)] = 3890 (number)
+
+	Effect created history: Dictionary = table: 6d3c1a0a, count = 1
+	[2 (number)] = 2 (number)
+
+[Lashna 10009 (TEAM 1, FRONT, POS 1)] DamageDeal = 0, DamageTaken = 8591.3, HpHeal = 0, HpHealTaken = 0
+	Damage taken by sources: Dictionary = table: 137d0899, count = 1
+	[1 (number)] = 8591.3 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage taken history: Dictionary = table: 1994528e, count = 2
+	[1002 (number)] = 5349.3 (number)
+	[1004 (number)] = 3242 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: 6547fe6b, count = 2
+	[501 (number)] = 4 (number)
+	[112 (number)] = 0 (number)
+
+[Lashna 10009 (TEAM 2, FRONT, POS 2)] DamageDeal = 52942, DamageTaken = 36757.633, HpHeal = 7780, HpHealTaken = 7780
+	Damage dealt by sources: Dictionary = table: 68264483, count = 3
+	[1 (number)] = 13023 (number)
+	[2 (number)] = 16229 (number)
+	[27 (number)] = 23690 (number)
+
+	Damage taken by sources: Dictionary = table: 1364b0de, count = 2
+	[1 (number)] = 14662 (number)
+	[2 (number)] = 22095.635 (number)
+
+	Hp heal by sources: Dictionary = table: 28df901e, count = 1
+	[1 (number)] = 7780 (number)
+
+	Hp heal taken by sources: Dictionary = table: 72b197c8, count = 1
+	[1 (number)] = 7780 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 28e9c741, count = 4
+	[1002 (number)] = 14366 (number)
+	[4002 (number)] = 13915 (number)
+	[2003 (number)] = 16229 (number)
+	[3002 (number)] = 8432 (number)
+
+	Damage taken history: Dictionary = table: 1e3d60c2, count = 6
+	[2002 (number)] = 12324.246 (number)
+	[3003 (number)] = 4089 (number)
+	[4001 (number)] = 3242 (number)
+	[3001 (number)] = 3242 (number)
+	[2001 (number)] = 9771.388 (number)
+	[4003 (number)] = 4089 (number)
+
+	Hp heal history: Dictionary = table: 4a365c7b, count = 2
+	[3001 (number)] = 3890 (number)
+	[3003 (number)] = 3890 (number)
+
+	Hp heal taken history: Dictionary = table: 34c78d22, count = 2
+	[3001 (number)] = 3890 (number)
+	[3003 (number)] = 3890 (number)
+
+[Lashna 10009 (TEAM 2, FRONT, POS 3)] DamageDeal = 43600, DamageTaken = 38218.426, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 52728734, count = 3
+	[1 (number)] = 9070 (number)
+	[2 (number)] = 18032 (number)
+	[27 (number)] = 16498 (number)
+
+	Damage taken by sources: Dictionary = table: 27bcd6c8, count = 1
+	[2 (number)] = 38218.426 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 5f9183c0, count = 4
+	[2004 (number)] = 18032 (number)
+	[3004 (number)] = 8432 (number)
+	[1004 (number)] = 8704 (number)
+	[4004 (number)] = 8432 (number)
+
+	Damage taken history: Dictionary = table: 57b7ab8d, count = 3
+	[2001 (number)] = 9771.388 (number)
+	[5001 (number)] = 16122.79 (number)
+	[2002 (number)] = 12324.246 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+
+<> WINNER: 1

@@ -1,0 +1,2181 @@
+
+<> SEED = 229481565
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 63
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)]
+star = 2
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 430
+defense = 52
+hp = 5512/5512
+speed = 35
+critRate = 0.1
+critDamage = 1.5
+accuracy = 805
+dodge = 805
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 4e72fcbf, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 413ffcfc, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2dc05cbf, type = 403, initiator = [Juan 60012 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 2632
+defense = 276
+hp = 29368/29368
+speed = 67
+critRate = 0.15
+critDamage = 1.75
+accuracy = 1098
+dodge = 1098
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 518d2c3c, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6febf2ed, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 197bebe, type = 401, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 14354fd5, type = 411, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 2c616da3, type = 410, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.05, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 843ae8f, type = 403, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 3319
+defense = 276
+hp = 23495/23495
+speed = 67
+critRate = 0.15
+critDamage = 1.75
+accuracy = 1098
+dodge = 1098
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 392d6317, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 4902f534, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 74454ff0, type = 401, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 5a259ef8, type = 411, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 8c27b70, type = 410, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.05, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 1e861911, type = 401, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)]
+star = 1
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 270
+defense = 33
+hp = 3456/3456
+speed = 29
+critRate = 0.1
+critDamage = 1.5
+accuracy = 732
+dodge = 732
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 8537bf0, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 7ef7e65c, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 56379409, type = 403, initiator = [Juan 60012 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 2632
+defense = 276
+hp = 29368/29368
+speed = 67
+critRate = 0.15
+critDamage = 1.75
+accuracy = 1098
+dodge = 1098
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: f885c72, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 1c172a88, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 5d93ea50, type = 401, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 10f31fb8, type = 411, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 5dd5aa18, type = 410, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.05, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 65751b09, type = 403, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 6
+attack = 2632
+defense = 276
+hp = 29368/29368
+speed = 67
+critRate = 0.15
+critDamage = 1.75
+accuracy = 1098
+dodge = 1098
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 3a303c7c, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 3236fa5d, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 42c30369, type = 401, initiator = [Juan 60012 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 26d672e9, type = 411, initiator = [Juan 60012 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+id = table: 1d3e7993, type = 410, initiator = [Juan 60012 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.05, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 78339840, type = 403, initiator = [Juan 60012 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Juan 60012 (TEAM 1, FRONT, POS 1)] => [Juan 60012 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 3)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Juan 60012 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Juan 60012 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 411, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 410, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 1), type = 411, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 1), type = 410, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Juan 60012 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Juan 60012 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 411, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 410, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 3)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 3)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 411, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 3)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 410, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 1)] (hp = 0.271), TAKE 2518 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0.271, power = 0.6
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 3175 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[DEAD_FOR_DISPLAY] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0.271, power = 0.6
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 1)] (hp = 0.544), TAKE 2513 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0.544, power = 0.6
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Juan 60012 (TEAM 2, FRONT, POS 3)] => [Juan 60012 (TEAM 1, FRONT, POS 1)] (hp = 0.088), TAKE 2513 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0.544, power = 0.6
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0.088, power = 0.7
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+TURN 5 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Juan 60012 (TEAM 1, FRONT, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.986), TAKE 401 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[ADD_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 1)] (hp = 0.088), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 627 damage, remainingRound = 3
+
+
+[DEAD_FOR_DISPLAY] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 13
+
+
+[DEAD] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 13
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0.088, power = 0.7
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18df8c7b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.986, power = 1
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.758), TAKE 6709 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[RESIST_EFFECT] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.758), effectType = 11
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18df8c7b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.986, power = 1
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18df8c7b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.758, power = 1
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 0.5), TAKE 11742 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+[ADD_EFFECT] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.758), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.732), TAKE 774 damage, remainingRound = 3
+
+
+[RESIST_EFFECT] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.732), effectType = 11
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18df8c7b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.758, power = 1
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18df8c7b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.5, power = 1
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.732, power = 0
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.496), TAKE 14807 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[RESIST_EFFECT] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.496), effectType = 11
+
+
+[ADD_EFFECT] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.496), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.433), TAKE 1859 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18df8c7b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.5, power = 1
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.732, power = 0
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18df8c7b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.5, power = 0
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.732, power = 0
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.433, power = 1
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.6
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Juan 60012 (TEAM 2, FRONT, POS 3)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 0.272), TAKE 5367 damage, initiatorPower = 0, targetPower = 0.1
+[Juan 60012 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[ADD_EFFECT] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.433), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.406), TAKE 774 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18df8c7b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.5, power = 0
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.732, power = 0
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.433, power = 1
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18df8c7b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 27493b7d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.272, power = 0.1
+- EFFECTS:
+id = table: 1c2d9e58, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.732, power = 0
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.406, power = 0
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 39156659, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 0.272), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 3 ----------
+
+[BLEED] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.705), TAKE 774 damage, remainingRound = 2
+
+
+[BLEED] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.343), TAKE 1859 damage, remainingRound = 2
+
+
+[BLEED] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.317), TAKE 774 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.621), TAKE 2458 damage, initiatorPower = 0.5, targetPower = 0.1
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[ADD_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 0.979), TAKE 614 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18df8c7b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.272, power = 0.1
+- EFFECTS:
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.705, power = 0
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.317, power = 0
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 39156659, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18df8c7b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.979, power = 0.5
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.272, power = 0.1
+- EFFECTS:
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 0.1
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.317, power = 0
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 39156659, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 0.895), TAKE 2458 damage, initiatorPower = 0.6, targetPower = 0.6
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+[ADD_EFFECT] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.621), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.601), TAKE 614 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.48
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18df8c7b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.979, power = 0.5
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.272, power = 0.1
+- EFFECTS:
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 0.1
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.317, power = 0
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 39156659, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18df8c7b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.895, power = 0.6
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.272, power = 0.1
+- EFFECTS:
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.601, power = 0.6
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7758a1b3, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.317, power = 0
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 39156659, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.495), TAKE 3099 damage, initiatorPower = 0.6, targetPower = 0.7
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.6
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+[ADD_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 0.272), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 0.246), TAKE 614 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18df8c7b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.895, power = 0.6
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.272, power = 0.1
+- EFFECTS:
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.601, power = 0.6
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7758a1b3, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.317, power = 0
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 39156659, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18df8c7b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.895, power = 0.6
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.246, power = 0.6
+- EFFECTS:
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6bb377bd, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.495, power = 0.7
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7758a1b3, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.317, power = 0
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 39156659, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Juan 60012 (TEAM 2, FRONT, POS 3)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 0.812), TAKE 2458 damage, initiatorPower = 0.5, targetPower = 0.7
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.54
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.62
+
+
+[ADD_EFFECT] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.317), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.296), TAKE 614 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18df8c7b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.895, power = 0.6
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.246, power = 0.6
+- EFFECTS:
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6bb377bd, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.495, power = 0.7
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7758a1b3, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.317, power = 0
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 39156659, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 18df8c7b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.812, power = 0.7
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.246, power = 0.6
+- EFFECTS:
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6bb377bd, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.495, power = 0.7
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7758a1b3, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.296, power = 0.5
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 39156659, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7986f33c, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 4 ----------
+
+[BLEED] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 0.791), TAKE 614 damage, remainingRound = 2
+
+
+[BLEED] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 0.22), TAKE 614 damage, remainingRound = 2
+
+
+[BLEED] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.469), TAKE 774 damage, remainingRound = 1
+
+
+[BLEED] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.448), TAKE 614 damage, remainingRound = 2
+
+
+[BLEED] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.232), TAKE 1859 damage, remainingRound = 1
+
+
+[BLEED] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.206), TAKE 774 damage, remainingRound = 1
+
+
+[BLEED] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.185), TAKE 614 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.364), TAKE 2458 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.72
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[ADD_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 0.791), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 0.77), TAKE 614 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.791, power = 0.7
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.22, power = 0.6
+- EFFECTS:
+id = table: 6bb377bd, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.448, power = 0.7
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7758a1b3, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.185, power = 0.5
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 39156659, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7986f33c, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.77, power = 1
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 48304261, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.22, power = 0.6
+- EFFECTS:
+id = table: 6bb377bd, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.364, power = 0.8
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7758a1b3, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.185, power = 0.5
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 39156659, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7986f33c, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.259), TAKE 3099 damage, initiatorPower = 1, targetPower = 0.9
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+[ADD_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 0.22), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 0.193), TAKE 614 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.77, power = 1
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 48304261, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.22, power = 0.6
+- EFFECTS:
+id = table: 6bb377bd, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.364, power = 0.8
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7758a1b3, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.185, power = 0.5
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 39156659, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7986f33c, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.77, power = 1
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 48304261, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.193, power = 1
+- EFFECTS:
+id = table: 6bb377bd, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7ad727ed, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.259, power = 0.9
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7758a1b3, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.185, power = 0.5
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 39156659, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7986f33c, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 0.623), TAKE 4302 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.84
+
+
+[ADD_EFFECT] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.259), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.238), TAKE 614 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 0.623), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 0.573), TAKE 1474 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.77, power = 1
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 48304261, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.193, power = 1
+- EFFECTS:
+id = table: 6bb377bd, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7ad727ed, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.259, power = 0.9
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7758a1b3, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.185, power = 0.5
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 39156659, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7986f33c, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.573, power = 1
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 48304261, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: a29a995, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.6
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.193, power = 1
+- EFFECTS:
+id = table: 6bb377bd, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7ad727ed, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.238, power = 1
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7758a1b3, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 4478a4ff, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.185, power = 0.5
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 39156659, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7986f33c, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Juan 60012 (TEAM 2, FRONT, POS 3)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 0.49), TAKE 2458 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.78
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.86
+
+
+[ADD_EFFECT] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.185), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.164), TAKE 614 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.573, power = 1
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 48304261, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: a29a995, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.6
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.193, power = 1
+- EFFECTS:
+id = table: 6bb377bd, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7ad727ed, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.238, power = 1
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7758a1b3, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 4478a4ff, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.185, power = 0.5
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 39156659, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7986f33c, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.49, power = 1
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 48304261, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: a29a995, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.6
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.193, power = 1
+- EFFECTS:
+id = table: 6bb377bd, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7ad727ed, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.238, power = 1
+- EFFECTS:
+id = table: 42dd1c42, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7758a1b3, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 4478a4ff, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.164, power = 1
+- EFFECTS:
+id = table: 57097fca, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 39156659, type = 11, initiator = [Juan 60012 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7986f33c, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: e91c55b, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+
+---------- AFTER ROUND 4 ----------
+
+[REMOVE_EFFECT] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.238), type = 11, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.164), type = 11, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.164), type = 11, persistentType = 1, isBuff = false
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 5 ----------
+
+[BLEED] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 0.469), TAKE 614 damage, remainingRound = 1
+
+
+[BLEED] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 0.448), TAKE 614 damage, remainingRound = 2
+
+
+[BLEED] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 0.398), TAKE 1474 damage, remainingRound = 2
+
+
+[BLEED] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 0.167), TAKE 614 damage, remainingRound = 1
+
+
+[BLEED] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 0.141), TAKE 614 damage, remainingRound = 2
+
+
+[BLEED] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.217), TAKE 614 damage, remainingRound = 1
+
+
+[BLEED] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0.196), TAKE 614 damage, remainingRound = 2
+
+
+[BLEED] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.143), TAKE 614 damage, remainingRound = 1
+
+
+[BLEED] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0.122), TAKE 614 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0), TAKE 6709 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.8
+
+
+[DEAD_FOR_DISPLAY] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0), reason = 2
+
+
+[ADD_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 3)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 0.398), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Juan 60012 (TEAM 2, FRONT, POS 3)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 0.377), TAKE 614 damage, remainingRound = 3
+
+
+[DEAD] [Juan 60012 (TEAM 1, FRONT, POS 2)] => [Juan 60012 (TEAM 2, FRONT, POS 3)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.398, power = 1
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 48304261, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: a29a995, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.6
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.141, power = 1
+- EFFECTS:
+id = table: 6bb377bd, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7ad727ed, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.196, power = 1
+- EFFECTS:
+id = table: 7758a1b3, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 4478a4ff, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0.122, power = 1
+- EFFECTS:
+id = table: 7986f33c, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: e91c55b, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.377, power = 0
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 48304261, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: a29a995, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 4d3a732b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.141, power = 1
+- EFFECTS:
+id = table: 6bb377bd, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7ad727ed, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.196, power = 1
+- EFFECTS:
+id = table: 7758a1b3, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 4478a4ff, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Juan 60012 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0), TAKE 8461 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+[DEAD_FOR_DISPLAY] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 2
+
+
+[ADD_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 0.141), type = 11, persistentType = 1, isBuff = false
+
+
+[BLEED] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 0.115), TAKE 614 damage, remainingRound = 3
+
+
+[DEAD] [Juan 60012 (TEAM 1, BACK, POS 1)] => [Juan 60012 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.377, power = 0
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 48304261, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: a29a995, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 4d3a732b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.141, power = 1
+- EFFECTS:
+id = table: 6bb377bd, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7ad727ed, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0.196, power = 1
+- EFFECTS:
+id = table: 7758a1b3, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 4478a4ff, type = 11, initiator = [Juan 60012 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.377, power = 0
+- EFFECTS:
+id = table: 5d4d9954, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 48304261, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: a29a995, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 4d3a732b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.115, power = 0
+- EFFECTS:
+id = table: 6bb377bd, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 7ad727ed, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: a180e18, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.25
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 5 ----------
+
+[REMOVE_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, FRONT, POS 2)] (hp = 0.377), type = 11, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Juan 60012 (TEAM 2, FRONT, POS 2)] => [Juan 60012 (TEAM 1, BACK, POS 1)] (hp = 0.115), type = 11, persistentType = 1, isBuff = false
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Juan 60012 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 1, FRONT, POS 2)] hp = 0.377, power = 0
+- EFFECTS:
+id = table: 48304261, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: a29a995, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.6
+id = table: 4d3a732b, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 3)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+
+> [Juan 60012 (TEAM 1, BACK, POS 1)] hp = 0.115, power = 0
+- EFFECTS:
+id = table: 7ad727ed, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: a180e18, type = 11, initiator = [Juan 60012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.25
+id = table: 2073a12d, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Juan 60012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Juan 60012 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+<> STATISTICS:
+[Juan 60012 (TEAM 1, FRONT, POS 2)] DamageDeal = 26992, DamageTaken = 19608.4, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: bc61cf8, count = 3
+	[1 (number)] = 7434 (number)
+	[2 (number)] = 13418 (number)
+	[13 (number)] = 6140 (number)
+
+	Damage taken by sources: Dictionary = table: b7dbbc6, count = 2
+	[13 (number)] = 7106.4 (number)
+	[1 (number)] = 12502 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 15c032a9, count = 11
+	[3001 (number)] = 2458 (number)
+	[3002 (number)] = 614 (number)
+	[3004 (number)] = 614 (number)
+	[5000 (number)] = 2456 (number)
+	[2001 (number)] = 6709 (number)
+	[5001 (number)] = 6709 (number)
+	[4000 (number)] = 1228 (number)
+	[4001 (number)] = 2458 (number)
+	[1001 (number)] = 2518 (number)
+	[4003 (number)] = 614 (number)
+	[4004 (number)] = 614 (number)
+
+	Damage taken history: Dictionary = table: 5fe296c7, count = 9
+	[3001 (number)] = 658 (number)
+	[3002 (number)] = 2632 (number)
+	[3004 (number)] = 2632 (number)
+	[5000 (number)] = 2895.2 (number)
+	[5001 (number)] = 658 (number)
+	[4000 (number)] = 658 (number)
+	[4001 (number)] = 658 (number)
+	[4003 (number)] = 6185.2 (number)
+	[4004 (number)] = 2632 (number)
+
+	Effect created history: Dictionary = table: 64f8601f, count = 1
+	[11 (number)] = 12 (number)
+
+[Juan 60012 (TEAM 1, BACK, POS 1)] DamageDeal = 42862, DamageTaken = 23700.502, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2bd44cd, count = 3
+	[1 (number)] = 9373 (number)
+	[2 (number)] = 23268 (number)
+	[13 (number)] = 10221 (number)
+
+	Damage taken by sources: Dictionary = table: 16fc7b49, count = 2
+	[2 (number)] = 19752.502 (number)
+	[13 (number)] = 3948 (number)
+
+	NumberKill = 2, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 5de393ff, count = 9
+	[3000 (number)] = 3407 (number)
+	[3003 (number)] = 3099 (number)
+	[2002 (number)] = 774 (number)
+	[5002 (number)] = 8461 (number)
+	[2003 (number)] = 16666 (number)
+	[2004 (number)] = 774 (number)
+	[4000 (number)] = 3407 (number)
+	[4002 (number)] = 3099 (number)
+	[1002 (number)] = 3175 (number)
+
+	Damage taken history: Dictionary = table: 7abce8c4, count = 7
+	[2002 (number)] = 12569.774 (number)
+	[3003 (number)] = 658 (number)
+	[2004 (number)] = 7182.728 (number)
+	[5000 (number)] = 1316 (number)
+	[4000 (number)] = 658 (number)
+	[5002 (number)] = 658 (number)
+	[4002 (number)] = 658 (number)
+
+	Effect created history: Dictionary = table: 124f5072, count = 1
+	[11 (number)] = 9 (number)
+
+[Juan 60012 (TEAM 2, FRONT, POS 2)] DamageDeal = 31344, DamageTaken = 34351.527, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 671c4741, count = 3
+	[1 (number)] = 9273 (number)
+	[2 (number)] = 11742 (number)
+	[13 (number)] = 10329 (number)
+
+	Damage taken by sources: Dictionary = table: 26a15c36, count = 3
+	[1 (number)] = 12332 (number)
+	[2 (number)] = 16240.279 (number)
+	[13 (number)] = 5779.25 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 3bc67aee, count = 12
+	[1005 (number)] = 627 (number)
+	[3001 (number)] = 614 (number)
+	[3002 (number)] = 2458 (number)
+	[3003 (number)] = 614 (number)
+	[5000 (number)] = 3930 (number)
+	[2002 (number)] = 11742 (number)
+	[5002 (number)] = 614 (number)
+	[4000 (number)] = 1228 (number)
+	[4001 (number)] = 614 (number)
+	[4002 (number)] = 614 (number)
+	[1003 (number)] = 2513 (number)
+	[4003 (number)] = 5776 (number)
+
+	Damage taken history: Dictionary = table: 53627124, count = 13
+	[1005 (number)] = 430 (number)
+	[3000 (number)] = 829.75 (number)
+	[3001 (number)] = 2632 (number)
+	[3002 (number)] = 658 (number)
+	[3003 (number)] = 3319 (number)
+	[5000 (number)] = 1316 (number)
+	[2001 (number)] = 7182.728 (number)
+	[2002 (number)] = 829.75 (number)
+	[5002 (number)] = 9057.551 (number)
+	[4000 (number)] = 1487.75 (number)
+	[4001 (number)] = 2632 (number)
+	[4002 (number)] = 3319 (number)
+	[4003 (number)] = 658 (number)
+
+	Effect created history: Dictionary = table: 56c11246, count = 1
+	[11 (number)] = 21 (number)
+
+[Juan 60012 (TEAM 2, FRONT, POS 1)] DamageDeal = 0, DamageTaken = 5951, HpHeal = 0, HpHealTaken = 0
+	Damage taken by sources: Dictionary = table: 7a2da444, count = 1
+	[1 (number)] = 5951 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage taken history: Dictionary = table: 7234b0e5, count = 2
+	[1001 (number)] = 2632 (number)
+	[1002 (number)] = 3319 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: 329f04d6, count = 2
+	[501 (number)] = 4 (number)
+	[112 (number)] = 0 (number)
+
+[Juan 60012 (TEAM 1, FRONT, POS 1)] DamageDeal = 401, DamageTaken = 5922, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 6c1273e1, count = 1
+	[1 (number)] = 401 (number)
+
+	Damage taken by sources: Dictionary = table: 7b0ae5a3, count = 2
+	[1 (number)] = 5264 (number)
+	[13 (number)] = 658 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 2c6ed1bf, count = 1
+	[1005 (number)] = 401 (number)
+
+	Damage taken history: Dictionary = table: 661dd950, count = 3
+	[1005 (number)] = 658 (number)
+	[1003 (number)] = 2632 (number)
+	[1004 (number)] = 2632 (number)
+
+[Juan 60012 (TEAM 2, FRONT, POS 3)] DamageDeal = 13410, DamageTaken = 34786.89, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 19ef3309, count = 3
+	[1 (number)] = 7429 (number)
+	[2 (number)] = 5367 (number)
+	[13 (number)] = 614 (number)
+
+	Damage taken by sources: Dictionary = table: 3564fa6a, count = 2
+	[2 (number)] = 23033.441 (number)
+	[13 (number)] = 11753.45 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6fdd3650, count = 5
+	[4004 (number)] = 2458 (number)
+	[3004 (number)] = 2458 (number)
+	[2004 (number)] = 5367 (number)
+	[1004 (number)] = 2513 (number)
+	[5001 (number)] = 614 (number)
+
+	Damage taken history: Dictionary = table: 6702b5a2, count = 8
+	[4004 (number)] = 658 (number)
+	[2003 (number)] = 17842.113 (number)
+	[3004 (number)] = 658 (number)
+	[2004 (number)] = 829.75 (number)
+	[5000 (number)] = 1316 (number)
+	[4000 (number)] = 3479.15 (number)
+	[5001 (number)] = 7182.728 (number)
+	[3000 (number)] = 2821.15 (number)
+
+	Effect created history: Dictionary = table: 795b530, count = 1
+	[11 (number)] = 3 (number)
+
+
+<> WINNER: 1

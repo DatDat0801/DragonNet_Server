@@ -1,0 +1,2358 @@
+
+<> SEED = 721139408
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 108
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)]
+star = 2
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 2
+attack = 764
+defense = 109
+hp = 12420/12420
+speed = 39
+critRate = 0.1
+critDamage = 1.5
+accuracy = 886
+dodge = 886
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 344ae864, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 169b5e70, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 16886666, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 23eee0da, type = 403, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 2
+attack = 4887
+defense = 582
+hp = 71473/71473
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1208
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.09
+power = 50/100
+
+- EFFECTS:
+id = table: 7562a51b, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 6dfac1c8, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 38143147, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 58be1123, type = 403, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: a2855e2, type = 401, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 31e721ee, type = 441, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.05, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 21de635d, type = 403, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)]
+star = 1
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 2
+attack = 479
+defense = 68
+hp = 7786/7786
+speed = 32
+critRate = 0.1
+critDamage = 1.5
+accuracy = 805
+dodge = 805
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: ff8bba, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 48305902, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2860b09c, type = 403, initiator = [Fragnil 20009 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 2
+attack = 4887
+defense = 582
+hp = 71473/71473
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1208
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.09
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 6d19556d, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 11c7b12f, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 5b75125c, type = 403, initiator = [Fragnil 20009 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1c2f35a8, type = 401, initiator = [Fragnil 20009 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 3bbaa97d, type = 441, initiator = [Fragnil 20009 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.05, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 40d0f9bb, type = 403, initiator = [Fragnil 20009 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [Fragnil 20009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Fragnil 20009 (TEAM 2, FRONT, POS 1)] => [Fragnil 20009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Fragnil 20009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Fragnil 20009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Fragnil 20009 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 1)] (hp = 0.581), TAKE 3261 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.959), TAKE 2941 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 344ae864, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 7562a51b, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 344ae864, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 7562a51b, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0.581, power = 0.6
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.959, power = 0.6
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 1)] (hp = 0.738), TAKE 3248 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.959), TAKE 2941 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+[RESIST_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.959), effectType = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 344ae864, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 7562a51b, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0.581, power = 0.6
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.959, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.738, power = 0.6
+- EFFECTS:
+id = table: 344ae864, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.959, power = 1
+- EFFECTS:
+id = table: 7562a51b, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0.581, power = 0.6
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.959, power = 1
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [Fragnil 20009 (TEAM 2, FRONT, POS 1)] (hp = 0.516), TAKE 509 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.16
+
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.952), TAKE 459 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.18
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.738, power = 0.6
+- EFFECTS:
+id = table: 344ae864, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.959, power = 1
+- EFFECTS:
+id = table: 7562a51b, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0.581, power = 0.6
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.959, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.738, power = 1
+- EFFECTS:
+id = table: 344ae864, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.959, power = 1
+- EFFECTS:
+id = table: 7562a51b, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0.516, power = 0.7
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.952, power = 1
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 1)] => [Fragnil 20009 (TEAM 1, FRONT, POS 1)] (hp = 0.713), TAKE 317 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 1)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.955), TAKE 287 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.738, power = 1
+- EFFECTS:
+id = table: 344ae864, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.959, power = 1
+- EFFECTS:
+id = table: 7562a51b, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0.516, power = 0.7
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.952, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.713, power = 1
+- EFFECTS:
+id = table: 344ae864, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.955, power = 1
+- EFFECTS:
+id = table: 7562a51b, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0.516, power = 1
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.952, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 4240 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[DEAD_FOR_DISPLAY] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.899), TAKE 3823 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[ADD_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.899), type = 12, persistentType = 1, isBuff = false
+
+
+[BURN_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.881), TAKE 1260 damage, remainingRound = 3
+
+
+[DEAD] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.713, power = 1
+- EFFECTS:
+id = table: 344ae864, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.955, power = 1
+- EFFECTS:
+id = table: 7562a51b, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0.516, power = 1
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.952, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.713, power = 1
+- EFFECTS:
+id = table: 344ae864, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.955, power = 0
+- EFFECTS:
+id = table: 7562a51b, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.881, power = 1
+- EFFECTS:
+id = table: 175839ec, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 1)] (hp = 0.373), TAKE 4223 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.901), TAKE 3823 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[RESIST_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.881), effectType = 12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.713, power = 1
+- EFFECTS:
+id = table: 344ae864, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.955, power = 0
+- EFFECTS:
+id = table: 7562a51b, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.881, power = 1
+- EFFECTS:
+id = table: 175839ec, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.373, power = 1
+- EFFECTS:
+id = table: 344ae864, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.901, power = 0.1
+- EFFECTS:
+id = table: 7562a51b, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.881, power = 0
+- EFFECTS:
+id = table: 175839ec, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.873), TAKE 597 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[ADD_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.873), type = 12, persistentType = 1, isBuff = false
+
+
+[BURN_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.87), TAKE 196 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.373, power = 1
+- EFFECTS:
+id = table: 344ae864, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.901, power = 0.1
+- EFFECTS:
+id = table: 7562a51b, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.881, power = 0
+- EFFECTS:
+id = table: 175839ec, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.373, power = 0
+- EFFECTS:
+id = table: 344ae864, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.901, power = 0.1
+- EFFECTS:
+id = table: 7562a51b, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.87, power = 0.1
+- EFFECTS:
+id = table: 175839ec, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 64cc2ea9, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Fragnil 20009 (TEAM 1, FRONT, POS 1)] (hp = 0.373), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.901), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 3 ----------
+
+[BURN_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.853), TAKE 1260 damage, remainingRound = 2
+
+
+[BURN_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.85), TAKE 196 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.788), TAKE 4412 damage, initiatorPower = 0.6, targetPower = 0.2 (CRIT)
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[ADD_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.788), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.373, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.901, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.85, power = 0.1
+- EFFECTS:
+id = table: 175839ec, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 64cc2ea9, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.373, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.901, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.788, power = 0.2
+- EFFECTS:
+id = table: 175839ec, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 64cc2ea9, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 1abd5ed, type = 1, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.782), TAKE 459 damage, initiatorPower = 0.5, targetPower = 0.3
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.373, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.901, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.788, power = 0.2
+- EFFECTS:
+id = table: 175839ec, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 64cc2ea9, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 1abd5ed, type = 1, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.373, power = 0.5
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.901, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.782, power = 0.3
+- EFFECTS:
+id = table: 175839ec, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 64cc2ea9, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 1abd5ed, type = 1, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 4 ----------
+
+[BURN_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.764), TAKE 1260 damage, remainingRound = 1
+
+
+[BURN_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.761), TAKE 196 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.72), TAKE 2941 damage, initiatorPower = 1, targetPower = 0.4
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.62
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.373, power = 0.5
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.901, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.761, power = 0.3
+- EFFECTS:
+id = table: 175839ec, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 64cc2ea9, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 1abd5ed, type = 1, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.373, power = 0.5
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.901, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.72, power = 0.4
+- EFFECTS:
+id = table: 175839ec, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 64cc2ea9, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 1abd5ed, type = 1, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.714), TAKE 459 damage, initiatorPower = 1, targetPower = 0.5
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.72
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.373, power = 0.5
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.901, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.72, power = 0.4
+- EFFECTS:
+id = table: 175839ec, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 64cc2ea9, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 1abd5ed, type = 1, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.373, power = 1
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.901, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.714, power = 0.5
+- EFFECTS:
+id = table: 175839ec, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 64cc2ea9, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 1abd5ed, type = 1, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+---------- AFTER ROUND 4 ----------
+
+[REMOVE_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.714), type = 12, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.714), type = 12, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.714), type = 1, persistentType = 1, isBuff = false
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.66), TAKE 3823 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+[ADD_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.66), type = 12, persistentType = 1, isBuff = false
+
+
+[BURN_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.643), TAKE 1260 damage, remainingRound = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.373, power = 1
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.901, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.714, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.373, power = 1
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.901, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.643, power = 0.6
+- EFFECTS:
+id = table: 6f3475e4, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 1)] (hp = 0.111), TAKE 3248 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.54
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.74
+
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.86), TAKE 2941 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.76
+
+
+[ADD_EFFECT] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 1)] (hp = 0.111), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.373, power = 1
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.901, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.643, power = 0.6
+- EFFECTS:
+id = table: 6f3475e4, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.111, power = 1
+- EFFECTS:
+id = table: 3975a6b7, type = 1, initiator = [Fragnil 20009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.86, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.643, power = 1
+- EFFECTS:
+id = table: 6f3475e4, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 6 ----------
+
+[BURN_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.625), TAKE 1260 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.584), TAKE 2941 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.86
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.111, power = 1
+- EFFECTS:
+id = table: 3975a6b7, type = 1, initiator = [Fragnil 20009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.86, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.625, power = 1
+- EFFECTS:
+id = table: 6f3475e4, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.111, power = 1
+- EFFECTS:
+id = table: 3975a6b7, type = 1, initiator = [Fragnil 20009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.86, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.584, power = 1
+- EFFECTS:
+id = table: 6f3475e4, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 4223 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.88
+
+
+[DEAD_FOR_DISPLAY] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.807), TAKE 3823 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.9
+
+
+[DEAD] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0.111, power = 1
+- EFFECTS:
+id = table: 3975a6b7, type = 1, initiator = [Fragnil 20009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.86, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.584, power = 1
+- EFFECTS:
+id = table: 6f3475e4, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.807, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.584, power = 0
+- EFFECTS:
+id = table: 6f3475e4, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 7 ----------
+
+[BURN_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.566), TAKE 1260 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.525), TAKE 2941 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.807, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.566, power = 0
+- EFFECTS:
+id = table: 6f3475e4, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.807, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.525, power = 0.1
+- EFFECTS:
+id = table: 6f3475e4, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.496), TAKE 2112 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.6
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.496), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.807, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.525, power = 0.1
+- EFFECTS:
+id = table: 6f3475e4, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.807, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.496, power = 0.2
+- EFFECTS:
+id = table: 6f3475e4, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 3cc97e56, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.766), TAKE 2941 damage, initiatorPower = 0.7, targetPower = 1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.807, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.496, power = 0.2
+- EFFECTS:
+id = table: 6f3475e4, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 3cc97e56, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.766, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.496, power = 0.7
+- EFFECTS:
+id = table: 6f3475e4, type = 12, initiator = [Fragnil 20009 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.3
+id = table: 3cc97e56, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 7 ----------
+
+[REMOVE_EFFECT] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.496), type = 12, persistentType = 1, isBuff = false
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.415), TAKE 5735 damage, initiatorPower = 0, targetPower = 0.8 (CRIT)
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.766, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.496, power = 0.7
+- EFFECTS:
+id = table: 3cc97e56, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.766, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.415, power = 0.8
+- EFFECTS:
+id = table: 3cc97e56, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.724), TAKE 2941 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.04
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.766, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.415, power = 0.8
+- EFFECTS:
+id = table: 3cc97e56, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.04
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.724, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.415, power = 1
+- EFFECTS:
+id = table: 3cc97e56, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 9
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.374), TAKE 2941 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.04
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.724, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.415, power = 1
+- EFFECTS:
+id = table: 3cc97e56, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.724, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.374, power = 1
+- EFFECTS:
+id = table: 3cc97e56, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.671), TAKE 3823 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.724, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.374, power = 1
+- EFFECTS:
+id = table: 3cc97e56, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.671, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.374, power = 0
+- EFFECTS:
+id = table: 3cc97e56, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 9 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.374), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 10
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.333), TAKE 2941 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.671, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.374, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.671, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.333, power = 0.1
+
+
+TURN 2 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.63), TAKE 2941 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.96
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.671, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.333, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.63, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.333, power = 0.6
+
+
+ROUND 11
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.28), TAKE 3823 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.63, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.333, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.63, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.28, power = 0.7
+
+
+TURN 2 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.589), TAKE 2941 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[ADD_EFFECT] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.589), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.63, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.28, power = 0.7
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.589, power = 0.1
+- EFFECTS:
+id = table: 6312c09f, type = 1, initiator = [Fragnil 20009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.28, power = 1
+
+
+TURN 3 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.559), TAKE 2112 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.559), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.589, power = 0.1
+- EFFECTS:
+id = table: 6312c09f, type = 1, initiator = [Fragnil 20009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.28, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.559, power = 0.2
+- EFFECTS:
+id = table: 6312c09f, type = 1, initiator = [Fragnil 20009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+id = table: 2fc5124c, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.28, power = 1
+
+
+ROUND 12
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.506), TAKE 3823 damage, initiatorPower = 0, targetPower = 0.3
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.559, power = 0.2
+- EFFECTS:
+id = table: 6312c09f, type = 1, initiator = [Fragnil 20009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 2fc5124c, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.28, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.506, power = 0.3
+- EFFECTS:
+id = table: 6312c09f, type = 1, initiator = [Fragnil 20009 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 2fc5124c, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.28, power = 0
+
+
+---------- AFTER ROUND 12 ----------
+
+[REMOVE_EFFECT] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.506), type = 1, persistentType = 1, isBuff = false
+
+
+ROUND 13
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 13)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.464), TAKE 2941 damage, initiatorPower = 0.5, targetPower = 0.4
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.506, power = 0.3
+- EFFECTS:
+id = table: 2fc5124c, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.28, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.464, power = 0.4
+- EFFECTS:
+id = table: 2fc5124c, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.28, power = 0.5
+
+
+TURN 2 (ROUND 13)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.238), TAKE 2941 damage, initiatorPower = 0.9, targetPower = 0.6
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.464, power = 0.4
+- EFFECTS:
+id = table: 2fc5124c, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.28, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.464, power = 0.9
+- EFFECTS:
+id = table: 2fc5124c, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.238, power = 0.6
+
+
+---------- AFTER ROUND 13 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.464), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 14
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 14)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.177), TAKE 4412 damage, initiatorPower = 1, targetPower = 0.7 (CRIT)
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.464, power = 0.9
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.238, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.464, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.177, power = 0.7
+
+
+TURN 2 (ROUND 14)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.423), TAKE 2941 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.58
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.464, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.177, power = 0.7
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.423, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.177, power = 1
+
+
+ROUND 15
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 15)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [Fragnil 20009 (TEAM 2, FRONT, POS 2)] (hp = 0.123), TAKE 3823 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.423, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.177, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.423, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.123, power = 1
+
+
+TURN 2 (ROUND 15)
+--------------------------------------------------------------------------------
+<> INITIATOR [Fragnil 20009 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Fragnil 20009 (TEAM 2, FRONT, POS 2)] => [Fragnil 20009 (TEAM 1, FRONT, POS 2)] (hp = 0.37), TAKE 3823 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Fragnil 20009 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.6
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.423, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.123, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.37, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.123, power = 0
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 1, FRONT, POS 2)] hp = 0.37, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Fragnil 20009 (TEAM 2, FRONT, POS 2)] hp = 0.123, power = 0
+
+<> STATISTICS:
+[SummonerMage (TEAM 1)] DamageDeal = 2112, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 3b11591d, count = 1
+	[2 (number)] = 2112 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 4c5dabe7, count = 1
+	[7002 (number)] = 2112 (number)
+
+	Effect created history: Dictionary = table: 393e8ccb, count = 1
+	[501 (number)] = 4 (number)
+
+	Stat changer debuff created history: Dictionary = table: 3eeeaed2, count = 1
+	[4 (number)] = 60 (number)
+
+[Fragnil 20009 (TEAM 1, FRONT, POS 1)] DamageDeal = 3071, DamageTaken = 16071.44, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: f86d1a3, count = 3
+	[1 (number)] = 1886 (number)
+	[2 (number)] = 597 (number)
+	[14 (number)] = 588 (number)
+
+	Damage taken by sources: Dictionary = table: 2e254127, count = 2
+	[1 (number)] = 7177.1 (number)
+	[2 (number)] = 8894.34 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 63b0d8fc, count = 6
+	[2003 (number)] = 793 (number)
+	[1003 (number)] = 968 (number)
+	[4000 (number)] = 196 (number)
+	[3000 (number)] = 196 (number)
+	[4002 (number)] = 459 (number)
+	[3002 (number)] = 459 (number)
+
+	Damage taken history: Dictionary = table: 28e37266, count = 5
+	[2002 (number)] = 4447.17 (number)
+	[1002 (number)] = 3420.9 (number)
+	[1004 (number)] = 335.3 (number)
+	[6002 (number)] = 4447.17 (number)
+	[5002 (number)] = 3420.9 (number)
+
+	Effect created history: Dictionary = table: 11d1a510, count = 1
+	[12 (number)] = 3 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 2112, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 1579e274, count = 1
+	[2 (number)] = 2112 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 70ebaf1f, count = 1
+	[11003 (number)] = 2112 (number)
+
+	Stat changer debuff created history: Dictionary = table: 43288326, count = 1
+	[4 (number)] = 60 (number)
+
+[Fragnil 20009 (TEAM 2, FRONT, POS 1)] DamageDeal = 604, DamageTaken = 8402.87, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5fcd5776, count = 1
+	[1 (number)] = 604 (number)
+
+	Damage taken by sources: Dictionary = table: 57d74b9, count = 2
+	[1 (number)] = 3955.7 (number)
+	[2 (number)] = 4447.17 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 2843a05e, count = 1
+	[1004 (number)] = 604 (number)
+
+	Damage taken history: Dictionary = table: 2f7527c3, count = 3
+	[2001 (number)] = 4447.17 (number)
+	[1003 (number)] = 534.8 (number)
+	[1001 (number)] = 3420.9 (number)
+
+[Fragnil 20009 (TEAM 2, FRONT, POS 2)] DamageDeal = 57585, DamageTaken = 72909.27, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 1a36b3bc, count = 2
+	[1 (number)] = 30024 (number)
+	[2 (number)] = 27561 (number)
+
+	Damage taken by sources: Dictionary = table: 7480d4ff, count = 3
+	[1 (number)] = 35813.4 (number)
+	[2 (number)] = 27611.676 (number)
+	[14 (number)] = 9484.2 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 41f4cb61, count = 13
+	[12001 (number)] = 3823 (number)
+	[6002 (number)] = 8046 (number)
+	[9002 (number)] = 3823 (number)
+	[15002 (number)] = 3823 (number)
+	[5002 (number)] = 6189 (number)
+	[8002 (number)] = 2941 (number)
+	[2002 (number)] = 8046 (number)
+	[11002 (number)] = 2941 (number)
+	[14002 (number)] = 2941 (number)
+	[13001 (number)] = 2941 (number)
+	[10002 (number)] = 2941 (number)
+	[1002 (number)] = 6189 (number)
+	[7003 (number)] = 2941 (number)
+
+	Damage taken history: Dictionary = table: 4739b7a3, count = 23
+	[4000 (number)] = 1695.3 (number)
+	[4001 (number)] = 3420.9 (number)
+	[4002 (number)] = 534.8 (number)
+	[8001 (number)] = 6670.755 (number)
+	[1001 (number)] = 3420.9 (number)
+	[5001 (number)] = 5913.27 (number)
+	[1003 (number)] = 534.8 (number)
+	[9001 (number)] = 3420.9 (number)
+	[13002 (number)] = 3420.9 (number)
+	[2001 (number)] = 5913.27 (number)
+	[6000 (number)] = 1466.1 (number)
+	[6001 (number)] = 3420.9 (number)
+	[2003 (number)] = 924.44 (number)
+	[10001 (number)] = 3420.9 (number)
+	[14001 (number)] = 5131.35 (number)
+	[3000 (number)] = 1695.3 (number)
+	[7000 (number)] = 1466.1 (number)
+	[3001 (number)] = 5131.35 (number)
+	[7001 (number)] = 3420.9 (number)
+	[3002 (number)] = 534.8 (number)
+	[7002 (number)] = 2457 (number)
+	[11001 (number)] = 4447.17 (number)
+	[15001 (number)] = 4447.17 (number)
+
+	Effect created history: Dictionary = table: 683d57ab, count = 1
+	[1 (number)] = 4 (number)
+
+[Fragnil 20009 (TEAM 1, FRONT, POS 2)] DamageDeal = 65499, DamageTaken = 52395.35, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 1a68517f, count = 3
+	[1 (number)] = 32672 (number)
+	[2 (number)] = 25267 (number)
+	[14 (number)] = 7560 (number)
+
+	Damage taken by sources: Dictionary = table: 7d203e90, count = 2
+	[1 (number)] = 27702.5 (number)
+	[2 (number)] = 24692.85 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 77ae0a38, count = 18
+	[4000 (number)] = 1260 (number)
+	[4001 (number)] = 2941 (number)
+	[8001 (number)] = 5735 (number)
+	[1001 (number)] = 6202 (number)
+	[5001 (number)] = 5083 (number)
+	[9001 (number)] = 2941 (number)
+	[13002 (number)] = 2941 (number)
+	[2001 (number)] = 9323 (number)
+	[6000 (number)] = 1260 (number)
+	[6001 (number)] = 2941 (number)
+	[10001 (number)] = 2941 (number)
+	[14001 (number)] = 4412 (number)
+	[3000 (number)] = 1260 (number)
+	[7000 (number)] = 1260 (number)
+	[3001 (number)] = 4412 (number)
+	[7001 (number)] = 2941 (number)
+	[11001 (number)] = 3823 (number)
+	[15001 (number)] = 3823 (number)
+
+	Damage taken history: Dictionary = table: 75ac9b69, count = 15
+	[12001 (number)] = 4447.17 (number)
+	[6002 (number)] = 4447.17 (number)
+	[9002 (number)] = 4447.17 (number)
+	[15002 (number)] = 4447.17 (number)
+	[5002 (number)] = 3420.9 (number)
+	[8002 (number)] = 3420.9 (number)
+	[2002 (number)] = 4447.17 (number)
+	[11002 (number)] = 3420.9 (number)
+	[14002 (number)] = 3420.9 (number)
+	[11003 (number)] = 2457 (number)
+	[13001 (number)] = 3420.9 (number)
+	[1002 (number)] = 3420.9 (number)
+	[10002 (number)] = 3420.9 (number)
+	[7003 (number)] = 3420.9 (number)
+	[1004 (number)] = 335.3 (number)
+
+	Effect created history: Dictionary = table: 2d17df0a, count = 2
+	[12 (number)] = 6 (number)
+	[1 (number)] = 2 (number)
+
+
+<> WINNER: 2

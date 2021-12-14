@@ -1,0 +1,1103 @@
+
+<> SEED = 44576309
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 54
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 5
+attack = 4480
+defense = 641
+hp = 72796/72796
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1208
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 795c8395, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 31282882, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 23e84ff3, type = 403, initiator = [Enule 50006 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 5
+attack = 5824
+defense = 641
+hp = 58237/58237
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1208
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 6f7cceb2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 1357e916, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 63cbbfc6, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: e8a9379, type = 401, initiator = [Enule 50006 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 5
+attack = 4480
+defense = 641
+hp = 72796/72796
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1208
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 6acbf453, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 1cb3e367, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 22384ab8, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 3000a328, type = 403, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 5
+attack = 5824
+defense = 641
+hp = 58237/58237
+speed = 74
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1208
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 17e44bc0, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 41ee370c, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 74e1ceba, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2163c412, type = 401, initiator = [Enule 50006 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Enule 50006 (TEAM 1, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Enule 50006 (TEAM 1, BACK, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Enule 50006 (TEAM 2, BACK, POS 1)] => [Enule 50006 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Enule 50006 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Enule 50006 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Enule 50006 (TEAM 2, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Enule 50006 (TEAM 2, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Enule 50006 (TEAM 2, BACK, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Enule 50006 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Enule 50006 (TEAM 2, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Enule 50006 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Enule 50006 (TEAM 1, FRONT, POS 1)] => [Enule 50006 (TEAM 2, FRONT, POS 1)] (hp = 0.944), TAKE 4041 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Enule 50006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[BOUNCING] [Enule 50006 (TEAM 1, FRONT, POS 1)] => [Enule 50006 (TEAM 2, BACK, POS 1)] (hp = 0.962), TAKE 2222 damage, bouncingId = 1, numberBouncing = 1
+
+
+[BOUNCING] [Enule 50006 (TEAM 1, FRONT, POS 1)] => [Enule 50006 (TEAM 2, FRONT, POS 1)] (hp = 0.928), TAKE 1222 damage, bouncingId = 1, numberBouncing = 2
+
+
+[BOUNCING] [Enule 50006 (TEAM 1, FRONT, POS 1)] => [Enule 50006 (TEAM 2, BACK, POS 1)] (hp = 0.95), TAKE 672 damage, bouncingId = 1, numberBouncing = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6f7cceb2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6acbf453, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 17e44bc0, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6f7cceb2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 0.6
+- EFFECTS:
+id = table: 6acbf453, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 0.95, power = 0.5
+- EFFECTS:
+id = table: 17e44bc0, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Enule 50006 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.944), TAKE 4041 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Enule 50006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.962), TAKE 2222 damage, bouncingId = 1, numberBouncing = 1
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.928), TAKE 1222 damage, bouncingId = 1, numberBouncing = 2
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.95), TAKE 672 damage, bouncingId = 1, numberBouncing = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6f7cceb2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 0.6
+- EFFECTS:
+id = table: 6acbf453, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 0.95, power = 0.5
+- EFFECTS:
+id = table: 17e44bc0, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 0.928, power = 1
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 0.95, power = 0.5
+- EFFECTS:
+id = table: 6f7cceb2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 1
+- EFFECTS:
+id = table: 6acbf453, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 0.95, power = 0.5
+- EFFECTS:
+id = table: 17e44bc0, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Enule 50006 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.868), TAKE 4323 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Enule 50006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+[>>> ACTIVE_SKILL <<<] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.891), TAKE 3459 damage, initiatorPower = 0, targetPower = 0.6
+[Enule 50006 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Enule 50006 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.85), TAKE 2377 damage, bouncingId = 1, numberBouncing = 1
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.842), TAKE 1902 damage, bouncingId = 2, numberBouncing = 1
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.824), TAKE 1307 damage, bouncingId = 1, numberBouncing = 2
+
+
+[ADD_EFFECT] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.824), type = 1, persistentType = 1, isBuff = false
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.832), TAKE 1046 damage, bouncingId = 2, numberBouncing = 2
+
+
+[ADD_EFFECT] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.832), type = 1, persistentType = 1, isBuff = false
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.82), TAKE 719 damage, bouncingId = 1, numberBouncing = 3
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.816), TAKE 575 damage, bouncingId = 2, numberBouncing = 3
+
+
+[ADD_EFFECT] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.82), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 0.928, power = 1
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 0.95, power = 0.5
+- EFFECTS:
+id = table: 6f7cceb2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 1
+- EFFECTS:
+id = table: 6acbf453, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 0.95, power = 0.5
+- EFFECTS:
+id = table: 17e44bc0, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 0.816, power = 1
+- EFFECTS:
+id = table: 13d11cca, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 0.82, power = 0.6
+- EFFECTS:
+id = table: 6f7cceb2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2c2d09f6, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 1c4b1d28, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 0
+- EFFECTS:
+id = table: 6acbf453, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 0.95, power = 0.5
+- EFFECTS:
+id = table: 17e44bc0, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Enule 50006 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Enule 50006 (TEAM 2, BACK, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.744), TAKE 5254 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Enule 50006 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Enule 50006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.18
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, BACK, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.77), TAKE 2889 damage, bouncingId = 1, numberBouncing = 1
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, BACK, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.722), TAKE 1589 damage, bouncingId = 1, numberBouncing = 2
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, BACK, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.755), TAKE 874 damage, bouncingId = 1, numberBouncing = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 0.816, power = 1
+- EFFECTS:
+id = table: 13d11cca, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 0.82, power = 0.6
+- EFFECTS:
+id = table: 6f7cceb2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2c2d09f6, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 1c4b1d28, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 0
+- EFFECTS:
+id = table: 6acbf453, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 0.95, power = 0.5
+- EFFECTS:
+id = table: 17e44bc0, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 0.722, power = 1
+- EFFECTS:
+id = table: 13d11cca, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 0.755, power = 0.6
+- EFFECTS:
+id = table: 6f7cceb2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2c2d09f6, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 1c4b1d28, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 0
+- EFFECTS:
+id = table: 6acbf453, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 0.95, power = 1
+- EFFECTS:
+id = table: 17e44bc0, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Enule 50006 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.667), TAKE 4041 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[CHANGE_POWER] [Enule 50006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.717), TAKE 2222 damage, bouncingId = 1, numberBouncing = 1
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.65), TAKE 1222 damage, bouncingId = 1, numberBouncing = 2
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.705), TAKE 672 damage, bouncingId = 1, numberBouncing = 3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 0.722, power = 1
+- EFFECTS:
+id = table: 13d11cca, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 0.755, power = 0.6
+- EFFECTS:
+id = table: 6f7cceb2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2c2d09f6, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1c4b1d28, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 0
+- EFFECTS:
+id = table: 6acbf453, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 0.95, power = 1
+- EFFECTS:
+id = table: 17e44bc0, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 0.65, power = 1
+- EFFECTS:
+id = table: 13d11cca, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 0.705, power = 0.6
+- EFFECTS:
+id = table: 6f7cceb2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2c2d09f6, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1c4b1d28, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 0.5
+- EFFECTS:
+id = table: 6acbf453, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 0.95, power = 1
+- EFFECTS:
+id = table: 17e44bc0, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Enule 50006 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.622), TAKE 2020 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Enule 50006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.686), TAKE 1111 damage, bouncingId = 1, numberBouncing = 1
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.614), TAKE 611 damage, bouncingId = 1, numberBouncing = 2
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.681), TAKE 336 damage, bouncingId = 1, numberBouncing = 3
+
+
+[ADD_EFFECT] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.681), type = 1, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.614), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 0.65, power = 1
+- EFFECTS:
+id = table: 13d11cca, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 0.705, power = 0.6
+- EFFECTS:
+id = table: 6f7cceb2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2c2d09f6, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1c4b1d28, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 0.5
+- EFFECTS:
+id = table: 6acbf453, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 0.95, power = 1
+- EFFECTS:
+id = table: 17e44bc0, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 0.614, power = 1
+- EFFECTS:
+id = table: 13d11cca, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 66258405, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 0.681, power = 0.6
+- EFFECTS:
+id = table: 6f7cceb2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2c2d09f6, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1c4b1d28, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 7d89f347, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 1
+- EFFECTS:
+id = table: 6acbf453, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 0.95, power = 1
+- EFFECTS:
+id = table: 17e44bc0, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Enule 50006 (TEAM 2, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Enule 50006 (TEAM 2, BACK, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.459), TAKE 11243 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Enule 50006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[>>> ACTIVE_SKILL <<<] [Enule 50006 (TEAM 2, BACK, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.488), TAKE 11243 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Enule 50006 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, BACK, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.381), TAKE 6183 damage, bouncingId = 1, numberBouncing = 1
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, BACK, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.375), TAKE 6183 damage, bouncingId = 2, numberBouncing = 1
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, BACK, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.328), TAKE 3401 damage, bouncingId = 1, numberBouncing = 2
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, BACK, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.323), TAKE 3401 damage, bouncingId = 2, numberBouncing = 2
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, BACK, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.291), TAKE 1870 damage, bouncingId = 1, numberBouncing = 3
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, BACK, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.302), TAKE 1870 damage, bouncingId = 2, numberBouncing = 3
+
+
+[ADD_EFFECT] [Enule 50006 (TEAM 2, BACK, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.302), type = 1, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Enule 50006 (TEAM 2, BACK, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.291), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 0.614, power = 1
+- EFFECTS:
+id = table: 13d11cca, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 66258405, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 0.681, power = 0.6
+- EFFECTS:
+id = table: 6f7cceb2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2c2d09f6, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1c4b1d28, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 7d89f347, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 1
+- EFFECTS:
+id = table: 6acbf453, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 0.95, power = 1
+- EFFECTS:
+id = table: 17e44bc0, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 0.302, power = 1
+- EFFECTS:
+id = table: 13d11cca, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 66258405, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 392f37b9, type = 1, initiator = [Enule 50006 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 0.291, power = 0.7
+- EFFECTS:
+id = table: 6f7cceb2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 2c2d09f6, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 1c4b1d28, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 7d89f347, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 7d49cfe9, type = 1, initiator = [Enule 50006 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 1
+- EFFECTS:
+id = table: 6acbf453, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 0.95, power = 0
+- EFFECTS:
+id = table: 17e44bc0, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.302), type = 1, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.291), type = 1, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.291), type = 1, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Enule 50006 (TEAM 2, FRONT, POS 1)] (hp = 0.928), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Enule 50006 (TEAM 2, BACK, POS 1)] (hp = 0.95), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Enule 50006 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.183), TAKE 8648 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Enule 50006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[>>> ACTIVE_SKILL <<<] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.142), TAKE 8648 damage, initiatorPower = 0, targetPower = 0.8
+
+
+[CHANGE_POWER] [Enule 50006 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.061), TAKE 4756 damage, bouncingId = 1, numberBouncing = 1
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.118), TAKE 4756 damage, bouncingId = 2, numberBouncing = 1
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.082), TAKE 2616 damage, bouncingId = 1, numberBouncing = 2
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0.016), TAKE 2616 damage, bouncingId = 2, numberBouncing = 2
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0), TAKE 1438 damage, bouncingId = 1, numberBouncing = 3
+
+
+[DEAD_FOR_DISPLAY] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0), reason = 27
+
+
+[BOUNCING] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.062), TAKE 1438 damage, bouncingId = 2, numberBouncing = 3
+
+
+[ADD_EFFECT] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.062), type = 1, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0.062), type = 1, persistentType = 1, isBuff = false
+
+
+[DEAD] [Enule 50006 (TEAM 2, FRONT, POS 1)] => [Enule 50006 (TEAM 1, BACK, POS 1)] (hp = 0), reason = 27
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 0.302, power = 1
+- EFFECTS:
+id = table: 66258405, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 392f37b9, type = 1, initiator = [Enule 50006 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 0.291, power = 0.7
+- EFFECTS:
+id = table: 6f7cceb2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7d89f347, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 7d49cfe9, type = 1, initiator = [Enule 50006 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 1
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 0.95, power = 0
+- EFFECTS:
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 0.062, power = 1
+- EFFECTS:
+id = table: 66258405, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 392f37b9, type = 1, initiator = [Enule 50006 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 370679e9, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 5a7b785, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 0
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 0.95, power = 0
+- EFFECTS:
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Enule 50006 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Enule 50006 (TEAM 2, BACK, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 5254 damage, initiatorPower = 0.5, targetPower = 0
+
+
+[CHANGE_POWER] [Enule 50006 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.52
+
+
+[CHANGE_POWER] [Enule 50006 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[DEAD_FOR_DISPLAY] [Enule 50006 (TEAM 2, BACK, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Enule 50006 (TEAM 2, BACK, POS 1)] => [Enule 50006 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 0.062, power = 1
+- EFFECTS:
+id = table: 66258405, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 392f37b9, type = 1, initiator = [Enule 50006 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 370679e9, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+id = table: 5a7b785, type = 1, initiator = [Enule 50006 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 0
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 0.95, power = 0
+- EFFECTS:
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 0
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 0.95, power = 0.5
+- EFFECTS:
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Enule 50006 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Enule 50006 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Enule 50006 (TEAM 2, FRONT, POS 1)] hp = 0.928, power = 0
+
+> [Enule 50006 (TEAM 2, BACK, POS 1)] hp = 0.95, power = 0.5
+- EFFECTS:
+id = table: 22c8a3f7, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+<> STATISTICS:
+[Enule 50006 (TEAM 1, FRONT, POS 1)] DamageDeal = 8157, DamageTaken = 49692.16, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4575da77, count = 2
+	[1 (number)] = 4041 (number)
+	[27 (number)] = 4116 (number)
+
+	Damage taken by sources: Dictionary = table: 76f063b7, count = 2
+	[1 (number)] = 22848 (number)
+	[2 (number)] = 26844.16 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 72bd85b1, count = 1
+	[1001 (number)] = 8157 (number)
+
+	Damage taken history: Dictionary = table: 4a9e0ffc, count = 8
+	[2002 (number)] = 2240 (number)
+	[1002 (number)] = 4480 (number)
+	[2003 (number)] = 12463.36 (number)
+	[1003 (number)] = 4793.6 (number)
+	[1004 (number)] = 5824 (number)
+	[3001 (number)] = 9587.2 (number)
+	[2001 (number)] = 4480 (number)
+	[3002 (number)] = 5824 (number)
+
+[Enule 50006 (TEAM 2, FRONT, POS 1)] DamageDeal = 71016, DamageTaken = 4480, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 21d3c2ba, count = 3
+	[1 (number)] = 10102 (number)
+	[2 (number)] = 25078 (number)
+	[27 (number)] = 35836 (number)
+
+	Damage taken by sources: Dictionary = table: 544be0ec, count = 1
+	[1 (number)] = 4480 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 4a4567d9, count = 5
+	[2002 (number)] = 4078 (number)
+	[1002 (number)] = 8157 (number)
+	[1003 (number)] = 15708 (number)
+	[3001 (number)] = 34916 (number)
+	[2001 (number)] = 8157 (number)
+
+	Damage taken history: Dictionary = table: 701e6082, count = 1
+	[1001 (number)] = 4480 (number)
+
+	Effect created history: Dictionary = table: 4fe7aa29, count = 1
+	[1 (number)] = 14 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: 44207fb9, count = 1
+	[112 (number)] = 0 (number)
+
+[Enule 50006 (TEAM 1, BACK, POS 1)] DamageDeal = 0, DamageTaken = 26844.16, HpHeal = 0, HpHealTaken = 0
+	Damage taken by sources: Dictionary = table: 253aa34b, count = 1
+	[2 (number)] = 26844.16 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage taken history: Dictionary = table: 2623cd1e, count = 3
+	[1003 (number)] = 4793.6 (number)
+	[3001 (number)] = 9587.2 (number)
+	[2003 (number)] = 12463.36 (number)
+
+[Enule 50006 (TEAM 2, BACK, POS 1)] DamageDeal = 61254, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 54679d11, count = 3
+	[1 (number)] = 10508 (number)
+	[2 (number)] = 22486 (number)
+	[27 (number)] = 28260 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 13fded93, count = 3
+	[2003 (number)] = 45394 (number)
+	[1004 (number)] = 10606 (number)
+	[3002 (number)] = 5254 (number)
+
+	Effect created history: Dictionary = table: 632d245c, count = 1
+	[1 (number)] = 4 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: 5b5e5e1a, count = 2
+	[501 (number)] = 4 (number)
+	[112 (number)] = 0 (number)
+
+
+<> WINNER: 2

@@ -1,0 +1,14 @@
+vip_level,vip_point_required,campaign_bonus_idle_time_max,campaign_bonus_gold,campaign_bonus_magic_potion,campaign_bonus_auto_train_slot,campaign_bonus_quick_battle_buy_turn,tavern_bonus_quest,raid_bonus_challenge_buy_turn,casino_unlock_multiple_spin,casino_unlock_premium_spin,casino_bonus_basic_chip_buy_turn,battle_unlock_speed_up,battle_unlock_skip,hand_of_midas_bonus_gold,summon_unlock_accumulate,arena_bonus_ticket_buy_turn
+0,0,0,0,0,0,0,0,0,FALSE,FALSE,0,FALSE,FALSE,0,FALSE,0
+1,350,0,0.1,0.1,1,1,0,0,FALSE,FALSE,0,TRUE,FALSE,0.3,FALSE,0
+2,800,0,0.2,0.2,1,1,0,0,TRUE,FALSE,0,TRUE,FALSE,0.4,TRUE,0
+3,3150,14400,0.3,0.3,1,1,0,0,TRUE,TRUE,0,TRUE,FALSE,0.5,TRUE,0
+4,7650,14400,0.4,0.4,2,1,0,1,TRUE,TRUE,2,TRUE,FALSE,0.6,TRUE,1
+5,18500,21600,0.5,0.5,2,1,1,2,TRUE,TRUE,2,TRUE,FALSE,0.7,TRUE,2
+6,47000,43200,0.6,0.6,2,2,1,2,TRUE,TRUE,2,TRUE,FALSE,0.8,TRUE,3
+7,100000,43200,0.8,0.8,2,2,2,2,TRUE,TRUE,4,TRUE,FALSE,1,TRUE,4
+8,187000,43200,1,1,2,2,2,2,TRUE,TRUE,4,TRUE,FALSE,1.2,TRUE,5
+9,300000,86400,1.2,1.2,2,3,2,3,TRUE,TRUE,6,TRUE,FALSE,1.5,TRUE,6
+10,450000,129600,1.4,1.4,2,3,3,3,TRUE,TRUE,6,TRUE,TRUE,1.7,TRUE,7
+11,675000,216000,1.6,1.6,2,3,3,4,TRUE,TRUE,8,TRUE,TRUE,1.9,TRUE,8
+12,1000000,302400,2,2,2,3,4,4,TRUE,TRUE,10,TRUE,TRUE,2.5,TRUE,10

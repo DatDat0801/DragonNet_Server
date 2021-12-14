@@ -1,0 +1,2739 @@
+
+<> SEED = 635763703
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 123
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 4
+attack = 3869
+defense = 466
+hp = 55588/55588
+speed = 81
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1329
+dodge = 1329
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.09
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: a6d0d8f, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 13ffcce3, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 51d0780, type = 441, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.05, changerType = 3, multiplier = 1
+id = table: 733a820b, type = 403, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 4376a4ec, type = 403, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 4
+attack = 5029
+defense = 466
+hp = 45661/45661
+speed = 81
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1329
+dodge = 1329
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.09
+power = 50/100
+
+- EFFECTS:
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 11e09f88, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 36ed7d65, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 68aeae76, type = 441, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.05, changerType = 3, multiplier = 1
+id = table: 71af4d8f, type = 403, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 7caca69a, type = 401, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 4
+attack = 3869
+defense = 466
+hp = 55588/55588
+speed = 81
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1329
+dodge = 1329
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.09
+power = 50/100
+
+- EFFECTS:
+id = table: 642690ed, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 243d1b0e, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 2f75f933, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 7f84a5c8, type = 441, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.05, changerType = 3, multiplier = 1
+id = table: 28542a66, type = 403, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 39fdcf59, type = 403, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 4
+faction = 4
+attack = 5029
+defense = 466
+hp = 45661/45661
+speed = 81
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1329
+dodge = 1329
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.09
+power = 50/100
+
+- EFFECTS:
+id = table: 64fda109, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 37bf29cb, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 3ec333dc, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 516b3390, type = 441, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.05, changerType = 3, multiplier = 1
+id = table: 6676b867, type = 403, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 3e312371, type = 401, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.94), TAKE 3363 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[RESIST_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 1), effectType = 10
+
+
+[RESIST_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 1), effectType = 105
+
+
+[REFLECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.982), TAKE 1008 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 642690ed, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 64fda109, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.982, power = 1
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.94, power = 0.6
+- EFFECTS:
+id = table: 642690ed, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 64fda109, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.861), TAKE 4372 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[RESIST_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 1), effectType = 10
+
+
+[RESIST_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 1), effectType = 105
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.982, power = 1
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.94, power = 0.6
+- EFFECTS:
+id = table: 642690ed, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 64fda109, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.982, power = 1
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.861, power = 0.7
+- EFFECTS:
+id = table: 642690ed, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 64fda109, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.921), TAKE 3363 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.921), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.912), TAKE 504 damage, remainingRound = 2
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.912), type = 105, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.982, power = 1
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.861, power = 0.7
+- EFFECTS:
+id = table: 642690ed, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 64fda109, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.912, power = 1
+- EFFECTS:
+id = table: 28493413, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: fb3af15, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.861, power = 1
+- EFFECTS:
+id = table: 642690ed, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 64fda109, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.834), TAKE 4372 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.834), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.822), TAKE 655 damage, remainingRound = 2
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.822), type = 105, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.912, power = 1
+- EFFECTS:
+id = table: 28493413, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: fb3af15, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.861, power = 1
+- EFFECTS:
+id = table: 642690ed, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 64fda109, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.822, power = 1
+- EFFECTS:
+id = table: 28493413, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: fb3af15, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 74ceac0, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 542adfce, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.861, power = 1
+- EFFECTS:
+id = table: 642690ed, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 64fda109, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 2 ----------
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.813), TAKE 504 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.801), TAKE 655 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.772), TAKE 4964 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 0.928), TAKE 3309 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[RESIST_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.801), effectType = 10
+
+
+[RESIST_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.801), effectType = 105
+
+
+[REFLECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.774), TAKE 1489 damage
+
+
+[RESIST_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.774), effectType = 10
+
+
+[RESIST_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.774), effectType = 105
+
+
+[REFLECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.756), TAKE 992 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.801, power = 1
+- EFFECTS:
+id = table: 28493413, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 74ceac0, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: fb3af15, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 542adfce, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.861, power = 1
+- EFFECTS:
+id = table: 642690ed, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 64fda109, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.756, power = 0
+- EFFECTS:
+id = table: 28493413, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 74ceac0, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: fb3af15, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 542adfce, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.772, power = 1
+- EFFECTS:
+id = table: 642690ed, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.928, power = 1
+- EFFECTS:
+id = table: 64fda109, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.697), TAKE 3309 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.942), TAKE 2647 damage, initiatorPower = 0, targetPower = 1
+[Arryl 40003 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.697), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.673), TAKE 1344 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.673), type = 105, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.942), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.913), TAKE 1344 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.913), type = 105, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.757), TAKE 794 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.756, power = 0
+- EFFECTS:
+id = table: 28493413, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 74ceac0, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: fb3af15, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 542adfce, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.772, power = 1
+- EFFECTS:
+id = table: 642690ed, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.928, power = 1
+- EFFECTS:
+id = table: 64fda109, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.673, power = 0.1
+- EFFECTS:
+id = table: 28493413, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 74ceac0, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: fb3af15, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 542adfce, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.913, power = 1
+- EFFECTS:
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.757, power = 0
+- EFFECTS:
+id = table: 642690ed, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.928, power = 1
+- EFFECTS:
+id = table: 64fda109, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.68), TAKE 4302 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 0.833), TAKE 4302 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[RESIST_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.913), effectType = 10
+
+
+[RESIST_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.913), effectType = 105
+
+
+[REFLECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.884), TAKE 1290 damage
+
+
+[RESIST_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.884), effectType = 10
+
+
+[RESIST_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.884), effectType = 105
+
+
+[REFLECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.856), TAKE 1290 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.673, power = 0.1
+- EFFECTS:
+id = table: 28493413, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 74ceac0, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: fb3af15, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 542adfce, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.913, power = 1
+- EFFECTS:
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.757, power = 0
+- EFFECTS:
+id = table: 642690ed, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.928, power = 1
+- EFFECTS:
+id = table: 64fda109, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.673, power = 0.1
+- EFFECTS:
+id = table: 28493413, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 74ceac0, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: fb3af15, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 542adfce, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.856, power = 0
+- EFFECTS:
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.68, power = 0.1
+- EFFECTS:
+id = table: 642690ed, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.833, power = 1
+- EFFECTS:
+id = table: 64fda109, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 2, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.595), TAKE 4302 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.781), TAKE 3441 damage, initiatorPower = 0, targetPower = 0.1
+[Arryl 40003 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.595), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.564), TAKE 1749 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.564), type = 105, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 0.805), TAKE 1290 damage
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.781), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.742), TAKE 1749 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.742), type = 105, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.673, power = 0.1
+- EFFECTS:
+id = table: 28493413, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 74ceac0, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: fb3af15, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 542adfce, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.856, power = 0
+- EFFECTS:
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.68, power = 0.1
+- EFFECTS:
+id = table: 642690ed, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.833, power = 1
+- EFFECTS:
+id = table: 64fda109, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.564, power = 0.2
+- EFFECTS:
+id = table: 28493413, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 74ceac0, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: fb3af15, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 542adfce, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 6453c078, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 1907bfea, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.742, power = 0.1
+- EFFECTS:
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 53b85fdb, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 287c8757, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.68, power = 0.1
+- EFFECTS:
+id = table: 642690ed, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.805, power = 0
+- EFFECTS:
+id = table: 64fda109, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.564), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.564), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.564), type = 105, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.564), type = 105, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.68), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 0.805), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 3 ----------
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.54), TAKE 1344 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.508), TAKE 1749 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.713), TAKE 1344 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.675), TAKE 1749 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.619), TAKE 3363 damage, initiatorPower = 0.7, targetPower = 0.2
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.619), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.61), TAKE 504 damage, remainingRound = 2
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.61), type = 105, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.49), TAKE 1008 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.508, power = 0.2
+- EFFECTS:
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6453c078, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 1907bfea, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.675, power = 0.1
+- EFFECTS:
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 53b85fdb, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 287c8757, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.68, power = 0.1
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.805, power = 0
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.49, power = 0.7
+- EFFECTS:
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6453c078, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 1907bfea, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.675, power = 0.1
+- EFFECTS:
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 53b85fdb, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 287c8757, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.61, power = 0.2
+- EFFECTS:
+id = table: 52d6d220, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 760adf7f, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.805, power = 0
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.532), TAKE 4372 damage, initiatorPower = 0.6, targetPower = 0.3
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.532), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.52), TAKE 655 damage, remainingRound = 2
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.52), type = 105, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.49, power = 0.7
+- EFFECTS:
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6453c078, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 1907bfea, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.675, power = 0.1
+- EFFECTS:
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 53b85fdb, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 287c8757, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.61, power = 0.2
+- EFFECTS:
+id = table: 52d6d220, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 760adf7f, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.805, power = 0
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.49, power = 0.7
+- EFFECTS:
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6453c078, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 1907bfea, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.675, power = 0.6
+- EFFECTS:
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 53b85fdb, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 287c8757, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.52, power = 0.3
+- EFFECTS:
+id = table: 52d6d220, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 760adf7f, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 675d00e2, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 2bd76561, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.805, power = 0
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.43), TAKE 3363 damage, initiatorPower = 0.8, targetPower = 0.8
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.43), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.42), TAKE 504 damage, remainingRound = 2
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.42), type = 105, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.49, power = 0.7
+- EFFECTS:
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6453c078, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 1907bfea, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.675, power = 0.6
+- EFFECTS:
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 53b85fdb, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 287c8757, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.52, power = 0.3
+- EFFECTS:
+id = table: 52d6d220, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 760adf7f, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 675d00e2, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 2bd76561, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.805, power = 0
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.42, power = 0.8
+- EFFECTS:
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6453c078, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 1907bfea, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 4ff4f5e9, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 6fa52a4f, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.675, power = 0.6
+- EFFECTS:
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 53b85fdb, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 287c8757, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.52, power = 0.8
+- EFFECTS:
+id = table: 52d6d220, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 760adf7f, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 675d00e2, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 2bd76561, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.805, power = 0
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.342), TAKE 4372 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.342), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.33), TAKE 655 damage, remainingRound = 2
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.33), type = 105, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.42, power = 0.8
+- EFFECTS:
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6453c078, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 1907bfea, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 4ff4f5e9, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 6fa52a4f, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.675, power = 0.6
+- EFFECTS:
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 53b85fdb, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 287c8757, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.52, power = 0.8
+- EFFECTS:
+id = table: 52d6d220, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 760adf7f, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 675d00e2, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 2bd76561, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.805, power = 0
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.33, power = 0.9
+- EFFECTS:
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6453c078, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 1907bfea, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 4ff4f5e9, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 6fa52a4f, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 60f07d49, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 709cf05b, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.675, power = 0.6
+- EFFECTS:
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 53b85fdb, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 287c8757, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.52, power = 0.8
+- EFFECTS:
+id = table: 52d6d220, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 760adf7f, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 675d00e2, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 2bd76561, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.805, power = 0.5
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 4 ----------
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.306), TAKE 1344 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.274), TAKE 1749 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.265), TAKE 504 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.254), TAKE 655 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.645), TAKE 1344 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.607), TAKE 1749 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.511), TAKE 504 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.499), TAKE 655 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.439), TAKE 3363 damage, initiatorPower = 1, targetPower = 0.9
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.439), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.429), TAKE 504 damage, remainingRound = 2
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.429), type = 105, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.235), TAKE 1008 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.254, power = 0.9
+- EFFECTS:
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6453c078, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4ff4f5e9, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 60f07d49, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 1907bfea, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 6fa52a4f, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 709cf05b, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.607, power = 0.6
+- EFFECTS:
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 53b85fdb, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 287c8757, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.499, power = 0.8
+- EFFECTS:
+id = table: 52d6d220, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 675d00e2, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 760adf7f, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2bd76561, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.805, power = 0.5
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.235, power = 1
+- EFFECTS:
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6453c078, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4ff4f5e9, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 60f07d49, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 1907bfea, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 6fa52a4f, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 709cf05b, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.607, power = 0.6
+- EFFECTS:
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 53b85fdb, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 287c8757, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.429, power = 0.9
+- EFFECTS:
+id = table: 52d6d220, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 675d00e2, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 760adf7f, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2bd76561, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 182f181c, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 5e1eae04, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.805, power = 0.5
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.351), TAKE 4372 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.76
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.6
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.351), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.339), TAKE 655 damage, remainingRound = 2
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.339), type = 105, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.578), TAKE 1311 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.235, power = 1
+- EFFECTS:
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6453c078, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4ff4f5e9, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 60f07d49, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 1907bfea, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 6fa52a4f, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 709cf05b, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.607, power = 0.6
+- EFFECTS:
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 53b85fdb, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 287c8757, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.429, power = 0.9
+- EFFECTS:
+id = table: 52d6d220, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 675d00e2, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 760adf7f, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2bd76561, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 182f181c, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 5e1eae04, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.805, power = 0.5
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.235, power = 1
+- EFFECTS:
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6453c078, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4ff4f5e9, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 60f07d49, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 1907bfea, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 6fa52a4f, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 709cf05b, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.578, power = 1
+- EFFECTS:
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 53b85fdb, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 287c8757, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.339, power = 1
+- EFFECTS:
+id = table: 52d6d220, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 675d00e2, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 760adf7f, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2bd76561, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 182f181c, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 5e1eae04, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 3d678abb, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 2aeebb64, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.805, power = 0.5
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.176), TAKE 3309 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[>>> ACTIVE_SKILL <<<] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.506), TAKE 3309 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.176), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.152), TAKE 1344 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.152), type = 105, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.321), TAKE 992 damage
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.506), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.476), TAKE 1344 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.476), type = 105, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.235, power = 1
+- EFFECTS:
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6453c078, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4ff4f5e9, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 60f07d49, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 1907bfea, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 6fa52a4f, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 709cf05b, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.578, power = 1
+- EFFECTS:
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 53b85fdb, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 287c8757, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.339, power = 1
+- EFFECTS:
+id = table: 52d6d220, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 675d00e2, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 760adf7f, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2bd76561, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 182f181c, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 5e1eae04, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 3d678abb, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 2aeebb64, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.805, power = 0.5
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.152, power = 1
+- EFFECTS:
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6453c078, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4ff4f5e9, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 60f07d49, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 1907bfea, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 6fa52a4f, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 709cf05b, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 4ae1b9dd, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6124500b, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.476, power = 1
+- EFFECTS:
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 53b85fdb, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 287c8757, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 60172cc6, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 3ffd9e3b, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.321, power = 0
+- EFFECTS:
+id = table: 52d6d220, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 675d00e2, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 760adf7f, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2bd76561, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 182f181c, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 5e1eae04, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 3d678abb, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 2aeebb64, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.805, power = 0.5
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.073), TAKE 4372 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.073), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.061), TAKE 655 damage, remainingRound = 2
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.061), type = 105, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.152, power = 1
+- EFFECTS:
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6453c078, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4ff4f5e9, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 60f07d49, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 1907bfea, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 6fa52a4f, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 709cf05b, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 4ae1b9dd, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6124500b, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.476, power = 1
+- EFFECTS:
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 53b85fdb, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 287c8757, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 60172cc6, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 3ffd9e3b, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.321, power = 0
+- EFFECTS:
+id = table: 52d6d220, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 675d00e2, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 760adf7f, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2bd76561, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 182f181c, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 5e1eae04, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 3d678abb, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 2aeebb64, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.805, power = 0.5
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.061, power = 1
+- EFFECTS:
+id = table: 352280f4, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6453c078, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4ff4f5e9, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 60f07d49, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 277b4a42, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 1907bfea, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 6fa52a4f, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 709cf05b, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 4ae1b9dd, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6124500b, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 7895e748, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 3bf24459, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.476, power = 1
+- EFFECTS:
+id = table: 4701ae87, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 53b85fdb, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4557cd06, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 287c8757, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 60172cc6, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 3ffd9e3b, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.321, power = 0
+- EFFECTS:
+id = table: 52d6d220, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 675d00e2, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 760adf7f, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2bd76561, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 182f181c, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 5e1eae04, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 3d678abb, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 2aeebb64, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.805, power = 1
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+---------- AFTER ROUND 4 ----------
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.061), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.061), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.061), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.061), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.061), type = 105, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.061), type = 105, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.061), type = 105, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.061), type = 105, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.476), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.476), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.476), type = 105, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.476), type = 105, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.321), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.321), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.321), type = 105, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.321), type = 105, persistentType = 1, isBuff = false
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 5 ----------
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.037), TAKE 1344 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.025), TAKE 655 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.447), TAKE 1344 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.312), TAKE 504 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.3), TAKE 655 damage, remainingRound = 1
+
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.241), TAKE 3309 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+[>>> ACTIVE_SKILL <<<] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 0.733), TAKE 3309 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.74
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.241), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.217), TAKE 1344 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.217), type = 105, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0.007), TAKE 992 damage
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 0.733), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 0.703), TAKE 1344 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 0.703), type = 105, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 992 damage
+
+
+[DEAD_FOR_DISPLAY] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 21
+
+
+[DEAD] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 21
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0.025, power = 1
+- EFFECTS:
+id = table: 4ae1b9dd, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 7895e748, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 6124500b, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 3bf24459, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 1
+- EFFECTS:
+id = table: 60172cc6, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3ffd9e3b, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.3, power = 0
+- EFFECTS:
+id = table: 182f181c, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 3d678abb, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 5e1eae04, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2aeebb64, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.805, power = 1
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 1
+- EFFECTS:
+id = table: 60172cc6, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3ffd9e3b, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.217, power = 0.1
+- EFFECTS:
+id = table: 182f181c, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 3d678abb, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 5e1eae04, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2aeebb64, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 62da3efd, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 310568db, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.703, power = 1
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 667d6614, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4f84260e, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.373), TAKE 3363 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.84
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.373), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.362), TAKE 504 damage, remainingRound = 2
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.362), type = 105, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.447, power = 1
+- EFFECTS:
+id = table: 60172cc6, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3ffd9e3b, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.217, power = 0.1
+- EFFECTS:
+id = table: 182f181c, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 3d678abb, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 5e1eae04, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2aeebb64, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 62da3efd, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 310568db, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.703, power = 1
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 667d6614, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4f84260e, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.362, power = 1
+- EFFECTS:
+id = table: 60172cc6, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3ffd9e3b, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 7c9ac4d5, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 66c3282d, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.217, power = 0.6
+- EFFECTS:
+id = table: 182f181c, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 3d678abb, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 5e1eae04, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2aeebb64, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 62da3efd, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 310568db, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.703, power = 1
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 667d6614, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4f84260e, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.139), TAKE 4302 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[>>> ACTIVE_SKILL <<<] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 0.609), TAKE 4302 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.88
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.139), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.108), TAKE 1749 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.108), type = 105, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 0.609), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 0.571), TAKE 1749 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 0.571), type = 105, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.362, power = 1
+- EFFECTS:
+id = table: 60172cc6, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3ffd9e3b, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 7c9ac4d5, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 66c3282d, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.217, power = 0.6
+- EFFECTS:
+id = table: 182f181c, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 3d678abb, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 5e1eae04, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2aeebb64, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 62da3efd, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 310568db, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.703, power = 1
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 667d6614, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4f84260e, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.362, power = 0
+- EFFECTS:
+id = table: 60172cc6, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3ffd9e3b, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 7c9ac4d5, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 66c3282d, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.108, power = 0.7
+- EFFECTS:
+id = table: 182f181c, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 3d678abb, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 5e1eae04, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2aeebb64, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 62da3efd, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 310568db, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 6b83bf27, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 5d9400f, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.571, power = 1
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 667d6614, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4f84260e, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2f4f900d, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 50325789, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+TURN 4 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 2, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.287), TAKE 3441 damage, initiatorPower = 0, targetPower = 0.1
+[Arryl 40003 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.86
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.287), type = 10, persistentType = 1, isBuff = false
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.249), TAKE 1749 damage, remainingRound = 3
+
+
+[ADD_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.249), type = 105, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 0.548), TAKE 1032 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.362, power = 0
+- EFFECTS:
+id = table: 60172cc6, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3ffd9e3b, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 7c9ac4d5, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 66c3282d, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.108, power = 0.7
+- EFFECTS:
+id = table: 182f181c, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 3d678abb, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 5e1eae04, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2aeebb64, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 62da3efd, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 310568db, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 6b83bf27, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 5d9400f, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.571, power = 1
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 667d6614, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4f84260e, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2f4f900d, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 50325789, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.249, power = 0.1
+- EFFECTS:
+id = table: 60172cc6, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3ffd9e3b, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 7c9ac4d5, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 66c3282d, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 26beb02f, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 69a855cf, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.108, power = 0.7
+- EFFECTS:
+id = table: 182f181c, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 3d678abb, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 5e1eae04, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2aeebb64, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 62da3efd, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 310568db, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 6b83bf27, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 5d9400f, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.548, power = 0
+- EFFECTS:
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 667d6614, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 4f84260e, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 2f4f900d, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 50325789, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 3, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+---------- AFTER ROUND 5 ----------
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.108), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.108), type = 10, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.108), type = 105, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.108), type = 105, persistentType = 1, isBuff = false
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+---------- BEFORE ROUND 6 ----------
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.219), TAKE 1344 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.208), TAKE 504 damage, remainingRound = 1
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.17), TAKE 1749 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.084), TAKE 1344 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0.052), TAKE 1749 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 1, FRONT, POS 1)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 0.519), TAKE 1344 damage, remainingRound = 2
+
+
+[POISON_EFFECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 0.48), TAKE 1749 damage, remainingRound = 2
+
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 4372 damage, initiatorPower = 0.6, targetPower = 0
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.96
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.9
+
+
+[DEAD_FOR_DISPLAY] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[REFLECT] [Arryl 40003 (TEAM 2, FRONT, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0.141), TAKE 1311 damage
+
+
+[DEAD] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.17, power = 0.1
+- EFFECTS:
+id = table: 60172cc6, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 7c9ac4d5, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 26beb02f, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3ffd9e3b, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 66c3282d, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 69a855cf, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0.052, power = 0.7
+- EFFECTS:
+id = table: 62da3efd, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 6b83bf27, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 310568db, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 5d9400f, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.48, power = 0
+- EFFECTS:
+id = table: 667d6614, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 2f4f900d, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4f84260e, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 50325789, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.141, power = 0.6
+- EFFECTS:
+id = table: 60172cc6, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 7c9ac4d5, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 26beb02f, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3ffd9e3b, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 66c3282d, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 69a855cf, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.48, power = 0
+- EFFECTS:
+id = table: 667d6614, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 2f4f900d, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4f84260e, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 50325789, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Arryl 40003 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0), TAKE 6558 damage, initiatorPower = 0.5, targetPower = 0 (CRIT)
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.98
+
+
+[DEAD_FOR_DISPLAY] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0), reason = 1
+
+
+[REFLECT] [Arryl 40003 (TEAM 1, BACK, POS 1)] => [Arryl 40003 (TEAM 2, BACK, POS 1)] (hp = 0.437), TAKE 1967 damage
+
+
+[DEAD] [Arryl 40003 (TEAM 2, BACK, POS 1)] => [Arryl 40003 (TEAM 1, BACK, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0.141, power = 0.6
+- EFFECTS:
+id = table: 60172cc6, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 7c9ac4d5, type = 10, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.15
+id = table: 26beb02f, type = 10, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 11d9e896, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 3ffd9e3b, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 66c3282d, type = 105, initiator = [Arryl 40003 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 69a855cf, type = 105, initiator = [Arryl 40003 (TEAM 2, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.48, power = 0
+- EFFECTS:
+id = table: 667d6614, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 2f4f900d, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4f84260e, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 50325789, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.437, power = 0.5
+- EFFECTS:
+id = table: 667d6614, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 2f4f900d, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4f84260e, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 50325789, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 2, persistentType = 1, REDUCE_HEAL = 0.15
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Arryl 40003 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Arryl 40003 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Arryl 40003 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Arryl 40003 (TEAM 2, BACK, POS 1)] hp = 0.437, power = 0.5
+- EFFECTS:
+id = table: 667d6614, type = 10, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 2f4f900d, type = 10, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, DOT_AMOUNT = 0.4
+id = table: 64c170c4, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4f84260e, type = 105, initiator = [Arryl 40003 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+id = table: 50325789, type = 105, initiator = [Arryl 40003 (TEAM 1, BACK, POS 1)], isBuff = false, duration = 1, persistentType = 1, REDUCE_HEAL = 0.15
+
+<> STATISTICS:
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: 3a347f0f, count = 1
+	[112 (number)] = 0 (number)
+
+[Arryl 40003 (TEAM 1, BACK, POS 1)] DamageDeal = 48105, DamageTaken = 49428.062, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 78f8f9df, count = 4
+	[1 (number)] = 17488 (number)
+	[2 (number)] = 17208 (number)
+	[21 (number)] = 3793 (number)
+	[12 (number)] = 9616 (number)
+
+	Damage taken by sources: Dictionary = table: 2b141127, count = 3
+	[1 (number)] = 11412.5 (number)
+	[2 (number)] = 17511.264 (number)
+	[12 (number)] = 20504.3 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: b93fa7, count = 12
+	[6000 (number)] = 3498 (number)
+	[6001 (number)] = 4372 (number)
+	[3002 (number)] = 5027 (number)
+	[6002 (number)] = 1967 (number)
+	[5000 (number)] = 655 (number)
+	[2002 (number)] = 794 (number)
+	[5003 (number)] = 12102 (number)
+	[2003 (number)] = 8604 (number)
+	[5004 (number)] = 1032 (number)
+	[4000 (number)] = 655 (number)
+	[4002 (number)] = 5027 (number)
+	[1002 (number)] = 4372 (number)
+
+	Damage taken history: Dictionary = table: 196ce4b8, count = 10
+	[3000 (number)] = 3559.2 (number)
+	[6000 (number)] = 4139.55 (number)
+	[6002 (number)] = 7543.5 (number)
+	[5000 (number)] = 1547.6 (number)
+	[5002 (number)] = 4449.35 (number)
+	[2002 (number)] = 5354.696 (number)
+	[5004 (number)] = 6960.136 (number)
+	[2004 (number)] = 6960.136 (number)
+	[4000 (number)] = 3559.2 (number)
+	[4003 (number)] = 5354.696 (number)
+
+	Effect created history: Dictionary = table: 2665c04b, count = 2
+	[10 (number)] = 10 (number)
+	[105 (number)] = 10 (number)
+
+[Arryl 40003 (TEAM 2, BACK, POS 1)] DamageDeal = 52054, DamageTaken = 24629.664, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2d736089, count = 4
+	[1 (number)] = 19674 (number)
+	[2 (number)] = 11184 (number)
+	[12 (number)] = 17922 (number)
+	[21 (number)] = 3274 (number)
+
+	Damage taken by sources: Dictionary = table: 647e2687, count = 2
+	[2 (number)] = 17511.264 (number)
+	[12 (number)] = 7118.4 (number)
+
+	NumberKill = 2, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 1ac94794, count = 14
+	[3000 (number)] = 3498 (number)
+	[6000 (number)] = 1749 (number)
+	[6002 (number)] = 6558 (number)
+	[3004 (number)] = 5027 (number)
+	[2000 (number)] = 655 (number)
+	[5000 (number)] = 655 (number)
+	[2001 (number)] = 992 (number)
+	[5001 (number)] = 992 (number)
+	[2003 (number)] = 1290 (number)
+	[2004 (number)] = 11241 (number)
+	[5004 (number)] = 5190 (number)
+	[4000 (number)] = 4153 (number)
+	[1004 (number)] = 5027 (number)
+	[4004 (number)] = 5027 (number)
+
+	Damage taken history: Dictionary = table: 1226ab1e, count = 5
+	[2003 (number)] = 4948.536 (number)
+	[6000 (number)] = 3559.2 (number)
+	[5001 (number)] = 5354.696 (number)
+	[5003 (number)] = 6960.136 (number)
+	[2001 (number)] = 3807.096 (number)
+
+	Effect created history: Dictionary = table: 24e7f6fb, count = 2
+	[10 (number)] = 15 (number)
+	[105 (number)] = 15 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: 3138b6fe, count = 2
+	[501 (number)] = 4 (number)
+	[112 (number)] = 0 (number)
+
+[Arryl 40003 (TEAM 1, FRONT, POS 1)] DamageDeal = 34654, DamageTaken = 56008.027, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 611da2aa, count = 4
+	[1 (number)] = 10089 (number)
+	[2 (number)] = 14891 (number)
+	[21 (number)] = 2282 (number)
+	[12 (number)] = 7392 (number)
+
+	Damage taken by sources: Dictionary = table: 46449bcc, count = 3
+	[1 (number)] = 22825 (number)
+	[2 (number)] = 12562.728 (number)
+	[12 (number)] = 20620.3 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 5d8ffdd1, count = 10
+	[6000 (number)] = 2688 (number)
+	[3001 (number)] = 3867 (number)
+	[5000 (number)] = 504 (number)
+	[2001 (number)] = 8273 (number)
+	[5001 (number)] = 9306 (number)
+	[2004 (number)] = 1290 (number)
+	[4000 (number)] = 504 (number)
+	[4001 (number)] = 3867 (number)
+	[1001 (number)] = 3363 (number)
+	[4003 (number)] = 992 (number)
+
+	Damage taken history: Dictionary = table: 29f43fd8, count = 12
+	[3000 (number)] = 3559.2 (number)
+	[3003 (number)] = 4449.35 (number)
+	[3004 (number)] = 5783.35 (number)
+	[2000 (number)] = 1334.7 (number)
+	[5000 (number)] = 2301.95 (number)
+	[2002 (number)] = 5354.696 (number)
+	[2004 (number)] = 6960.136 (number)
+	[4000 (number)] = 4893.9 (number)
+	[1003 (number)] = 4449.35 (number)
+	[4003 (number)] = 5354.696 (number)
+	[1004 (number)] = 5783.35 (number)
+	[4004 (number)] = 5783.35 (number)
+
+	Effect created history: Dictionary = table: 25f0d0be, count = 2
+	[10 (number)] = 10 (number)
+	[105 (number)] = 10 (number)
+
+[Arryl 40003 (TEAM 2, FRONT, POS 1)] DamageDeal = 49888, DamageTaken = 63595.01, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4788a537, count = 4
+	[1 (number)] = 10089 (number)
+	[2 (number)] = 12574 (number)
+	[21 (number)] = 9417 (number)
+	[12 (number)] = 17808 (number)
+
+	Damage taken by sources: Dictionary = table: 65cbb962, count = 3
+	[1 (number)] = 31723 (number)
+	[2 (number)] = 19414.812 (number)
+	[12 (number)] = 12457.2 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6dc940fc, count = 18
+	[4000 (number)] = 3192 (number)
+	[4001 (number)] = 1008 (number)
+	[4002 (number)] = 1311 (number)
+	[4003 (number)] = 9306 (number)
+	[1001 (number)] = 1008 (number)
+	[5000 (number)] = 2688 (number)
+	[5001 (number)] = 992 (number)
+	[1003 (number)] = 3867 (number)
+	[5002 (number)] = 3867 (number)
+	[2000 (number)] = 504 (number)
+	[2001 (number)] = 1489 (number)
+	[6000 (number)] = 1848 (number)
+	[2002 (number)] = 8644 (number)
+	[6001 (number)] = 1311 (number)
+	[2003 (number)] = 1290 (number)
+	[3000 (number)] = 2688 (number)
+	[3001 (number)] = 1008 (number)
+	[3003 (number)] = 3867 (number)
+
+	Damage taken history: Dictionary = table: 4e9f18db, count = 14
+	[6000 (number)] = 3559.2 (number)
+	[3001 (number)] = 4449.35 (number)
+	[6001 (number)] = 5029 (number)
+	[3002 (number)] = 5783.35 (number)
+	[5000 (number)] = 1334.7 (number)
+	[2001 (number)] = 5710.644 (number)
+	[5001 (number)] = 5354.696 (number)
+	[2003 (number)] = 4948.536 (number)
+	[5003 (number)] = 6960.136 (number)
+	[4000 (number)] = 1334.7 (number)
+	[4001 (number)] = 4449.35 (number)
+	[1001 (number)] = 3869 (number)
+	[1002 (number)] = 5029 (number)
+	[4002 (number)] = 5783.35 (number)
+
+	Effect created history: Dictionary = table: 4c3cad22, count = 2
+	[10 (number)] = 18 (number)
+	[105 (number)] = 18 (number)
+
+
+<> WINNER: 2

@@ -1,0 +1,2528 @@
+
+<> SEED = 246530932
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 79
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 2
+attack = 2602
+defense = 310
+hp = 33285/33285
+speed = 55
+critRate = 0.1
+critDamage = 1.5
+accuracy = 998
+dodge = 898
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 72e8928a, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 3ef8ca7d, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 11245872, type = 401, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 785057cb, type = 403, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 2
+attack = 3253
+defense = 310
+hp = 26628/26628
+speed = 55
+critRate = 0.1
+critDamage = 1.5
+accuracy = 998
+dodge = 898
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 25298a4c, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 16fda153, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 787f6435, type = 401, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 5d7a18bc, type = 401, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 2
+attack = 2602
+defense = 310
+hp = 33285/33285
+speed = 55
+critRate = 0.1
+critDamage = 1.5
+accuracy = 998
+dodge = 898
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 1cdfb361, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 67d37e90, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 640ef093, type = 401, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 75cd2c7e, type = 403, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 2
+attack = 3253
+defense = 310
+hp = 26628/26628
+speed = 55
+critRate = 0.1
+critDamage = 1.5
+accuracy = 998
+dodge = 898
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 6542b430, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 76db4a63, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 6a8e9306, type = 401, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 19197e7d, type = 401, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 0.927), TAKE 2422 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 41, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.927, power = 0.6
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 0.836), TAKE 3028 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 41, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.927, power = 0.6
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.836, power = 0.7
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 0.891), TAKE 3633 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 0.836), type = 431, persistentType = 41, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.836, power = 0.7
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.891, power = 1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.836, power = 1
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 0.8), TAKE 3028 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 1), type = 431, persistentType = 41, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.891, power = 1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.836, power = 1
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.8, power = 1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.836, power = 1
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 0.729), TAKE 3560 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 0.893), TAKE 2848 damage, initiatorPower = 0, targetPower = 1
+[Ifrit 20016 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.8, power = 1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.836, power = 1
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.8, power = 0
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.729, power = 1
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.893, power = 1
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 0.596), TAKE 4452 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 0.726), TAKE 4452 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.8, power = 0
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.729, power = 1
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.893, power = 1
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.8, power = 0
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.596, power = 1
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 1
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 0.693), TAKE 3560 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 0.893), TAKE 2848 damage, initiatorPower = 0, targetPower = 0.1
+[Ifrit 20016 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.8, power = 0
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.596, power = 1
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 1
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.693, power = 0.1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.893, power = 0.1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.596, power = 0
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 1
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 2, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 0.559), TAKE 4452 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 0.642), TAKE 6678 damage, initiatorPower = 0, targetPower = 0.2 (CRIT)
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.693, power = 0.1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.893, power = 0.1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.596, power = 0
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 1
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.559, power = 0.2
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 0.2
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.596, power = 0
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 0
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 0.523), TAKE 2422 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 0.559), type = 431, persistentType = 41, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.559, power = 0.2
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 0.2
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.596, power = 0
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 0
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.559, power = 0.7
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 0.2
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.523, power = 0.1
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 0
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 0.486), TAKE 2422 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 0.523), type = 431, persistentType = 41, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.559, power = 0.7
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 0.2
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.523, power = 0.1
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 0
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.486, power = 0.8
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 0.2
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.523, power = 0.6
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 14741a89, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 0
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 0.432), TAKE 3028 damage, initiatorPower = 0.7, targetPower = 0.7
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 0.642), type = 431, persistentType = 41, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.486, power = 0.8
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 0.2
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.523, power = 0.6
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 14741a89, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 0
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.486, power = 0.8
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 0.7
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.432, power = 0.7
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 14741a89, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 0
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 0.395), TAKE 3028 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 0.726), type = 431, persistentType = 41, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.486, power = 0.8
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 0.7
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.432, power = 0.7
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 14741a89, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 0
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.395, power = 0.9
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 0.7
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.432, power = 0.7
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 14741a89, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 0.5
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 0.359), TAKE 2422 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 0.395), type = 431, persistentType = 41, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.395, power = 0.9
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 0.7
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.432, power = 0.7
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 14741a89, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 0.5
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.395, power = 1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 0.7
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.359, power = 0.8
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 14741a89, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 0.5
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 0.323), TAKE 2422 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 0.359), type = 431, persistentType = 41, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.395, power = 1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 0.7
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.359, power = 0.8
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 14741a89, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 0.5
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.323, power = 1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 0.7
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.359, power = 1
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 14741a89, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 25b3476c, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 0.5
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 0.268), TAKE 3028 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 0.642), type = 431, persistentType = 41, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.323, power = 1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 0.7
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.359, power = 1
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 14741a89, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 25b3476c, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 0.5
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.323, power = 1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.268, power = 1
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 14741a89, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 25b3476c, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 0.5
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 0.232), TAKE 3028 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.8
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 0.726), type = 431, persistentType = 41, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.323, power = 1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.268, power = 1
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 14741a89, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 25b3476c, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 0.5
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.232, power = 1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.268, power = 1
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 14741a89, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 25b3476c, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 1
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 0.147), TAKE 4045 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+[>>> ACTIVE_SKILL <<<] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 0.604), TAKE 3236 damage, initiatorPower = 0, targetPower = 1
+[Ifrit 20016 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.232, power = 1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.268, power = 1
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 14741a89, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 25b3476c, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.726, power = 1
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.232, power = 0
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.147, power = 1
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 14741a89, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 25b3476c, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.604, power = 1
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 7586 damage, initiatorPower = 0, targetPower = 0 (CRIT)
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[DEAD_FOR_DISPLAY] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 0.452), TAKE 4046 damage, initiatorPower = 0, targetPower = 1
+[Ifrit 20016 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.88
+
+
+[DEAD] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 0.452), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.232, power = 0
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0.147, power = 1
+- EFFECTS:
+id = table: 6481f18b, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 14741a89, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 25b3476c, type = 431, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.604, power = 1
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.232, power = 0
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 0
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.452, power = 1
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5ef008e4, type = 401, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 2, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 0.059), TAKE 5733 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+[>>> ACTIVE_SKILL <<<] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 0.47), TAKE 4586 damage, initiatorPower = 0, targetPower = 0.1
+[Ifrit 20016 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.84
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.232, power = 0
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.642, power = 0
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.452, power = 1
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5ef008e4, type = 401, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.059, power = 0.1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.47, power = 0.1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.452, power = 0
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5ef008e4, type = 401, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 0.38), TAKE 1937 damage, initiatorPower = 0.6, targetPower = 0.1
+[Ifrit 20016 (TEAM 2, BACK, POS 1)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.94
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.9
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 0.059), type = 431, persistentType = 41, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.059, power = 0.1
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.47, power = 0.1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.452, power = 0
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5ef008e4, type = 401, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.059, power = 0.6
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6147ac71, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.47, power = 0.1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.38, power = 0.1
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5ef008e4, type = 401, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 0.289), TAKE 2423 damage, initiatorPower = 0.6, targetPower = 0.2
+[Ifrit 20016 (TEAM 2, BACK, POS 1)] BLOCK BASIC_ATTACK
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.92
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 0.47), type = 431, persistentType = 41, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.059, power = 0.6
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6147ac71, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.47, power = 0.1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.38, power = 0.1
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5ef008e4, type = 401, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.059, power = 0.6
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6147ac71, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.47, power = 0.6
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7fd0d5de, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.92
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.289, power = 0.2
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5ef008e4, type = 401, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 0.22), TAKE 1830 damage, initiatorPower = 0, targetPower = 0.3
+[Ifrit 20016 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.94
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 0.22), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.059, power = 0.6
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6147ac71, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.47, power = 0.6
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7fd0d5de, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.92
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.289, power = 0.2
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5ef008e4, type = 401, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.059, power = 0.6
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6147ac71, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.47, power = 0.6
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7fd0d5de, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.94
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.22, power = 0.3
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5ef008e4, type = 401, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 34cc3f16, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 3432 damage, initiatorPower = 0.8, targetPower = 0
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.02
+
+
+[DEAD_FOR_DISPLAY] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 0.22), type = 431, persistentType = 41, isBuff = true
+
+
+[DEAD] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [Ifrit 20016 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 0.47), type = 401, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0.059, power = 0.6
+- EFFECTS:
+id = table: 3836e2bc, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 75256651, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1127a793, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6147ac71, type = 431, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.47, power = 0.6
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7fd0d5de, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.94
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.22, power = 0.3
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5ef008e4, type = 401, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 34cc3f16, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.47, power = 0.6
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7fd0d5de, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6aa5b643, type = 401, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.22, power = 0.8
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5ef008e4, type = 401, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 34cc3f16, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 36ddbb42, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 0.384), TAKE 2287 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.04
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 0.384), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.47, power = 0.6
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7fd0d5de, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6aa5b643, type = 401, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.22, power = 0.8
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5ef008e4, type = 401, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 34cc3f16, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 36ddbb42, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.04
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.384, power = 0.7
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7fd0d5de, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6aa5b643, type = 401, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 4f5ae662, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.22, power = 0.8
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5ef008e4, type = 401, initiator = [Ifrit 20016 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 34cc3f16, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 36ddbb42, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 6 ----------
+
+[REMOVE_EFFECT] [Ifrit 20016 (TEAM 2, FRONT, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 0.22), type = 401, persistentType = 1, isBuff = true
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 0.091), TAKE 3432 damage, initiatorPower = 1, targetPower = 0.9
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 0.384), type = 431, persistentType = 41, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.04
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.384, power = 0.7
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7fd0d5de, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6aa5b643, type = 401, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 4f5ae662, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.22, power = 0.8
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 34cc3f16, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 36ddbb42, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.384, power = 1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7fd0d5de, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6aa5b643, type = 401, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 4f5ae662, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 1abb4410, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.091, power = 0.9
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 34cc3f16, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 36ddbb42, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 2, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 0.27), TAKE 3028 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+[ADD_EFFECT] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 0.091), type = 431, persistentType = 41, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.384, power = 1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7fd0d5de, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6aa5b643, type = 401, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 4f5ae662, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 1abb4410, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.091, power = 0.9
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 34cc3f16, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 36ddbb42, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.27, power = 1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7fd0d5de, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 6aa5b643, type = 401, initiator = [Ifrit 20016 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 4f5ae662, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 1abb4410, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.091, power = 1
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 34cc3f16, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 36ddbb42, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5debfeaa, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 7 ----------
+
+[REMOVE_EFFECT] [Ifrit 20016 (TEAM 1, FRONT, POS 1)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 0.27), type = 401, persistentType = 1, isBuff = true
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Ifrit 20016 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 0), TAKE 4531 damage, initiatorPower = 0, targetPower = 0
+[Ifrit 20016 (TEAM 2, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Ifrit 20016 (TEAM 2, BACK, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[DEAD_FOR_DISPLAY] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 0), reason = 2
+
+
+[DEAD] [Ifrit 20016 (TEAM 1, BACK, POS 1)] => [Ifrit 20016 (TEAM 2, BACK, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.27, power = 1
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7fd0d5de, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f5ae662, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 1abb4410, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0.091, power = 1
+- EFFECTS:
+id = table: 78bc8eb0, type = 112, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 7a8958be, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f6e47c1, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 72473200, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 34cc3f16, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 36ddbb42, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5debfeaa, type = 431, initiator = [Ifrit 20016 (TEAM 2, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.27, power = 0
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7fd0d5de, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4f5ae662, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 1abb4410, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 8 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Ifrit 20016 (TEAM 1, BACK, POS 1)] (hp = 0.27), type = 404, persistentType = 52, isBuff = false
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Ifrit 20016 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 1, BACK, POS 1)] hp = 0.27, power = 0
+- EFFECTS:
+id = table: 6b30bb92, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 482532be, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f92ac25, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 4faa247b, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7fd0d5de, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 1abb4410, type = 431, initiator = [Ifrit 20016 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 41, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Ifrit 20016 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Ifrit 20016 (TEAM 2, BACK, POS 1)] hp = 0, power = 0
+
+<> STATISTICS:
+[Ifrit 20016 (TEAM 2, FRONT, POS 1)] DamageDeal = 14885, DamageTaken = 38665.953, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 63759fe, count = 2
+	[1 (number)] = 8477 (number)
+	[2 (number)] = 6408 (number)
+
+	Damage taken by sources: Dictionary = table: 1e46d6ac, count = 2
+	[1 (number)] = 17565 (number)
+	[2 (number)] = 21100.955 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 5e1d9ab0, count = 4
+	[4002 (number)] = 2422 (number)
+	[1003 (number)] = 3633 (number)
+	[2003 (number)] = 6408 (number)
+	[3002 (number)] = 2422 (number)
+
+	Damage taken history: Dictionary = table: 5c012177, count = 10
+	[3001 (number)] = 2602 (number)
+	[3003 (number)] = 3253 (number)
+	[2001 (number)] = 3824.94 (number)
+	[5001 (number)] = 4345.34 (number)
+	[2002 (number)] = 4781.91 (number)
+	[5002 (number)] = 8148.765 (number)
+	[4001 (number)] = 2602 (number)
+	[1001 (number)] = 2602 (number)
+	[1002 (number)] = 3253 (number)
+	[4003 (number)] = 3253 (number)
+
+	Stat changer buff created history: Dictionary = table: 60c57ba0, count = 2
+	[31 (number)] = 0 (number)
+	[1 (number)] = 868 (number)
+
+[Ifrit 20016 (TEAM 1, BACK, POS 1)] DamageDeal = 40006, DamageTaken = 22865.096, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 489e32a2, count = 2
+	[1 (number)] = 14939 (number)
+	[2 (number)] = 25067 (number)
+
+	Damage taken by sources: Dictionary = table: 7ae4f91b, count = 2
+	[1 (number)] = 3253 (number)
+	[2 (number)] = 19612.096 (number)
+
+	NumberKill = 2, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 2fbb65a9, count = 8
+	[2002 (number)] = 8904 (number)
+	[3003 (number)] = 3028 (number)
+	[8001 (number)] = 4531 (number)
+	[1002 (number)] = 3028 (number)
+	[7001 (number)] = 3432 (number)
+	[6002 (number)] = 2423 (number)
+	[5002 (number)] = 11632 (number)
+	[4003 (number)] = 3028 (number)
+
+	Damage taken history: Dictionary = table: 64e80385, count = 5
+	[2003 (number)] = 3824.94 (number)
+	[2004 (number)] = 7172.865 (number)
+	[7002 (number)] = 3253 (number)
+	[5003 (number)] = 6157.29 (number)
+	[6005 (number)] = 2457 (number)
+
+	Stat changer buff created history: Dictionary = table: 5dda2698, count = 1
+	[31 (number)] = 0 (number)
+
+[Ifrit 20016 (TEAM 2, BACK, POS 1)] DamageDeal = 36993, DamageTaken = 36466.81, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: ab2019, count = 2
+	[1 (number)] = 15544 (number)
+	[2 (number)] = 21449 (number)
+
+	Damage taken by sources: Dictionary = table: 74c99b88, count = 2
+	[1 (number)] = 9542 (number)
+	[2 (number)] = 26924.81 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 50195abf, count = 7
+	[4004 (number)] = 3028 (number)
+	[3004 (number)] = 3028 (number)
+	[2004 (number)] = 11130 (number)
+	[7002 (number)] = 3028 (number)
+	[1004 (number)] = 3028 (number)
+	[5003 (number)] = 10319 (number)
+	[6004 (number)] = 3432 (number)
+
+	Damage taken history: Dictionary = table: 5c7b48c2, count = 9
+	[6001 (number)] = 2602 (number)
+	[6002 (number)] = 3253 (number)
+	[6003 (number)] = 2457 (number)
+	[2001 (number)] = 3824.94 (number)
+	[5001 (number)] = 4345.34 (number)
+	[8001 (number)] = 6083.11 (number)
+	[5002 (number)] = 5432.51 (number)
+	[2002 (number)] = 4781.91 (number)
+	[7001 (number)] = 3687 (number)
+
+	Stat changer buff created history: Dictionary = table: 58900bc, count = 1
+	[31 (number)] = 0 (number)
+
+[Ifrit 20016 (TEAM 1, FRONT, POS 1)] DamageDeal = 22892, DamageTaken = 37317.14, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 3d24ce5e, count = 2
+	[1 (number)] = 9203 (number)
+	[2 (number)] = 13689 (number)
+
+	Damage taken by sources: Dictionary = table: 27f2b7e7, count = 2
+	[1 (number)] = 22553 (number)
+	[2 (number)] = 14764.14 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 2149c683, count = 6
+	[1001 (number)] = 2422 (number)
+	[6001 (number)] = 1937 (number)
+	[5001 (number)] = 7281 (number)
+	[4001 (number)] = 2422 (number)
+	[3001 (number)] = 2422 (number)
+	[2001 (number)] = 6408 (number)
+
+	Damage taken history: Dictionary = table: 6c88aef6, count = 10
+	[3002 (number)] = 2602 (number)
+	[3004 (number)] = 3253 (number)
+	[6004 (number)] = 3687 (number)
+	[2003 (number)] = 3824.94 (number)
+	[5003 (number)] = 6157.29 (number)
+	[2004 (number)] = 4781.91 (number)
+	[4002 (number)] = 2602 (number)
+	[1003 (number)] = 3903 (number)
+	[1004 (number)] = 3253 (number)
+	[4004 (number)] = 3253 (number)
+
+	Stat changer buff created history: Dictionary = table: 7745cb07, count = 2
+	[31 (number)] = 0 (number)
+	[1 (number)] = 868 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 1830, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 453a1787, count = 1
+	[2 (number)] = 1830 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 2a28ac7d, count = 1
+	[6003 (number)] = 1830 (number)
+
+	Effect created history: Dictionary = table: 3fe58d0, count = 1
+	[112 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: 5a3aa65b, count = 1
+	[4 (number)] = 60 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 2287, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4fa904b4, count = 1
+	[2 (number)] = 2287 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 200d0278, count = 1
+	[6005 (number)] = 2287 (number)
+
+	Effect created history: Dictionary = table: 5144f671, count = 1
+	[112 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: 5ec39a7c, count = 1
+	[4 (number)] = 60 (number)
+
+
+<> WINNER: 1

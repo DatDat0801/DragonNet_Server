@@ -1,0 +1,2467 @@
+
+<> SEED = 24698600
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 118
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)]
+star = 2
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 1
+attack = 764
+defense = 109
+hp = 12420/12420
+speed = 39
+critRate = 0.1
+critDamage = 1.5
+accuracy = 886
+dodge = 886
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 363eab6b, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 2a4e1b6, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 70ccbbe7, type = 403, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 1
+attack = 4887
+defense = 582
+hp = 66178/66178
+speed = 74
+critRate = 0.1
+critDamage = 1.85
+accuracy = 1208
+dodge = 1208
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 6c3225cd, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 3a123181, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 1f9ede24, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 62ff9c57, type = 401, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 3ed6a5f7, type = 411, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.35, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 79b4a82f, type = 403, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 1
+attack = 6109
+defense = 582
+hp = 52943/52943
+speed = 74
+critRate = 0.1
+critDamage = 1.85
+accuracy = 1208
+dodge = 1208
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 15630595, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 691448ba, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6456b7a0, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 34d4f747, type = 401, initiator = [Jeronim 10011 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 63e5c781, type = 411, initiator = [Jeronim 10011 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.35, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 6266a01c, type = 401, initiator = [Jeronim 10011 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)]
+star = 1
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 1
+attack = 479
+defense = 68
+hp = 7786/7786
+speed = 32
+critRate = 0.1
+critDamage = 1.5
+accuracy = 805
+dodge = 805
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 79455bd7, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6a38e577, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 28ff12df, type = 403, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 1
+attack = 4887
+defense = 582
+hp = 66178/66178
+speed = 74
+critRate = 0.1
+critDamage = 1.85
+accuracy = 1208
+dodge = 1208
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 771569ae, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 245d1f78, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 96345d9, type = 401, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 497c1595, type = 411, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.35, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 272cee7e, type = 403, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 1
+attack = 4887
+defense = 582
+hp = 66178/66178
+speed = 74
+critRate = 0.1
+critDamage = 1.85
+accuracy = 1208
+dodge = 1208
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 59123615, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 4accfd63, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 63358912, type = 401, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 3472205c, type = 411, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.35, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 15f84d0d, type = 403, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 1, BACK, POS 1)] => [Jeronim 10011 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Jeronim 10011 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Jeronim 10011 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Jeronim 10011 (TEAM 1, BACK, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Jeronim 10011 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 411, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 1, BACK, POS 1)] => [Jeronim 10011 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 1, BACK, POS 1)] => [Jeronim 10011 (TEAM 1, BACK, POS 1)] (hp = 1), type = 411, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 411, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 411, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 0.402), TAKE 4658 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 6c3225cd, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 15630595, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6c3225cd, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 15630595, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.402, power = 0.6
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 1, BACK, POS 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 5824 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[DEAD_FOR_DISPLAY] [Jeronim 10011 (TEAM 1, BACK, POS 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Jeronim 10011 (TEAM 1, BACK, POS 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6c3225cd, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 15630595, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0.402, power = 0.6
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6c3225cd, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 15630595, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 0.309), TAKE 8585 damage, initiatorPower = 1, targetPower = 0.6 (CRIT)
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6c3225cd, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 15630595, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.309, power = 0.6
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6c3225cd, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 15630595, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 8585 damage, initiatorPower = 1, targetPower = 0 (CRIT)
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[DEAD_FOR_DISPLAY] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0.309, power = 0.6
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6c3225cd, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 15630595, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6c3225cd, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 15630595, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 0.87), TAKE 8587 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 0.76), TAKE 15887 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 0.87), type = 410, persistentType = 51, isBuff = true
+
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 0.76), type = 410, persistentType = 51, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 6c3225cd, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 15630595, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 6c3225cd, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 15630595, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.87, power = 1
+- EFFECTS:
+id = table: 7c181a59, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.76, power = 1
+- EFFECTS:
+id = table: 5192c75c, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Jeronim 10011 (TEAM 1, BACK, POS 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 0.546), TAKE 21463 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Jeronim 10011 (TEAM 1, BACK, POS 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 0.436), TAKE 21463 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 6c3225cd, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 15630595, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.87, power = 1
+- EFFECTS:
+id = table: 7c181a59, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.76, power = 1
+- EFFECTS:
+id = table: 5192c75c, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 6c3225cd, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 15630595, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.546, power = 1
+- EFFECTS:
+id = table: 7c181a59, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.436, power = 1
+- EFFECTS:
+id = table: 5192c75c, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, BACK, POS 1)] (hp = 0.4), TAKE 31765 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 1, BACK, POS 1)] => [Jeronim 10011 (TEAM 1, BACK, POS 1)] (hp = 0.4), type = 410, persistentType = 51, isBuff = true
+
+
+[REMOVE_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 0.546), type = 410, persistentType = 51, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 6c3225cd, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 15630595, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.546, power = 1
+- EFFECTS:
+id = table: 7c181a59, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.436, power = 1
+- EFFECTS:
+id = table: 5192c75c, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 6c3225cd, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0.4, power = 0.1
+- EFFECTS:
+id = table: 15630595, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1ea0a965, type = 410, initiator = [Jeronim 10011 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.546, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.436, power = 1
+- EFFECTS:
+id = table: 5192c75c, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 1, BACK, POS 1)] (hp = 0.1), TAKE 15887 damage, initiatorPower = 0, targetPower = 0.2 (CRIT)
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[REMOVE_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 0.436), type = 410, persistentType = 51, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 6c3225cd, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0.4, power = 0.1
+- EFFECTS:
+id = table: 15630595, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1ea0a965, type = 410, initiator = [Jeronim 10011 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.546, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.436, power = 1
+- EFFECTS:
+id = table: 5192c75c, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 6c3225cd, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0.1, power = 0.2
+- EFFECTS:
+id = table: 15630595, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1ea0a965, type = 410, initiator = [Jeronim 10011 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.546, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.436, power = 0
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Jeronim 10011 (TEAM 1, BACK, POS 1)] (hp = 0.1), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 0.422), TAKE 8201 damage, initiatorPower = 0.5, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 0.422), type = 410, persistentType = 51, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0.1, power = 0.2
+- EFFECTS:
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1ea0a965, type = 410, initiator = [Jeronim 10011 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.546, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.436, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0.1, power = 0.2
+- EFFECTS:
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1ea0a965, type = 410, initiator = [Jeronim 10011 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.422, power = 0.1
+- EFFECTS:
+id = table: 7c181a59, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.436, power = 0
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.933), TAKE 4433 damage, initiatorPower = 0.6, targetPower = 0.6
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.933), type = 410, persistentType = 51, isBuff = true
+
+
+[REMOVE_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 0.422), type = 410, persistentType = 51, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0.1, power = 0.2
+- EFFECTS:
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1ea0a965, type = 410, initiator = [Jeronim 10011 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.422, power = 0.1
+- EFFECTS:
+id = table: 7c181a59, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.436, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.933, power = 0.6
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0.1, power = 0.2
+- EFFECTS:
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1ea0a965, type = 410, initiator = [Jeronim 10011 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.422, power = 0.6
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.436, power = 0
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.9), TAKE 2216 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.54
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.933, power = 0.6
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0.1, power = 0.2
+- EFFECTS:
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1ea0a965, type = 410, initiator = [Jeronim 10011 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.422, power = 0.6
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.436, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.9, power = 0.7
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0.1, power = 0.2
+- EFFECTS:
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1ea0a965, type = 410, initiator = [Jeronim 10011 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.422, power = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.436, power = 0
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 1, BACK, POS 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 0.267), TAKE 10252 damage, initiatorPower = 0.7, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 0.267), type = 410, persistentType = 51, isBuff = true
+
+
+[REMOVE_EFFECT] [Jeronim 10011 (TEAM 1, BACK, POS 1)] => [Jeronim 10011 (TEAM 1, BACK, POS 1)] (hp = 0.1), type = 410, persistentType = 51, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.9, power = 0.7
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0.1, power = 0.2
+- EFFECTS:
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 1ea0a965, type = 410, initiator = [Jeronim 10011 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.422, power = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.436, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.9, power = 0.7
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0.1, power = 0.7
+- EFFECTS:
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.267, power = 1
+- EFFECTS:
+id = table: 7c181a59, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.436, power = 0
+
+
+TURN 5 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.833), TAKE 4433 damage, initiatorPower = 0.5, targetPower = 0.8
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.9, power = 0.7
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0.1, power = 0.7
+- EFFECTS:
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.267, power = 1
+- EFFECTS:
+id = table: 7c181a59, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.436, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.833, power = 0.8
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0.1, power = 0.7
+- EFFECTS:
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.267, power = 1
+- EFFECTS:
+id = table: 7c181a59, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.436, power = 0.5
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 0.143), TAKE 8201 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.64
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[REMOVE_EFFECT] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.833), type = 410, persistentType = 51, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.833, power = 0.8
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0.1, power = 0.7
+- EFFECTS:
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.267, power = 1
+- EFFECTS:
+id = table: 7c181a59, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.436, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.833, power = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0.1, power = 0.7
+- EFFECTS:
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.143, power = 1
+- EFFECTS:
+id = table: 7c181a59, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.436, power = 0.5
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 0.078), TAKE 4291 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[>>> ACTIVE_SKILL <<<] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 0.371), TAKE 4291 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 0.371), type = 410, persistentType = 51, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.833, power = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0.1, power = 0.7
+- EFFECTS:
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.143, power = 1
+- EFFECTS:
+id = table: 7c181a59, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.436, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.833, power = 0
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0.1, power = 0.7
+- EFFECTS:
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.078, power = 1
+- EFFECTS:
+id = table: 7c181a59, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.371, power = 0.6
+- EFFECTS:
+id = table: 5192c75c, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, BACK, POS 1)] (hp = 0), TAKE 31765 damage, initiatorPower = 0, targetPower = 0 (CRIT)
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[DEAD_FOR_DISPLAY] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, BACK, POS 1)] (hp = 0), reason = 2
+
+
+[REMOVE_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 0.078), type = 410, persistentType = 51, isBuff = true
+
+
+[DEAD] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, BACK, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.833, power = 0
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0.1, power = 0.7
+- EFFECTS:
+id = table: 7c6596e3, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.078, power = 1
+- EFFECTS:
+id = table: 7c181a59, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.371, power = 0.6
+- EFFECTS:
+id = table: 5192c75c, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.833, power = 0
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.078, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.371, power = 0.6
+- EFFECTS:
+id = table: 5192c75c, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.766), TAKE 4433 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.766), type = 410, persistentType = 51, isBuff = true
+
+
+[REMOVE_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 0.371), type = 410, persistentType = 51, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.833, power = 0
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.078, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.371, power = 0.6
+- EFFECTS:
+id = table: 5192c75c, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.766, power = 0.1
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.078, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.371, power = 1
+
+
+TURN 5 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.701), TAKE 4291 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.7
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.766, power = 0.1
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.078, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.371, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.701, power = 0.2
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.078, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.371, power = 0
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 0.011), TAKE 4433 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 0.011), type = 410, persistentType = 51, isBuff = true
+
+
+[REMOVE_EFFECT] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.701), type = 410, persistentType = 51, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.701, power = 0.2
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.078, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.371, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.701, power = 0.7
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.011, power = 0.1
+- EFFECTS:
+id = table: 7c181a59, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.371, power = 0
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 0), TAKE 2216 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.9
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[DEAD_FOR_DISPLAY] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 1
+
+
+[DEAD] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.701, power = 0.7
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0.011, power = 0.1
+- EFFECTS:
+id = table: 7c181a59, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.371, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.701, power = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.371, power = 0
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.634), TAKE 4433 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.96
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.92
+
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.634), type = 410, persistentType = 51, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.701, power = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.371, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.634, power = 1
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.371, power = 0.5
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 0.241), TAKE 8587 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 0.241), type = 410, persistentType = 51, isBuff = true
+
+
+[REMOVE_EFFECT] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.634), type = 410, persistentType = 51, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.634, power = 1
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.371, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.634, power = 0
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.241, power = 0.6
+- EFFECTS:
+id = table: 5192c75c, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.567), TAKE 4433 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.94
+
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.567), type = 410, persistentType = 51, isBuff = true
+
+
+[REMOVE_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 0.241), type = 410, persistentType = 51, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.634, power = 0
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.241, power = 0.6
+- EFFECTS:
+id = table: 5192c75c, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.567, power = 0.1
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.241, power = 1
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.516), TAKE 3342 damage, initiatorPower = 0, targetPower = 0.2 (CRIT)
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.96
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.516), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.567, power = 0.1
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.241, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.516, power = 0.2
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 78315c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.241, power = 1
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.386), TAKE 8587 damage, initiatorPower = 0, targetPower = 0.3
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.98
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.516, power = 0.2
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 78315c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.241, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.386, power = 0.3
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 78315c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.241, power = 0
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 0.174), TAKE 4433 damage, initiatorPower = 0.8, targetPower = 0.1
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[ADD_EFFECT] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 0.174), type = 410, persistentType = 51, isBuff = true
+
+
+[REMOVE_EFFECT] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.386), type = 410, persistentType = 51, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.386, power = 0.3
+- EFFECTS:
+id = table: 3b751a2d, type = 410, initiator = [Jeronim 10011 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 78315c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.241, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.386, power = 0.8
+- EFFECTS:
+id = table: 78315c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.174, power = 0.1
+- EFFECTS:
+id = table: 5192c75c, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 0.141), TAKE 2216 damage, initiatorPower = 1, targetPower = 0.2
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.386, power = 0.8
+- EFFECTS:
+id = table: 78315c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.174, power = 0.1
+- EFFECTS:
+id = table: 5192c75c, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.386, power = 1
+- EFFECTS:
+id = table: 78315c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.141, power = 0.2
+- EFFECTS:
+id = table: 5192c75c, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 0.09), TAKE 3342 damage, initiatorPower = 0, targetPower = 0.3 (CRIT)
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.06
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 0.09), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.386, power = 1
+- EFFECTS:
+id = table: 78315c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.141, power = 0.2
+- EFFECTS:
+id = table: 5192c75c, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.386, power = 1
+- EFFECTS:
+id = table: 78315c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.06
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.09, power = 0.3
+- EFFECTS:
+id = table: 5192c75c, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 40ec8a43, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Jeronim 10011 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 0), TAKE 8587 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Jeronim 10011 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.08
+
+
+[DEAD_FOR_DISPLAY] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 0), reason = 2
+
+
+[DEAD] [Jeronim 10011 (TEAM 1, FRONT, POS 2)] => [Jeronim 10011 (TEAM 2, FRONT, POS 3)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.386, power = 1
+- EFFECTS:
+id = table: 78315c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.06
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0.09, power = 0.3
+- EFFECTS:
+id = table: 5192c75c, type = 410, initiator = [Jeronim 10011 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 0, persistentType = 51, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 40ec8a43, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.386, power = 0
+- EFFECTS:
+id = table: 78315c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.08
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 8 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Jeronim 10011 (TEAM 1, FRONT, POS 2)] (hp = 0.386), type = 404, persistentType = 52, isBuff = false
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 1, FRONT, POS 2)] hp = 0.386, power = 0
+
+> [Jeronim 10011 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.08
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+> [Jeronim 10011 (TEAM 2, FRONT, POS 3)] hp = 0, power = 0
+
+<> STATISTICS:
+[SummonerMage (TEAM 2)] DamageDeal = 3342, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5b1ce8ba, count = 1
+	[2 (number)] = 3342 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 48ab3586, count = 1
+	[6003 (number)] = 3342 (number)
+
+	Stat changer debuff created history: Dictionary = table: 5719440e, count = 1
+	[4 (number)] = 60 (number)
+
+[Jeronim 10011 (TEAM 2, FRONT, POS 2)] DamageDeal = 78764, DamageTaken = 74570.945, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 7383723c, count = 2
+	[1 (number)] = 15234 (number)
+	[2 (number)] = 63530 (number)
+
+	Damage taken by sources: Dictionary = table: 4f660dce, count = 2
+	[1 (number)] = 36714.05 (number)
+	[2 (number)] = 37856.89 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 5e7006a1, count = 5
+	[3003 (number)] = 2216 (number)
+	[2003 (number)] = 31765 (number)
+	[1003 (number)] = 8585 (number)
+	[3002 (number)] = 4433 (number)
+	[4003 (number)] = 31765 (number)
+
+	Damage taken history: Dictionary = table: 43540055, count = 8
+	[2002 (number)] = 23660.156 (number)
+	[3004 (number)] = 11301.65 (number)
+	[5001 (number)] = 4887 (number)
+	[4001 (number)] = 9040.95 (number)
+	[5002 (number)] = 2443.5 (number)
+	[3001 (number)] = 9040.95 (number)
+	[4002 (number)] = 4730.616 (number)
+	[2001 (number)] = 9466.119 (number)
+
+	Stat changer buff created history: Dictionary = table: 2bae8891, count = 1
+	[10 (number)] = 0 (number)
+
+[Jeronim 10011 (TEAM 2, FRONT, POS 1)] DamageDeal = 0, DamageTaken = 10996, HpHeal = 0, HpHealTaken = 0
+	Damage taken by sources: Dictionary = table: 54d9e857, count = 1
+	[1 (number)] = 10996 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage taken history: Dictionary = table: a42b963, count = 2
+	[1001 (number)] = 4887 (number)
+	[1002 (number)] = 6109 (number)
+
+[Jeronim 10011 (TEAM 1, BACK, POS 1)] DamageDeal = 59002, DamageTaken = 87543.516, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 69f746d6, count = 2
+	[1 (number)] = 16076 (number)
+	[2 (number)] = 42926 (number)
+
+	Damage taken by sources: Dictionary = table: 36c2b179, count = 1
+	[2 (number)] = 87543.516 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 2d427ca6, count = 3
+	[1002 (number)] = 5824 (number)
+	[2002 (number)] = 42926 (number)
+	[3004 (number)] = 10252 (number)
+
+	Damage taken history: Dictionary = table: 32d451cc, count = 3
+	[2004 (number)] = 17512.32 (number)
+	[4003 (number)] = 35015.598 (number)
+	[2003 (number)] = 35015.598 (number)
+
+	Stat changer buff created history: Dictionary = table: 614660b6, count = 1
+	[10 (number)] = 0 (number)
+
+[Jeronim 10011 (TEAM 1, FRONT, POS 2)] DamageDeal = 84588, DamageTaken = 44760.734, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 422c5c9e, count = 2
+	[1 (number)] = 34358 (number)
+	[2 (number)] = 50230 (number)
+
+	Damage taken by sources: Dictionary = table: 7cb5bf31, count = 2
+	[1 (number)] = 26878.5 (number)
+	[2 (number)] = 17882.234 (number)
+
+	NumberKill = 2, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6c7fdb5a, count = 11
+	[3001 (number)] = 8201 (number)
+	[6001 (number)] = 8587 (number)
+	[2001 (number)] = 24474 (number)
+	[5001 (number)] = 4433 (number)
+	[8001 (number)] = 8587 (number)
+	[5002 (number)] = 2216 (number)
+	[4001 (number)] = 8201 (number)
+	[1001 (number)] = 4658 (number)
+	[4002 (number)] = 8582 (number)
+	[7002 (number)] = 4433 (number)
+	[7003 (number)] = 2216 (number)
+
+	Damage taken history: Dictionary = table: 3e6e55b3, count = 9
+	[4005 (number)] = 4730.616 (number)
+	[3002 (number)] = 4887 (number)
+	[6002 (number)] = 4887 (number)
+	[6003 (number)] = 3685.5 (number)
+	[3003 (number)] = 2443.5 (number)
+	[3005 (number)] = 4887 (number)
+	[5003 (number)] = 4887 (number)
+	[7001 (number)] = 9466.119 (number)
+	[4004 (number)] = 4887 (number)
+
+	Stat changer buff created history: Dictionary = table: 1e86264c, count = 1
+	[10 (number)] = 0 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 3342, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4f1b4e9a, count = 1
+	[2 (number)] = 3342 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 5dace928, count = 1
+	[7004 (number)] = 3342 (number)
+
+	Effect created history: Dictionary = table: 11a3ece3, count = 2
+	[501 (number)] = 4 (number)
+	[112 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: 3eb80cdd, count = 1
+	[4 (number)] = 60 (number)
+
+[Jeronim 10011 (TEAM 1, FRONT, POS 1)] DamageDeal = 0, DamageTaken = 18081.9, HpHeal = 0, HpHealTaken = 0
+	Damage taken by sources: Dictionary = table: 2b42fa0e, count = 1
+	[1 (number)] = 18081.9 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage taken history: Dictionary = table: 119da3e7, count = 2
+	[1003 (number)] = 9040.95 (number)
+	[1004 (number)] = 9040.95 (number)
+
+[Jeronim 10011 (TEAM 2, FRONT, POS 3)] DamageDeal = 55082, DamageTaken = 75851.33, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 1fd781c3, count = 2
+	[1 (number)] = 26317 (number)
+	[2 (number)] = 28765 (number)
+
+	Damage taken by sources: Dictionary = table: 61f7b800, count = 2
+	[1 (number)] = 7330.5 (number)
+	[2 (number)] = 68520.83 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 5dd9bcba, count = 8
+	[4004 (number)] = 4433 (number)
+	[4005 (number)] = 4291 (number)
+	[7001 (number)] = 8587 (number)
+	[3005 (number)] = 4433 (number)
+	[2004 (number)] = 15887 (number)
+	[1004 (number)] = 8585 (number)
+	[6002 (number)] = 4433 (number)
+	[5003 (number)] = 4433 (number)
+
+	Damage taken history: Dictionary = table: 2127ae7d, count = 8
+	[2002 (number)] = 23660.156 (number)
+	[8001 (number)] = 9466.119 (number)
+	[6001 (number)] = 9466.119 (number)
+	[7002 (number)] = 4887 (number)
+	[7003 (number)] = 2443.5 (number)
+	[7004 (number)] = 3685.5 (number)
+	[4002 (number)] = 4730.616 (number)
+	[2001 (number)] = 17512.32 (number)
+
+	Stat changer buff created history: Dictionary = table: 25dea03, count = 1
+	[10 (number)] = 0 (number)
+
+
+<> WINNER: 1

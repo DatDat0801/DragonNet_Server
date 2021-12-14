@@ -1,0 +1,2475 @@
+
+<> SEED = 657223975
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 107
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 1
+attack = 3195
+defense = 393
+hp = 62715/62715
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1076
+dodge = 1043
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 228fe06d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 745b91db, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6fe08ffc, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 32b186e5, type = 403, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 57a4daf6, type = 402, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 7f594c90, type = 401, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 5fe742ff, type = 403, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 1
+attack = 3994
+defense = 393
+hp = 51516/51516
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1076
+dodge = 1043
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 14adb3e8, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 6e9f7fd6, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 17d4a31e, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 118e44fb, type = 403, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 7651bbe7, type = 402, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 63250b34, type = 401, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 5b1785e8, type = 401, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 1
+attack = 3195
+defense = 393
+hp = 62715/62715
+speed = 64
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1076
+dodge = 1043
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 51db881d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 49e4bc67, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 25372c4, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: fc589f3, type = 403, initiator = [Raina 10003 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 30d10ce5, type = 402, initiator = [Raina 10003 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+id = table: 5c3a891c, type = 401, initiator = [Raina 10003 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 3211a741, type = 403, initiator = [Raina 10003 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.953), TAKE 2951 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 228fe06d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 14adb3e8, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 51db881d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 228fe06d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 14adb3e8, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.953, power = 0.6
+- EFFECTS:
+id = table: 51db881d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.894), TAKE 3688 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 228fe06d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 14adb3e8, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.953, power = 0.6
+- EFFECTS:
+id = table: 51db881d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 228fe06d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 14adb3e8, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.894, power = 0.7
+- EFFECTS:
+id = table: 51db881d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.953), TAKE 2951 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 228fe06d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 14adb3e8, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.894, power = 0.7
+- EFFECTS:
+id = table: 51db881d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.953, power = 1
+- EFFECTS:
+id = table: 228fe06d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 14adb3e8, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.894, power = 1
+- EFFECTS:
+id = table: 51db881d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.805), TAKE 5621 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.16
+
+
+[HEAL] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 1), HEAL 3195 hp, reason = 1
+
+
+[HEAL] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 1), HEAL 3195 hp, reason = 1
+
+
+[ADD_EFFECT] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 1), type = 102, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.953, power = 1
+- EFFECTS:
+id = table: 228fe06d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 14adb3e8, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.894, power = 1
+- EFFECTS:
+id = table: 51db881d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 228fe06d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 14adb3e8, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4566050d, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.805, power = 1
+- EFFECTS:
+id = table: 51db881d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.692), TAKE 7027 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.18
+
+
+[HEAL] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 1), HEAL 3994 hp, reason = 1
+
+
+[ADD_EFFECT] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 102, persistentType = 1, isBuff = true
+
+
+[HEAL] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 1), HEAL 7189 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 228fe06d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 14adb3e8, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4566050d, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.805, power = 1
+- EFFECTS:
+id = table: 51db881d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 228fe06d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 66cf9643, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 14adb3e8, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4566050d, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.692, power = 1
+- EFFECTS:
+id = table: 51db881d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.891), TAKE 5621 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[HEAL] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 1), HEAL 3195 hp, reason = 1
+
+
+[ADD_EFFECT] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 102, persistentType = 1, isBuff = true
+
+
+[HEAL] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.953), HEAL 3195 hp, reason = 1
+
+
+[HEAL] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.743), HEAL 3195 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 228fe06d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 66cf9643, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 14adb3e8, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4566050d, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.692, power = 1
+- EFFECTS:
+id = table: 51db881d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 228fe06d, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 66cf9643, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1
+id = table: 5ec1085b, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 0.1
+- EFFECTS:
+id = table: 14adb3e8, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4566050d, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.743, power = 0
+- EFFECTS:
+id = table: 51db881d, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.953), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.743), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.696), TAKE 2951 damage, initiatorPower = 0.5, targetPower = 0.1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.2
+
+
+[HEAL] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.722), HEAL 1597 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 66cf9643, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+id = table: 5ec1085b, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 0.1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4566050d, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.18
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.743, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 66cf9643, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+id = table: 5ec1085b, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 0.1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4566050d, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.2
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.722, power = 0.1
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.634), TAKE 5533 damage, initiatorPower = 0.6, targetPower = 0.2 (CRIT)
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 66cf9643, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+id = table: 5ec1085b, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 0.1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4566050d, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.2
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.722, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 66cf9643, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+id = table: 5ec1085b, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 0.6
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4566050d, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.634, power = 0.2
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.953), TAKE 2951 damage, initiatorPower = 0.7, targetPower = 0.6
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 66cf9643, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+id = table: 5ec1085b, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 0.6
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4566050d, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.634, power = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.953, power = 0.6
+- EFFECTS:
+id = table: 66cf9643, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+id = table: 5ec1085b, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 0.6
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 4566050d, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.634, power = 0.7
+
+
+---------- AFTER ROUND 3 ----------
+
+[REMOVE_EFFECT] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.953), type = 102, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.953), type = 102, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.953), type = 102, persistentType = 1, isBuff = true
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.587), TAKE 2951 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[HEAL] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.612), HEAL 1597 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.953, power = 0.6
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 0.6
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.634, power = 0.7
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.953, power = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 0.6
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.612, power = 0.8
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.553), TAKE 3688 damage, initiatorPower = 1, targetPower = 0.9
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[HEAL] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.579), HEAL 1597 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.953, power = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 0.6
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.612, power = 0.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.953, power = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.579, power = 0.9
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.906), TAKE 2951 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.953, power = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.579, power = 0.9
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.906, power = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.579, power = 1
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.489), TAKE 5621 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+[HEAL] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.957), HEAL 3195 hp, reason = 1
+
+
+[HEAL] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 1), HEAL 3195 hp, reason = 1
+
+
+[ADD_EFFECT] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 1), type = 102, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.906, power = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.953, power = 1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.579, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.957, power = 0
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 56bb08f6, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.489, power = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.377), TAKE 7027 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.5
+
+
+[HEAL] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 1), HEAL 3994 hp, reason = 1
+
+
+[ADD_EFFECT] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 102, persistentType = 1, isBuff = true
+
+
+[HEAL] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 1), HEAL 7189 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.957, power = 0
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 56bb08f6, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.489, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 23803141, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 56bb08f6, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.377, power = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.891), TAKE 5621 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.7
+
+
+[HEAL] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.428), HEAL 3195 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 23803141, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 56bb08f6, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.377, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 23803141, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.891, power = 0.1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 56bb08f6, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.428, power = 0
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.381), TAKE 2951 damage, initiatorPower = 0.5, targetPower = 0.1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.52
+
+
+[HEAL] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.406), HEAL 1597 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 23803141, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.891, power = 0.1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 56bb08f6, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.428, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 23803141, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.891, power = 0.1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 56bb08f6, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.406, power = 0.1
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.348), TAKE 3688 damage, initiatorPower = 0.6, targetPower = 0.2
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.9
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.54
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 23803141, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.891, power = 0.1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 56bb08f6, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.406, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 23803141, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.891, power = 0.6
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 56bb08f6, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.348, power = 0.2
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.953), TAKE 2951 damage, initiatorPower = 0.7, targetPower = 0.6
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.64
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.92
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 23803141, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.891, power = 0.6
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 56bb08f6, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.348, power = 0.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.953, power = 0.6
+- EFFECTS:
+id = table: 23803141, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.891, power = 0.6
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 56bb08f6, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.64
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.348, power = 0.7
+
+
+---------- AFTER ROUND 6 ----------
+
+[REMOVE_EFFECT] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.953), type = 102, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.891), type = 102, persistentType = 1, isBuff = true
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.3), TAKE 2951 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+[HEAL] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.326), HEAL 1597 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.953, power = 0.6
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.891, power = 0.6
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.64
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.348, power = 0.7
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.953, power = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.891, power = 0.6
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.326, power = 0.8
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.29), TAKE 2269 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.29), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.953, power = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.891, power = 0.6
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.326, power = 0.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.953, power = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.891, power = 0.6
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.29, power = 0.9
+- EFFECTS:
+id = table: 39e7d6fc, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.231), TAKE 3688 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.953, power = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.891, power = 0.6
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.29, power = 0.9
+- EFFECTS:
+id = table: 39e7d6fc, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.953, power = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.891, power = 1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.231, power = 1
+- EFFECTS:
+id = table: 39e7d6fc, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.727), TAKE 8432 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+[HEAL] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.282), HEAL 3195 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.953, power = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.891, power = 1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.231, power = 1
+- EFFECTS:
+id = table: 39e7d6fc, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.953, power = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.727, power = 1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.282, power = 0
+- EFFECTS:
+id = table: 39e7d6fc, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.192), TAKE 5621 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+[HEAL] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.218), HEAL 1597 hp, reason = 1
+
+
+[HEAL] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 1), HEAL 3195 hp, reason = 1
+
+
+[HEAL] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.789), HEAL 3195 hp, reason = 1
+
+
+[ADD_EFFECT] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.789), type = 102, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.953, power = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.727, power = 1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.282, power = 0
+- EFFECTS:
+id = table: 39e7d6fc, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.789, power = 1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6fb2924b, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.218, power = 0.1
+- EFFECTS:
+id = table: 39e7d6fc, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, BACK, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.106), TAKE 7027 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.74
+
+
+[HEAL] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.131), HEAL 1597 hp, reason = 1
+
+
+[HEAL] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 1), HEAL 3994 hp, reason = 1
+
+
+[ADD_EFFECT] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 102, persistentType = 1, isBuff = true
+
+
+[HEAL] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.929), HEAL 7189 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.789, power = 1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6fb2924b, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.218, power = 0.1
+- EFFECTS:
+id = table: 39e7d6fc, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 6140dbf3, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.929, power = 0
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6fb2924b, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.131, power = 0.2
+- EFFECTS:
+id = table: 39e7d6fc, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.953), TAKE 2951 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+[HEAL] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.994), HEAL 2556 hp, reason = 1
+
+
+[HEAL] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.978), HEAL 2556 hp, reason = 1
+
+
+[ADD_EFFECT] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.978), type = 102, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 6140dbf3, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.929, power = 0
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6fb2924b, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.131, power = 0.2
+- EFFECTS:
+id = table: 39e7d6fc, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.994, power = 0.1
+- EFFECTS:
+id = table: 6140dbf3, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.978, power = 0
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6fb2924b, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1
+id = table: 43e8e4a3, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.131, power = 0.7
+- EFFECTS:
+id = table: 39e7d6fc, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 9
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.084), TAKE 2951 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.994, power = 0.1
+- EFFECTS:
+id = table: 6140dbf3, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.978, power = 0
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6fb2924b, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+id = table: 43e8e4a3, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.131, power = 0.7
+- EFFECTS:
+id = table: 39e7d6fc, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.994, power = 0.6
+- EFFECTS:
+id = table: 6140dbf3, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.978, power = 0
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6fb2924b, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+id = table: 43e8e4a3, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.084, power = 0.8
+- EFFECTS:
+id = table: 39e7d6fc, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.025), TAKE 3688 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.88
+
+
+[HEAL] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.051), HEAL 1597 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.994, power = 0.6
+- EFFECTS:
+id = table: 6140dbf3, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.978, power = 0
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6fb2924b, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+id = table: 43e8e4a3, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.084, power = 0.8
+- EFFECTS:
+id = table: 39e7d6fc, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.994, power = 0.6
+- EFFECTS:
+id = table: 6140dbf3, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.978, power = 0.5
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6fb2924b, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+id = table: 43e8e4a3, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.051, power = 0.9
+- EFFECTS:
+id = table: 39e7d6fc, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.947), TAKE 2951 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.994, power = 0.6
+- EFFECTS:
+id = table: 6140dbf3, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.978, power = 0.5
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6fb2924b, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+id = table: 43e8e4a3, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.051, power = 0.9
+- EFFECTS:
+id = table: 39e7d6fc, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.947, power = 0.7
+- EFFECTS:
+id = table: 6140dbf3, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.978, power = 0.5
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 6fb2924b, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+id = table: 43e8e4a3, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.051, power = 1
+- EFFECTS:
+id = table: 39e7d6fc, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 9 ----------
+
+[REMOVE_EFFECT] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.947), type = 102, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.978), type = 102, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.978), type = 102, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.051), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 10
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.004), TAKE 2951 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[HEAL] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.029), HEAL 1597 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.947, power = 0.7
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.978, power = 0.5
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.051, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.947, power = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.978, power = 0.5
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.029, power = 1
+
+
+TURN 2 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.91), TAKE 2269 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.934), TAKE 2269 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.91), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.934), type = 404, persistentType = 52, isBuff = false
+
+
+[HEAL] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.942), HEAL 1997 hp, reason = 1
+
+
+[ADD_EFFECT] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.942), type = 102, persistentType = 1, isBuff = true
+
+
+[HEAL] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.973), HEAL 1997 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.46
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.947, power = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.978, power = 0.5
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.029, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.942, power = 1
+- EFFECTS:
+id = table: 443f9a14, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 3fe47812, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.973, power = 0.6
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 581cb35e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.029, power = 1
+
+
+TURN 3 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.886), TAKE 4497 damage, initiatorPower = 0, targetPower = 0.7
+[Raina 10003 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[HEAL] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.08), HEAL 3195 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.942, power = 1
+- EFFECTS:
+id = table: 443f9a14, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 3fe47812, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.973, power = 0.6
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 581cb35e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.029, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.942, power = 1
+- EFFECTS:
+id = table: 443f9a14, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 3fe47812, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 0.7
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 581cb35e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.08, power = 0
+
+
+TURN 4 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0.021), TAKE 3688 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.62
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.942, power = 1
+- EFFECTS:
+id = table: 443f9a14, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 3fe47812, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 0.7
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 581cb35e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.08, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.942, power = 1
+- EFFECTS:
+id = table: 443f9a14, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 3fe47812, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 581cb35e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.021, power = 0.1
+
+
+ROUND 11
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.895), TAKE 2951 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.64
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.942, power = 1
+- EFFECTS:
+id = table: 443f9a14, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 3fe47812, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 581cb35e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.021, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.895, power = 1
+- EFFECTS:
+id = table: 443f9a14, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 3fe47812, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 581cb35e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.021, power = 0.6
+
+
+TURN 2 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Raina 10003 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 5621 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Raina 10003 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[DEAD_FOR_DISPLAY] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[HEAL] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.987), HEAL 5751 hp, reason = 1
+
+
+[HEAL] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.948), HEAL 3195 hp, reason = 1
+
+
+[ADD_EFFECT] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 1, BACK, POS 1)] (hp = 0.948), type = 102, persistentType = 1, isBuff = true
+
+
+[DEAD] [Raina 10003 (TEAM 1, FRONT, POS 1)] => [Raina 10003 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.895, power = 1
+- EFFECTS:
+id = table: 443f9a14, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 3fe47812, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.886, power = 1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 581cb35e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0.021, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.987, power = 0
+- EFFECTS:
+id = table: 443f9a14, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 3fe47812, type = 102, initiator = [Raina 10003 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.948, power = 1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 581cb35e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 5c559902, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 11 ----------
+
+[REMOVE_EFFECT] [Raina 10003 (TEAM 1, BACK, POS 1)] => [Raina 10003 (TEAM 1, FRONT, POS 1)] (hp = 0.987), type = 102, persistentType = 1, isBuff = true
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Raina 10003 (TEAM 1, FRONT, POS 1)] hp = 0.987, power = 0
+- EFFECTS:
+id = table: 443f9a14, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Raina 10003 (TEAM 1, BACK, POS 1)] hp = 0.948, power = 1
+- EFFECTS:
+id = table: 2a159936, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+id = table: 581cb35e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 5c559902, type = 102, initiator = [Raina 10003 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Raina 10003 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+<> STATISTICS:
+[Raina 10003 (TEAM 2, FRONT, POS 1)] DamageDeal = 44828, DamageTaken = 101948.61, HpHeal = 27153, HpHealTaken = 27153
+	Damage dealt by sources: Dictionary = table: 640247a6, count = 2
+	[1 (number)] = 20657 (number)
+	[2 (number)] = 24171 (number)
+
+	Damage taken by sources: Dictionary = table: 78ba97dc, count = 2
+	[1 (number)] = 52320 (number)
+	[2 (number)] = 49628.61 (number)
+
+	Hp heal by sources: Dictionary = table: 45015dd6, count = 1
+	[1 (number)] = 27153 (number)
+
+	Hp heal taken by sources: Dictionary = table: 356c41fd, count = 1
+	[1 (number)] = 27153 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 43a51f81, count = 11
+	[6003 (number)] = 2951 (number)
+	[3003 (number)] = 2951 (number)
+	[9003 (number)] = 2951 (number)
+	[11001 (number)] = 2951 (number)
+	[5003 (number)] = 5621 (number)
+	[8003 (number)] = 2951 (number)
+	[2003 (number)] = 5621 (number)
+	[4003 (number)] = 2951 (number)
+	[1003 (number)] = 2951 (number)
+	[10003 (number)] = 4497 (number)
+	[7004 (number)] = 8432 (number)
+
+	Damage taken history: Dictionary = table: 6f0d645e, count = 22
+	[4001 (number)] = 3195 (number)
+	[4002 (number)] = 3994 (number)
+	[8001 (number)] = 6086.475 (number)
+	[8002 (number)] = 7608.57 (number)
+	[1001 (number)] = 3195 (number)
+	[1002 (number)] = 3994 (number)
+	[5001 (number)] = 6086.475 (number)
+	[5002 (number)] = 7608.57 (number)
+	[9001 (number)] = 3195 (number)
+	[9002 (number)] = 3994 (number)
+	[2001 (number)] = 6086.475 (number)
+	[2002 (number)] = 7608.57 (number)
+	[6001 (number)] = 3195 (number)
+	[6002 (number)] = 3994 (number)
+	[10001 (number)] = 3195 (number)
+	[10004 (number)] = 3994 (number)
+	[3001 (number)] = 3195 (number)
+	[7001 (number)] = 3195 (number)
+	[3002 (number)] = 5991 (number)
+	[7002 (number)] = 2457 (number)
+	[7003 (number)] = 3994 (number)
+	[11002 (number)] = 6086.475 (number)
+
+	Hp heal history: Dictionary = table: 20ad7b84, count = 13
+	[3001 (number)] = 1597 (number)
+	[6001 (number)] = 1597 (number)
+	[9002 (number)] = 1597 (number)
+	[8001 (number)] = 1597 (number)
+	[8002 (number)] = 1597 (number)
+	[5003 (number)] = 3195 (number)
+	[2003 (number)] = 3195 (number)
+	[4001 (number)] = 1597 (number)
+	[7001 (number)] = 1597 (number)
+	[10001 (number)] = 1597 (number)
+	[4002 (number)] = 1597 (number)
+	[10003 (number)] = 3195 (number)
+	[7004 (number)] = 3195 (number)
+
+	Hp heal taken history: Dictionary = table: 7719a5c5, count = 13
+	[3001 (number)] = 1597 (number)
+	[6001 (number)] = 1597 (number)
+	[9002 (number)] = 1597 (number)
+	[8001 (number)] = 1597 (number)
+	[8002 (number)] = 1597 (number)
+	[5003 (number)] = 3195 (number)
+	[2003 (number)] = 3195 (number)
+	[4001 (number)] = 1597 (number)
+	[7001 (number)] = 1597 (number)
+	[10001 (number)] = 1597 (number)
+	[4002 (number)] = 1597 (number)
+	[10003 (number)] = 3195 (number)
+	[7004 (number)] = 3195 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 2269, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 1c2be5b0, count = 1
+	[2 (number)] = 2269 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 18805dff, count = 1
+	[7002 (number)] = 2269 (number)
+
+	Effect created history: Dictionary = table: 533a6430, count = 2
+	[501 (number)] = 4 (number)
+	[112 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: 69b7d41f, count = 1
+	[4 (number)] = 60 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 4538, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2af2aafc, count = 1
+	[2 (number)] = 4538 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 300775f8, count = 1
+	[10002 (number)] = 4538 (number)
+
+	Effect created history: Dictionary = table: 309c8c2c, count = 1
+	[501 (number)] = 2 (number)
+
+	Stat changer debuff created history: Dictionary = table: 67dca10c, count = 1
+	[4 (number)] = 120 (number)
+
+[Raina 10003 (TEAM 1, BACK, POS 1)] DamageDeal = 48742, DamageTaken = 29846.139, HpHeal = 43933, HpHealTaken = 42095
+	Damage dealt by sources: Dictionary = table: 58465241, count = 2
+	[1 (number)] = 27661 (number)
+	[2 (number)] = 21081 (number)
+
+	Damage taken by sources: Dictionary = table: 53e55404, count = 1
+	[2 (number)] = 29846.139 (number)
+
+	Hp heal by sources: Dictionary = table: 74c5fb8, count = 1
+	[1 (number)] = 43933 (number)
+
+	Hp heal taken by sources: Dictionary = table: 59a5a9c, count = 1
+	[1 (number)] = 42095 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6fa4c434, count = 10
+	[3002 (number)] = 5533 (number)
+	[6002 (number)] = 3688 (number)
+	[9002 (number)] = 3688 (number)
+	[5002 (number)] = 7027 (number)
+	[8002 (number)] = 7027 (number)
+	[2002 (number)] = 7027 (number)
+	[4002 (number)] = 3688 (number)
+	[1002 (number)] = 3688 (number)
+	[7003 (number)] = 3688 (number)
+	[10004 (number)] = 3688 (number)
+
+	Damage taken history: Dictionary = table: 1618f8b0, count = 5
+	[10003 (number)] = 6086.475 (number)
+	[2003 (number)] = 6086.475 (number)
+	[7004 (number)] = 9129.713 (number)
+	[5003 (number)] = 6086.475 (number)
+	[10002 (number)] = 2457 (number)
+
+	Hp heal history: Dictionary = table: 734cc454, count = 5
+	[2002 (number)] = 11183 (number)
+	[2003 (number)] = 6390 (number)
+	[8002 (number)] = 11183 (number)
+	[5002 (number)] = 11183 (number)
+	[10002 (number)] = 3994 (number)
+
+	Hp heal taken history: Dictionary = table: 24553e1b, count = 10
+	[2001 (number)] = 3195 (number)
+	[5001 (number)] = 3195 (number)
+	[8001 (number)] = 3195 (number)
+	[5002 (number)] = 7189 (number)
+	[8002 (number)] = 7189 (number)
+	[2002 (number)] = 7189 (number)
+	[11002 (number)] = 3195 (number)
+	[8003 (number)] = 2556 (number)
+	[2003 (number)] = 3195 (number)
+	[10002 (number)] = 1997 (number)
+
+	Effect created history: Dictionary = table: 6d99dbc1, count = 1
+	[102 (number)] = 10 (number)
+
+[Raina 10003 (TEAM 1, FRONT, POS 1)] DamageDeal = 43141, DamageTaken = 24822, HpHeal = 33228, HpHealTaken = 35066
+	Damage dealt by sources: Dictionary = table: 3c1573ba, count = 2
+	[1 (number)] = 20657 (number)
+	[2 (number)] = 22484 (number)
+
+	Damage taken by sources: Dictionary = table: 296e7e08, count = 2
+	[1 (number)] = 22365 (number)
+	[2 (number)] = 2457 (number)
+
+	Hp heal by sources: Dictionary = table: 244638d8, count = 1
+	[1 (number)] = 33228 (number)
+
+	Hp heal taken by sources: Dictionary = table: 7a2b842, count = 1
+	[1 (number)] = 35066 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 10bd93af, count = 11
+	[3001 (number)] = 2951 (number)
+	[6001 (number)] = 2951 (number)
+	[9001 (number)] = 2951 (number)
+	[2001 (number)] = 5621 (number)
+	[5001 (number)] = 5621 (number)
+	[8001 (number)] = 5621 (number)
+	[11002 (number)] = 5621 (number)
+	[4001 (number)] = 2951 (number)
+	[7001 (number)] = 2951 (number)
+	[1001 (number)] = 2951 (number)
+	[10001 (number)] = 2951 (number)
+
+	Damage taken history: Dictionary = table: 4a79218e, count = 8
+	[3003 (number)] = 3195 (number)
+	[9003 (number)] = 3195 (number)
+	[1003 (number)] = 3195 (number)
+	[8003 (number)] = 3195 (number)
+	[6003 (number)] = 3195 (number)
+	[11001 (number)] = 3195 (number)
+	[4003 (number)] = 3195 (number)
+	[10002 (number)] = 2457 (number)
+
+	Hp heal history: Dictionary = table: 5f6c40e1, count = 5
+	[8001 (number)] = 6390 (number)
+	[8003 (number)] = 5112 (number)
+	[5001 (number)] = 6390 (number)
+	[11002 (number)] = 8946 (number)
+	[2001 (number)] = 6390 (number)
+
+	Hp heal taken history: Dictionary = table: 4d1e83e6, count = 10
+	[2001 (number)] = 3195 (number)
+	[5001 (number)] = 3195 (number)
+	[8001 (number)] = 3195 (number)
+	[5002 (number)] = 3994 (number)
+	[8002 (number)] = 3994 (number)
+	[2002 (number)] = 3994 (number)
+	[11002 (number)] = 5751 (number)
+	[8003 (number)] = 2556 (number)
+	[2003 (number)] = 3195 (number)
+	[10002 (number)] = 1997 (number)
+
+	Effect created history: Dictionary = table: 31424101, count = 1
+	[102 (number)] = 10 (number)
+
+
+<> WINNER: 1

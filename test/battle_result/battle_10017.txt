@@ -1,0 +1,1725 @@
+
+<> SEED = 784010181
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 57
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 1
+attack = 2169
+defense = 310
+hp = 37279/37279
+speed = 75
+critRate = 0.1
+critDamage = 1.5
+accuracy = 998
+dodge = 898
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 2155ea92, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 7741cf2e, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 7eda394f, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 70d55d7c, type = 403, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 687816f, type = 404, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 4e571e6f, type = 403, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 1
+attack = 2169
+defense = 310
+hp = 37279/37279
+speed = 75
+critRate = 0.1
+critDamage = 1.5
+accuracy = 998
+dodge = 898
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 7f46062e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: a1dd106, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 30abb5d3, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 7f13a29e, type = 403, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 65369abc, type = 404, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 507948c8, type = 403, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 1
+attack = 2169
+defense = 310
+hp = 37279/37279
+speed = 75
+critRate = 0.1
+critDamage = 1.5
+accuracy = 998
+dodge = 898
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 1c7e2fd, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: eca8272, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 5ff81a6d, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 6116db65, type = 403, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 73faab6e, type = 404, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 6c2fca3b, type = 403, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 1
+attack = 2169
+defense = 310
+hp = 37279/37279
+speed = 75
+critRate = 0.1
+critDamage = 1.5
+accuracy = 998
+dodge = 898
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 364d3241, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 61d70a1e, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 47d07c91, type = 403, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 253888fc, type = 404, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 3, amount = 20, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 29796e71, type = 403, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 404, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 404, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 404, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 404, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] (hp = 0.946), TAKE 2018 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2155ea92, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 7f46062e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1c7e2fd, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 2155ea92, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7ab86920, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.946, power = 0.6
+- EFFECTS:
+id = table: 7f46062e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1c7e2fd, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.946), TAKE 2018 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 2155ea92, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7ab86920, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.946, power = 0.6
+- EFFECTS:
+id = table: 7f46062e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1c7e2fd, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.946, power = 1
+- EFFECTS:
+id = table: 2155ea92, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7ab86920, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.946, power = 0.6
+- EFFECTS:
+id = table: 7f46062e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1c7e2fd, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 23e61b93, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.892), TAKE 2018 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] (hp = 0.946), type = 431, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.946, power = 1
+- EFFECTS:
+id = table: 2155ea92, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7ab86920, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.946, power = 0.6
+- EFFECTS:
+id = table: 7f46062e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1c7e2fd, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 23e61b93, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.892, power = 1
+- EFFECTS:
+id = table: 2155ea92, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7ab86920, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.946, power = 1
+- EFFECTS:
+id = table: 7f46062e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 6796cf8a, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1c7e2fd, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 23e61b93, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.838), TAKE 2018 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.892, power = 1
+- EFFECTS:
+id = table: 2155ea92, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7ab86920, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.946, power = 1
+- EFFECTS:
+id = table: 7f46062e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 6796cf8a, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1c7e2fd, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 23e61b93, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.838, power = 1
+- EFFECTS:
+id = table: 2155ea92, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+id = table: 7ab86920, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.946, power = 1
+- EFFECTS:
+id = table: 7f46062e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 6796cf8a, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1c7e2fd, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+id = table: 23e61b93, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 608c4ec, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] (hp = 0.847), TAKE 3683 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.838, power = 1
+- EFFECTS:
+id = table: 2155ea92, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7ab86920, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.946, power = 1
+- EFFECTS:
+id = table: 7f46062e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 6796cf8a, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1c7e2fd, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 23e61b93, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 608c4ec, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.838, power = 0
+- EFFECTS:
+id = table: 2155ea92, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7ab86920, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.847, power = 1
+- EFFECTS:
+id = table: 7f46062e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 6796cf8a, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1c7e2fd, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 23e61b93, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 608c4ec, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.739), TAKE 3683 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.18
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.838, power = 0
+- EFFECTS:
+id = table: 2155ea92, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7ab86920, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.847, power = 1
+- EFFECTS:
+id = table: 7f46062e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 6796cf8a, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 1c7e2fd, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 23e61b93, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 608c4ec, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.739, power = 0.1
+- EFFECTS:
+id = table: 2155ea92, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7ab86920, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.847, power = 1
+- EFFECTS:
+id = table: 7f46062e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 6796cf8a, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 1c7e2fd, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 23e61b93, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 608c4ec, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.64), TAKE 3683 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.739, power = 0.1
+- EFFECTS:
+id = table: 2155ea92, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7ab86920, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.847, power = 1
+- EFFECTS:
+id = table: 7f46062e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 6796cf8a, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 1c7e2fd, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 23e61b93, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 608c4ec, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.64, power = 0.2
+- EFFECTS:
+id = table: 2155ea92, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7ab86920, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.847, power = 0
+- EFFECTS:
+id = table: 7f46062e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 6796cf8a, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 1c7e2fd, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 23e61b93, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 608c4ec, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.541), TAKE 3683 damage, initiatorPower = 0, targetPower = 0.3
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.64, power = 0.2
+- EFFECTS:
+id = table: 2155ea92, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7ab86920, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.847, power = 0
+- EFFECTS:
+id = table: 7f46062e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 6796cf8a, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 1c7e2fd, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 23e61b93, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 608c4ec, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.541, power = 0.3
+- EFFECTS:
+id = table: 2155ea92, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+id = table: 7ab86920, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.847, power = 0
+- EFFECTS:
+id = table: 7f46062e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 6796cf8a, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 1c7e2fd, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+id = table: 23e61b93, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+- EFFECTS:
+id = table: 608c4ec, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.541), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.541), type = 431, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] (hp = 0.847), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] (hp = 0.847), type = 431, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 1, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] (hp = 0.793), TAKE 2018 damage, initiatorPower = 0.8, targetPower = 0.1
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.541), type = 431, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.541, power = 0.3
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.847, power = 0
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.541, power = 0.8
+- EFFECTS:
+id = table: 3f405c64, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.793, power = 0.1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.487), TAKE 2018 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.541, power = 0.8
+- EFFECTS:
+id = table: 3f405c64, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.793, power = 0.1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.487, power = 0.9
+- EFFECTS:
+id = table: 3f405c64, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.793, power = 0.1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2ce9f29c, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.433), TAKE 2018 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] (hp = 0.793), type = 431, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.487, power = 0.9
+- EFFECTS:
+id = table: 3f405c64, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.793, power = 0.1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2ce9f29c, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.433, power = 1
+- EFFECTS:
+id = table: 3f405c64, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.793, power = 0.6
+- EFFECTS:
+id = table: 7d528214, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2ce9f29c, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.379), TAKE 2018 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.433, power = 1
+- EFFECTS:
+id = table: 3f405c64, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.793, power = 0.6
+- EFFECTS:
+id = table: 7d528214, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2ce9f29c, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.379, power = 1
+- EFFECTS:
+id = table: 3f405c64, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.793, power = 0.6
+- EFFECTS:
+id = table: 7d528214, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2ce9f29c, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3d3d06f6, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] (hp = 0.694), TAKE 3683 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.379, power = 1
+- EFFECTS:
+id = table: 3f405c64, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.793, power = 0.6
+- EFFECTS:
+id = table: 7d528214, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2ce9f29c, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3d3d06f6, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.379, power = 0
+- EFFECTS:
+id = table: 3f405c64, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.694, power = 0.7
+- EFFECTS:
+id = table: 7d528214, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2ce9f29c, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3d3d06f6, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.325), TAKE 2018 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.78
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.379, power = 0
+- EFFECTS:
+id = table: 3f405c64, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.694, power = 0.7
+- EFFECTS:
+id = table: 7d528214, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2ce9f29c, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3d3d06f6, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.325, power = 0.1
+- EFFECTS:
+id = table: 3f405c64, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.694, power = 0.7
+- EFFECTS:
+id = table: 7d528214, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 2ce9f29c, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 23de49, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3d3d06f6, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.271), TAKE 2018 damage, initiatorPower = 1, targetPower = 0.2
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.88
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] (hp = 0.694), type = 431, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.325, power = 0.1
+- EFFECTS:
+id = table: 3f405c64, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.694, power = 0.7
+- EFFECTS:
+id = table: 7d528214, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 2ce9f29c, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 23de49, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3d3d06f6, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.271, power = 0.2
+- EFFECTS:
+id = table: 3f405c64, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.694, power = 1
+- EFFECTS:
+id = table: 7d528214, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 633da1c3, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 2ce9f29c, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 23de49, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3d3d06f6, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.216), TAKE 2018 damage, initiatorPower = 1, targetPower = 0.3
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.271, power = 0.2
+- EFFECTS:
+id = table: 3f405c64, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.694, power = 1
+- EFFECTS:
+id = table: 7d528214, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 633da1c3, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 2ce9f29c, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 23de49, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 3d3d06f6, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.216, power = 0.3
+- EFFECTS:
+id = table: 3f405c64, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.694, power = 1
+- EFFECTS:
+id = table: 7d528214, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 633da1c3, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 2ce9f29c, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 23de49, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: 3d3d06f6, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: a96dd92, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 4 ----------
+
+[REMOVE_EFFECT] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.216), type = 431, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] (hp = 0.694), type = 431, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 1, isBuff = true
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] (hp = 0.64), TAKE 2018 damage, initiatorPower = 0.8, targetPower = 1
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[ADD_EFFECT] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.216), type = 431, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.216, power = 0.3
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.694, power = 1
+- EFFECTS:
+id = table: 633da1c3, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 23de49, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: a96dd92, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.216, power = 0.8
+- EFFECTS:
+id = table: 5f496080, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.64, power = 1
+- EFFECTS:
+id = table: 633da1c3, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 23de49, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: a96dd92, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.155), TAKE 2287 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.155), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.216, power = 0.8
+- EFFECTS:
+id = table: 5f496080, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.64, power = 1
+- EFFECTS:
+id = table: 633da1c3, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 23de49, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: a96dd92, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.155, power = 0.9
+- EFFECTS:
+id = table: 5f496080, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 41063cb6, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.64, power = 1
+- EFFECTS:
+id = table: 633da1c3, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 23de49, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: a96dd92, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0.056), TAKE 3683 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.58
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.155, power = 0.9
+- EFFECTS:
+id = table: 5f496080, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 41063cb6, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.64, power = 1
+- EFFECTS:
+id = table: 633da1c3, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 23de49, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: a96dd92, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.056, power = 1
+- EFFECTS:
+id = table: 5f496080, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 41063cb6, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.64, power = 1
+- EFFECTS:
+id = table: 633da1c3, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 23de49, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: a96dd92, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 3683 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.6
+
+
+[DEAD_FOR_DISPLAY] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[DEAD] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0.056, power = 1
+- EFFECTS:
+id = table: 5f496080, type = 431, initiator = [Glugrgly 10017 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 41063cb6, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.64, power = 1
+- EFFECTS:
+id = table: 633da1c3, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 23de49, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: a96dd92, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.64, power = 0
+- EFFECTS:
+id = table: 633da1c3, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+- EFFECTS:
+id = table: 23de49, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+- EFFECTS:
+id = table: a96dd92, type = 431, initiator = [Glugrgly 10017 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 5 ----------
+
+[REMOVE_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] (hp = 0.64), type = 431, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 1, isBuff = true
+
+
+[REMOVE_EFFECT] [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] => [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 1, isBuff = true
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Glugrgly 10017 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 1)] hp = 0.64, power = 0
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [Glugrgly 10017 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+<> STATISTICS:
+[Glugrgly 10017 (TEAM 2, FRONT, POS 1)] DamageDeal = 13420, DamageTaken = 14419.512, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4f3bbeec, count = 2
+	[1 (number)] = 6054 (number)
+	[2 (number)] = 7366 (number)
+
+	Damage taken by sources: Dictionary = table: 73fd80d4, count = 2
+	[1 (number)] = 6507 (number)
+	[2 (number)] = 7912.512 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6724b34b, count = 5
+	[3003 (number)] = 2018 (number)
+	[2003 (number)] = 3683 (number)
+	[1003 (number)] = 2018 (number)
+	[4003 (number)] = 2018 (number)
+	[5004 (number)] = 3683 (number)
+
+	Damage taken history: Dictionary = table: 17b7d095, count = 5
+	[1001 (number)] = 2169 (number)
+	[5001 (number)] = 2169 (number)
+	[4001 (number)] = 3956.256 (number)
+	[3001 (number)] = 2169 (number)
+	[2001 (number)] = 3956.256 (number)
+
+	Stat changer buff created history: Dictionary = table: 5e9c051, count = 1
+	[31 (number)] = 0.9 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 2287, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 1a0d0b18, count = 1
+	[2 (number)] = 2287 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 58f14df9, count = 1
+	[5002 (number)] = 2287 (number)
+
+	Effect created history: Dictionary = table: 716b1d0a, count = 1
+	[501 (number)] = 4 (number)
+
+	Stat changer debuff created history: Dictionary = table: 3a4bb03e, count = 1
+	[4 (number)] = 60 (number)
+
+[Glugrgly 10017 (TEAM 1, FRONT, POS 1)] DamageDeal = 13420, DamageTaken = 41759.28, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 48ec39a4, count = 2
+	[1 (number)] = 6054 (number)
+	[2 (number)] = 7366 (number)
+
+	Damage taken by sources: Dictionary = table: 1a202bc5, count = 2
+	[1 (number)] = 19521 (number)
+	[2 (number)] = 22238.28 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 338ae6c6, count = 5
+	[1001 (number)] = 2018 (number)
+	[5001 (number)] = 2018 (number)
+	[4001 (number)] = 3683 (number)
+	[3001 (number)] = 2018 (number)
+	[2001 (number)] = 3683 (number)
+
+	Damage taken history: Dictionary = table: 54a76ac9, count = 15
+	[3002 (number)] = 2169 (number)
+	[3003 (number)] = 2169 (number)
+	[3004 (number)] = 2169 (number)
+	[2002 (number)] = 3956.256 (number)
+	[5002 (number)] = 2457 (number)
+	[2003 (number)] = 3956.256 (number)
+	[5003 (number)] = 3956.256 (number)
+	[2004 (number)] = 3956.256 (number)
+	[5004 (number)] = 3956.256 (number)
+	[1002 (number)] = 2169 (number)
+	[4002 (number)] = 2169 (number)
+	[1003 (number)] = 2169 (number)
+	[4003 (number)] = 2169 (number)
+	[1004 (number)] = 2169 (number)
+	[4004 (number)] = 2169 (number)
+
+	Stat changer buff created history: Dictionary = table: 7daf48e0, count = 1
+	[31 (number)] = 0.9 (number)
+
+[Glugrgly 10017 (TEAM 2, FRONT, POS 2)] DamageDeal = 13420, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 66ca2a93, count = 2
+	[1 (number)] = 6054 (number)
+	[2 (number)] = 7366 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 2125c5a, count = 5
+	[2002 (number)] = 3683 (number)
+	[1002 (number)] = 2018 (number)
+	[4002 (number)] = 2018 (number)
+	[5003 (number)] = 3683 (number)
+	[3002 (number)] = 2018 (number)
+
+	Stat changer buff created history: Dictionary = table: 6d0c9ff3, count = 1
+	[31 (number)] = 0.9 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: 6a6332fa, count = 1
+	[501 (number)] = 2 (number)
+
+[Glugrgly 10017 (TEAM 2, FRONT, POS 3)] DamageDeal = 9737, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5d4a0397, count = 2
+	[1 (number)] = 6054 (number)
+	[2 (number)] = 3683 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 4daa74e8, count = 4
+	[2004 (number)] = 3683 (number)
+	[3004 (number)] = 2018 (number)
+	[1004 (number)] = 2018 (number)
+	[4004 (number)] = 2018 (number)
+
+	Stat changer buff created history: Dictionary = table: 445089a9, count = 1
+	[31 (number)] = 0.9 (number)
+
+
+<> WINNER: 2

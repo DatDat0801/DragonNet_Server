@@ -1,0 +1,3849 @@
+
+<> SEED = 418083007
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 163
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 6
+attack = 1366
+defense = 220
+hp = 33310/33310
+speed = 53
+critRate = 0.1
+critDamage = 1.5
+accuracy = 889
+dodge = 862
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 567db734, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 33e0f215, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 22a27596, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 195db2e1, type = 402, initiator = [Drak 60025 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1d52bc1f, type = 403, initiator = [Drak 60025 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 48f98e43, type = 403, initiator = [Drak 60025 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 6
+attack = 1366
+defense = 220
+hp = 33310/33310
+speed = 53
+critRate = 0.1
+critDamage = 1.5
+accuracy = 889
+dodge = 862
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 299695fa, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 6c9738c5, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 64adc30c, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 7989a326, type = 402, initiator = [Drak 60025 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 2bae5a1f, type = 403, initiator = [Drak 60025 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 18294b9b, type = 403, initiator = [Drak 60025 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 6
+attack = 1366
+defense = 220
+hp = 33310/33310
+speed = 53
+critRate = 0.1
+critDamage = 1.5
+accuracy = 889
+dodge = 862
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 7e2a0ebf, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 40310ae2, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 1996de59, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 37e76422, type = 402, initiator = [Drak 60025 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 6b1066b4, type = 403, initiator = [Drak 60025 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 741517d5, type = 403, initiator = [Drak 60025 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 3
+faction = 6
+attack = 1366
+defense = 220
+hp = 33310/33310
+speed = 53
+critRate = 0.1
+critDamage = 1.5
+accuracy = 889
+dodge = 862
+pureDamage = 0
+skillDamage = 0.27
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 23be072e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: bfc2de, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 68f231bb, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 3ba6dcfc, type = 402, initiator = [Drak 60025 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+id = table: 1c7c675f, type = 403, initiator = [Drak 60025 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: cf57116, type = 403, initiator = [Drak 60025 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.942), TAKE 1923 damage, initiatorPower = 1, targetPower = 0.6 (CRIT)
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 567db734, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 299695fa, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 7e2a0ebf, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 23be072e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 567db734, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 299695fa, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.942, power = 0.6
+- EFFECTS:
+id = table: 7e2a0ebf, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 23be072e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.904), TAKE 1282 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 567db734, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 299695fa, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.942, power = 0.6
+- EFFECTS:
+id = table: 7e2a0ebf, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 23be072e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 567db734, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 299695fa, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.904, power = 0.7
+- EFFECTS:
+id = table: 7e2a0ebf, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 23be072e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.962), TAKE 1282 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 567db734, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 299695fa, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.904, power = 0.7
+- EFFECTS:
+id = table: 7e2a0ebf, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 23be072e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.962, power = 1
+- EFFECTS:
+id = table: 567db734, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 299695fa, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.904, power = 1
+- EFFECTS:
+id = table: 7e2a0ebf, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 23be072e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.923), TAKE 1282 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.962, power = 1
+- EFFECTS:
+id = table: 567db734, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 299695fa, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.904, power = 1
+- EFFECTS:
+id = table: 7e2a0ebf, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 23be072e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.923, power = 1
+- EFFECTS:
+id = table: 567db734, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 299695fa, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.904, power = 1
+- EFFECTS:
+id = table: 7e2a0ebf, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 23be072e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.85), TAKE 1792 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.946), TAKE 1792 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[HEAL] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.948), HEAL 819 hp, reason = 1
+
+
+[HEAL] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 1), HEAL 819 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.923, power = 1
+- EFFECTS:
+id = table: 567db734, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 299695fa, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.904, power = 1
+- EFFECTS:
+id = table: 7e2a0ebf, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 23be072e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.948, power = 0
+- EFFECTS:
+id = table: 567db734, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 299695fa, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.85, power = 1
+- EFFECTS:
+id = table: 7e2a0ebf, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.946, power = 1
+- EFFECTS:
+id = table: 23be072e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.867), TAKE 2688 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.946), TAKE 1792 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[HEAL] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.875), HEAL 819 hp, reason = 1
+
+
+[HEAL] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.971), HEAL 819 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.948, power = 0
+- EFFECTS:
+id = table: 567db734, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 299695fa, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.85, power = 1
+- EFFECTS:
+id = table: 7e2a0ebf, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.946, power = 1
+- EFFECTS:
+id = table: 23be072e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.867, power = 0.1
+- EFFECTS:
+id = table: 567db734, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.946, power = 1
+- EFFECTS:
+id = table: 299695fa, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.875, power = 0
+- EFFECTS:
+id = table: 7e2a0ebf, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.971, power = 1
+- EFFECTS:
+id = table: 23be072e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.821), TAKE 1792 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.917), TAKE 1792 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[HEAL] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.892), HEAL 819 hp, reason = 1
+
+
+[HEAL] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.971), HEAL 819 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.867, power = 0.1
+- EFFECTS:
+id = table: 567db734, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.946, power = 1
+- EFFECTS:
+id = table: 299695fa, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.875, power = 0
+- EFFECTS:
+id = table: 7e2a0ebf, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.971, power = 1
+- EFFECTS:
+id = table: 23be072e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.892, power = 0.1
+- EFFECTS:
+id = table: 567db734, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.971, power = 0
+- EFFECTS:
+id = table: 299695fa, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.821, power = 0.1
+- EFFECTS:
+id = table: 7e2a0ebf, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.917, power = 1
+- EFFECTS:
+id = table: 23be072e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.838), TAKE 1792 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.917), TAKE 1792 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[HEAL] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.845), HEAL 819 hp, reason = 1
+
+
+[HEAL] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.942), HEAL 819 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.892, power = 0.1
+- EFFECTS:
+id = table: 567db734, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.971, power = 0
+- EFFECTS:
+id = table: 299695fa, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.821, power = 0.1
+- EFFECTS:
+id = table: 7e2a0ebf, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.917, power = 1
+- EFFECTS:
+id = table: 23be072e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.838, power = 0.2
+- EFFECTS:
+id = table: 567db734, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.917, power = 0.1
+- EFFECTS:
+id = table: 299695fa, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.845, power = 0.1
+- EFFECTS:
+id = table: 7e2a0ebf, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.942, power = 0
+- EFFECTS:
+id = table: 23be072e, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.838), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.917), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.845), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.942), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.807), TAKE 1282 damage, initiatorPower = 0.7, targetPower = 0.2
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.838, power = 0.2
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.917, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.845, power = 0.1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.942, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.838, power = 0.7
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.917, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.807, power = 0.2
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.942, power = 0
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.749), TAKE 1923 damage, initiatorPower = 0.6, targetPower = 0.3 (CRIT)
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.838, power = 0.7
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.917, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.807, power = 0.2
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.942, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.838, power = 0.7
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.917, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 0.3
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.942, power = 0
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.799), TAKE 1282 damage, initiatorPower = 0.8, targetPower = 0.8
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.838, power = 0.7
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.917, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 0.3
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.942, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.799, power = 0.8
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.917, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 0.8
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.942, power = 0
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.761), TAKE 1282 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.799, power = 0.8
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.917, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 0.8
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.942, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.761, power = 0.9
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.917, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 0.8
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.942, power = 0.5
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.711), TAKE 1282 damage, initiatorPower = 1, targetPower = 0.9
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.761, power = 0.9
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.917, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.749, power = 0.8
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.942, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.761, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.917, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.711, power = 0.9
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.942, power = 0.5
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.722), TAKE 1282 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.761, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.917, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.711, power = 0.9
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.942, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.722, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.917, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.711, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.942, power = 0.5
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.672), TAKE 1282 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.722, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.917, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.711, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.942, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.722, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.917, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.672, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.942, power = 0.5
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.684), TAKE 1282 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.8
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.722, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.917, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.672, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.942, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.684, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.917, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.672, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.942, power = 1
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.618), TAKE 1792 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.861), TAKE 2688 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+[HEAL] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.708), HEAL 819 hp, reason = 1
+
+
+[HEAL] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.942), HEAL 819 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.684, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.917, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.672, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.942, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.708, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.942, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.618, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.861, power = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.655), TAKE 1792 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.888), TAKE 1792 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.84
+
+
+[HEAL] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.643), HEAL 819 hp, reason = 1
+
+
+[HEAL] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.885), HEAL 819 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.708, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.942, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.618, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.861, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.655, power = 0.1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.888, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.643, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.885, power = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.589), TAKE 1792 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.832), TAKE 1792 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.88
+
+
+[HEAL] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.679), HEAL 819 hp, reason = 1
+
+
+[HEAL] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.912), HEAL 819 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.655, power = 0.1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.888, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.643, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.885, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.679, power = 0.1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.912, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.589, power = 0.1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.832, power = 1
+
+
+TURN 4 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.625), TAKE 1792 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.86
+
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.859), TAKE 1792 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.88
+
+
+[HEAL] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.614), HEAL 819 hp, reason = 1
+
+
+[HEAL] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.856), HEAL 819 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.679, power = 0.1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.912, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.589, power = 0.1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.832, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.625, power = 0.2
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.859, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.614, power = 0.1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.856, power = 0
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.575), TAKE 1282 damage, initiatorPower = 0.7, targetPower = 0.2
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.98
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.9
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.625, power = 0.2
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.859, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.614, power = 0.1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.856, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.625, power = 0.7
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.859, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.575, power = 0.2
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.856, power = 0
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.537), TAKE 1282 damage, initiatorPower = 0.6, targetPower = 0.3
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.92
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.625, power = 0.7
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.859, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.575, power = 0.2
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.856, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.625, power = 0.7
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.859, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.92
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.537, power = 0.3
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.856, power = 0
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.468), TAKE 2307 damage, initiatorPower = 0, targetPower = 0.4
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.94
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.787), TAKE 2307 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.96
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.468), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.787), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.625, power = 0.7
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.859, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.92
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.537, power = 0.3
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.856, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.625, power = 0.7
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.859, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.468, power = 0.4
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.787, power = 0.1
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.587), TAKE 1282 damage, initiatorPower = 0.9, targetPower = 0.8
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.625, power = 0.7
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.859, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.468, power = 0.4
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.787, power = 0.1
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.587, power = 0.8
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.859, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.468, power = 0.9
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.787, power = 0.1
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.518), TAKE 2307 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.04
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.755), TAKE 3461 damage, initiatorPower = 0, targetPower = 0.7 (CRIT)
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.06
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.518), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.755), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.02
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.587, power = 0.8
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.859, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.468, power = 0.9
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.787, power = 0.1
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.06
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.518, power = 0.9
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.755, power = 0.7
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.468, power = 0.9
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.787, power = 0.1
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 6 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.46), TAKE 1923 damage, initiatorPower = 0.6, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.08
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.06
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.518, power = 0.9
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.755, power = 0.7
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.468, power = 0.9
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.787, power = 0.1
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.08
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.46, power = 1
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.755, power = 0.7
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.468, power = 0.9
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.787, power = 0.6
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.414), TAKE 1792 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.733), TAKE 1792 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[HEAL] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.484), HEAL 819 hp, reason = 1
+
+
+[HEAL] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.779), HEAL 819 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.08
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.46, power = 1
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.755, power = 0.7
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.468, power = 0.9
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.787, power = 0.6
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.08
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.484, power = 0
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.779, power = 0.7
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.414, power = 1
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.733, power = 0.7
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.356), TAKE 1923 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.18
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.16
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.08
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.484, power = 0
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.779, power = 0.7
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.414, power = 1
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.733, power = 0.7
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.484, power = 0
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.779, power = 1
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.356, power = 1
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.733, power = 0.7
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.431), TAKE 1792 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.725), TAKE 1792 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[HEAL] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.381), HEAL 819 hp, reason = 1
+
+
+[HEAL] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.758), HEAL 819 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.484, power = 0
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.779, power = 1
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.356, power = 1
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.733, power = 0.7
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.431, power = 0.1
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.725, power = 1
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.381, power = 0
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.758, power = 0.7
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.392), TAKE 1282 damage, initiatorPower = 1, targetPower = 0.2
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.431, power = 0.1
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.725, power = 1
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.381, power = 0
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.758, power = 0.7
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.392, power = 0.2
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.725, power = 1
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.381, power = 0
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.758, power = 1
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.342), TAKE 1282 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.392, power = 0.2
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.725, power = 1
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.381, power = 0
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.758, power = 1
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.392, power = 0.7
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.725, power = 1
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.342, power = 0.1
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.758, power = 1
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.354), TAKE 1282 damage, initiatorPower = 0.6, targetPower = 0.8
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.392, power = 0.7
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.725, power = 1
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.342, power = 0.1
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.758, power = 1
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.354, power = 0.8
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.725, power = 1
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.342, power = 0.6
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.758, power = 1
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.261), TAKE 2688 damage, initiatorPower = 0, targetPower = 0.7 (CRIT)
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.4
+
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.704), TAKE 1792 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+[HEAL] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.378), HEAL 819 hp, reason = 1
+
+
+[HEAL] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.75), HEAL 819 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.354, power = 0.8
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.725, power = 1
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.342, power = 0.6
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.758, power = 1
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.378, power = 0.8
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.75, power = 0
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.261, power = 0.7
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.704, power = 1
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.324), TAKE 1792 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.696), TAKE 1792 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+[HEAL] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.286), HEAL 819 hp, reason = 1
+
+
+[HEAL] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.729), HEAL 819 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.378, power = 0.8
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.75, power = 0
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.261, power = 0.7
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.704, power = 1
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.324, power = 0.9
+- EFFECTS:
+id = table: 16e10b8e, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.696, power = 0.1
+- EFFECTS:
+id = table: 69d8c092, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.286, power = 0.7
+- EFFECTS:
+id = table: 62abef3c, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.729, power = 0
+- EFFECTS:
+id = table: 1bad653b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 8 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.324), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.696), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.286), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.729), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 9
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.247), TAKE 1282 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.324, power = 0.9
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.696, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.286, power = 0.7
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.729, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.324, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.696, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.247, power = 0.8
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.729, power = 0
+
+
+TURN 2 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.209), TAKE 1282 damage, initiatorPower = 0.6, targetPower = 0.9
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.6
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.324, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.696, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.247, power = 0.8
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.729, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.324, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.696, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.209, power = 0.9
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.729, power = 0
+
+
+TURN 3 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.267), TAKE 1923 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.62
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.324, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.696, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.209, power = 0.9
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.729, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.267, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.696, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.209, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.729, power = 0
+
+
+TURN 4 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.228), TAKE 1282 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.64
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.267, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.696, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.209, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.729, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.228, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.696, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.209, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.729, power = 0.5
+
+
+ROUND 10
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.155), TAKE 1792 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.675), TAKE 1792 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[HEAL] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.253), HEAL 819 hp, reason = 1
+
+
+[HEAL] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.721), HEAL 819 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.228, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.696, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.209, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.729, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.253, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.721, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.155, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.675, power = 0.6
+
+
+TURN 2 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.199), TAKE 1792 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.667), TAKE 1792 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+[HEAL] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.18), HEAL 819 hp, reason = 1
+
+
+[HEAL] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.699), HEAL 819 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.253, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.721, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.155, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.675, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.199, power = 0.1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.667, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.18, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.699, power = 0.6
+
+
+TURN 3 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.141), TAKE 1282 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.199, power = 0.1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.667, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.18, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.699, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.199, power = 0.1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.667, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.141, power = 0.1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.699, power = 0.6
+
+
+TURN 4 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.161), TAKE 1282 damage, initiatorPower = 1, targetPower = 0.2
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.199, power = 0.1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.667, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.141, power = 0.1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.699, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.161, power = 0.2
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.667, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.141, power = 0.1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.699, power = 1
+
+
+ROUND 11
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.103), TAKE 1282 damage, initiatorPower = 0.7, targetPower = 0.2
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.9
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.161, power = 0.2
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.667, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.141, power = 0.1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.699, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.161, power = 0.7
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.667, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.103, power = 0.2
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.699, power = 1
+
+
+TURN 2 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.049), TAKE 1792 damage, initiatorPower = 0, targetPower = 0.3
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.646), TAKE 1792 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.88
+
+
+[HEAL] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.185), HEAL 819 hp, reason = 1
+
+
+[HEAL] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.692), HEAL 819 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.161, power = 0.7
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.667, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.103, power = 0.2
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.699, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.185, power = 0.7
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.692, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.049, power = 0.3
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.646, power = 1
+
+
+TURN 3 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.147), TAKE 1282 damage, initiatorPower = 0.8, targetPower = 0.8
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.92
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.185, power = 0.7
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.692, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.049, power = 0.3
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.646, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.147, power = 0.8
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.692, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.049, power = 0.8
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.646, power = 1
+
+
+TURN 4 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.093), TAKE 1792 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.94
+
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.638), TAKE 1792 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.96
+
+
+[HEAL] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.074), HEAL 819 hp, reason = 1
+
+
+[HEAL] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.67), HEAL 819 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.147, power = 0.8
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.692, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.049, power = 0.8
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.646, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.093, power = 0.9
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.638, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.074, power = 0.8
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0
+
+
+ROUND 12
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0.016), TAKE 1923 damage, initiatorPower = 1, targetPower = 0.9 (CRIT)
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.093, power = 0.9
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.638, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.074, power = 0.8
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.093, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.638, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.016, power = 0.9
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0
+
+
+TURN 2 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 2307 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[DEAD_FOR_DISPLAY] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.601), TAKE 2307 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.601), type = 404, persistentType = 52, isBuff = false
+
+
+[DEAD] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.093, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.638, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0.016, power = 0.9
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.67, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.093, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.638, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.601, power = 0.1
+- EFFECTS:
+id = table: 54b7009a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.024), TAKE 2307 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.02
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.569), TAKE 2307 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.04
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0.024), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.569), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.093, power = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.638, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.601, power = 0.1
+- EFFECTS:
+id = table: 54b7009a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.04
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.024, power = 1
+- EFFECTS:
+id = table: 24c3338a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.569, power = 0.2
+- EFFECTS:
+id = table: 3ae0e1e7, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.601, power = 0.1
+- EFFECTS:
+id = table: 54b7009a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.562), TAKE 1282 damage, initiatorPower = 0.7, targetPower = 0.2
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.04
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.024, power = 1
+- EFFECTS:
+id = table: 24c3338a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.569, power = 0.2
+- EFFECTS:
+id = table: 3ae0e1e7, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.601, power = 0.1
+- EFFECTS:
+id = table: 54b7009a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.024, power = 1
+- EFFECTS:
+id = table: 24c3338a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.569, power = 0.7
+- EFFECTS:
+id = table: 3ae0e1e7, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.562, power = 0.2
+- EFFECTS:
+id = table: 54b7009a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 1282 damage, initiatorPower = 0.7, targetPower = 0
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+[DEAD_FOR_DISPLAY] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0.024, power = 1
+- EFFECTS:
+id = table: 24c3338a, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.569, power = 0.7
+- EFFECTS:
+id = table: 3ae0e1e7, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.562, power = 0.2
+- EFFECTS:
+id = table: 54b7009a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.569, power = 0.7
+- EFFECTS:
+id = table: 3ae0e1e7, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.562, power = 0.7
+- EFFECTS:
+id = table: 54b7009a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 13
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 13)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.524), TAKE 1282 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.569, power = 0.7
+- EFFECTS:
+id = table: 3ae0e1e7, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.562, power = 0.7
+- EFFECTS:
+id = table: 54b7009a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.569, power = 1
+- EFFECTS:
+id = table: 3ae0e1e7, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.524, power = 0.8
+- EFFECTS:
+id = table: 54b7009a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 13)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.53), TAKE 1282 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.569, power = 1
+- EFFECTS:
+id = table: 3ae0e1e7, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.524, power = 0.8
+- EFFECTS:
+id = table: 54b7009a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.53, power = 1
+- EFFECTS:
+id = table: 3ae0e1e7, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.524, power = 1
+- EFFECTS:
+id = table: 54b7009a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 14
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 14)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.47), TAKE 1792 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[HEAL] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.555), HEAL 819 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.53, power = 1
+- EFFECTS:
+id = table: 3ae0e1e7, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.524, power = 1
+- EFFECTS:
+id = table: 54b7009a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.555, power = 0
+- EFFECTS:
+id = table: 3ae0e1e7, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.47, power = 1
+- EFFECTS:
+id = table: 54b7009a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 14)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.501), TAKE 1792 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[HEAL] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.495), HEAL 819 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.555, power = 0
+- EFFECTS:
+id = table: 3ae0e1e7, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.47, power = 1
+- EFFECTS:
+id = table: 54b7009a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.501, power = 0.1
+- EFFECTS:
+id = table: 3ae0e1e7, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.495, power = 0
+- EFFECTS:
+id = table: 54b7009a, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 14 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.501), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.495), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 15
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 15)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [Drak 60025 (TEAM 2, FRONT, POS 2)] (hp = 0.456), TAKE 1282 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.501, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.495, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.501, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.456, power = 0.1
+
+
+TURN 2 (ROUND 15)
+--------------------------------------------------------------------------------
+<> INITIATOR [Drak 60025 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [Drak 60025 (TEAM 1, FRONT, POS 2)] (hp = 0.462), TAKE 1282 damage, initiatorPower = 0.6, targetPower = 0.7
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Drak 60025 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.501, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.456, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.462, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.456, power = 0.6
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Drak 60025 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 1, FRONT, POS 2)] hp = 0.462, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Drak 60025 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Drak 60025 (TEAM 2, FRONT, POS 2)] hp = 0.456, power = 0.6
+
+<> STATISTICS:
+[Drak 60025 (TEAM 1, FRONT, POS 1)] DamageDeal = 26770, DamageTaken = 42990.566, HpHeal = 6552, HpHealTaken = 6552
+	Damage dealt by sources: Dictionary = table: 15136a79, count = 2
+	[1 (number)] = 11538 (number)
+	[2 (number)] = 15232 (number)
+
+	Damage taken by sources: Dictionary = table: 794c0b91, count = 2
+	[1 (number)] = 21856 (number)
+	[2 (number)] = 21134.566 (number)
+
+	Hp heal by sources: Dictionary = table: 44ae2851, count = 1
+	[1 (number)] = 6552 (number)
+
+	Hp heal taken by sources: Dictionary = table: 797c16fa, count = 1
+	[1 (number)] = 6552 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 77b2fb0e, count = 12
+	[3001 (number)] = 1282 (number)
+	[6001 (number)] = 1282 (number)
+	[9001 (number)] = 1282 (number)
+	[12001 (number)] = 1923 (number)
+	[2001 (number)] = 3584 (number)
+	[5001 (number)] = 4480 (number)
+	[8001 (number)] = 1282 (number)
+	[11001 (number)] = 1282 (number)
+	[4001 (number)] = 1282 (number)
+	[7001 (number)] = 3584 (number)
+	[1001 (number)] = 1923 (number)
+	[10001 (number)] = 3584 (number)
+
+	Damage taken history: Dictionary = table: 6e3b76ea, count = 25
+	[4002 (number)] = 1366 (number)
+	[8002 (number)] = 1366 (number)
+	[4004 (number)] = 1366 (number)
+	[8004 (number)] = 1908.302 (number)
+	[12003 (number)] = 2457 (number)
+	[12005 (number)] = 1366 (number)
+	[1003 (number)] = 1366 (number)
+	[5002 (number)] = 1908.302 (number)
+	[1004 (number)] = 1366 (number)
+	[5004 (number)] = 1908.302 (number)
+	[9003 (number)] = 2049 (number)
+	[9004 (number)] = 1366 (number)
+	[2002 (number)] = 2862.453 (number)
+	[2004 (number)] = 1908.302 (number)
+	[10002 (number)] = 1908.302 (number)
+	[6004 (number)] = 1366 (number)
+	[6005 (number)] = 2457 (number)
+	[10004 (number)] = 1366 (number)
+	[6006 (number)] = 2049 (number)
+	[3003 (number)] = 1366 (number)
+	[7003 (number)] = 1908.302 (number)
+	[3004 (number)] = 1366 (number)
+	[7004 (number)] = 1366 (number)
+	[11003 (number)] = 1366 (number)
+	[11004 (number)] = 1908.302 (number)
+
+	Hp heal history: Dictionary = table: 5be237dc, count = 4
+	[5001 (number)] = 1638 (number)
+	[2001 (number)] = 1638 (number)
+	[7001 (number)] = 1638 (number)
+	[10001 (number)] = 1638 (number)
+
+	Hp heal taken history: Dictionary = table: 42b0319c, count = 8
+	[2003 (number)] = 819 (number)
+	[7001 (number)] = 819 (number)
+	[8003 (number)] = 819 (number)
+	[5001 (number)] = 819 (number)
+	[5003 (number)] = 819 (number)
+	[10001 (number)] = 819 (number)
+	[11002 (number)] = 819 (number)
+	[2001 (number)] = 819 (number)
+
+[Drak 60025 (TEAM 2, FRONT, POS 1)] DamageDeal = 24847, DamageTaken = 44356.566, HpHeal = 6552, HpHealTaken = 6552
+	Damage dealt by sources: Dictionary = table: 22bac84f, count = 2
+	[1 (number)] = 9615 (number)
+	[2 (number)] = 15232 (number)
+
+	Damage taken by sources: Dictionary = table: 178376d4, count = 2
+	[1 (number)] = 23222 (number)
+	[2 (number)] = 21134.566 (number)
+
+	Hp heal by sources: Dictionary = table: 5d95ff2f, count = 1
+	[1 (number)] = 6552 (number)
+
+	Hp heal taken by sources: Dictionary = table: 1eea19d0, count = 1
+	[1 (number)] = 6552 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6a6652f2, count = 11
+	[3003 (number)] = 1282 (number)
+	[9003 (number)] = 1923 (number)
+	[6004 (number)] = 1282 (number)
+	[5002 (number)] = 3584 (number)
+	[8002 (number)] = 1282 (number)
+	[2002 (number)] = 4480 (number)
+	[11003 (number)] = 1282 (number)
+	[4002 (number)] = 1282 (number)
+	[10002 (number)] = 3584 (number)
+	[7003 (number)] = 3584 (number)
+	[1003 (number)] = 1282 (number)
+
+	Damage taken history: Dictionary = table: 665fbcbc, count = 25
+	[4001 (number)] = 1366 (number)
+	[8001 (number)] = 1366 (number)
+	[4003 (number)] = 1366 (number)
+	[12001 (number)] = 2049 (number)
+	[8003 (number)] = 2862.453 (number)
+	[12002 (number)] = 2457 (number)
+	[1001 (number)] = 2049 (number)
+	[1002 (number)] = 1366 (number)
+	[5001 (number)] = 1908.302 (number)
+	[9001 (number)] = 1366 (number)
+	[5003 (number)] = 1908.302 (number)
+	[9002 (number)] = 1366 (number)
+	[2001 (number)] = 1908.302 (number)
+	[6001 (number)] = 1366 (number)
+	[2003 (number)] = 1908.302 (number)
+	[6002 (number)] = 1366 (number)
+	[10001 (number)] = 1908.302 (number)
+	[6003 (number)] = 2457 (number)
+	[10003 (number)] = 1366 (number)
+	[3001 (number)] = 1366 (number)
+	[7001 (number)] = 1908.302 (number)
+	[3002 (number)] = 2049 (number)
+	[7002 (number)] = 2049 (number)
+	[11001 (number)] = 1366 (number)
+	[11002 (number)] = 1908.302 (number)
+
+	Hp heal history: Dictionary = table: 14c15bdf, count = 4
+	[10002 (number)] = 1638 (number)
+	[5002 (number)] = 1638 (number)
+	[2002 (number)] = 1638 (number)
+	[7003 (number)] = 1638 (number)
+
+	Hp heal taken history: Dictionary = table: 5aabf40e, count = 8
+	[2002 (number)] = 819 (number)
+	[11004 (number)] = 819 (number)
+	[2004 (number)] = 819 (number)
+	[7003 (number)] = 819 (number)
+	[8004 (number)] = 819 (number)
+	[5002 (number)] = 819 (number)
+	[5004 (number)] = 819 (number)
+	[10002 (number)] = 819 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 10382, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 202dc6b, count = 1
+	[2 (number)] = 10382 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 19232acb, count = 2
+	[6005 (number)] = 5768 (number)
+	[12003 (number)] = 4614 (number)
+
+	Effect created history: Dictionary = table: 7a29593, count = 1
+	[501 (number)] = 4 (number)
+
+	Stat changer debuff created history: Dictionary = table: 22c0aed, count = 1
+	[4 (number)] = 240 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 9228, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 16596f47, count = 1
+	[2 (number)] = 9228 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 162c7a35, count = 2
+	[6003 (number)] = 4614 (number)
+	[12002 (number)] = 4614 (number)
+
+	Effect created history: Dictionary = table: 5b16b6e, count = 1
+	[501 (number)] = 4 (number)
+
+	Stat changer debuff created history: Dictionary = table: 67a87257, count = 1
+	[4 (number)] = 180 (number)
+
+[Drak 60025 (TEAM 1, FRONT, POS 2)] DamageDeal = 31126, DamageTaken = 26049.219, HpHeal = 7371, HpHealTaken = 7371
+	Damage dealt by sources: Dictionary = table: 3ad60ab2, count = 2
+	[1 (number)] = 14102 (number)
+	[2 (number)] = 17024 (number)
+
+	Damage taken by sources: Dictionary = table: 4fde220f, count = 2
+	[1 (number)] = 2732 (number)
+	[2 (number)] = 23317.219 (number)
+
+	Hp heal by sources: Dictionary = table: 41baca81, count = 1
+	[1 (number)] = 7371 (number)
+
+	Hp heal taken by sources: Dictionary = table: 65a4322b, count = 1
+	[1 (number)] = 7371 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6fad27b7, count = 15
+	[15001 (number)] = 1282 (number)
+	[3002 (number)] = 1923 (number)
+	[6002 (number)] = 1282 (number)
+	[9002 (number)] = 1282 (number)
+	[12004 (number)] = 1282 (number)
+	[14001 (number)] = 1792 (number)
+	[11002 (number)] = 3584 (number)
+	[5003 (number)] = 3584 (number)
+	[8003 (number)] = 4480 (number)
+	[2003 (number)] = 3584 (number)
+	[13001 (number)] = 1282 (number)
+	[7002 (number)] = 1923 (number)
+	[1002 (number)] = 1282 (number)
+	[4003 (number)] = 1282 (number)
+	[10003 (number)] = 1282 (number)
+
+	Damage taken history: Dictionary = table: 515dae17, count = 13
+	[15002 (number)] = 1366 (number)
+	[12003 (number)] = 2457 (number)
+	[6005 (number)] = 3685.5 (number)
+	[5002 (number)] = 1908.302 (number)
+	[2002 (number)] = 1908.302 (number)
+	[14002 (number)] = 1908.302 (number)
+	[5004 (number)] = 1908.302 (number)
+	[8004 (number)] = 1908.302 (number)
+	[2004 (number)] = 1908.302 (number)
+	[11004 (number)] = 1908.302 (number)
+	[10002 (number)] = 1908.302 (number)
+	[13002 (number)] = 1366 (number)
+	[7003 (number)] = 1908.302 (number)
+
+	Hp heal history: Dictionary = table: 4624987f, count = 5
+	[2003 (number)] = 1638 (number)
+	[14001 (number)] = 819 (number)
+	[8003 (number)] = 1638 (number)
+	[5003 (number)] = 1638 (number)
+	[11002 (number)] = 1638 (number)
+
+	Hp heal taken history: Dictionary = table: 255cffa, count = 9
+	[2001 (number)] = 819 (number)
+	[5001 (number)] = 819 (number)
+	[14001 (number)] = 819 (number)
+	[11002 (number)] = 819 (number)
+	[5003 (number)] = 819 (number)
+	[8003 (number)] = 819 (number)
+	[2003 (number)] = 819 (number)
+	[10001 (number)] = 819 (number)
+	[7001 (number)] = 819 (number)
+
+[Drak 60025 (TEAM 2, FRONT, POS 2)] DamageDeal = 29589, DamageTaken = 27140.87, HpHeal = 7371, HpHealTaken = 7371
+	Damage dealt by sources: Dictionary = table: 443c098, count = 2
+	[1 (number)] = 13461 (number)
+	[2 (number)] = 16128 (number)
+
+	Damage taken by sources: Dictionary = table: 3852eb11, count = 2
+	[1 (number)] = 4098 (number)
+	[2 (number)] = 23042.87 (number)
+
+	Hp heal by sources: Dictionary = table: 5ad77b04, count = 1
+	[1 (number)] = 7371 (number)
+
+	Hp heal taken by sources: Dictionary = table: 765155bb, count = 1
+	[1 (number)] = 7371 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6c8c1ce9, count = 15
+	[15002 (number)] = 1282 (number)
+	[3004 (number)] = 1282 (number)
+	[9004 (number)] = 1282 (number)
+	[12005 (number)] = 1282 (number)
+	[6006 (number)] = 1923 (number)
+	[14002 (number)] = 1792 (number)
+	[5004 (number)] = 3584 (number)
+	[8004 (number)] = 3584 (number)
+	[2004 (number)] = 3584 (number)
+	[11004 (number)] = 3584 (number)
+	[13002 (number)] = 1282 (number)
+	[7004 (number)] = 1282 (number)
+	[1004 (number)] = 1282 (number)
+	[4004 (number)] = 1282 (number)
+	[10004 (number)] = 1282 (number)
+
+	Damage taken history: Dictionary = table: 43a9680a, count = 14
+	[15001 (number)] = 1366 (number)
+	[12002 (number)] = 2457 (number)
+	[6003 (number)] = 2457 (number)
+	[12004 (number)] = 1366 (number)
+	[2001 (number)] = 1908.302 (number)
+	[5001 (number)] = 2862.453 (number)
+	[14001 (number)] = 1908.302 (number)
+	[11002 (number)] = 1908.302 (number)
+	[5003 (number)] = 1908.302 (number)
+	[8003 (number)] = 1908.302 (number)
+	[2003 (number)] = 1908.302 (number)
+	[10001 (number)] = 1908.302 (number)
+	[7001 (number)] = 1908.302 (number)
+	[13001 (number)] = 1366 (number)
+
+	Hp heal history: Dictionary = table: 22c72420, count = 5
+	[11004 (number)] = 1638 (number)
+	[2004 (number)] = 1638 (number)
+	[14002 (number)] = 819 (number)
+	[8004 (number)] = 1638 (number)
+	[5004 (number)] = 1638 (number)
+
+	Hp heal taken history: Dictionary = table: 5ec7414e, count = 9
+	[5002 (number)] = 819 (number)
+	[2002 (number)] = 819 (number)
+	[14002 (number)] = 819 (number)
+	[5004 (number)] = 819 (number)
+	[8004 (number)] = 819 (number)
+	[2004 (number)] = 819 (number)
+	[11004 (number)] = 819 (number)
+	[10002 (number)] = 819 (number)
+	[7003 (number)] = 819 (number)
+
+
+<> WINNER: 2

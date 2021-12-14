@@ -1,0 +1,1482 @@
+
+<> SEED = 459397813
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 49
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 1
+attack = 1679
+defense = 276
+hp = 35085/35085
+speed = 45
+critRate = 0.1
+critDamage = 1.5
+accuracy = 771
+dodge = 726
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 7337ba43, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 6d92d46c, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 64945187, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 2a3f0af4, type = 403, initiator = [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: cc4e49f, type = 401, initiator = [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 69e9f68a, type = 403, initiator = [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 1
+attack = 1679
+defense = 276
+hp = 35085/35085
+speed = 45
+critRate = 0.1
+critDamage = 1.5
+accuracy = 771
+dodge = 726
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 31500fd0, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 636adba4, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 48a13b4a, type = 403, initiator = [AquaKnight 10021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 4c2db219, type = 401, initiator = [AquaKnight 10021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 770e60df, type = 403, initiator = [AquaKnight 10021 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 1
+attack = 1679
+defense = 276
+hp = 35085/35085
+speed = 45
+critRate = 0.1
+critDamage = 1.5
+accuracy = 771
+dodge = 726
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 4830593a, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 98a501d, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 2816964f, type = 403, initiator = [AquaKnight 10021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 451f758c, type = 401, initiator = [AquaKnight 10021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 7d321ac3, type = 403, initiator = [AquaKnight 10021 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 1
+attack = 1679
+defense = 276
+hp = 35085/35085
+speed = 45
+critRate = 0.1
+critDamage = 1.5
+accuracy = 771
+dodge = 726
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 54fdbecc, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 48c5eef2, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 76484173, type = 403, initiator = [AquaKnight 10021 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 19e7f2db, type = 401, initiator = [AquaKnight 10021 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: fac1d9c, type = 403, initiator = [AquaKnight 10021 (TEAM 2, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] (hp = 0.955), TAKE 1567 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 7337ba43, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 7337ba43, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.955, power = 0.6
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.933), TAKE 2352 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 7337ba43, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.955, power = 0.6
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.933, power = 1
+- EFFECTS:
+id = table: 7337ba43, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.955, power = 0.6
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.888), TAKE 1567 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.12
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.933, power = 1
+- EFFECTS:
+id = table: 7337ba43, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.12
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.955, power = 0.6
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.888, power = 1
+- EFFECTS:
+id = table: 7337ba43, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.955, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.821), TAKE 2352 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.888, power = 1
+- EFFECTS:
+id = table: 7337ba43, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.955, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.821, power = 1
+- EFFECTS:
+id = table: 7337ba43, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 2, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.955, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] (hp = 0.884), TAKE 2517 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.821, power = 1
+- EFFECTS:
+id = table: 7337ba43, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.955, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.821, power = 0
+- EFFECTS:
+id = table: 7337ba43, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.884, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.75), TAKE 2517 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.18
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.16
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.821, power = 0
+- EFFECTS:
+id = table: 7337ba43, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.884, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.75, power = 0.1
+- EFFECTS:
+id = table: 7337ba43, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.884, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.678), TAKE 2517 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.75, power = 0.1
+- EFFECTS:
+id = table: 7337ba43, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.884, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.678, power = 0.2
+- EFFECTS:
+id = table: 7337ba43, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.884, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.606), TAKE 2517 damage, initiatorPower = 0, targetPower = 0.3
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.678, power = 0.2
+- EFFECTS:
+id = table: 7337ba43, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.884, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.606, power = 0.3
+- EFFECTS:
+id = table: 7337ba43, type = 501, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 1, persistentType = 31
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.884, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.606), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] (hp = 0.839), TAKE 1567 damage, initiatorPower = 0.8, targetPower = 0.1
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.606, power = 0.3
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.884, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.606, power = 0.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.839, power = 0.1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.561), TAKE 1567 damage, initiatorPower = 0.6, targetPower = 0.9
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+[ADD_EFFECT] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.561), type = 402, persistentType = 1, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.606, power = 0.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.839, power = 0.1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 0.9
+- EFFECTS:
+id = table: 20d534f5, type = 402, initiator = [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.839, power = 0.6
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.495), TAKE 2333 damage, initiatorPower = 0.5, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.36
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 0.9
+- EFFECTS:
+id = table: 20d534f5, type = 402, initiator = [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.839, power = 0.6
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.495, power = 1
+- EFFECTS:
+id = table: 20d534f5, type = 402, initiator = [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.839, power = 0.6
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.451), TAKE 1555 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.36
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.495, power = 1
+- EFFECTS:
+id = table: 20d534f5, type = 402, initiator = [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.839, power = 0.6
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.451, power = 1
+- EFFECTS:
+id = table: 20d534f5, type = 402, initiator = [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.839, power = 0.6
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] (hp = 0.767), TAKE 2517 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.451, power = 1
+- EFFECTS:
+id = table: 20d534f5, type = 402, initiator = [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.839, power = 0.6
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.451, power = 0
+- EFFECTS:
+id = table: 20d534f5, type = 402, initiator = [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.767, power = 0.7
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.406), TAKE 1555 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.78
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.451, power = 0
+- EFFECTS:
+id = table: 20d534f5, type = 402, initiator = [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.767, power = 0.7
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.406, power = 0.1
+- EFFECTS:
+id = table: 20d534f5, type = 402, initiator = [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.767, power = 0.7
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.362), TAKE 1555 damage, initiatorPower = 1, targetPower = 0.2
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.88
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.406, power = 0.1
+- EFFECTS:
+id = table: 20d534f5, type = 402, initiator = [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.767, power = 0.7
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.362, power = 0.2
+- EFFECTS:
+id = table: 20d534f5, type = 402, initiator = [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.767, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 2, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.318), TAKE 1555 damage, initiatorPower = 1, targetPower = 0.3
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.362, power = 0.2
+- EFFECTS:
+id = table: 20d534f5, type = 402, initiator = [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.767, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.318, power = 0.3
+- EFFECTS:
+id = table: 20d534f5, type = 402, initiator = [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.767, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+---------- AFTER ROUND 4 ----------
+
+[REMOVE_EFFECT] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.318), type = 402, persistentType = 1, isBuff = true
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] (hp = 0.723), TAKE 1567 damage, initiatorPower = 0.8, targetPower = 1
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.318, power = 0.3
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.767, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.318, power = 0.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.723, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.252), TAKE 2295 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.252), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.318, power = 0.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.723, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.252, power = 0.9
+- EFFECTS:
+id = table: 4700ec63, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.723, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.18), TAKE 2517 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.58
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.252, power = 0.9
+- EFFECTS:
+id = table: 4700ec63, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.723, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.18, power = 1
+- EFFECTS:
+id = table: 4700ec63, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.723, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+TURN 4 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.109), TAKE 2517 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.6
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.18, power = 1
+- EFFECTS:
+id = table: 4700ec63, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.723, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.109, power = 1
+- EFFECTS:
+id = table: 4700ec63, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.723, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+
+TURN 5 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 2, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0.037), TAKE 2517 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.62
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.109, power = 1
+- EFFECTS:
+id = table: 4700ec63, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.723, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.037, power = 1
+- EFFECTS:
+id = table: 4700ec63, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.723, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [AquaKnight 10021 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 1567 damage, initiatorPower = 0.5, targetPower = 0
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.64
+
+
+[DEAD_FOR_DISPLAY] [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] => [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.62
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0.037, power = 1
+- EFFECTS:
+id = table: 4700ec63, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.723, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.723, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [AquaKnight 10021 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 1)] hp = 0.723, power = 0
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [AquaKnight 10021 (TEAM 2, FRONT, POS 3)] hp = 1, power = 0
+
+<> STATISTICS:
+[SummonerMage (TEAM 2)] DamageDeal = 2295, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 73776e29, count = 1
+	[2 (number)] = 2295 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 55a02bb6, count = 1
+	[5002 (number)] = 2295 (number)
+
+	Stat changer debuff created history: Dictionary = table: 5cdbcf6b, count = 1
+	[4 (number)] = 60 (number)
+
+[AquaKnight 10021 (TEAM 2, FRONT, POS 3)] DamageDeal = 10496, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 1c785367, count = 2
+	[1 (number)] = 5462 (number)
+	[2 (number)] = 5034 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 543660e7, count = 5
+	[4004 (number)] = 1555 (number)
+	[5005 (number)] = 2517 (number)
+	[3004 (number)] = 1555 (number)
+	[2004 (number)] = 2517 (number)
+	[1004 (number)] = 2352 (number)
+
+[AquaKnight 10021 (TEAM 1, FRONT, POS 1)] DamageDeal = 9735, DamageTaken = 37934.27, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 9f1c4c, count = 2
+	[1 (number)] = 4701 (number)
+	[2 (number)] = 5034 (number)
+
+	Damage taken by sources: Dictionary = table: 2bd3ba3, count = 2
+	[1 (number)] = 19308.5 (number)
+	[2 (number)] = 18625.77 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 5c00b3f8, count = 5
+	[1001 (number)] = 1567 (number)
+	[5001 (number)] = 1567 (number)
+	[4001 (number)] = 2517 (number)
+	[3001 (number)] = 1567 (number)
+	[2001 (number)] = 2517 (number)
+
+	Damage taken history: Dictionary = table: 3b56d1c7, count = 17
+	[4002 (number)] = 1679 (number)
+	[4003 (number)] = 1679 (number)
+	[4004 (number)] = 1679 (number)
+	[1002 (number)] = 2518.5 (number)
+	[1003 (number)] = 1679 (number)
+	[5002 (number)] = 2457 (number)
+	[1004 (number)] = 2518.5 (number)
+	[5003 (number)] = 2694.795 (number)
+	[5004 (number)] = 2694.795 (number)
+	[5005 (number)] = 2694.795 (number)
+	[2002 (number)] = 2694.795 (number)
+	[6001 (number)] = 1679 (number)
+	[2003 (number)] = 2694.795 (number)
+	[2004 (number)] = 2694.795 (number)
+	[3002 (number)] = 1679 (number)
+	[3003 (number)] = 2518.5 (number)
+	[3004 (number)] = 1679 (number)
+
+	Stat changer buff created history: Dictionary = table: 4353d79d, count = 1
+	[2 (number)] = 164 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 0, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Effect created history: Dictionary = table: 28d89c77, count = 1
+	[501 (number)] = 2 (number)
+
+[AquaKnight 10021 (TEAM 2, FRONT, POS 1)] DamageDeal = 9723, DamageTaken = 10426.59, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 711e65e7, count = 2
+	[1 (number)] = 4689 (number)
+	[2 (number)] = 5034 (number)
+
+	Damage taken by sources: Dictionary = table: 7c4b4aea, count = 2
+	[1 (number)] = 5037 (number)
+	[2 (number)] = 5389.59 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 217995c1, count = 5
+	[2003 (number)] = 2517 (number)
+	[1003 (number)] = 1567 (number)
+	[5003 (number)] = 2517 (number)
+	[3002 (number)] = 1567 (number)
+	[4003 (number)] = 1555 (number)
+
+	Damage taken history: Dictionary = table: 4d2e9ebd, count = 5
+	[1001 (number)] = 1679 (number)
+	[5001 (number)] = 1679 (number)
+	[4001 (number)] = 2694.795 (number)
+	[3001 (number)] = 1679 (number)
+	[2001 (number)] = 2694.795 (number)
+
+[AquaKnight 10021 (TEAM 2, FRONT, POS 2)] DamageDeal = 12841, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4f1deba2, count = 2
+	[1 (number)] = 7807 (number)
+	[2 (number)] = 5034 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 6927f4b1, count = 6
+	[2002 (number)] = 2517 (number)
+	[3003 (number)] = 2333 (number)
+	[1002 (number)] = 2352 (number)
+	[6001 (number)] = 1567 (number)
+	[4002 (number)] = 1555 (number)
+	[5004 (number)] = 2517 (number)
+
+
+<> WINNER: 2

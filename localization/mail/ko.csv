@@ -1,0 +1,94 @@
+key<>value
+vip_reward_subject<>VIP 보상
+vip_reward_content<>축하합니다! VIP {1}에 도달 한 것에 대한 보상을 받았습니다.
+friend_boss_last_hit_reward_subject<>친구 보스로부터 보상
+friend_boss_last_hit_reward_content<>축하합니다! 친구 보스 종결 시 보상을 받았습니다.
+friend_boss_cleared_reward_subject<>친구 보스로부터 보상
+friend_boss_cleared_reward_content<>축하합니다! 친구 보스 이겼으니 보상을 받았습니다
+friend_season_ranking_reward_subject<>친구 시즌 랭킹
+friend_season_ranking_reward_content<>축하합니다!{1} 시즌의 친구 랭킹 보상을 받았습니다
+arena_season_ranking_reward_subject<>경기장 시즌의 랭킹 보상
+arena_season_ranking_reward_content<>축하합니다!경기장.에서 {1} 시즌의 랭킹 보상을 받았습니다
+arena_team_season_ranking_reward_subject<>무술 경기장  시즌의 랭킹 보상
+arena_team_season_ranking_reward_content<>축하합니다!무술 경기장 .에서 {1} 시즌의 랭킹 보상을 받았습니다
+guild_boss_daily_reward_subject<>일간 길드 보스 보상
+guild_boss_daily_reward_content<>축하합니다!길드 보스 도전에 참석하여 보상을 받았습니다
+guild_boss_monthly_reward_subject<>월간 길드 보스 보상
+guild_boss_monthly_reward_content<>축하합니다! 길드 보스 도전에 참석하여 보상을 받았습니다
+guild_dungeon_cleared_reward_subject<>길드 던전 보상
+guild_dungeon_cleared_reward_content<>축하합니다! {2} 시즌 {1}단계의 길드 던전  완료하여 보상을 받았습니다
+guild_dungeon_season_reward_subject<>길드 던전 시즌 랭킹 보상
+guild_dungeon_season_reward_content<>축하합니다!{1}단계의 길드 던전  완료하여 보상을 받았습니다
+guild_war_battle_reward_subject<>길드 전쟁 보상
+guild_war_battle_reward_content<>축하합니다!길드 전쟁에서 시즌 {1}의 전투 {2}을 (를) 완료 한 것에 대한 보상을 받았습니다.
+guild_war_season_reward_subject<>길드 전쟁 시즌 보상
+guild_war_season_reward_content<>축하합니다! 길드 전쟁에서 시즌 {1}을 (를) 완료하여 보상을 받았습니다.
+purchase_raw_pack_subject<>패키지 보상
+purchase_raw_pack_content<>축하합니다! {1} 팩 구매에 대한 보상을 받았습니다.\n거래 ID : {2}\n거래 시간 : {3}
+purchase_subscription_pack_instant_subject<>서브스크립션 팩 보상
+purchase_subscription_pack_instant_content<>축하합니다! 구독 팩 {1} 구매에 대한 보상을 받았습니다.\n거래 ID : {2}\n거래 시간 : {3}
+purchase_subscription_pack_daily_subject<>일간 서브스크립션 팩 보상
+purchase_subscription_pack_daily_content<>축하합니다! 구독 팩 {1}에서 매일 보상을 받았습니다.\n일 : {2}
+purchase_progress_pack_subject<>Special Pack Reward
+purchase_progress_pack_content<>Congratulations! You received a reward for purchasing special pack {1}.\nTransaction ID: {2}\nTransaction Time: {3}
+purchase_limited_pack_subject<>한정 팩 보상
+purchase_limited_pack_content<>축하합니다! 구매 한도 팩 {1}에 대한 보상을 받았습니다.\n거래 ID : {2}\n거래 시간 : {3}
+purchase_event_bundle_pack_subject<>이벤트 번들 팩
+purchase_event_bundle_pack_content<>축하합니다! 이벤트 번들 팩 {1} 구매에 대한 보상을 받았습니다.\n거래 ID : {2}\n거래 시간 : {3}
+purchase_event_hot_deal_subject<>이벤트 번들 팩
+purchase_event_hot_deal_content<>\n축하합니다! 이벤트 번들 팩 {1} 구매에 대한 보상을 받았습니다.\n거래 ID : {2}\n거래 시간 : {3}
+purchase_subscription_pack_trial_subject<>서브스크립션 팩 일일 평가판 보상
+purchase_subscription_pack_trial_content<>축하합니다! 평가판 구독 팩 {1}에서 매일 보상을 받았습니다.\n일 : {2}
+purchase_first_time_reward_subject<>첫 구입 시의 보상
+purchase_first_time_reward_content<>축하합니다! 게임 내 첫 구매 시 처음 보상을 받았습니다
+event_arena_subject<>경기장 이벤트
+event_arena_content<>축하합니다! 경기장 이벤트에서 {1} 시즌의 보상을 받았습니다
+event_casino_subject<>운명의 바퀴 이벤트
+event_casino_content<>축하합니다! 운명의 바퀴.이벤트에서 {1} 시즌의 보상을 받았습니다
+event_hero_collect_subject<>영웅 수집 이벤트
+event_hero_collect_content<>축하합니다! 영웅 수집 이벤트에서 시즌 {1} 보상을 받았습니다.
+event_prophet_tree_subject<>고대 나무 이벤트
+event_prophet_tree_content<>축하합니다! 고대 나무.이벤트에서 {1} 시즌의 보상을 받았습니다
+event_summon_subject<>소환 이벤트
+event_summon_content<>축하합니다! 소환 이벤트에서 시즌 {1} 보상을 받았습니다.
+event_tavern_subject<>술집 이벤트
+event_tavern_content<>축하합니다! 술집.이벤트에서 {1} 시즌의 보상을 받았습니다
+event_mid_autumn_subject<>Event Mid-autumn
+event_mid_autumn_content<>Congratulations! 
+email_change_password_subject<>소환사 시대 비밀번호 변경
+email_change_password_content<>사용자 이름 : {2}. 비밀번호 재설정 코드 {1}, 만료 : {3}
+email_validation_subject<>소환사 시대 확인 이메일
+email_validation_content<>확인 코드 {1}, 만료 : {3}
+email_sender_name<>지원
+welcome_mail_title<>Summoners Era에 오신 것을 환영합니다!
+welcome_mail_content<>소환사 여러분,\n\nSummoners Era를 플레이 해주셔서 감사합니다. 즐겁게 플레이하면서 놀라운 순간이 있기를 바랍니다.\n\n다가오는 모험을 응원 할 작은 선물을 보내 드리고자합니다.\n\n앞으로도 Summoners Era 의 중요한 부분이되어 더욱더 나아지기를 바랍니다.\n\n감사합니다!\n소환사 시대 팀.
+event_halloween_subject<>Event Halloween
+event_halloween_content<>Congratulation! You've finished a lap in Dice Game. Claim these reward now!
+event_black_friday_subject<>Black Friday Card Reward
+event_black_friday_content<>Congratulations! You've received daily rewards from Black Friday Card {1}.\nDay: {2}\nSeason: {3}
+event_new_year_subject<>Blessing Card Reward
+event_new_year_content<>Congratulations! You've received daily rewards from Blessing Card.\nDay: {1}\n
+event_lunar_new_year_clear_boss_reward_subject<>구정 악마 추방 보상
+event_lunar_new_year_clear_boss_reward_content<>축하합니다! 당신은했습니다 악마 추방 활동에서 이러한 보상을받을 수 있습니다.
+event_new_hero_summon_subject<>전설 소환  보상 
+event_new_hero_summon_content<>축하합니다! 전설 소환  활동에서이 보상을 받았습니다. 
+maintenance_inform_title<>서버 유지 관리 공지 
+maintenance_inform_title_content<>친애하는 소환사,\n위원회는 서버가 {1}에 유지 보수 될 것임을 알리고 자합니다. 이 시간 동안에는 로그인 할 수 없습니다.\n게임이 유지 보수 시간 동안 플레이 할 수 없습니다 것을 참고하시기 바랍니다. 
+maintence_reward_title<>유지 보수 완료 
+maintence_reward_content<>친애하는 소환사,\n유지 보수가 완료되었습니다. 우리는 유지 보수 시간 동안 여러분의 인내에 대한 감사로이 선물을 보내드립니다.\n계속 즐기고 정복하십시오! 
+event_easter_card_subject<>버니 카드 보상 
+event_easter_card_content<>Congratulations! You've received daily rewards from Bunny Card.\nDay: %s
+event_easter_egg_hunt_subject<>부활절 달걀 수집  보상 
+event_easter_egg_hunt_content<>이 보상은 이벤트 활동에서의 성과에 대해 귀하에게 전송됩니다. 
+event_new_hero_boss_ranking_subject<>Trophy of Honour Reward
+event_new_hero_boss_ranking_content<>축하합니다! 파워 콘테스트에서 상위 %s에 도달하여이 보상을 받았습니다.
+domain_challenge_reward_subject<>도메인 보상
+domain_challenge_reward_content<>축하합니다! 도메인 단계에서 {1}을 (를) 통과하여이 보상을 받았습니다.
+event_new_hero_release_subject<>전설 소환  보상 
+event_new_hero_release__content<>축하합니다! 전설 소환  활동에서이 보상을 받았습니다. 
+purchase_event_hero_release_subject<>성공적인 거래
+purchase_event_hero_release_content<>신규 영웅 이벤트 기간 동안 패키지 구매 시 이러한 아이템을 받게 됩니다. 항상 저희를 지원해주셔서 감사합니다.
+premium_reward_subject<>프리미엄 버전 보상
+premium_reward_content<>우리 게임의 프리미엄 버전을 구매하기 위해 이러한 항목을 받습니다. 항상 저희를 지원해주셔서 감사합니다.
+event_server_open_arena_subject<>Arena Top Leaderboard Reward
+event_server_open_arena_content<>Congratulation! You've receive these rewards from Arena ranking racing event!

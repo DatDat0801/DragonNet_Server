@@ -1,0 +1,3177 @@
+
+<> SEED = 554467098
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 134
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 4
+attack = 2892
+defense = 344
+hp = 39158/39158
+speed = 61
+critRate = 0.15
+critDamage = 1.5
+accuracy = 998
+dodge = 998
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 6f09c1a, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 2714a829, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 98240f9, type = 410, initiator = [Lothíriel 40012 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.05, changerType = 3, multiplier = 1
+id = table: 39e29b5e, type = 401, initiator = [Lothíriel 40012 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 17c4e29d, type = 403, initiator = [Lothíriel 40012 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 4
+attack = 2892
+defense = 344
+hp = 39158/39158
+speed = 61
+critRate = 0.15
+critDamage = 1.5
+accuracy = 998
+dodge = 998
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 39276293, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 22b968c6, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: f2c3fa4, type = 410, initiator = [Lothíriel 40012 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.05, changerType = 3, multiplier = 1
+id = table: 3260af05, type = 401, initiator = [Lothíriel 40012 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 3b70d034, type = 403, initiator = [Lothíriel 40012 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 4
+attack = 2892
+defense = 344
+hp = 39158/39158
+speed = 61
+critRate = 0.15
+critDamage = 1.5
+accuracy = 998
+dodge = 998
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 5947c1b4, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 37781427, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 578d4a, type = 410, initiator = [Lothíriel 40012 (TEAM 1, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.05, changerType = 3, multiplier = 1
+id = table: 3bbcbd00, type = 401, initiator = [Lothíriel 40012 (TEAM 1, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 30516020, type = 403, initiator = [Lothíriel 40012 (TEAM 1, FRONT, POS 3)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)]
+star = 1
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 4
+attack = 369
+defense = 41
+hp = 3686/3686
+speed = 27
+critRate = 0.1
+critDamage = 1.5
+accuracy = 666
+dodge = 666
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+- PASSIVE EFFECTS:
+id = table: 17be8adb, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 49b46191, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2b3f7f2b, type = 401, initiator = [Lothíriel 40012 (TEAM 1, BACK, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 4
+attack = 2892
+defense = 344
+hp = 39158/39158
+speed = 61
+critRate = 0.15
+critDamage = 1.5
+accuracy = 998
+dodge = 998
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 2ae5b403, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 40b7e027, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 1ebde9e0, type = 410, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.05, changerType = 3, multiplier = 1
+id = table: 2757062f, type = 401, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 49ee17b7, type = 403, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 5
+faction = 4
+attack = 2892
+defense = 344
+hp = 39158/39158
+speed = 61
+critRate = 0.15
+critDamage = 1.5
+accuracy = 998
+dodge = 998
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+- PASSIVE EFFECTS:
+id = table: 2e5f9165, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 31a68cff, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 3e676f1a, type = 410, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.05, changerType = 3, multiplier = 1
+id = table: 50c8178, type = 401, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.2, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 5fdc8197, type = 403, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 1, BACK, POS 1)] => [Lothíriel 40012 (TEAM 1, BACK, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lothíriel 40012 (TEAM 1, BACK, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lothíriel 40012 (TEAM 1, BACK, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lothíriel 40012 (TEAM 1, BACK, POS 1)] (hp = 1), type = 112, persistentType = 32, isBuff = true
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 410, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 410, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] (hp = 1), type = 410, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 501, persistentType = 31, isBuff = true
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 410, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 410, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0.931), TAKE 2683 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.931, power = 0.6
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0.829), TAKE 4025 damage, initiatorPower = 1, targetPower = 0.7 (CRIT)
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[RESIST_EFFECT] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] (hp = 1), effectType = 40
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.931, power = 0.6
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.829, power = 0.7
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0.76), TAKE 2683 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.06
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0.5
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.829, power = 0.7
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.06
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.76, power = 0.8
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 0.897), TAKE 4025 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.16
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.06
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.76, power = 0.8
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.897, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.76, power = 1
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 5 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 0.829), TAKE 2683 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.34
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.897, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.76, power = 1
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.829, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.76, power = 1
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+TURN 6 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, BACK, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 1, BACK, POS 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0.756) (GLANCING), TAKE 170 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.34
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.829, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 0.5
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.76, power = 1
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.829, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.756, power = 1
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 2, persistentType = 31
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0.697), TAKE 2297 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0.941), TAKE 2297 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.829, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.756, power = 1
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.829, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.697, power = 1
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.941, power = 1
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0.639), TAKE 2297 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0.883), TAKE 2297 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[RESIST_EFFECT] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] (hp = 1), effectType = 40
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.829, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.697, power = 1
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.941, power = 1
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.829, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.639, power = 1
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.883, power = 1
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0.58), TAKE 2297 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0.824), TAKE 2297 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.4
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.829, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.36
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.639, power = 1
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.883, power = 1
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.829, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.58, power = 1
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.824, power = 1
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 0.77), TAKE 2297 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.46
+
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] (hp = 0.941), TAKE 2297 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.48
+
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] (hp = 0.941), TAKE 2297 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 1, BACK, POS 1)] (hp = 0.358), TAKE 2366 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.829, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 1, power = 0
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 1, power = 1
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.58, power = 1
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.824, power = 1
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.77, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.941, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.941, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0.358, power = 1
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.58, power = 0
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.824, power = 1
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+TURN 5 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 0.711), TAKE 2297 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] (hp = 0.853), TAKE 3445 damage, initiatorPower = 0, targetPower = 0.2 (CRIT)
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] (hp = 0.883), TAKE 2297 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.58
+
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, BACK, POS 1)] (hp = 0), TAKE 1893 damage, initiatorPower = 0, targetPower = 0
+[Lothíriel 40012 (TEAM 1, BACK, POS 1)] BLOCK ACTIVE_SKILL
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, BACK, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.6
+
+
+[DEAD_FOR_DISPLAY] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, BACK, POS 1)] (hp = 0), reason = 2
+
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 0.711), type = 40, persistentType = 1, isBuff = false
+
+
+[DEAD] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, BACK, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.77, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.941, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.941, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0.358, power = 1
+- EFFECTS:
+id = table: 5c1181a2, type = 112, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 0, persistentType = 32, blockChance = 0.5, blockRate = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.58, power = 0
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.824, power = 1
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.711, power = 0.2
+- EFFECTS:
+id = table: 570afc05, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 0.2
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 0.2
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.58, power = 0
+- EFFECTS:
+id = table: 1978e594, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.824, power = 0
+- EFFECTS:
+id = table: 2015eb6a, type = 501, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 1, persistentType = 31
+
+
+---------- AFTER ROUND 2 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0.58), type = 501, persistentType = 31, isBuff = true
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0.824), type = 501, persistentType = 31, isBuff = true
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0.511), TAKE 2683 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.7
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.6
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.711, power = 0.2
+- EFFECTS:
+id = table: 570afc05, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 0.2
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 0.2
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.58, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.824, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.711, power = 0.7
+- EFFECTS:
+id = table: 570afc05, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 0.2
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 0.2
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.511, power = 0.1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.824, power = 0
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0.443), TAKE 2683 damage, initiatorPower = 0.7, targetPower = 0.2
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.711, power = 0.7
+- EFFECTS:
+id = table: 570afc05, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 0.2
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 0.2
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.511, power = 0.1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.824, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.711, power = 0.7
+- EFFECTS:
+id = table: 570afc05, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 0.2
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.443, power = 0.2
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.824, power = 0
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 0.636), TAKE 2952 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.54
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.711, power = 0.7
+- EFFECTS:
+id = table: 570afc05, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 0.2
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.443, power = 0.2
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.824, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.636, power = 0.8
+- EFFECTS:
+id = table: 570afc05, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 0.2
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.443, power = 0.7
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.824, power = 0
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0.374), TAKE 2683 damage, initiatorPower = 0.7, targetPower = 0.8
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.92
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.636, power = 0.8
+- EFFECTS:
+id = table: 570afc05, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 0.2
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.443, power = 0.7
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.824, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.636, power = 0.8
+- EFFECTS:
+id = table: 570afc05, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.374, power = 0.8
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.824, power = 0
+
+
+TURN 5 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 0.561), TAKE 2952 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.94
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.636, power = 0.8
+- EFFECTS:
+id = table: 570afc05, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.374, power = 0.8
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.824, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 0.9
+- EFFECTS:
+id = table: 570afc05, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.374, power = 0.8
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.824, power = 0.5
+
+
+---------- AFTER ROUND 3 ----------
+
+[REMOVE_EFFECT] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 0.561), type = 40, persistentType = 1, isBuff = false
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0.306), TAKE 2683 damage, initiatorPower = 1, targetPower = 0.9
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 0.9
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.374, power = 0.8
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.824, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.306, power = 0.9
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.824, power = 0.5
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0.248), TAKE 2280 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0.766), TAKE 2280 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0.248), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0.766), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.306, power = 0.9
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.824, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.248, power = 1
+- EFFECTS:
+id = table: 524e436f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.766, power = 0.6
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0.179), TAKE 2683 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.74
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.72
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.248, power = 1
+- EFFECTS:
+id = table: 524e436f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.766, power = 0.6
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.179, power = 1
+- EFFECTS:
+id = table: 524e436f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.766, power = 0.6
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0.111), TAKE 2683 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.76
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 0.7
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.179, power = 1
+- EFFECTS:
+id = table: 524e436f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.766, power = 0.6
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.111, power = 1
+- EFFECTS:
+id = table: 524e436f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.766, power = 0.6
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 0.473), TAKE 3445 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] (hp = 0.795), TAKE 2297 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] (hp = 0.824), TAKE 2297 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] (hp = 0.795), type = 40, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.561, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.853, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.883, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.111, power = 1
+- EFFECTS:
+id = table: 524e436f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.766, power = 0.6
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.473, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.795, power = 1
+- EFFECTS:
+id = table: 36b2a550, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.824, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.111, power = 0
+- EFFECTS:
+id = table: 524e436f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.766, power = 0.6
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 6 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 0.404), TAKE 2683 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.473, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.795, power = 1
+- EFFECTS:
+id = table: 36b2a550, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.824, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.111, power = 0
+- EFFECTS:
+id = table: 524e436f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.766, power = 0.6
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.404, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.795, power = 1
+- EFFECTS:
+id = table: 36b2a550, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.824, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.111, power = 0
+- EFFECTS:
+id = table: 524e436f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.766, power = 1
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0.052), TAKE 2297 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.88
+
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0.678), TAKE 3445 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.9
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.404, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.795, power = 1
+- EFFECTS:
+id = table: 36b2a550, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.824, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.111, power = 0
+- EFFECTS:
+id = table: 524e436f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.766, power = 1
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.404, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.795, power = 1
+- EFFECTS:
+id = table: 36b2a550, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.824, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.052, power = 0.1
+- EFFECTS:
+id = table: 524e436f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.678, power = 1
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 2683 damage, initiatorPower = 1, targetPower = 0
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.92
+
+
+[DEAD_FOR_DISPLAY] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.404, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.795, power = 1
+- EFFECTS:
+id = table: 36b2a550, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.824, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.9
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0.052, power = 0.1
+- EFFECTS:
+id = table: 524e436f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.678, power = 1
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.404, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.795, power = 1
+- EFFECTS:
+id = table: 36b2a550, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.824, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.92
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.678, power = 1
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 3)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0.619), TAKE 2297 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.94
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.404, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.795, power = 1
+- EFFECTS:
+id = table: 36b2a550, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.824, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.92
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.678, power = 1
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.404, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.795, power = 1
+- EFFECTS:
+id = table: 36b2a550, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.824, power = 0
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.94
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.619, power = 1
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 0.345), TAKE 2297 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] (hp = 0.73), TAKE 2527 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] (hp = 0.765), TAKE 2297 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+[ADD_EFFECT] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] (hp = 0.73), type = 40, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.404, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.795, power = 1
+- EFFECTS:
+id = table: 36b2a550, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.824, power = 0
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.94
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.619, power = 1
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.345, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.73, power = 1
+- EFFECTS:
+id = table: 36b2a550, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 36589d57, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.765, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.94
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.619, power = 0
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 5 ----------
+
+[REMOVE_EFFECT] [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] (hp = 0.73), type = 40, persistentType = 1, isBuff = false
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0.551), TAKE 2683 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.96
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.345, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.73, power = 1
+- EFFECTS:
+id = table: 36589d57, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.765, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.94
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.619, power = 0
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.345, power = 0.6
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.73, power = 1
+- EFFECTS:
+id = table: 36589d57, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.765, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.551, power = 0.1
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0.482), TAKE 2683 damage, initiatorPower = 1, targetPower = 0.2
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.64
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.345, power = 0.6
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.73, power = 1
+- EFFECTS:
+id = table: 36589d57, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.765, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.551, power = 0.1
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.345, power = 0.6
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.73, power = 1
+- EFFECTS:
+id = table: 36589d57, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.765, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.482, power = 0.2
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0.379), TAKE 4025 damage, initiatorPower = 0.6, targetPower = 0.3 (CRIT)
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.74
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.345, power = 0.6
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.73, power = 1
+- EFFECTS:
+id = table: 36589d57, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.765, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.482, power = 0.2
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.345, power = 0.6
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.73, power = 1
+- EFFECTS:
+id = table: 36589d57, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.765, power = 0.6
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.379, power = 0.3
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 0.287), TAKE 2280 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.76
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] (hp = 0.672), TAKE 2280 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] (hp = 0.707), TAKE 2280 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 0.287), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] (hp = 0.672), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] (hp = 0.707), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.345, power = 0.6
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.73, power = 1
+- EFFECTS:
+id = table: 36589d57, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.765, power = 0.6
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.379, power = 0.3
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.287, power = 0.7
+- EFFECTS:
+id = table: 16adf5c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.672, power = 1
+- EFFECTS:
+id = table: 36589d57, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 66459e7f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.707, power = 0.7
+- EFFECTS:
+id = table: 457e3fc2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.379, power = 0.3
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 0.219), TAKE 2683 damage, initiatorPower = 0.8, targetPower = 0.8
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.287, power = 0.7
+- EFFECTS:
+id = table: 16adf5c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.672, power = 1
+- EFFECTS:
+id = table: 36589d57, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 66459e7f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.707, power = 0.7
+- EFFECTS:
+id = table: 457e3fc2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.379, power = 0.3
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.219, power = 0.8
+- EFFECTS:
+id = table: 16adf5c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.672, power = 1
+- EFFECTS:
+id = table: 36589d57, type = 40, initiator = [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 66459e7f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.707, power = 0.7
+- EFFECTS:
+id = table: 457e3fc2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.379, power = 0.8
+- EFFECTS:
+id = table: 5754f983, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 6 ----------
+
+[REMOVE_EFFECT] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] (hp = 0.672), type = 40, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0.379), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 0.15), TAKE 2683 damage, initiatorPower = 1, targetPower = 0.9
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.84
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.82
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.219, power = 0.8
+- EFFECTS:
+id = table: 16adf5c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.672, power = 1
+- EFFECTS:
+id = table: 66459e7f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.707, power = 0.7
+- EFFECTS:
+id = table: 457e3fc2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.379, power = 0.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.15, power = 0.9
+- EFFECTS:
+id = table: 16adf5c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.672, power = 1
+- EFFECTS:
+id = table: 66459e7f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.707, power = 0.7
+- EFFECTS:
+id = table: 457e3fc2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.2
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.379, power = 1
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0.277), TAKE 4025 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.94
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.15, power = 0.9
+- EFFECTS:
+id = table: 16adf5c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.672, power = 1
+- EFFECTS:
+id = table: 66459e7f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.707, power = 0.7
+- EFFECTS:
+id = table: 457e3fc2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.2
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.379, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.15, power = 1
+- EFFECTS:
+id = table: 16adf5c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.672, power = 1
+- EFFECTS:
+id = table: 66459e7f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.707, power = 0.7
+- EFFECTS:
+id = table: 457e3fc2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.277, power = 1
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0.218), TAKE 2297 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.15, power = 1
+- EFFECTS:
+id = table: 16adf5c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.672, power = 1
+- EFFECTS:
+id = table: 66459e7f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.707, power = 0.7
+- EFFECTS:
+id = table: 457e3fc2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.22
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.277, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.15, power = 1
+- EFFECTS:
+id = table: 16adf5c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.672, power = 0
+- EFFECTS:
+id = table: 66459e7f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.707, power = 0.7
+- EFFECTS:
+id = table: 457e3fc2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.218, power = 1
+
+
+TURN 4 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 3)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0.149), TAKE 2683 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.15, power = 1
+- EFFECTS:
+id = table: 16adf5c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.672, power = 0
+- EFFECTS:
+id = table: 66459e7f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.707, power = 0.7
+- EFFECTS:
+id = table: 457e3fc2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.218, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.15, power = 1
+- EFFECTS:
+id = table: 16adf5c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.672, power = 0
+- EFFECTS:
+id = table: 66459e7f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.707, power = 1
+- EFFECTS:
+id = table: 457e3fc2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.149, power = 1
+
+
+TURN 5 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0.091), TAKE 2280 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0.091), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.15, power = 1
+- EFFECTS:
+id = table: 16adf5c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.672, power = 0
+- EFFECTS:
+id = table: 66459e7f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.707, power = 1
+- EFFECTS:
+id = table: 457e3fc2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.149, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.15, power = 1
+- EFFECTS:
+id = table: 16adf5c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.672, power = 0
+- EFFECTS:
+id = table: 66459e7f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.707, power = 1
+- EFFECTS:
+id = table: 457e3fc2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.091, power = 1
+- EFFECTS:
+id = table: 373ea01f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0.003), TAKE 3445 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.15, power = 1
+- EFFECTS:
+id = table: 16adf5c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.672, power = 0
+- EFFECTS:
+id = table: 66459e7f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.707, power = 1
+- EFFECTS:
+id = table: 457e3fc2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.091, power = 1
+- EFFECTS:
+id = table: 373ea01f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.15, power = 0
+- EFFECTS:
+id = table: 16adf5c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.672, power = 0
+- EFFECTS:
+id = table: 66459e7f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.707, power = 1
+- EFFECTS:
+id = table: 457e3fc2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.003, power = 1
+- EFFECTS:
+id = table: 373ea01f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Lothíriel 40012 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0), TAKE 2683 damage, initiatorPower = 0.5, targetPower = 0
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[DEAD_FOR_DISPLAY] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 1
+
+
+[DEAD] [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] => [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.15, power = 0
+- EFFECTS:
+id = table: 16adf5c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.672, power = 0
+- EFFECTS:
+id = table: 66459e7f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.707, power = 1
+- EFFECTS:
+id = table: 457e3fc2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0.003, power = 1
+- EFFECTS:
+id = table: 373ea01f, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.15, power = 0
+- EFFECTS:
+id = table: 16adf5c8, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.672, power = 0.5
+- EFFECTS:
+id = table: 66459e7f, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.707, power = 1
+- EFFECTS:
+id = table: 457e3fc2, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+
+---------- AFTER ROUND 8 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] (hp = 0.15), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] (hp = 0.672), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] (hp = 0.707), type = 404, persistentType = 52, isBuff = false
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 1)] hp = 0.15, power = 0
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 2)] hp = 0.672, power = 0.5
+
+> [Lothíriel 40012 (TEAM 1, FRONT, POS 3)] hp = 0.707, power = 1
+
+> [Lothíriel 40012 (TEAM 1, BACK, POS 1)] hp = 0, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Lothíriel 40012 (TEAM 2, FRONT, POS 2)] hp = 0, power = 0
+
+<> STATISTICS:
+[SummonerMage (TEAM 2)] DamageDeal = 6840, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4ec40085, count = 1
+	[2 (number)] = 6840 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 4b8d944, count = 1
+	[6004 (number)] = 6840 (number)
+
+	Effect created history: Dictionary = table: 308c663e, count = 1
+	[501 (number)] = 4 (number)
+
+	Stat changer debuff created history: Dictionary = table: 72f00668, count = 1
+	[4 (number)] = 180 (number)
+
+[Lothíriel 40012 (TEAM 2, FRONT, POS 2)] DamageDeal = 30737, DamageTaken = 44962.414, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 1c5ee09b, count = 2
+	[1 (number)] = 13684 (number)
+	[2 (number)] = 17053 (number)
+
+	Damage taken by sources: Dictionary = table: 5e6e68ad, count = 2
+	[1 (number)] = 20244 (number)
+	[2 (number)] = 24718.416 (number)
+
+	NumberKill = 1, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: d8048c8, count = 7
+	[7001 (number)] = 2683 (number)
+	[3005 (number)] = 2952 (number)
+	[4006 (number)] = 2683 (number)
+	[2005 (number)] = 9932 (number)
+	[1005 (number)] = 2683 (number)
+	[5004 (number)] = 7121 (number)
+	[6005 (number)] = 2683 (number)
+
+	Damage taken history: Dictionary = table: 7fb1cc56, count = 15
+	[7005 (number)] = 2457 (number)
+	[6001 (number)] = 2892 (number)
+	[6002 (number)] = 2892 (number)
+	[6003 (number)] = 4338 (number)
+	[2001 (number)] = 2475.552 (number)
+	[5001 (number)] = 3713.328 (number)
+	[8001 (number)] = 3713.328 (number)
+	[2002 (number)] = 2475.552 (number)
+	[8002 (number)] = 2892 (number)
+	[5003 (number)] = 2475.552 (number)
+	[2003 (number)] = 2475.552 (number)
+	[4002 (number)] = 2457 (number)
+	[7002 (number)] = 4338 (number)
+	[7003 (number)] = 2475.552 (number)
+	[7004 (number)] = 2892 (number)
+
+	Effect created history: Dictionary = table: 1400b103, count = 1
+	[40 (number)] = 4 (number)
+
+[Lothíriel 40012 (TEAM 1, FRONT, POS 3)] DamageDeal = 21648, DamageTaken = 12359.208, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 3906982e, count = 2
+	[1 (number)] = 14757 (number)
+	[2 (number)] = 6891 (number)
+
+	Damage taken by sources: Dictionary = table: 36cf51ce, count = 1
+	[2 (number)] = 12359.208 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 476df83d, count = 7
+	[4004 (number)] = 2683 (number)
+	[2002 (number)] = 4594 (number)
+	[3004 (number)] = 2683 (number)
+	[1003 (number)] = 2683 (number)
+	[6003 (number)] = 4025 (number)
+	[7004 (number)] = 2683 (number)
+	[5003 (number)] = 2297 (number)
+
+	Damage taken history: Dictionary = table: 56f4d17a, count = 5
+	[4005 (number)] = 2475.552 (number)
+	[2004 (number)] = 2475.552 (number)
+	[2005 (number)] = 2475.552 (number)
+	[6004 (number)] = 2457 (number)
+	[5004 (number)] = 2475.552 (number)
+
+[Lothíriel 40012 (TEAM 1, FRONT, POS 1)] DamageDeal = 28538, DamageTaken = 35865.383, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 5b3ef462, count = 2
+	[1 (number)] = 14757 (number)
+	[2 (number)] = 13781 (number)
+
+	Damage taken by sources: Dictionary = table: 17339fea, count = 2
+	[1 (number)] = 22268.4 (number)
+	[2 (number)] = 13596.984 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 3fb72121, count = 8
+	[1001 (number)] = 2683 (number)
+	[8001 (number)] = 3445 (number)
+	[6001 (number)] = 2683 (number)
+	[7002 (number)] = 4025 (number)
+	[5001 (number)] = 5742 (number)
+	[4001 (number)] = 2683 (number)
+	[3001 (number)] = 2683 (number)
+	[2001 (number)] = 4594 (number)
+
+	Damage taken history: Dictionary = table: 4f3858ac, count = 12
+	[1005 (number)] = 2892 (number)
+	[4005 (number)] = 3713.328 (number)
+	[4006 (number)] = 2892 (number)
+	[3003 (number)] = 3181.2 (number)
+	[6004 (number)] = 2457 (number)
+	[3005 (number)] = 3181.2 (number)
+	[6005 (number)] = 2892 (number)
+	[2004 (number)] = 2475.552 (number)
+	[5004 (number)] = 2475.552 (number)
+	[2005 (number)] = 2475.552 (number)
+	[7001 (number)] = 2892 (number)
+	[1004 (number)] = 4338 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 6840, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 630938cd, count = 1
+	[2 (number)] = 6840 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 684e3789, count = 2
+	[4002 (number)] = 4560 (number)
+	[7005 (number)] = 2280 (number)
+
+	Effect created history: Dictionary = table: 6e76bd88, count = 1
+	[112 (number)] = 0 (number)
+
+	Stat changer debuff created history: Dictionary = table: 638675d2, count = 1
+	[4 (number)] = 180 (number)
+
+[Lothíriel 40012 (TEAM 2, FRONT, POS 1)] DamageDeal = 24273, DamageTaken = 43094.207, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4963e63f, count = 2
+	[1 (number)] = 6977 (number)
+	[2 (number)] = 17296 (number)
+
+	Damage taken by sources: Dictionary = table: 500862e5, count = 2
+	[1 (number)] = 30735 (number)
+	[2 (number)] = 12359.208 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: b491f91, count = 4
+	[2004 (number)] = 9257 (number)
+	[3003 (number)] = 2952 (number)
+	[4005 (number)] = 8039 (number)
+	[1004 (number)] = 4025 (number)
+
+	Damage taken history: Dictionary = table: 5b31d3cf, count = 16
+	[3001 (number)] = 2892 (number)
+	[1006 (number)] = 369 (number)
+	[3002 (number)] = 2892 (number)
+	[3004 (number)] = 2892 (number)
+	[2001 (number)] = 2475.552 (number)
+	[5001 (number)] = 2475.552 (number)
+	[2002 (number)] = 2475.552 (number)
+	[5002 (number)] = 2892 (number)
+	[2003 (number)] = 2475.552 (number)
+	[1001 (number)] = 2892 (number)
+	[4001 (number)] = 2892 (number)
+	[1002 (number)] = 4338 (number)
+	[4002 (number)] = 2457 (number)
+	[1003 (number)] = 2892 (number)
+	[4003 (number)] = 2892 (number)
+	[4004 (number)] = 2892 (number)
+
+	Effect created history: Dictionary = table: d359488, count = 1
+	[40 (number)] = 2 (number)
+
+[Lothíriel 40012 (TEAM 1, BACK, POS 1)] DamageDeal = 170, DamageTaken = 4951.104, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 1eb9c081, count = 1
+	[1 (number)] = 170 (number)
+
+	Damage taken by sources: Dictionary = table: 5d4ff150, count = 1
+	[2 (number)] = 4951.104 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 835ee9d, count = 1
+	[1006 (number)] = 170 (number)
+
+	Damage taken history: Dictionary = table: 2905aac7, count = 2
+	[2004 (number)] = 2475.552 (number)
+	[2005 (number)] = 2475.552 (number)
+
+[Lothíriel 40012 (TEAM 1, FRONT, POS 2)] DamageDeal = 24331, DamageTaken = 13845.696, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 79e8caae, count = 2
+	[1 (number)] = 17440 (number)
+	[2 (number)] = 6891 (number)
+
+	Damage taken by sources: Dictionary = table: 5b8f61b2, count = 1
+	[2 (number)] = 13845.696 (number)
+
+	NumberKill = 2, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 7c692d58, count = 8
+	[2003 (number)] = 4594 (number)
+	[1002 (number)] = 4025 (number)
+	[8002 (number)] = 2683 (number)
+	[6002 (number)] = 2683 (number)
+	[7003 (number)] = 2297 (number)
+	[5002 (number)] = 2683 (number)
+	[3002 (number)] = 2683 (number)
+	[4003 (number)] = 2683 (number)
+
+	Damage taken history: Dictionary = table: 78bef380, count = 5
+	[4005 (number)] = 2475.552 (number)
+	[2004 (number)] = 2475.552 (number)
+	[2005 (number)] = 3713.328 (number)
+	[6004 (number)] = 2457 (number)
+	[5004 (number)] = 2724.264 (number)
+
+
+<> WINNER: 1

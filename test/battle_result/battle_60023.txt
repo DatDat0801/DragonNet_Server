@@ -1,0 +1,3376 @@
+
+<> SEED = 885200542
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 161
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 6
+attack = 1527
+defense = 276
+hp = 37591/37591
+speed = 45
+critRate = 0.1
+critDamage = 1.5
+accuracy = 771
+dodge = 726
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 6ae15bdc, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 4e8b534b, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 65eb85f0, type = 403, initiator = [Sytak 60023 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 2976675, type = 403, initiator = [Sytak 60023 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 6
+attack = 1527
+defense = 276
+hp = 37591/37591
+speed = 45
+critRate = 0.1
+critDamage = 1.5
+accuracy = 771
+dodge = 726
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 3ca96c1f, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 28ac61ca, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 1151b52a, type = 403, initiator = [Sytak 60023 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 5c76e3f6, type = 403, initiator = [Sytak 60023 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 6
+attack = 1527
+defense = 276
+hp = 37591/37591
+speed = 45
+critRate = 0.1
+critDamage = 1.5
+accuracy = 771
+dodge = 726
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: dedcf74, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 46844d32, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 5a60582d, type = 403, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 7ad39da5, type = 403, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 6
+attack = 1527
+defense = 276
+hp = 37591/37591
+speed = 45
+critRate = 0.1
+critDamage = 1.5
+accuracy = 771
+dodge = 726
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 5fcd36fd, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 3b440deb, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 63bd9b9e, type = 403, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 3cb8d871, type = 403, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.962), TAKE 1425 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.962, power = 0.6
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.924), TAKE 1425 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.962, power = 0.6
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.924, power = 0.7
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.962), TAKE 1425 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.22
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.2
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 1, power = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.924, power = 0.7
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.962, power = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.924, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.905), TAKE 2138 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.22
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.962, power = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.924, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.905, power = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.924, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.856), TAKE 2563 damage, initiatorPower = 0, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 2)] (hp = 0.955), TAKE 1708 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.905, power = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.924, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 1, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.905, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.856, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.955, power = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.811), TAKE 1708 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 2)] (hp = 0.909), TAKE 1708 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.905, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 1, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.856, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.955, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.905, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.811, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 1
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.837), TAKE 2563 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.932), TAKE 2563 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.905, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.811, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.837, power = 0.1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.932, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.811, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 1
+
+
+TURN 4 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.792), TAKE 1708 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.886), TAKE 1708 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.32
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.837, power = 0.1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.932, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.811, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.792, power = 0.2
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.886, power = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.811, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.773), TAKE 1425 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.32
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.792, power = 0.2
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.886, power = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.811, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.792, power = 0.7
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.886, power = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.773, power = 0.1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.735), TAKE 2138 damage, initiatorPower = 0.6, targetPower = 0.8 (CRIT)
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.42
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.792, power = 0.7
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.886, power = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.773, power = 0.1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.735, power = 0.8
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.886, power = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.773, power = 0.6
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.735), TAKE 1425 damage, initiatorPower = 0.7, targetPower = 0.7
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.735, power = 0.8
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.886, power = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.773, power = 0.6
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.735, power = 0.8
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.886, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.735, power = 0.7
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.697), TAKE 1425 damage, initiatorPower = 0.5, targetPower = 0.9
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[ADD_EFFECT] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.697), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.735, power = 0.8
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.886, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.735, power = 0.7
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.697, power = 0.9
+- EFFECTS:
+id = table: 19bcbcc8, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.886, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.735, power = 0.7
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0.5
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.697), TAKE 1425 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.697, power = 0.9
+- EFFECTS:
+id = table: 19bcbcc8, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.886, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.735, power = 0.7
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.697, power = 0.9
+- EFFECTS:
+id = table: 19bcbcc8, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.886, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.697, power = 0.8
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0.5
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.64), TAKE 2138 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.697, power = 0.9
+- EFFECTS:
+id = table: 19bcbcc8, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.886, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.58
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.697, power = 0.8
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.64, power = 1
+- EFFECTS:
+id = table: 19bcbcc8, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.886, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.697, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0.5
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.602), TAKE 1425 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.78
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.7
+
+
+[ADD_EFFECT] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.602), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.64, power = 1
+- EFFECTS:
+id = table: 19bcbcc8, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.886, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.697, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.602, power = 1
+- EFFECTS:
+id = table: 19bcbcc8, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 2ff01bdc, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.886, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.697, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 1
+
+
+---------- AFTER ROUND 4 ----------
+
+[REMOVE_EFFECT] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.602), type = 1, persistentType = 1, isBuff = false
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.651), TAKE 1708 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.8
+
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 2)] (hp = 0.864), TAKE 1708 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.602, power = 1
+- EFFECTS:
+id = table: 2ff01bdc, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.886, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.697, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.909, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.602, power = 1
+- EFFECTS:
+id = table: 2ff01bdc, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.886, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.651, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.864, power = 1
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.557), TAKE 1708 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.72
+
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.841), TAKE 1708 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.74
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.602, power = 1
+- EFFECTS:
+id = table: 2ff01bdc, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.886, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.651, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.864, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.557, power = 1
+- EFFECTS:
+id = table: 2ff01bdc, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.841, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.651, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.864, power = 1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.511), TAKE 1708 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.76
+
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.796), TAKE 1708 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.557, power = 1
+- EFFECTS:
+id = table: 2ff01bdc, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.841, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.651, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.864, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.511, power = 1
+- EFFECTS:
+id = table: 2ff01bdc, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.796, power = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.651, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.864, power = 0
+
+
+---------- AFTER ROUND 5 ----------
+
+[REMOVE_EFFECT] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.511), type = 1, persistentType = 1, isBuff = false
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.606), TAKE 1708 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 2)] (hp = 0.818), TAKE 1708 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.511, power = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.796, power = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.82
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.651, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.864, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.511, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.796, power = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.606, power = 0.1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.818, power = 0.1
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.473), TAKE 1425 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.96
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[ADD_EFFECT] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.473), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.511, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.796, power = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.606, power = 0.1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.818, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.473, power = 0.1
+- EFFECTS:
+id = table: 34c0609c, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.796, power = 0.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.606, power = 0.6
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.818, power = 0.1
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.568), TAKE 1425 damage, initiatorPower = 0.7, targetPower = 0.7
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.9
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.473, power = 0.1
+- EFFECTS:
+id = table: 34c0609c, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.796, power = 0.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.606, power = 0.6
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.818, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.473, power = 0.1
+- EFFECTS:
+id = table: 34c0609c, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.796, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.568, power = 0.7
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.818, power = 0.1
+
+
+TURN 4 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.435), TAKE 1425 damage, initiatorPower = 0.6, targetPower = 0.2
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.92
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.473, power = 0.1
+- EFFECTS:
+id = table: 34c0609c, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.796, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.568, power = 0.7
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.818, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.435, power = 0.2
+- EFFECTS:
+id = table: 34c0609c, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.796, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.568, power = 0.7
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.818, power = 0.6
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.374), TAKE 2295 damage, initiatorPower = 0, targetPower = 0.3
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.94
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.734), TAKE 2295 damage, initiatorPower = 0, targetPower = 0.8
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.96
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.374), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.734), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.435, power = 0.2
+- EFFECTS:
+id = table: 34c0609c, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.796, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.568, power = 0.7
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.818, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.374, power = 0.3
+- EFFECTS:
+id = table: 34c0609c, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.734, power = 0.8
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.568, power = 0.7
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.818, power = 0.6
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.336), TAKE 1425 damage, initiatorPower = 1, targetPower = 0.4
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.98
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.374, power = 0.3
+- EFFECTS:
+id = table: 34c0609c, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.734, power = 0.8
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.568, power = 0.7
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.818, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.336, power = 0.4
+- EFFECTS:
+id = table: 34c0609c, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.734, power = 0.8
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.568, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.818, power = 0.6
+
+
+TURN 3 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.298), TAKE 1425 damage, initiatorPower = 1, targetPower = 0.5
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.2
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[ADD_EFFECT] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.298), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.336, power = 0.4
+- EFFECTS:
+id = table: 34c0609c, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.734, power = 0.8
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.568, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.818, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.298, power = 0.5
+- EFFECTS:
+id = table: 34c0609c, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 68090076, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.734, power = 0.8
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.2
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.568, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.818, power = 1
+
+
+TURN 4 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.507), TAKE 2295 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.22
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 2)] (hp = 0.757), TAKE 2295 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.507), type = 404, persistentType = 52, isBuff = false
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 2)] (hp = 0.757), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.298, power = 0.5
+- EFFECTS:
+id = table: 34c0609c, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 68090076, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.734, power = 0.8
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.2
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.568, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.818, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.298, power = 0.5
+- EFFECTS:
+id = table: 34c0609c, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 68090076, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.734, power = 0.8
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.507, power = 1
+- EFFECTS:
+id = table: 5ffa596b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.757, power = 1
+- EFFECTS:
+id = table: 177bef81, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.45), TAKE 2138 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.298, power = 0.5
+- EFFECTS:
+id = table: 34c0609c, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 68090076, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.734, power = 0.8
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.507, power = 1
+- EFFECTS:
+id = table: 5ffa596b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.757, power = 1
+- EFFECTS:
+id = table: 177bef81, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.298, power = 0.5
+- EFFECTS:
+id = table: 34c0609c, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 68090076, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.734, power = 1
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.45, power = 1
+- EFFECTS:
+id = table: 5ffa596b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.757, power = 1
+- EFFECTS:
+id = table: 177bef81, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 7 ----------
+
+[REMOVE_EFFECT] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.298), type = 1, persistentType = 1, isBuff = false
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.405), TAKE 1708 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 2)] (hp = 0.712), TAKE 1708 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.298, power = 0.5
+- EFFECTS:
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 68090076, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.734, power = 1
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.45, power = 1
+- EFFECTS:
+id = table: 5ffa596b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.757, power = 1
+- EFFECTS:
+id = table: 177bef81, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.298, power = 0.5
+- EFFECTS:
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 68090076, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.734, power = 0
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.405, power = 1
+- EFFECTS:
+id = table: 5ffa596b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.712, power = 1
+- EFFECTS:
+id = table: 177bef81, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.253), TAKE 1708 damage, initiatorPower = 0, targetPower = 0.6
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.689), TAKE 1708 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.298, power = 0.5
+- EFFECTS:
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 68090076, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.734, power = 0
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.405, power = 1
+- EFFECTS:
+id = table: 5ffa596b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.712, power = 1
+- EFFECTS:
+id = table: 177bef81, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.253, power = 0.6
+- EFFECTS:
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 68090076, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.689, power = 0.1
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.405, power = 0
+- EFFECTS:
+id = table: 5ffa596b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.712, power = 1
+- EFFECTS:
+id = table: 177bef81, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.208), TAKE 1708 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.16
+
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.644), TAKE 1708 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.18
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.253, power = 0.6
+- EFFECTS:
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 68090076, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.689, power = 0.1
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.405, power = 0
+- EFFECTS:
+id = table: 5ffa596b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.712, power = 1
+- EFFECTS:
+id = table: 177bef81, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.208, power = 0.7
+- EFFECTS:
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 68090076, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.644, power = 0.2
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.405, power = 0
+- EFFECTS:
+id = table: 5ffa596b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.712, power = 0
+- EFFECTS:
+id = table: 177bef81, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 8 ----------
+
+[REMOVE_EFFECT] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.208), type = 1, persistentType = 1, isBuff = false
+
+
+ROUND 9
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.367), TAKE 1425 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.18
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.208, power = 0.7
+- EFFECTS:
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.644, power = 0.2
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.405, power = 0
+- EFFECTS:
+id = table: 5ffa596b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.712, power = 0
+- EFFECTS:
+id = table: 177bef81, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.208, power = 1
+- EFFECTS:
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.644, power = 0.2
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.367, power = 0.1
+- EFFECTS:
+id = table: 5ffa596b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.712, power = 0
+- EFFECTS:
+id = table: 177bef81, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.329), TAKE 1425 damage, initiatorPower = 0.7, targetPower = 0.2
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[ADD_EFFECT] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.329), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.208, power = 1
+- EFFECTS:
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.644, power = 0.2
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.32
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.367, power = 0.1
+- EFFECTS:
+id = table: 5ffa596b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.712, power = 0
+- EFFECTS:
+id = table: 177bef81, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.208, power = 1
+- EFFECTS:
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.644, power = 0.7
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.329, power = 0.2
+- EFFECTS:
+id = table: 5ffa596b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 161f5513, type = 1, initiator = [Sytak 60023 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.712, power = 0
+- EFFECTS:
+id = table: 177bef81, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.17), TAKE 1425 damage, initiatorPower = 0.5, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.44
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+[ADD_EFFECT] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.17), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.208, power = 1
+- EFFECTS:
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.644, power = 0.7
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.329, power = 0.2
+- EFFECTS:
+id = table: 5ffa596b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 161f5513, type = 1, initiator = [Sytak 60023 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.712, power = 0
+- EFFECTS:
+id = table: 177bef81, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.17, power = 1
+- EFFECTS:
+id = table: 3b2e6cf1, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 36b5ed16, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.644, power = 0.7
+- EFFECTS:
+id = table: 4788dda0, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.329, power = 0.2
+- EFFECTS:
+id = table: 5ffa596b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+id = table: 161f5513, type = 1, initiator = [Sytak 60023 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.712, power = 0.5
+- EFFECTS:
+id = table: 177bef81, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 9 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.17), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.644), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.329), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 2)] (hp = 0.712), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 10
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.291), TAKE 1425 damage, initiatorPower = 1, targetPower = 0.3
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.46
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.17, power = 1
+- EFFECTS:
+id = table: 36b5ed16, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.644, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.44
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.329, power = 0.2
+- EFFECTS:
+id = table: 161f5513, type = 1, initiator = [Sytak 60023 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.712, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.17, power = 1
+- EFFECTS:
+id = table: 36b5ed16, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.644, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.291, power = 0.3
+- EFFECTS:
+id = table: 161f5513, type = 1, initiator = [Sytak 60023 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.712, power = 0.5
+
+
+TURN 2 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.132), TAKE 1425 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.17, power = 1
+- EFFECTS:
+id = table: 36b5ed16, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.644, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.46
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.291, power = 0.3
+- EFFECTS:
+id = table: 161f5513, type = 1, initiator = [Sytak 60023 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.712, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.132, power = 1
+- EFFECTS:
+id = table: 36b5ed16, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.644, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.291, power = 0.3
+- EFFECTS:
+id = table: 161f5513, type = 1, initiator = [Sytak 60023 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.712, power = 1
+
+
+---------- AFTER ROUND 10 ----------
+
+[REMOVE_EFFECT] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.132), type = 1, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.291), type = 1, persistentType = 1, isBuff = false
+
+
+ROUND 11
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.246), TAKE 1708 damage, initiatorPower = 0, targetPower = 0.4
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.58
+
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 2)] (hp = 0.666), TAKE 1708 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.6
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.132, power = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.644, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.291, power = 0.3
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.712, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.132, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.644, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.246, power = 0.4
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.666, power = 1
+
+
+TURN 2 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.094), TAKE 1425 damage, initiatorPower = 0.9, targetPower = 0.1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.7
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[ADD_EFFECT] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.094), type = 1, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.132, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.644, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.246, power = 0.4
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.666, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.094, power = 0.1
+- EFFECTS:
+id = table: 3b89cbaa, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.644, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.246, power = 0.9
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.666, power = 1
+
+
+TURN 3 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.2), TAKE 1708 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.72
+
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 2)] (hp = 0.621), TAKE 1708 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.74
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.094, power = 0.1
+- EFFECTS:
+id = table: 3b89cbaa, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.644, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.7
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.246, power = 0.9
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.666, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.094, power = 0.1
+- EFFECTS:
+id = table: 3b89cbaa, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.644, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.2, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 1
+
+
+TURN 4 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.048), TAKE 1708 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.598), TAKE 1708 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.58
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.094, power = 0.1
+- EFFECTS:
+id = table: 3b89cbaa, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.644, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.2, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.048, power = 0.2
+- EFFECTS:
+id = table: 3b89cbaa, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.598, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.2, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 0
+
+
+ROUND 12
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.162), TAKE 1425 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.76
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.58
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.048, power = 0.2
+- EFFECTS:
+id = table: 3b89cbaa, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.598, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.2, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.048, power = 0.2
+- EFFECTS:
+id = table: 3b89cbaa, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.598, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.162, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 0
+
+
+TURN 2 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0.003), TAKE 1708 damage, initiatorPower = 0, targetPower = 0.3
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.7
+
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.553), TAKE 1708 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.72
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.68
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.048, power = 0.2
+- EFFECTS:
+id = table: 3b89cbaa, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.598, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.162, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.003, power = 0.3
+- EFFECTS:
+id = table: 3b89cbaa, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.553, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.162, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 0
+
+
+TURN 3 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 1425 damage, initiatorPower = 0.5, targetPower = 0
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.74
+
+
+[DEAD_FOR_DISPLAY] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[DEAD] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.72
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0.003, power = 0.3
+- EFFECTS:
+id = table: 3b89cbaa, type = 1, initiator = [Sytak 60023 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.553, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.162, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.553, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.162, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 0.5
+
+
+ROUND 13
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 13)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.124), TAKE 1425 damage, initiatorPower = 1, targetPower = 0.1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.84
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.88
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.74
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.553, power = 0.7
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.162, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.553, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.124, power = 0.1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 0.5
+
+
+TURN 2 (ROUND 13)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.515), TAKE 1425 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.86
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.553, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.88
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.124, power = 0.1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.515, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.124, power = 0.6
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 0.5
+
+
+TURN 3 (ROUND 13)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.477), TAKE 1425 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.88
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.86
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.515, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.124, power = 0.6
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.477, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.124, power = 0.6
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 1
+
+
+TURN 4 (ROUND 13)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.416), TAKE 2295 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.9
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.416), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.477, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.124, power = 0.6
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.416, power = 1
+- EFFECTS:
+id = table: 73463cbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.124, power = 0.6
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 1
+
+
+ROUND 14
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 14)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.378), TAKE 1425 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.92
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.416, power = 1
+- EFFECTS:
+id = table: 73463cbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.124, power = 0.6
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.378, power = 1
+- EFFECTS:
+id = table: 73463cbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.124, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 1
+
+
+TURN 2 (ROUND 14)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.332), TAKE 1708 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.94
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.378, power = 1
+- EFFECTS:
+id = table: 73463cbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.124, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.332, power = 1
+- EFFECTS:
+id = table: 73463cbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.124, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 0
+
+
+TURN 3 (ROUND 14)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.079), TAKE 1708 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.12
+
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 2)] (hp = 0.575), TAKE 1708 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.332, power = 1
+- EFFECTS:
+id = table: 73463cbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.124, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.621, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.332, power = 0
+- EFFECTS:
+id = table: 73463cbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.079, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.575, power = 0.1
+
+
+ROUND 15
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 15)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.287), TAKE 1708 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.96
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.94
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.332, power = 0
+- EFFECTS:
+id = table: 73463cbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.079, power = 1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.575, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.287, power = 0.1
+- EFFECTS:
+id = table: 73463cbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.079, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.575, power = 0.1
+
+
+TURN 2 (ROUND 15)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.249), TAKE 1425 damage, initiatorPower = 0.6, targetPower = 0.2
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.98
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.96
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.287, power = 0.1
+- EFFECTS:
+id = table: 73463cbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.079, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.575, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.249, power = 0.2
+- EFFECTS:
+id = table: 73463cbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.079, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.575, power = 0.6
+
+
+TURN 3 (ROUND 15)
+--------------------------------------------------------------------------------
+<> INITIATOR [Sytak 60023 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0.041), TAKE 1425 damage, initiatorPower = 0.7, targetPower = 0.1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.249, power = 0.2
+- EFFECTS:
+id = table: 73463cbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.24
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.079, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.575, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.249, power = 0.7
+- EFFECTS:
+id = table: 73463cbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.041, power = 0.1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.575, power = 0.6
+
+
+TURN 4 (ROUND 15)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 2295 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[DEAD_FOR_DISPLAY] [SummonerMage (TEAM 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 2)] (hp = 0.514), TAKE 2295 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Sytak 60023 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 2)] (hp = 0.514), type = 404, persistentType = 52, isBuff = false
+
+
+[DEAD] [SummonerMage (TEAM 1)] => [Sytak 60023 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.249, power = 0.7
+- EFFECTS:
+id = table: 73463cbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0.041, power = 0.1
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.575, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.249, power = 0.7
+- EFFECTS:
+id = table: 73463cbd, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.514, power = 0.7
+- EFFECTS:
+id = table: 1f1d480b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 15 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Sytak 60023 (TEAM 1, FRONT, POS 2)] (hp = 0.249), type = 404, persistentType = 52, isBuff = false
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 1, FRONT, POS 2)] hp = 0.249, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+
+> [Sytak 60023 (TEAM 2, FRONT, POS 2)] hp = 0.514, power = 0.7
+- EFFECTS:
+id = table: 1f1d480b, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+<> STATISTICS:
+[SummonerMage (TEAM 1)] DamageDeal = 9180, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 6d9dba3, count = 1
+	[2 (number)] = 9180 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 73f88449, count = 2
+	[7004 (number)] = 4590 (number)
+	[15004 (number)] = 4590 (number)
+
+	Stat changer debuff created history: Dictionary = table: 3119fd5f, count = 1
+	[4 (number)] = 180 (number)
+
+[Sytak 60023 (TEAM 2, FRONT, POS 1)] DamageDeal = 29908, DamageTaken = 41077.94, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4431b667, count = 2
+	[1 (number)] = 12826 (number)
+	[2 (number)] = 17082 (number)
+
+	Damage taken by sources: Dictionary = table: c7d7981, count = 2
+	[1 (number)] = 20614.5 (number)
+	[2 (number)] = 20463.441 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 3b106e8b, count = 13
+	[15001 (number)] = 1708 (number)
+	[3002 (number)] = 2138 (number)
+	[6002 (number)] = 1425 (number)
+	[12002 (number)] = 3416 (number)
+	[14001 (number)] = 1425 (number)
+	[5002 (number)] = 3416 (number)
+	[8002 (number)] = 3416 (number)
+	[11002 (number)] = 1425 (number)
+	[2003 (number)] = 5126 (number)
+	[4002 (number)] = 2138 (number)
+	[7002 (number)] = 1425 (number)
+	[13002 (number)] = 1425 (number)
+	[1003 (number)] = 1425 (number)
+
+	Damage taken history: Dictionary = table: 451d8fb3, count = 23
+	[15004 (number)] = 2457 (number)
+	[4001 (number)] = 1527 (number)
+	[8001 (number)] = 1829.346 (number)
+	[12001 (number)] = 1527 (number)
+	[1001 (number)] = 1527 (number)
+	[1002 (number)] = 1527 (number)
+	[5001 (number)] = 1829.346 (number)
+	[9001 (number)] = 1527 (number)
+	[9002 (number)] = 1527 (number)
+	[13001 (number)] = 1527 (number)
+	[2001 (number)] = 2744.019 (number)
+	[2002 (number)] = 1829.346 (number)
+	[6001 (number)] = 1829.346 (number)
+	[10001 (number)] = 1527 (number)
+	[6003 (number)] = 1527 (number)
+	[14003 (number)] = 1829.346 (number)
+	[3001 (number)] = 1527 (number)
+	[3003 (number)] = 1527 (number)
+	[11001 (number)] = 1829.346 (number)
+	[7004 (number)] = 2457 (number)
+	[11003 (number)] = 1829.346 (number)
+	[7005 (number)] = 2290.5 (number)
+	[15003 (number)] = 1527 (number)
+
+	Effect created history: Dictionary = table: c568bf9, count = 1
+	[1 (number)] = 4 (number)
+
+[Sytak 60023 (TEAM 1, FRONT, POS 2)] DamageDeal = 32043, DamageTaken = 30230.133, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 6b005a83, count = 2
+	[1 (number)] = 14963 (number)
+	[2 (number)] = 17080 (number)
+
+	Damage taken by sources: Dictionary = table: 535c055e, count = 2
+	[1 (number)] = 6108 (number)
+	[2 (number)] = 24122.133 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 7a957891, count = 15
+	[7005 (number)] = 2138 (number)
+	[12001 (number)] = 1425 (number)
+	[9002 (number)] = 1425 (number)
+	[6003 (number)] = 1425 (number)
+	[3003 (number)] = 1425 (number)
+	[15003 (number)] = 1425 (number)
+	[5001 (number)] = 3416 (number)
+	[8001 (number)] = 3416 (number)
+	[2002 (number)] = 3416 (number)
+	[11003 (number)] = 3416 (number)
+	[14003 (number)] = 3416 (number)
+	[4001 (number)] = 1425 (number)
+	[10001 (number)] = 1425 (number)
+	[13001 (number)] = 1425 (number)
+	[1002 (number)] = 1425 (number)
+
+	Damage taken history: Dictionary = table: 42a42d79, count = 16
+	[15001 (number)] = 1829.346 (number)
+	[12002 (number)] = 1829.346 (number)
+	[15002 (number)] = 1527 (number)
+	[14001 (number)] = 1527 (number)
+	[5002 (number)] = 1829.346 (number)
+	[8002 (number)] = 1829.346 (number)
+	[14002 (number)] = 1829.346 (number)
+	[5003 (number)] = 1829.346 (number)
+	[8003 (number)] = 1829.346 (number)
+	[2003 (number)] = 2744.019 (number)
+	[2004 (number)] = 1829.346 (number)
+	[11004 (number)] = 1829.346 (number)
+	[7001 (number)] = 2457 (number)
+	[13002 (number)] = 1527 (number)
+	[13003 (number)] = 1527 (number)
+	[13004 (number)] = 2457 (number)
+
+	Effect created history: Dictionary = table: 2b19a3ec, count = 1
+	[1 (number)] = 2 (number)
+
+[SummonerMage (TEAM 2)] DamageDeal = 6885, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 18dc3524, count = 1
+	[2 (number)] = 6885 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 49dc975e, count = 2
+	[7001 (number)] = 4590 (number)
+	[13004 (number)] = 2295 (number)
+
+	Stat changer debuff created history: Dictionary = table: 2af0b4f9, count = 1
+	[4 (number)] = 180 (number)
+
+[Sytak 60023 (TEAM 2, FRONT, POS 2)] DamageDeal = 30335, DamageTaken = 19548.768, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4c906488, count = 2
+	[1 (number)] = 14963 (number)
+	[2 (number)] = 15372 (number)
+
+	Damage taken by sources: Dictionary = table: 351c1d2b, count = 1
+	[2 (number)] = 19548.768 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 18d71ab1, count = 15
+	[15002 (number)] = 1425 (number)
+	[9003 (number)] = 1425 (number)
+	[12003 (number)] = 1425 (number)
+	[6004 (number)] = 1425 (number)
+	[3004 (number)] = 1425 (number)
+	[14002 (number)] = 1708 (number)
+	[5003 (number)] = 3416 (number)
+	[8003 (number)] = 3416 (number)
+	[2004 (number)] = 3416 (number)
+	[11004 (number)] = 3416 (number)
+	[10002 (number)] = 1425 (number)
+	[4003 (number)] = 1425 (number)
+	[7003 (number)] = 1425 (number)
+	[13003 (number)] = 1425 (number)
+	[1004 (number)] = 2138 (number)
+
+	Damage taken history: Dictionary = table: 37af222e, count = 10
+	[6001 (number)] = 1829.346 (number)
+	[15004 (number)] = 2457 (number)
+	[2001 (number)] = 1829.346 (number)
+	[11001 (number)] = 1829.346 (number)
+	[5001 (number)] = 1829.346 (number)
+	[8001 (number)] = 1829.346 (number)
+	[2002 (number)] = 1829.346 (number)
+	[11003 (number)] = 1829.346 (number)
+	[14003 (number)] = 1829.346 (number)
+	[7004 (number)] = 2457 (number)
+
+	Effect created history: Dictionary = table: 7854a477, count = 1
+	[1 (number)] = 8 (number)
+
+[Sytak 60023 (TEAM 1, FRONT, POS 1)] DamageDeal = 15378, DamageTaken = 41674.94, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2d740b13, count = 2
+	[1 (number)] = 4275 (number)
+	[2 (number)] = 11103 (number)
+
+	Damage taken by sources: Dictionary = table: d569e9e, count = 2
+	[1 (number)] = 23668.5 (number)
+	[2 (number)] = 18006.441 (number)
+
+	NumberKill = 0, NumberDead = 1, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 43267348, count = 6
+	[1001 (number)] = 1425 (number)
+	[6001 (number)] = 3416 (number)
+	[11001 (number)] = 3416 (number)
+	[3001 (number)] = 1425 (number)
+	[2001 (number)] = 4271 (number)
+	[9001 (number)] = 1425 (number)
+
+	Damage taken history: Dictionary = table: 1e0c0047, count = 23
+	[4002 (number)] = 2290.5 (number)
+	[4003 (number)] = 1527 (number)
+	[8002 (number)] = 1829.346 (number)
+	[8003 (number)] = 1829.346 (number)
+	[12002 (number)] = 1829.346 (number)
+	[12003 (number)] = 1527 (number)
+	[1003 (number)] = 1527 (number)
+	[5002 (number)] = 1829.346 (number)
+	[1004 (number)] = 2290.5 (number)
+	[5003 (number)] = 1829.346 (number)
+	[9003 (number)] = 1527 (number)
+	[2003 (number)] = 2744.019 (number)
+	[6002 (number)] = 1527 (number)
+	[2004 (number)] = 1829.346 (number)
+	[10002 (number)] = 1527 (number)
+	[6004 (number)] = 1527 (number)
+	[7001 (number)] = 2457 (number)
+	[3002 (number)] = 2290.5 (number)
+	[7002 (number)] = 1527 (number)
+	[7003 (number)] = 1527 (number)
+	[3004 (number)] = 1527 (number)
+	[11002 (number)] = 1527 (number)
+	[11004 (number)] = 1829.346 (number)
+
+
+<> WINNER: 2

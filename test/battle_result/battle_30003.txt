@@ -1,0 +1,3398 @@
+
+<> SEED = 33943791
+<> NUMBER RANDOM BEFORE RUN: 0
+<> NUMBER RANDOM AFTER RUN: 179
+<> GAME MODE: 0
+---------------------------------------- START BATTLE ----------------------------------------
+<> ATTACKER COMPANION BUFF: no buff
+<> DEFENDER COMPANION BUFF: no buff
+<> ATTACKER LINKING: no link
+<> DEFENDER LINKING: no link
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 1
+attack = 988
+defense = 165
+hp = 18027/18027
+speed = 57
+critRate = 0.2
+critDamage = 1.5
+accuracy = 1129
+dodge = 1063
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 5924bee1, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 5cde7cee, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 7f53be27, type = 402, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 28beceab, type = 401, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 5491beeb, type = 410, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 6dd74db3, type = 403, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 3
+attack = 3666
+defense = 524
+hp = 56251/56251
+speed = 67
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1087
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 1947aa4a, type = 431, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 47d2f45f, type = 441, initiator = [SummonerMage (TEAM 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 7b87819b, type = 403, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)]
+star = 3
+level = 10
+isBoss = false
+isSummoner = true
+isDummy = false
+class = 1
+faction = 7
+attack = 1260
+critRate = 0.1
+critDamage = 1.5
+accuracy = 966
+pureDamage = 0
+skillDamage = 0.3
+armorBreak = 0
+
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 2
+faction = 1
+attack = 988
+defense = 165
+hp = 18027/18027
+speed = 57
+critRate = 0.2
+critDamage = 1.5
+accuracy = 1129
+dodge = 1063
+pureDamage = 0
+skillDamage = 0.07
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 59a1bda7, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 7d904923, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+id = table: 2d302ac2, type = 402, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: 584d9bf0, type = 401, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.15, changerType = 3, multiplier = 1
+id = table: cd549db, type = 410, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.1, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 1e6d7ca8, type = 403, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)]
+star = 6
+level = 1
+isBoss = false
+isSummoner = false
+isDummy = false
+class = 1
+faction = 3
+attack = 3666
+defense = 524
+hp = 56251/56251
+speed = 67
+critRate = 0.1
+critDamage = 1.5
+accuracy = 1208
+dodge = 1087
+pureDamage = 0
+skillDamage = 0.37
+armorBreak = 0
+reduceDamageReduction = 0
+ccResistance = 0
+damageReduction = 0.04
+power = 50/100
+
+- PASSIVE EFFECTS:
+id = table: 5fb992a5, type = 431, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.07, changerType = 3, multiplier = 1
+id = table: 6b9f00b9, type = 441, initiator = [SummonerMage (TEAM 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.04, changerType = 3, multiplier = 1
+- POSITION EFFECTS:
+id = table: 7373c033, type = 403, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 9999, persistentType = 21, calculationType = 1, amount = 0.25, changerType = 3, multiplier = 1
+
+
+PREPARE BATTLE
+****************************************************************************************************************************************************************
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 403, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 410, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 431, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 1), type = 441, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 402, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 401, persistentType = 21, isBuff = true
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 410, persistentType = 21, isBuff = true
+
+ROUND 1
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.626), TAKE 6750 damage, initiatorPower = 1, targetPower = 0.6 (CRIT)
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.941), TAKE 3343 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 1), HEAL 4050 hp, reason = 1
+
+
+[ADD_EFFECT] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.626), type = 511, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.926), TAKE 4185 damage
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.926), type = 2, persistentType = 1, isBuff = false
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.961), HEAL 2005 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 1, power = 0.5
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.961, power = 1
+- EFFECTS:
+id = table: 4da20780, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.626, power = 0.6
+- EFFECTS:
+id = table: 203d345f, type = 511, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.941, power = 0.6
+
+
+TURN 2 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.75), TAKE 4500 damage, initiatorPower = 1, targetPower = 0.6
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.888), TAKE 3343 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+[BREAK_FREEZE] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.888), TAKE 790 damage
+
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.888), type = 2, persistentType = 1, isBuff = false
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.989), HEAL 2700 hp, reason = 1
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.939), TAKE 2790 damage
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.939), type = 2, persistentType = 1, isBuff = false
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.975), HEAL 2005 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0.5
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.961, power = 1
+- EFFECTS:
+id = table: 4da20780, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.626, power = 0.6
+- EFFECTS:
+id = table: 203d345f, type = 511, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.941, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.75, power = 0.6
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.888, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.626, power = 0.6
+- EFFECTS:
+id = table: 203d345f, type = 511, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.975, power = 1
+- EFFECTS:
+id = table: 3302a647, type = 2, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+TURN 3 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.574), TAKE 932 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.16
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.718), TAKE 577 damage
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.718), type = 2, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.75, power = 0.6
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.888, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.626, power = 0.6
+- EFFECTS:
+id = table: 203d345f, type = 511, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.975, power = 1
+- EFFECTS:
+id = table: 3302a647, type = 2, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.718, power = 1
+- EFFECTS:
+id = table: 200bf256, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.888, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.574, power = 0.7
+- EFFECTS:
+id = table: 203d345f, type = 511, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.975, power = 1
+- EFFECTS:
+id = table: 3302a647, type = 2, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+TURN 4 (ROUND 1)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.607), TAKE 1212 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[BREAK_FREEZE] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.607), TAKE 790 damage
+
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.607), type = 2, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.532), TAKE 751 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.718, power = 1
+- EFFECTS:
+id = table: 200bf256, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.888, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.574, power = 0.7
+- EFFECTS:
+id = table: 203d345f, type = 511, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.975, power = 1
+- EFFECTS:
+id = table: 3302a647, type = 2, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.607, power = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.888, power = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.532, power = 1
+- EFFECTS:
+id = table: 203d345f, type = 511, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.975, power = 1
+- EFFECTS:
+id = table: 3302a647, type = 2, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+
+ROUND 2
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 10112 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[DEAD_FOR_DISPLAY] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.834), TAKE 7513 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[BREAK_FREEZE] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.834), TAKE 395 damage
+
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.834), type = 2, persistentType = 1, isBuff = false
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.996), HEAL 6067 hp, reason = 1
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.884), TAKE 6269 damage
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.964), HEAL 4507 hp, reason = 1
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 1), HEAL 2199 hp, reason = 1
+
+
+[DEAD] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[REVIVE] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 1)
+
+[ADD_EFFECT] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 1), type = 531, persistentType = 31, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.607, power = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.888, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.532, power = 1
+- EFFECTS:
+id = table: 203d345f, type = 511, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.975, power = 1
+- EFFECTS:
+id = table: 3302a647, type = 2, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.607, power = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.834, power = 1
+
+
+TURN 2 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.046), TAKE 10112 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[>>> ACTIVE_SKILL <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.866), TAKE 7513 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.3
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.942), HEAL 6067 hp, reason = 1
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.83), TAKE 6269 damage
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.911), HEAL 4507 hp, reason = 1
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.95), HEAL 2199 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.607, power = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 1, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.834, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.046, power = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.866, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.95, power = 0
+
+
+TURN 3 (ROUND 2)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.954), TAKE 1290 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.32
+
+
+[>>> ACTIVE_SKILL <<<] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.927), TAKE 1263 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.34
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.954), type = 421, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.954), type = 2, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.002), TAKE 799 damage
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.927), type = 421, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.046, power = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.866, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.95, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.002, power = 0
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.866, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.954, power = 0.1
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 341e23ea, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 12089bb0, type = 2, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.927, power = 0.1
+- EFFECTS:
+id = table: 6d6e52e5, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+ROUND 3
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.768), TAKE 4440 damage, initiatorPower = 0.6, targetPower = 0.2
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.36
+
+
+[BREAK_FREEZE] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.768), TAKE 790 damage
+
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.768), type = 2, persistentType = 1, isBuff = false
+
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.868), TAKE 3343 damage, initiatorPower = 0.6, targetPower = 0.2
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.38
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.914), HEAL 2664 hp, reason = 1
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.865), TAKE 2752 damage
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.901), HEAL 2005 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.3
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.002, power = 0
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.866, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.34
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.954, power = 0.1
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 341e23ea, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 12089bb0, type = 2, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 395.2
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.927, power = 0.1
+- EFFECTS:
+id = table: 6d6e52e5, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.002, power = 0
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.901, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.768, power = 0.2
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 341e23ea, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.868, power = 0.2
+- EFFECTS:
+id = table: 6d6e52e5, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 4500 damage, initiatorPower = 0.7, targetPower = 0
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.48
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.42
+
+
+[DEAD_FOR_DISPLAY] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.841), TAKE 3343 damage, initiatorPower = 0.7, targetPower = 0.7
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.44
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.916), HEAL 2700 hp, reason = 1
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.866), TAKE 2790 damage
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.902), HEAL 2005 hp, reason = 1
+
+
+[ADD_EFFECT] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.841), type = 511, persistentType = 1, isBuff = false
+
+
+[DEAD] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 1
+
+
+[REVIVE] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 1)
+
+[ADD_EFFECT] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 1), type = 531, persistentType = 31, isBuff = true
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.002, power = 0
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.901, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.38
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.768, power = 0.2
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 341e23ea, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.868, power = 0.2
+- EFFECTS:
+id = table: 6d6e52e5, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.841, power = 0.7
+- EFFECTS:
+id = table: 16a26e82, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.768, power = 0.2
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 341e23ea, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.902, power = 0.7
+- EFFECTS:
+id = table: 6d6e52e5, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.698), TAKE 1963 damage, initiatorPower = 0.5, targetPower = 0.3
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.5
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.957), TAKE 1217 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.44
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 1, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.841, power = 0.7
+- EFFECTS:
+id = table: 16a26e82, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.48
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.768, power = 0.2
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 341e23ea, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.902, power = 0.7
+- EFFECTS:
+id = table: 6d6e52e5, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.957, power = 0.5
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.841, power = 0.7
+- EFFECTS:
+id = table: 16a26e82, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.698, power = 0.3
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 341e23ea, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.902, power = 0.7
+- EFFECTS:
+id = table: 6d6e52e5, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 3)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.887), TAKE 1963 damage, initiatorPower = 0.8, targetPower = 0.6
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.6
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.56
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.655), TAKE 1217 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.957, power = 0.5
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.841, power = 0.7
+- EFFECTS:
+id = table: 16a26e82, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.5
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.698, power = 0.3
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 341e23ea, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.902, power = 0.7
+- EFFECTS:
+id = table: 6d6e52e5, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.887, power = 0.6
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.841, power = 0.7
+- EFFECTS:
+id = table: 16a26e82, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.655, power = 0.8
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 341e23ea, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.902, power = 0.7
+- EFFECTS:
+id = table: 6d6e52e5, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 3 ----------
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.655), type = 421, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.902), type = 421, persistentType = 1, isBuff = false
+
+
+ROUND 4
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.497), TAKE 4440 damage, initiatorPower = 1, targetPower = 0.9
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.62
+
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.842), TAKE 3343 damage, initiatorPower = 1, targetPower = 0.8
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.64
+
+
+[RESIST_EFFECT] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.841), effectType = 510
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.792), TAKE 2752 damage
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.792), type = 2, persistentType = 1, isBuff = false
+
+
+[RESIST_EFFECT] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.792), effectType = 510
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.56
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.887, power = 0.6
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.841, power = 0.7
+- EFFECTS:
+id = table: 16a26e82, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.6
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.655, power = 0.8
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.902, power = 0.7
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.887, power = 0.6
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 1
+- EFFECTS:
+id = table: 16a26e82, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 40a1a2fd, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 842.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.64
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.497, power = 0.9
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.842, power = 0.8
+
+
+TURN 2 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.729), TAKE 4440 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.74
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.68
+
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.703), TAKE 3343 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.7
+
+
+[BREAK_FREEZE] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.703), TAKE 1685 damage
+
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.703), type = 2, persistentType = 1, isBuff = false
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.89), HEAL 2664 hp, reason = 1
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.841), TAKE 2752 damage
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.876), HEAL 2005 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.887, power = 0.6
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.792, power = 1
+- EFFECTS:
+id = table: 16a26e82, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 40a1a2fd, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 842.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.64
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.497, power = 0.9
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.842, power = 0.8
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.729, power = 0.7
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.703, power = 1
+- EFFECTS:
+id = table: 16a26e82, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.497, power = 0.9
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.876, power = 1
+
+
+TURN 3 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.427), TAKE 1963 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.76
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.686), TAKE 1217 damage
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.7
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.729, power = 0.7
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.703, power = 1
+- EFFECTS:
+id = table: 16a26e82, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.74
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.497, power = 0.9
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.876, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.686, power = 1
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.703, power = 1
+- EFFECTS:
+id = table: 16a26e82, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.427, power = 1
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.876, power = 1
+
+
+TURN 4 (ROUND 4)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.588), TAKE 2752 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.82
+
+
+[>>> ACTIVE_SKILL <<<] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.655), TAKE 2693 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.84
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.588), type = 421, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.367), TAKE 1706 damage
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.655), type = 421, persistentType = 1, isBuff = false
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.655), type = 2, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.686, power = 1
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.703, power = 1
+- EFFECTS:
+id = table: 16a26e82, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.427, power = 1
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.876, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.588, power = 1
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 5f473976, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.655, power = 1
+- EFFECTS:
+id = table: 16a26e82, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+id = table: 3c7159d7, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 39a2e6a5, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 3, persistentType = 1, DAMAGE_WHEN_BREAK = 842.8
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.367, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.876, power = 1
+
+
+---------- AFTER ROUND 4 ----------
+
+[REMOVE_EFFECT] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.655), type = 511, persistentType = 1, isBuff = false
+
+
+ROUND 5
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.233), TAKE 9979 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.86
+
+
+[>>> ACTIVE_SKILL <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.491), TAKE 7513 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.88
+
+
+[BREAK_FREEZE] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.491), TAKE 1685 damage
+
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.491), type = 2, persistentType = 1, isBuff = false
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.983), HEAL 5987 hp, reason = 1
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.873), TAKE 6186 damage
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.953), HEAL 4507 hp, reason = 1
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.992), HEAL 2199 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.84
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.588, power = 1
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 5f473976, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.655, power = 1
+- EFFECTS:
+id = table: 3c7159d7, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 39a2e6a5, type = 2, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, DAMAGE_WHEN_BREAK = 842.8
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.367, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.876, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.233, power = 1
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 5f473976, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.491, power = 1
+- EFFECTS:
+id = table: 3c7159d7, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.367, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.992, power = 0
+
+
+TURN 2 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0.012), TAKE 9979 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.78
+
+
+[>>> ACTIVE_SKILL <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.859), TAKE 7513 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.8
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.598), HEAL 5987 hp, reason = 1
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.488), TAKE 6186 damage
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.568), HEAL 4507 hp, reason = 1
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.607), HEAL 2199 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.233, power = 1
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 5f473976, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.491, power = 1
+- EFFECTS:
+id = table: 3c7159d7, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.76
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.367, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.992, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.233, power = 1
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 5f473976, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.607, power = 0
+- EFFECTS:
+id = table: 3c7159d7, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.012, power = 0.1
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.859, power = 0.1
+
+
+TURN 3 (ROUND 5)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0), TAKE 2752 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.82
+
+
+[DEAD_FOR_DISPLAY] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.811), TAKE 2693 damage, initiatorPower = 0, targetPower = 0.2
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.84
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.172), TAKE 1706 damage
+
+
+[ADD_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.811), type = 421, persistentType = 1, isBuff = false
+
+
+[DEAD] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.233, power = 1
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 5f473976, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.607, power = 0
+- EFFECTS:
+id = table: 3c7159d7, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.8
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0.012, power = 0.1
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.859, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.172, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 5f473976, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.607, power = 0
+- EFFECTS:
+id = table: 3c7159d7, type = 421, initiator = [Cold Axe 10001 (TEAM 2, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.811, power = 0.2
+- EFFECTS:
+id = table: 74d90d26, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 2, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 5 ----------
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.172), type = 421, persistentType = 1, isBuff = false
+
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.607), type = 421, persistentType = 1, isBuff = false
+
+
+ROUND 6
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.722), TAKE 5016 damage, initiatorPower = 0.5, targetPower = 0.3 (CRIT)
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.98
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.86
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.661), HEAL 3009 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.88
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.172, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.607, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.84
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.811, power = 0.2
+- EFFECTS:
+id = table: 74d90d26, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.172, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.661, power = 0.5
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.722, power = 0.3
+- EFFECTS:
+id = table: 74d90d26, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.015), TAKE 4440 damage, initiatorPower = 0.8, targetPower = 0.1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.96
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.601), TAKE 3343 damage, initiatorPower = 0.8, targetPower = 0.6
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 1
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.769), HEAL 2664 hp, reason = 1
+
+
+[ADD_EFFECT] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0.015), type = 511, persistentType = 1, isBuff = false
+
+
+[REFLECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.72), TAKE 2752 damage
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.756), HEAL 2005 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.98
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.172, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.661, power = 0.5
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.86
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.722, power = 0.3
+- EFFECTS:
+id = table: 74d90d26, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.015, power = 0.1
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 12b30642, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.601, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.756, power = 0.8
+- EFFECTS:
+id = table: 74d90d26, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+
+TURN 3 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 1)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 1)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.716), TAKE 2240 damage, initiatorPower = 0, targetPower = 0.9
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.98
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 1)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.716), type = 404, persistentType = 52, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.015, power = 0.1
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 12b30642, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.601, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.96
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.756, power = 0.8
+- EFFECTS:
+id = table: 74d90d26, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.015, power = 0.1
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 12b30642, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.601, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.716, power = 0.9
+- EFFECTS:
+id = table: 74d90d26, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 243a4a22, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 4 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.682), TAKE 1921 damage, initiatorPower = 0.6, targetPower = 1
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.015, power = 0.1
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 12b30642, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.601, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.98
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.716, power = 0.9
+- EFFECTS:
+id = table: 74d90d26, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 243a4a22, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.015, power = 0.6
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 12b30642, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.601, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.682, power = 1
+- EFFECTS:
+id = table: 74d90d26, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 243a4a22, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 5 (ROUND 6)
+--------------------------------------------------------------------------------
+<> INITIATOR [SummonerMage (TEAM 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0), TAKE 2289 damage, initiatorPower = 0, targetPower = 0
+
+
+[CHANGE_POWER] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.12
+
+
+[DEAD_FOR_DISPLAY] [SummonerMage (TEAM 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+[>>> ACTIVE_SKILL <<<] [SummonerMage (TEAM 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.561), TAKE 2240 damage, initiatorPower = 0, targetPower = 0.7
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.14
+
+
+[ADD_EFFECT] [SummonerMage (TEAM 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.561), type = 404, persistentType = 52, isBuff = false
+
+
+[DEAD] [SummonerMage (TEAM 2)] => [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] (hp = 0), reason = 2
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.1
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0.015, power = 0.6
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+id = table: 12b30642, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.601, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 1
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.682, power = 1
+- EFFECTS:
+id = table: 74d90d26, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 243a4a22, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.561, power = 0.7
+- EFFECTS:
+id = table: a0307ce, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.682, power = 1
+- EFFECTS:
+id = table: 74d90d26, type = 421, initiator = [Cold Axe 10001 (TEAM 1, FRONT, POS 1)], isBuff = false, duration = 1, persistentType = 1, calculationType = 1, amount = 0.3, changerType = 3, multiplier = 1
+id = table: 243a4a22, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 3, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 6 ----------
+
+[REMOVE_EFFECT] [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.682), type = 421, persistentType = 1, isBuff = false
+
+
+ROUND 7
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.592), TAKE 5016 damage, initiatorPower = 1, targetPower = 1 (CRIT)
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.24
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.02
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.615), HEAL 3009 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.14
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.561, power = 0.7
+- EFFECTS:
+id = table: a0307ce, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.682, power = 1
+- EFFECTS:
+id = table: 243a4a22, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.615, power = 1
+- EFFECTS:
+id = table: a0307ce, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.592, power = 1
+- EFFECTS:
+id = table: 243a4a22, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 7)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.481), TAKE 7513 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.26
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.673), HEAL 4507 hp, reason = 1
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.712), HEAL 2199 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.24
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.615, power = 1
+- EFFECTS:
+id = table: a0307ce, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.592, power = 1
+- EFFECTS:
+id = table: 243a4a22, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.481, power = 1
+- EFFECTS:
+id = table: a0307ce, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.712, power = 0
+- EFFECTS:
+id = table: 243a4a22, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 2, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+ROUND 8
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.578), TAKE 7513 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.04
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.561), HEAL 4507 hp, reason = 1
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.6), HEAL 2199 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.481, power = 1
+- EFFECTS:
+id = table: a0307ce, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.02
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.712, power = 0
+- EFFECTS:
+id = table: 243a4a22, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.6, power = 0
+- EFFECTS:
+id = table: a0307ce, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.578, power = 0.1
+- EFFECTS:
+id = table: 243a4a22, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+TURN 2 (ROUND 8)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.541), TAKE 3343 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.14
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.28
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.614), HEAL 2005 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.26
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.6, power = 0
+- EFFECTS:
+id = table: a0307ce, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.04
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.578, power = 0.1
+- EFFECTS:
+id = table: 243a4a22, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.541, power = 0.1
+- EFFECTS:
+id = table: a0307ce, type = 404, initiator = [SummonerMage (TEAM 2)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.614, power = 0.6
+- EFFECTS:
+id = table: 243a4a22, type = 404, initiator = [SummonerMage (TEAM 1)], isBuff = false, duration = 1, persistentType = 52, calculationType = 4, amount = 20, changerType = 3, multiplier = 1
+
+
+---------- AFTER ROUND 8 ----------
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.541), type = 404, persistentType = 52, isBuff = false
+
+
+[REMOVE_EFFECT] [SummonerMage (TEAM 1)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.614), type = 404, persistentType = 52, isBuff = false
+
+
+ROUND 9
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.554), TAKE 3343 damage, initiatorPower = 0.6, targetPower = 0.7
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.38
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.16
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.577), HEAL 2005 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.28
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.541, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.14
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.614, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.577, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.554, power = 0.7
+
+
+TURN 2 (ROUND 9)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.517), TAKE 3343 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.26
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.4
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.59), HEAL 2005 hp, reason = 1
+
+
+[ADD_EFFECT] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.517), type = 511, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.38
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.577, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.16
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.554, power = 0.7
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.517, power = 0.7
+- EFFECTS:
+id = table: 360f8b95, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.59, power = 1
+
+
+ROUND 10
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.531), TAKE 3343 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.5
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.28
+
+
+[RESIST_EFFECT] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.517), effectType = 510
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.4
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.517, power = 0.7
+- EFFECTS:
+id = table: 360f8b95, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.26
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.59, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.517, power = 1
+- EFFECTS:
+id = table: 360f8b95, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.531, power = 1
+
+
+TURN 2 (ROUND 10)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.384), TAKE 7513 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.52
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.611), HEAL 4507 hp, reason = 1
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.65), HEAL 2199 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.5
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.517, power = 1
+- EFFECTS:
+id = table: 360f8b95, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.531, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.384, power = 1
+- EFFECTS:
+id = table: 360f8b95, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.65, power = 0
+
+
+---------- AFTER ROUND 10 ----------
+
+[REMOVE_EFFECT] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.384), type = 511, persistentType = 1, isBuff = false
+
+
+ROUND 11
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.449), TAKE 11271 damage, initiatorPower = 0, targetPower = 0.1 (CRIT)
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.3
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.504), HEAL 6762 hp, reason = 1
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.543), HEAL 2199 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.384, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.28
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.65, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.543, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.449, power = 0.1
+
+
+TURN 2 (ROUND 11)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.484), TAKE 3343 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.4
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.54
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.485), HEAL 2005 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.52
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.543, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.3
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.449, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.484, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.485, power = 0.6
+
+
+ROUND 12
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.426), TAKE 3343 damage, initiatorPower = 0.6, targetPower = 0.7
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.64
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.42
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.519), HEAL 2005 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.54
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.484, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.4
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.485, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.519, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.426, power = 0.7
+
+
+TURN 2 (ROUND 12)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.46), TAKE 3343 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.52
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.66
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.461), HEAL 2005 hp, reason = 1
+
+
+[ADD_EFFECT] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.46), type = 511, persistentType = 1, isBuff = false
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.64
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.519, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.42
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.426, power = 0.7
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.46, power = 0.7
+- EFFECTS:
+id = table: 3c840a00, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 2, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.461, power = 1
+
+
+ROUND 13
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 13)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.402), TAKE 3343 damage, initiatorPower = 1, targetPower = 1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.76
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.54
+
+
+[RESIST_EFFECT] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.46), effectType = 510
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.66
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.46, power = 0.7
+- EFFECTS:
+id = table: 3c840a00, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.52
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.461, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.46, power = 1
+- EFFECTS:
+id = table: 3c840a00, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.402, power = 1
+
+
+TURN 2 (ROUND 13)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 2, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.326), TAKE 7513 damage, initiatorPower = 0, targetPower = 1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.78
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.482), HEAL 4507 hp, reason = 1
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.521), HEAL 2199 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.76
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.46, power = 1
+- EFFECTS:
+id = table: 3c840a00, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.402, power = 1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.326, power = 1
+- EFFECTS:
+id = table: 3c840a00, type = 511, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = false, duration = 1, persistentType = 1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.521, power = 0
+
+
+---------- AFTER ROUND 13 ----------
+
+[REMOVE_EFFECT] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.326), type = 511, persistentType = 1, isBuff = false
+
+
+ROUND 14
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 14)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 1, FRONT, POS 2)], actionType = 2
+
+[>>> ACTIVE_SKILL <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.387), TAKE 7513 damage, initiatorPower = 0, targetPower = 0.1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.56
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.406), HEAL 4507 hp, reason = 1
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.445), HEAL 2199 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.326, power = 1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.54
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.521, power = 0
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.445, power = 0
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.387, power = 0.1
+
+
+TURN 2 (ROUND 14)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.386), TAKE 3343 damage, initiatorPower = 0.6, targetPower = 0.1
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.66
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.8
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.423), HEAL 2005 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.78
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.445, power = 0
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.56
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.387, power = 0.1
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.386, power = 0.1
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.423, power = 0.6
+
+
+ROUND 15
+****************************************************************************************************************************************************************
+
+TURN 1 (ROUND 15)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 1, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.364), TAKE 3343 damage, initiatorPower = 0.6, targetPower = 0.7
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.9
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.68
+
+
+[HEAL] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.422), HEAL 2005 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.8
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.386, power = 0.1
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.66
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.423, power = 0.6
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.422, power = 0.6
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.364, power = 0.7
+
+
+TURN 2 (ROUND 15)
+--------------------------------------------------------------------------------
+<> INITIATOR [Nero 30003 (TEAM 2, FRONT, POS 2)], actionType = 1
+
+[>>> BASIC_ATTACK <<<] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 1, FRONT, POS 2)] (hp = 0.362), TAKE 3343 damage, initiatorPower = 1, targetPower = 0.7
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [SummonerMage (TEAM 2)] (hp = 1), power = 0.78
+
+
+[CHANGE_POWER] [Nero 30003 (TEAM 1, FRONT, POS 2)] => [SummonerMage (TEAM 1)] (hp = 1), power = 0.92
+
+
+[HEAL] [Nero 30003 (TEAM 2, FRONT, POS 2)] => [Nero 30003 (TEAM 2, FRONT, POS 2)] (hp = 0.399), HEAL 2005 hp, reason = 1
+
+
+<> BEFORE ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.9
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.422, power = 0.6
+
+
+<> BEFORE DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.68
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.364, power = 0.7
+
+--------------------------------------------------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.362, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.399, power = 1
+
+---------------------------------------- END BATTLE ----------------------------------------
+
+<> AFTER ATTACKER TEAM
+> [SummonerMage (TEAM 1)] hp = 1, power = 0.92
+
+> [Cold Axe 10001 (TEAM 1, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 53e61667, type = 531, initiator = [Nero 30003 (TEAM 1, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 1, FRONT, POS 2)] hp = 0.362, power = 0.7
+
+
+<> AFTER DEFENDER TEAM
+> [SummonerMage (TEAM 2)] hp = 1, power = 0.78
+
+> [Cold Axe 10001 (TEAM 2, FRONT, POS 1)] hp = 0, power = 0
+- EFFECTS:
+id = table: 7d487fd0, type = 531, initiator = [Nero 30003 (TEAM 2, FRONT, POS 2)], isBuff = true, duration = 0, persistentType = 31
+
+> [Nero 30003 (TEAM 2, FRONT, POS 2)] hp = 0.399, power = 1
+
+<> STATISTICS:
+[SummonerMage (TEAM 2)] DamageDeal = 4529, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 4a992ce8, count = 1
+	[2 (number)] = 4529 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 58b67f02, count = 1
+	[6005 (number)] = 4529 (number)
+
+	Stat changer debuff created history: Dictionary = table: 122f14a2, count = 1
+	[4 (number)] = 60 (number)
+
+[SummonerMage (TEAM 1)] DamageDeal = 2240, DamageTaken = 0, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: e67c8ed, count = 1
+	[2 (number)] = 2240 (number)
+
+	NumberKill = 0, NumberDead = 0, NumberRevive = 0, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: d9a4ba5, count = 1
+	[6003 (number)] = 2240 (number)
+
+	Stat changer debuff created history: Dictionary = table: 66bf7b7b, count = 1
+	[4 (number)] = 60 (number)
+
+[Nero 30003 (TEAM 2, FRONT, POS 2)] DamageDeal = 108966, DamageTaken = 94535.45, HpHeal = 76362, HpHealTaken = 76362
+	Damage dealt by sources: Dictionary = table: c5fe90a, count = 2
+	[1 (number)] = 51310 (number)
+	[2 (number)] = 57656 (number)
+
+	Damage taken by sources: Dictionary = table: 3ccf78cc, count = 2
+	[1 (number)] = 42433 (number)
+	[2 (number)] = 52102.45 (number)
+
+	Hp heal by sources: Dictionary = table: 6357db93, count = 1
+	[1 (number)] = 76362 (number)
+
+	Hp heal taken by sources: Dictionary = table: 7e2e1021, count = 1
+	[1 (number)] = 76362 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 1, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: d4ab157, count = 15
+	[3002 (number)] = 7843 (number)
+	[6002 (number)] = 7783 (number)
+	[9002 (number)] = 3343 (number)
+	[12002 (number)] = 3343 (number)
+	[15002 (number)] = 3343 (number)
+	[5001 (number)] = 17492 (number)
+	[8002 (number)] = 3343 (number)
+	[2002 (number)] = 17625 (number)
+	[11002 (number)] = 3343 (number)
+	[14002 (number)] = 3343 (number)
+	[4002 (number)] = 7783 (number)
+	[7002 (number)] = 7513 (number)
+	[1002 (number)] = 7843 (number)
+	[10002 (number)] = 7513 (number)
+	[13002 (number)] = 7513 (number)
+
+	Damage taken history: Dictionary = table: 4a04a12a, count = 19
+	[4001 (number)] = 3666 (number)
+	[8001 (number)] = 8237.502 (number)
+	[12001 (number)] = 3666 (number)
+	[1001 (number)] = 3666 (number)
+	[5002 (number)] = 8237.502 (number)
+	[9001 (number)] = 3666 (number)
+	[5003 (number)] = 2954.014 (number)
+	[13001 (number)] = 3666 (number)
+	[2001 (number)] = 8237.502 (number)
+	[6001 (number)] = 5499 (number)
+	[10001 (number)] = 3666 (number)
+	[2003 (number)] = 1385.176 (number)
+	[6003 (number)] = 2457 (number)
+	[14001 (number)] = 8237.502 (number)
+	[6004 (number)] = 2107 (number)
+	[3001 (number)] = 3666 (number)
+	[7001 (number)] = 5499 (number)
+	[11001 (number)] = 12356.253 (number)
+	[15001 (number)] = 3666 (number)
+
+	Hp heal history: Dictionary = table: 175260ba, count = 15
+	[3002 (number)] = 4705 (number)
+	[6002 (number)] = 4669 (number)
+	[9002 (number)] = 2005 (number)
+	[12002 (number)] = 2005 (number)
+	[15002 (number)] = 2005 (number)
+	[5001 (number)] = 12693 (number)
+	[8002 (number)] = 2005 (number)
+	[2002 (number)] = 12773 (number)
+	[11002 (number)] = 2005 (number)
+	[14002 (number)] = 2005 (number)
+	[4002 (number)] = 4669 (number)
+	[7002 (number)] = 6706 (number)
+	[1002 (number)] = 4705 (number)
+	[10002 (number)] = 6706 (number)
+	[13002 (number)] = 6706 (number)
+
+	Hp heal taken history: Dictionary = table: 19f3c569, count = 15
+	[3002 (number)] = 4705 (number)
+	[6002 (number)] = 4669 (number)
+	[9002 (number)] = 2005 (number)
+	[12002 (number)] = 2005 (number)
+	[15002 (number)] = 2005 (number)
+	[5001 (number)] = 12693 (number)
+	[8002 (number)] = 2005 (number)
+	[2002 (number)] = 12773 (number)
+	[11002 (number)] = 2005 (number)
+	[14002 (number)] = 2005 (number)
+	[4002 (number)] = 4669 (number)
+	[7002 (number)] = 6706 (number)
+	[1002 (number)] = 4705 (number)
+	[10002 (number)] = 6706 (number)
+	[13002 (number)] = 6706 (number)
+
+	Effect created history: Dictionary = table: 416b1f09, count = 2
+	[531 (number)] = 0 (number)
+	[511 (number)] = 8 (number)
+
+[Cold Axe 10001 (TEAM 1, FRONT, POS 1)] DamageDeal = 43175, DamageTaken = 49282.387, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2e09fbff, count = 4
+	[1 (number)] = 6779 (number)
+	[2 (number)] = 7998 (number)
+	[21 (number)] = 27213 (number)
+	[11 (number)] = 1185 (number)
+
+	Damage taken by sources: Dictionary = table: 2a5a0934, count = 2
+	[1 (number)] = 22454.6 (number)
+	[2 (number)] = 26827.785 (number)
+
+	NumberKill = 1, NumberDead = 2, NumberRevive = 0, NumberBeRevived = 1
+	Damage dealt history: Dictionary = table: 2d85499b, count = 17
+	[4002 (number)] = 2752 (number)
+	[4003 (number)] = 1963 (number)
+	[4004 (number)] = 1706 (number)
+	[1002 (number)] = 2790 (number)
+	[5001 (number)] = 6186 (number)
+	[1003 (number)] = 932 (number)
+	[1004 (number)] = 751 (number)
+	[5003 (number)] = 5445 (number)
+	[2001 (number)] = 395 (number)
+	[2002 (number)] = 6269 (number)
+	[2003 (number)] = 2553 (number)
+	[6002 (number)] = 2752 (number)
+	[6004 (number)] = 1921 (number)
+	[3001 (number)] = 790 (number)
+	[3002 (number)] = 2790 (number)
+	[3003 (number)] = 1963 (number)
+	[3004 (number)] = 1217 (number)
+
+	Damage taken history: Dictionary = table: 348f9875, count = 10
+	[3002 (number)] = 4765.8 (number)
+	[6002 (number)] = 4765.8 (number)
+	[3004 (number)] = 2107 (number)
+	[6005 (number)] = 2457 (number)
+	[5001 (number)] = 10708.386 (number)
+	[2002 (number)] = 10708.386 (number)
+	[4002 (number)] = 4765.8 (number)
+	[1002 (number)] = 4765.8 (number)
+	[1004 (number)] = 1284.4 (number)
+	[4004 (number)] = 2954.014 (number)
+
+	Effect created history: Dictionary = table: 55b84b18, count = 1
+	[2 (number)] = 5 (number)
+
+	Stat changer debuff created history: Dictionary = table: 2fd1eb32, count = 1
+	[21 (number)] = 1942.2 (number)
+
+[Nero 30003 (TEAM 1, FRONT, POS 2)] DamageDeal = 113820, DamageTaken = 83258.52, HpHeal = 70596, HpHealTaken = 70596
+	Damage dealt by sources: Dictionary = table: 289fa6c2, count = 2
+	[1 (number)] = 52406 (number)
+	[2 (number)] = 61414 (number)
+
+	Damage taken by sources: Dictionary = table: 609bdf94, count = 2
+	[1 (number)] = 36660 (number)
+	[2 (number)] = 46598.523 (number)
+
+	Hp heal by sources: Dictionary = table: 776cb814, count = 1
+	[1 (number)] = 70596 (number)
+
+	Hp heal taken by sources: Dictionary = table: 57c445b0, count = 1
+	[1 (number)] = 70596 (number)
+
+	NumberKill = 1, NumberDead = 0, NumberRevive = 1, NumberBeRevived = 0
+	Damage dealt history: Dictionary = table: 2b8503c, count = 15
+	[3001 (number)] = 7783 (number)
+	[6001 (number)] = 5016 (number)
+	[9001 (number)] = 3343 (number)
+	[12001 (number)] = 3343 (number)
+	[15001 (number)] = 3343 (number)
+	[2001 (number)] = 17625 (number)
+	[8001 (number)] = 7513 (number)
+	[11001 (number)] = 11271 (number)
+	[14001 (number)] = 7513 (number)
+	[5002 (number)] = 17492 (number)
+	[4001 (number)] = 7783 (number)
+	[7001 (number)] = 5016 (number)
+	[1001 (number)] = 10093 (number)
+	[10001 (number)] = 3343 (number)
+	[13001 (number)] = 3343 (number)
+
+	Damage taken history: Dictionary = table: 3c615880, count = 17
+	[4002 (number)] = 3666 (number)
+	[8002 (number)] = 3666 (number)
+	[4004 (number)] = 2954.014 (number)
+	[12002 (number)] = 3666 (number)
+	[1002 (number)] = 3666 (number)
+	[5001 (number)] = 8237.502 (number)
+	[9002 (number)] = 3666 (number)
+	[13002 (number)] = 8237.502 (number)
+	[2002 (number)] = 8237.502 (number)
+	[6002 (number)] = 3666 (number)
+	[10002 (number)] = 8237.502 (number)
+	[14002 (number)] = 3666 (number)
+	[6005 (number)] = 2457 (number)
+	[3002 (number)] = 3666 (number)
+	[7002 (number)] = 8237.502 (number)
+	[11002 (number)] = 3666 (number)
+	[15002 (number)] = 3666 (number)
+
+	Hp heal history: Dictionary = table: 2edfeb00, count = 12
+	[9001 (number)] = 2005 (number)
+	[3001 (number)] = 4669 (number)
+	[6001 (number)] = 3009 (number)
+	[12001 (number)] = 2005 (number)
+	[15001 (number)] = 2005 (number)
+	[2001 (number)] = 12773 (number)
+	[8001 (number)] = 6706 (number)
+	[11001 (number)] = 8961 (number)
+	[14001 (number)] = 6706 (number)
+	[5002 (number)] = 12693 (number)
+	[7001 (number)] = 3009 (number)
+	[1001 (number)] = 6055 (number)
+
+	Hp heal taken history: Dictionary = table: 5b43c2ae, count = 12
+	[9001 (number)] = 2005 (number)
+	[3001 (number)] = 4669 (number)
+	[6001 (number)] = 3009 (number)
+	[12001 (number)] = 2005 (number)
+	[15001 (number)] = 2005 (number)
+	[2001 (number)] = 12773 (number)
+	[8001 (number)] = 6706 (number)
+	[11001 (number)] = 8961 (number)
+	[14001 (number)] = 6706 (number)
+	[5002 (number)] = 12693 (number)
+	[7001 (number)] = 3009 (number)
+	[1001 (number)] = 6055 (number)
+
+	Effect created history: Dictionary = table: 1b3a404a, count = 2
+	[511 (number)] = 2 (number)
+	[531 (number)] = 0 (number)
+
+[Cold Axe 10001 (TEAM 2, FRONT, POS 1)] DamageDeal = 41230, DamageTaken = 47638.26, HpHeal = 0, HpHealTaken = 0
+	Damage dealt by sources: Dictionary = table: 2da9bef5, count = 4
+	[1 (number)] = 3175 (number)
+	[2 (number)] = 5445 (number)
+	[11 (number)] = 4950 (number)
+	[21 (number)] = 27660 (number)
+
+	Damage taken by sources: Dictionary = table: 7cffd7ab, count = 2
+	[1 (number)] = 21882.3 (number)
+	[2 (number)] = 25755.963 (number)
+
+	NumberKill = 0, NumberDead = 2, NumberRevive = 0, NumberBeRevived = 1
+	Damage dealt history: Dictionary = table: 39ec2c28, count = 16
+	[3001 (number)] = 2752 (number)
+	[3003 (number)] = 1217 (number)
+	[3004 (number)] = 1963 (number)
+	[2001 (number)] = 6269 (number)
+	[5001 (number)] = 1685 (number)
+	[5002 (number)] = 6186 (number)
+	[2003 (number)] = 799 (number)
+	[5003 (number)] = 1706 (number)
+	[1001 (number)] = 4185 (number)
+	[4001 (number)] = 2752 (number)
+	[1002 (number)] = 790 (number)
+	[4002 (number)] = 1685 (number)
+	[1003 (number)] = 577 (number)
+	[4003 (number)] = 1217 (number)
+	[1004 (number)] = 2002 (number)
+	[4004 (number)] = 5445 (number)
+
+	Damage taken history: Dictionary = table: 701d134f, count = 10
+	[3001 (number)] = 4765.8 (number)
+	[3003 (number)] = 2107 (number)
+	[2001 (number)] = 10708.386 (number)
+	[5002 (number)] = 10708.386 (number)
+	[2003 (number)] = 1385.176 (number)
+	[5003 (number)] = 2954.014 (number)
+	[4001 (number)] = 4765.8 (number)
+	[1001 (number)] = 7148.7 (number)
+	[4003 (number)] = 2107 (number)
+	[1003 (number)] = 988 (number)
+
+	Effect created history: Dictionary = table: 102355af, count = 1
+	[2 (number)] = 9 (number)
+
+	Stat changer debuff created history: Dictionary = table: 12639a8f, count = 1
+	[21 (number)] = 1290 (number)
+
+
+<> WINNER: 2
