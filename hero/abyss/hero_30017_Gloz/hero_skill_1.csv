@@ -1,4 +1,4 @@
-name,damage,damage_target_position,damage_target_number
-Gloz_Active,1.3,21,1
-Gloz_Active,1.4,21,1
-Gloz_Active,1.5,21,1
+name,damage,damage_target_position,damage_target_number,stat_buff_target_position,stat_buff_target_number,stat_buff_type,stat_buff_duration,stat_buff_amount
+Gloz_Active,1.3,20,1,1,1,2,2,0
+Gloz_Active,1.4,20,1,1,1,2,2,0.1
+Gloz_Active,1.5,20,1,1,1,2,2,0.15
